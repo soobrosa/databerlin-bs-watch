@@ -1,0 +1,4155 @@
+{
+  "fetched": "2026-05-09",
+  "count": 461,
+  "jobs": [
+    {
+      "url": "https://databerlin.net/jobs/staff-ai-engineer-notebooks-at-datadog",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "datadog",
+      "company": "Datadog",
+      "date": "2026-05-05",
+      "title": "Staff AI Engineer - Notebooks"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-engineer-at-gitlab",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "gitlab",
+      "company": "GitLab",
+      "date": "2026-04-30",
+      "title": "AI Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/backend-engineer-analytics-instrumentation-golang-at-gitlab",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "gitlab",
+      "company": "GitLab",
+      "date": "2026-04-30",
+      "title": "Backend Engineer, Analytics Instrumentation (Golang)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/backend-engineer-analytics-instrumentation-golang-at-gitlab",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "gitlab",
+      "company": "GitLab",
+      "date": "2026-04-30",
+      "title": "Backend Engineer, Analytics Instrumentation (Golang)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/intermediate-backend-engineer-sscs-ai-governance-at-gitlab",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "gitlab",
+      "company": "GitLab",
+      "date": "2026-04-30",
+      "title": "Intermediate Backend Engineer, SSCS: AI Governance"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-engineer-at-gitlab",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "gitlab",
+      "company": "GitLab",
+      "date": "2026-04-30",
+      "title": "Senior AI Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-backend-engineer-sscs-ai-governance-at-gitlab",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "gitlab",
+      "company": "GitLab",
+      "date": "2026-04-30",
+      "title": "Senior Backend Engineer, SSCS: AI Governance"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-analyst-enterprise-analytics-at-gitlab",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "gitlab",
+      "company": "GitLab",
+      "date": "2026-04-30",
+      "title": "Senior Data Analyst, Enterprise Analytics"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-analyst-marketing-analytics-at-gitlab",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "gitlab",
+      "company": "GitLab",
+      "date": "2026-04-30",
+      "title": "Senior Data Analyst, Marketing Analytics"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-product-design-manager-plan-and-analytics-at-gitlab",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "gitlab",
+      "company": "GitLab",
+      "date": "2026-05-06",
+      "title": "Senior Product Design Manager, Plan and Analytics"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-backend-engineer-analytics-instrumentation-golang-at-gitlab",
+      "category": "Data Analyst",
+      "seniority": "Staff / Principal",
+      "company_slug": "gitlab",
+      "company": "GitLab",
+      "date": "2026-04-30",
+      "title": "Staff Backend Engineer, Analytics Instrumentation (Golang)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-backend-engineer-sscs-ai-governance-at-gitlab",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "gitlab",
+      "company": "GitLab",
+      "date": "2026-04-30",
+      "title": "Staff Backend Engineer, SSCS: AI Governance"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-program-manager-enterprise-technology-ai-at-gitlab",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "gitlab",
+      "company": "GitLab",
+      "date": "2026-04-30",
+      "title": "Staff Program Manager, Enterprise Technology &#38; AI"
+    },
+    {
+      "url": "https://databerlin.net/jobs/aiml-manager-supply-data-products-at-getyourguide",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "getyourguide",
+      "company": "GetYourGuide",
+      "date": "2026-05-05",
+      "title": "AI/ML Manager, Supply Data Products"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineering-manager-supply-at-getyourguide",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "getyourguide",
+      "company": "GetYourGuide",
+      "date": "2026-02-27",
+      "title": "Data Engineering Manager, Supply"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-science-manager-supply-at-getyourguide",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "getyourguide",
+      "company": "GetYourGuide",
+      "date": "2026-03-23",
+      "title": "Data Science Manager, Supply"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-enablement-specialist-at-getyourguide",
+      "category": "Other",
+      "seniority": "Senior",
+      "company_slug": "getyourguide",
+      "company": "GetYourGuide",
+      "date": "2026-04-28",
+      "title": "Senior AI Enablement Specialist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-analytics-manager-supply-at-getyourguide",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "getyourguide",
+      "company": "GetYourGuide",
+      "date": "2026-03-03",
+      "title": "Senior Analytics Manager, Supply"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-decision-scientist-product-analytics-at-getyourguide",
+      "category": "Data Scientist",
+      "seniority": "Senior",
+      "company_slug": "getyourguide",
+      "company": "GetYourGuide",
+      "date": "2026-04-27",
+      "title": "Senior Decision Scientist, Product Analytics"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-decision-scientist-ranking-at-getyourguide",
+      "category": "Data Scientist",
+      "seniority": "Senior",
+      "company_slug": "getyourguide",
+      "company": "GetYourGuide",
+      "date": "2026-04-27",
+      "title": "Senior Decision Scientist, Ranking"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-engineering-manager-ai-platform-at-getyourguide",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "getyourguide",
+      "company": "GetYourGuide",
+      "date": "2026-05-06",
+      "title": "Senior Engineering Manager, AI Platform"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ml-ops-engineer-ai-platform-team-at-getyourguide",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "getyourguide",
+      "company": "GetYourGuide",
+      "date": "2026-04-24",
+      "title": "Senior ML Ops Engineer, AI Platform Team"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-data-analyst-marketing-analytics-at-getyourguide",
+      "category": "Data Analyst",
+      "seniority": "Staff / Principal",
+      "company_slug": "getyourguide",
+      "company": "GetYourGuide",
+      "date": "2026-05-01",
+      "title": "Staff Data Analyst, Marketing Analytics"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-data-scientist-growth-data-products-at-getyourguide",
+      "category": "Data Scientist",
+      "seniority": "Staff / Principal",
+      "company_slug": "getyourguide",
+      "company": "GetYourGuide",
+      "date": "2026-03-30",
+      "title": "Staff Data Scientist, Growth Data Products"
+    },
+    {
+      "url": "https://databerlin.net/jobs/vendor-master-data-specialist-accounts-payable-at-getyourguide",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "getyourguide",
+      "company": "GetYourGuide",
+      "date": "2026-04-30",
+      "title": "Vendor Master Data Specialist (Accounts Payable)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/product-manager-data-governance-analytics-engineering-at-n26",
+      "category": "Product Manager",
+      "seniority": "Mid",
+      "company_slug": "n26",
+      "company": "N26",
+      "date": "2026-04-29",
+      "title": "Product Manager - Data Governance &#38; Analytics Engineering"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-automation-manager-at-n26",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "n26",
+      "company": "N26",
+      "date": "2026-05-06",
+      "title": "Senior AI &#38; Automation Manager"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-machine-learning-engineer-recommendations-product-at-soundcloud",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "soundcloud71",
+      "company": "SoundCloud",
+      "date": "2026-05-05",
+      "title": "Senior Machine Learning Engineer, Recommendations (Product)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/associate-consultant-ai-data-strategy-foundation-mwd-at-capgemini",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-01-14",
+      "title": "(Associate) Consultant AI Data Strategy &#38; Foundation (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/associate-consultant-business-intelligence-data-analytics-mwd-at-capgemini",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-02-19",
+      "title": "(Associate) Consultant Business Intelligence &#38; Data Analytics (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/associate-consultant-cloud-ai-architecture-mwd-at-capgemini",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-01-12",
+      "title": "(Associate) Consultant Cloud &#38; AI Architecture (m/w/d)​ ​"
+    },
+    {
+      "url": "https://databerlin.net/jobs/associate-consultant-customer-data-science-ai-strategy-mwd-at-capgemini",
+      "category": "Data Scientist",
+      "seniority": "Mid",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-02-03",
+      "title": "(Associate) Consultant Customer Data Science &#38; AI Strategy (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/associate-consultant-datainnovation-data-driven-government-mwd-at-capgemini",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-04-15",
+      "title": "(Associate) Consultant Data&#38;Innovation / Data-Driven Government (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/associate-consultant-data-science-ai-mwd-at-capgemini",
+      "category": "Data Scientist",
+      "seniority": "Mid",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-01-14",
+      "title": "(Associate) Consultant Data Science &#38; AI (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/associate-consultant-mwd-ai-data-strategy-at-capgemini",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-01-14",
+      "title": "(Associate) Consultant (m/w/d) AI &#38; Data Strategy"
+    },
+    {
+      "url": "https://databerlin.net/jobs/manager-data-driven-banking-mwd-at-capgemini",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-04-24",
+      "title": "Manager Data Driven Banking (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-consultant-customer-data-tech-mwd-at-capgemini",
+      "category": "Other",
+      "seniority": "Senior",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-03-17",
+      "title": "Senior Consultant Customer Data &#38; Tech (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-consultant-data-driven-banking-mwd-at-capgemini",
+      "category": "Other",
+      "seniority": "Senior",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-04-24",
+      "title": "Senior Consultant Data Driven Banking (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-consultant-legal-engineer-customer-data-mwd-at-capgemini",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-04-15",
+      "title": "Senior Consultant Legal Engineer Customer Data (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-consultant-manager-collaborative-data-ecosystems-data-sharing-mwd-at-capgemini",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-03-17",
+      "title": "Senior Consultant / Manager Collaborative Data Ecosystems / Data Sharing (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-consultant-manager-data-driven-retail-mwd-at-capgemini",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-03-17",
+      "title": "Senior Consultant / Manager Data Driven Retail (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-consultant-manager-data-innovation-i-data-driven-government-mwd-at-capgemini",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-03-17",
+      "title": "Senior Consultant / Manager Data &#38; Innovation I Data-Driven Government (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-consultant-manager-data-management-enthusiast-mwd-at-capgemini",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-03-17",
+      "title": "Senior Consultant / Manager Data Management Enthusiast (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-consultant-manager-gen-ai-data-strategy-mwd-at-capgemini",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-03-17",
+      "title": "Senior Consultant / Manager (Gen) AI &#38; Data Strategy (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-consultant-manager-gen-ai-data-scientist-ai-garage-mwd-at-capgemini",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-03-17",
+      "title": "Senior Consultant / Manager (Gen) AI &#38; Data Scientist | AI Garage (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-consultant-senior-manager-ai-datenstrategie-intelligent-industry-mwd-at-capgemini",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-04-21",
+      "title": "Senior Consultant / (Senior) Manager AI-/ Datenstrategie Intelligent Industry (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-consultant-senior-manager-industrial-ai-lab-industry-data-strategy-mwd-at-capgemini",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2025-04-24",
+      "title": "Senior Consultant / (Senior) Manager Industrial AI Lab &#38; Industry Data Strategy (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-director-enterprise-data-analytics-mwd-at-capgemini",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-03-17",
+      "title": "(Senior) Director Enterprise Data &#38; Analytics (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-manager-customer-data-tech-mwd-at-capgemini",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-03-17",
+      "title": "(Senior) Manager Customer Data &#38; Tech (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-manager-data-ai-platform-architecture-mwd-at-capgemini",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-04-07",
+      "title": "(Senior) Manager Data &#38; AI Platform Architecture (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-manager-mwd-data-driven-financial-services-at-capgemini",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "capgeminideutschlandgmbh",
+      "company": "Capgemini",
+      "date": "2026-04-13",
+      "title": "Senior Manager (m/w/d) Data Driven Financial Services"
+    },
+    {
+      "url": "https://databerlin.net/jobs/full-stack-engineer-analytics-fmd-at-contentful",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "contentful",
+      "company": "Contentful",
+      "date": "2026-05-08",
+      "title": "Full Stack Engineer - Analytics (f/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-scientist-at-smartly",
+      "category": "Data Scientist",
+      "seniority": "Senior",
+      "company_slug": "smartlyio",
+      "company": "Smartly",
+      "date": "2026-03-20",
+      "title": "Senior Data Scientist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-engineering-manager-ml-foundations-team-at-smartly",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "smartlyio",
+      "company": "Smartly",
+      "date": "2026-04-22",
+      "title": "Senior Engineering Manager, ML Foundations team"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-machine-learning-engineer-ai-platform-at-smartly",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "smartlyio",
+      "company": "Smartly",
+      "date": "2026-03-20",
+      "title": "Senior Machine Learning Engineer (AI Platform)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-software-engineer-ai-platform-at-smartly",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "smartlyio",
+      "company": "Smartly",
+      "date": "2026-03-20",
+      "title": "Senior Software Engineer (AI Platform)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-machine-learning-engineer-ai-platform-at-smartly",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "smartlyio",
+      "company": "Smartly",
+      "date": "2026-03-20",
+      "title": "Staff Machine Learning Engineer (AI Platform)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-platform-engineer-kafka-dfm-at-emnify",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "emnify",
+      "company": "emnify",
+      "date": "2026-04-08",
+      "title": "Senior Platform Engineer - Kafka (d/f/m)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-data-engineer-mfd-at-emnify",
+      "category": "Data Engineer",
+      "seniority": "Staff / Principal",
+      "company_slug": "emnify",
+      "company": "emnify",
+      "date": "2026-04-08",
+      "title": "Staff Data Engineer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-platform-engineer-mid-level-mfd-at-flixmobility",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "flix",
+      "company": "FlixMobility",
+      "date": "2026-04-15",
+      "title": "Data Platform Engineer (Mid-Level) (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-lead-fintech-at-free-now",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "freenow",
+      "company": "FREE NOW",
+      "date": "2026-04-30",
+      "title": "Data Lead - Fintech"
+    },
+    {
+      "url": "https://databerlin.net/jobs/head-of-data-protection-and-compliance-at-free-now",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "freenow",
+      "company": "FREE NOW",
+      "date": "2026-04-20",
+      "title": "Head of Data Protection and Compliance"
+    },
+    {
+      "url": "https://databerlin.net/jobs/head-of-data-protection-and-compliance-at-free-now",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "freenow",
+      "company": "FREE NOW",
+      "date": "2026-04-20",
+      "title": "Head of Data Protection and Compliance"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-fullstack-engineer-support-and-ai-fmd-at-free-now",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "freenow",
+      "company": "FREE NOW",
+      "date": "2026-04-27",
+      "title": "Senior Fullstack Engineer - Support and AI (F/M/D)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-machine-learning-engineer-at-free-now",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "freenow",
+      "company": "FREE NOW",
+      "date": "2026-04-23",
+      "title": "(Senior) Machine Learning Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-enablement-manager-at-talonone",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "talonone",
+      "company": "Talon.One",
+      "date": "2026-04-14",
+      "title": "AI Enablement Manager"
+    },
+    {
+      "url": "https://databerlin.net/jobs/head-of-data-at-talonone",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "talonone",
+      "company": "Talon.One",
+      "date": "2026-05-04",
+      "title": "Head of Data"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-mlops-engineer-at-talonone",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "talonone",
+      "company": "Talon.One",
+      "date": "2026-01-05",
+      "title": "Senior MLOps Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/mid-data-analyst-finance-at-sumup",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "sumup",
+      "company": "SumUp",
+      "date": "2026-05-08",
+      "title": "Mid Data Analyst - Finance"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-backend-engineer-at-sumup",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "sumup",
+      "company": "SumUp",
+      "date": "2026-05-08",
+      "title": "Senior AI Backend Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-aiml-engineer-at-sumup",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "sumup",
+      "company": "SumUp",
+      "date": "2026-05-08",
+      "title": "Senior AI/ML Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-analytics-engineer-at-sumup",
+      "category": "Analytics Engineer",
+      "seniority": "Senior",
+      "company_slug": "sumup",
+      "company": "SumUp",
+      "date": "2026-05-08",
+      "title": "Senior Analytics Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-analytics-engineer-risk-analytics-at-sumup",
+      "category": "Analytics Engineer",
+      "seniority": "Senior",
+      "company_slug": "sumup",
+      "company": "SumUp",
+      "date": "2026-05-08",
+      "title": "Senior Analytics Engineer - Risk Analytics"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-risk-compliance-cnp-protect-at-sumup",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "sumup",
+      "company": "SumUp",
+      "date": "2026-05-08",
+      "title": "Senior Data Engineer – Risk &#38; Compliance (CNP Protect)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-platform-engineer-at-sumup",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "sumup",
+      "company": "SumUp",
+      "date": "2026-05-08",
+      "title": "Senior Data Platform Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-scientist-at-sumup",
+      "category": "Data Scientist",
+      "seniority": "Senior",
+      "company_slug": "sumup",
+      "company": "SumUp",
+      "date": "2026-05-08",
+      "title": "Senior Data Scientist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-digital-analytics-specialist-at-sumup",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "sumup",
+      "company": "SumUp",
+      "date": "2026-05-08",
+      "title": "(Senior) Digital Analytics Specialist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-technical-product-manager-commercial-data-at-sumup",
+      "category": "Product Manager",
+      "seniority": "Senior",
+      "company_slug": "sumup",
+      "company": "SumUp",
+      "date": "2026-05-08",
+      "title": "Senior Technical Product Manager - Commercial Data"
+    },
+    {
+      "url": "https://databerlin.net/jobs/analytics-engineer-berlin-at-trade-republic",
+      "category": "Analytics Engineer",
+      "seniority": "Mid",
+      "company_slug": "traderepublicbank",
+      "company": "Trade Republic",
+      "date": "2026-04-21",
+      "title": "Analytics Engineer (Berlin)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-scientist-berlin-at-trade-republic",
+      "category": "Data Scientist",
+      "seniority": "Mid",
+      "company_slug": "traderepublicbank",
+      "company": "Trade Republic",
+      "date": "2026-05-07",
+      "title": "Data Scientist – Berlin"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-kafka-platform-engineer-at-trade-republic",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "traderepublicbank",
+      "company": "Trade Republic",
+      "date": "2026-04-21",
+      "title": "Senior Kafka Platform Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/credit-risk-analytics-working-student-fmd-at-solaris-bank",
+      "category": "Data Analyst",
+      "seniority": "Intern / Student",
+      "company_slug": "solarisbank",
+      "company": "Solaris Bank",
+      "date": "2026-05-01",
+      "title": "Credit Risk Analytics Working Student (f/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-mlops-llmops-engineer-mfd-at-scout24",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "scout24",
+      "company": "Scout24",
+      "date": "2026-05-05",
+      "title": "Senior MLOps / LLMOps Engineer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/working-student-ai-engineering-mwd-at-scout24",
+      "category": "AI/ML",
+      "seniority": "Intern / Student",
+      "company_slug": "scout24",
+      "company": "Scout24",
+      "date": "2026-04-09",
+      "title": "Working Student AI Engineering (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/principal-analytics-engineer-mfd-at-autoscout24",
+      "category": "Analytics Engineer",
+      "seniority": "Staff / Principal",
+      "company_slug": "autoscout24",
+      "company": "AutoScout24",
+      "date": "2026-04-28",
+      "title": "Principal Analytics Engineer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/principal-data-scientist-mfd-at-autoscout24",
+      "category": "Data Scientist",
+      "seniority": "Staff / Principal",
+      "company_slug": "autoscout24",
+      "company": "AutoScout24",
+      "date": "2026-04-28",
+      "title": "Principal Data Scientist (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-genai-data-scientist-mfd-at-autoscout24",
+      "category": "Data Scientist",
+      "seniority": "Senior",
+      "company_slug": "autoscout24",
+      "company": "AutoScout24",
+      "date": "2026-04-28",
+      "title": "Senior GenAI Data Scientist (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-marketing-data-analyst-mfd-at-autoscout24",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "autoscout24",
+      "company": "AutoScout24",
+      "date": "2026-04-28",
+      "title": "Senior Marketing Data Analyst (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-software-engineer-ai-enabler-mfd-at-autoscout24",
+      "category": "Other",
+      "seniority": "Senior",
+      "company_slug": "autoscout24",
+      "company": "AutoScout24",
+      "date": "2026-04-28",
+      "title": "Senior Software Engineer / AI Enabler (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-software-engineer-ios-ai-enabler-mfd-at-autoscout24",
+      "category": "Other",
+      "seniority": "Senior",
+      "company_slug": "autoscout24",
+      "company": "AutoScout24",
+      "date": "2026-04-28",
+      "title": "Senior Software Engineer - iOS, AI Enabler (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineering-manager-at-awin",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "awin",
+      "company": "Awin",
+      "date": "2026-05-05",
+      "title": "Data Engineering Manager"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-engineer-fmd-at-awin",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "awin",
+      "company": "Awin",
+      "date": "2026-04-30",
+      "title": "Senior AI Engineer (f/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-engineer-fmd-at-awin",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "awin",
+      "company": "Awin",
+      "date": "2026-04-30",
+      "title": "Senior AI Engineer (f/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-engineer-fmd-at-awin",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "awin",
+      "company": "Awin",
+      "date": "2026-04-30",
+      "title": "Senior AI Engineer (f/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-security-engineer-fmd-at-awin",
+      "category": "Other",
+      "seniority": "Senior",
+      "company_slug": "awin",
+      "company": "Awin",
+      "date": "2026-04-30",
+      "title": "Senior Data Security Engineer (f/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-product-manager-analytics-mfd-at-awin",
+      "category": "Product Manager",
+      "seniority": "Senior",
+      "company_slug": "awin",
+      "company": "Awin",
+      "date": "2026-04-30",
+      "title": "Senior Product Manager, Analytics (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/principal-applied-scientist-at-parloa",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "parloa",
+      "company": "Parloa",
+      "date": "2026-05-07",
+      "title": "Principal Applied Scientist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-analyst-at-parloa",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "parloa",
+      "company": "Parloa",
+      "date": "2026-05-07",
+      "title": "Senior Data Analyst"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-internal-platform-at-parloa",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "parloa",
+      "company": "Parloa",
+      "date": "2026-05-07",
+      "title": "Senior Data Engineer - Internal Platform"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-technical-project-manager-agentic-ai-deployments-at-parloa",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "parloa",
+      "company": "Parloa",
+      "date": "2026-05-08",
+      "title": "(Senior) Technical Project Manager - Agentic AI Deployments"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-architect-mfd-at-moonfare",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "moonfare",
+      "company": "Moonfare",
+      "date": "2026-04-17",
+      "title": "Senior Data Architect (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-processing-specialist-at-wolt",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "wolt",
+      "company": "Wolt",
+      "date": "2026-05-07",
+      "title": "Data Processing Specialist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-data-scientist-selection-analytics-at-wolt",
+      "category": "Data Scientist",
+      "seniority": "Staff / Principal",
+      "company_slug": "wolt",
+      "company": "Wolt",
+      "date": "2026-05-08",
+      "title": "Staff Data Scientist, Selection Analytics"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-lead-c-ecosystem-at-jetbrains",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-05-06",
+      "title": "AI Lead, C++ Ecosystem"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-lead-python-tools-at-jetbrains",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-29",
+      "title": "AI Lead, Python Tools"
+    },
+    {
+      "url": "https://databerlin.net/jobs/business-intelligence-analyst-mwd-at-jetbrains",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-01",
+      "title": "Business Intelligence Analyst (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/founding-ml-engineer-spectrum-at-jetbrains",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-28",
+      "title": "Founding ML Engineer (Spectrum)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/head-of-ml-at-jetbrains",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-03",
+      "title": "Head of ML"
+    },
+    {
+      "url": "https://databerlin.net/jobs/principal-forward-deployed-engineer-ai-native-software-development-at-jetbrains",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-03",
+      "title": "Principal Forward Deployed Engineer – AI-Native Software Development"
+    },
+    {
+      "url": "https://databerlin.net/jobs/project-manager-data-office-at-jetbrains",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-27",
+      "title": "Project Manager (Data Office)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/qa-engineer-ai-assistant-features-at-jetbrains",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-05-05",
+      "title": "QA Engineer (AI Assistant Features)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/research-engineer-agentic-behavior-kotlin-ai-value-stream-at-jetbrains",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-02",
+      "title": "Research Engineer (Agentic Behavior – Kotlin AI Value Stream)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/research-engineer-agentic-models-at-jetbrains",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-03",
+      "title": "Research Engineer (Agentic Models)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/research-engineer-llm-training-and-performance-at-jetbrains",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-03",
+      "title": "Research Engineer (LLM Training and Performance)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-engineer-core-engine-at-jetbrains",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-05-01",
+      "title": "Senior AI Engineer (Core Engine)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-aiml-engineer-spectrum-at-jetbrains",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-28",
+      "title": "Senior AI/ML Engineer (Spectrum)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-full-stack-qa-engineer-ai-platform-at-jetbrains",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-02",
+      "title": "Senior Full-stack QA Engineer (AI Platform)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-machine-learning-engineer-intellij-ai-at-jetbrains",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-03",
+      "title": "Senior Machine Learning Engineer (IntelliJ AI)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ml-engineer-jetbrains-research-at-jetbrains",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-03",
+      "title": "Senior ML Engineer (JetBrains Research)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-mlops-engineer-ml-workflows-engineering-at-jetbrains",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-07",
+      "title": "Senior MLOps Engineer (ML Workflows Engineering)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ml-researcher-spectrum-at-jetbrains",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-29",
+      "title": "Senior ML Researcher (Spectrum)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-product-manager-ai-analytics-at-jetbrains",
+      "category": "Product Manager",
+      "seniority": "Senior",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-29",
+      "title": "Senior Product Manager (AI Analytics)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-software-developer-intellij-ai-at-jetbrains",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-20",
+      "title": "Senior Software Developer (IntelliJ AI)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-software-developer-intellij-ai-uidesktop-at-jetbrains",
+      "category": "Other",
+      "seniority": "Senior",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-20",
+      "title": "Senior Software Developer (IntelliJ AI) - UI/Desktop"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-research-engineer-llm-pre-training-at-jetbrains",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "jetbrains",
+      "company": "JetBrains",
+      "date": "2026-04-03",
+      "title": "Staff Research Engineer (LLM Pre-Training)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/business-intelligence-engineer-at-tripledot-studios",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "tripledotstudios",
+      "company": "Tripledot Studios",
+      "date": "2026-04-30",
+      "title": "Business Intelligence Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-machine-learning-engineer-at-tripledot-studios",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "tripledotstudios",
+      "company": "Tripledot Studios",
+      "date": "2026-04-30",
+      "title": "Senior Machine Learning Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-infrastructure-engineer-at-intercom",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "intercom",
+      "company": "Intercom",
+      "date": "2026-04-17",
+      "title": "AI Infrastructure Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/engineering-manager-ai-models-infrastructure-at-intercom",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "intercom",
+      "company": "Intercom",
+      "date": "2026-04-17",
+      "title": "Engineering Manager, AI Models Infrastructure"
+    },
+    {
+      "url": "https://databerlin.net/jobs/principal-engineer-fin-ai-agent-at-intercom",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "intercom",
+      "company": "Intercom",
+      "date": "2026-04-17",
+      "title": "Principal Engineer, Fin AI Agent"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-analytics-engineer-at-intercom",
+      "category": "Analytics Engineer",
+      "seniority": "Senior",
+      "company_slug": "intercom",
+      "company": "Intercom",
+      "date": "2026-04-17",
+      "title": "Senior Analytics Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-engineering-manager-fin-ai-agent-at-intercom",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "intercom",
+      "company": "Intercom",
+      "date": "2026-04-20",
+      "title": "Senior Engineering Manager, Fin AI Agent"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-machine-learning-scientist-at-intercom",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "intercom",
+      "company": "Intercom",
+      "date": "2026-04-17",
+      "title": "Senior Machine Learning Scientist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-product-engineer-ai-at-intercom",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "intercom",
+      "company": "Intercom",
+      "date": "2026-04-17",
+      "title": "Senior Product Engineer, AI"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-product-engineer-ai-platform-at-intercom",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "intercom",
+      "company": "Intercom",
+      "date": "2026-04-17",
+      "title": "Senior Product Engineer, AI Platform"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-ai-product-manager-at-intercom",
+      "category": "Product Manager",
+      "seniority": "Staff / Principal",
+      "company_slug": "intercom",
+      "company": "Intercom",
+      "date": "2026-04-27",
+      "title": "Staff AI Product Manager"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-product-engineer-ai-at-intercom",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "intercom",
+      "company": "Intercom",
+      "date": "2026-04-17",
+      "title": "Staff Product Engineer, AI"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-analytics-engineer-mfd-at-ice-international-copyright-enterprise",
+      "category": "Analytics Engineer",
+      "seniority": "Senior",
+      "company_slug": "internationalcopyrightenterpriseservices",
+      "company": "ICE (International Copyright Enterprise)",
+      "date": "2026-03-30",
+      "title": "Senior Analytics Engineer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-architect-at-sauce-labs",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "saucelabs",
+      "company": "Sauce Labs",
+      "date": "2026-04-08",
+      "title": "AI Architect"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-engineer-fde-forward-deployed-engineer-at-databricks",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "databricks",
+      "company": "Databricks",
+      "date": "2026-04-09",
+      "title": "AI Engineer - FDE (Forward Deployed Engineer)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-ai-platform-architect-professional-services-at-databricks",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "databricks",
+      "company": "Databricks",
+      "date": "2026-04-27",
+      "title": "Data &#38; AI Platform Architect (Professional Services)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-and-ai-solution-architect-professional-services-at-databricks",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "databricks",
+      "company": "Databricks",
+      "date": "2026-04-09",
+      "title": "Data and AI Solution Architect (Professional Services)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-specialist-solutions-architect-ai-ml-engineer-at-databricks",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "databricks",
+      "company": "Databricks",
+      "date": "2026-04-16",
+      "title": "Senior Specialist Solutions Architect - AI &#38; ML Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/sr-alliance-director-ai-gtm-at-databricks",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "databricks",
+      "company": "Databricks",
+      "date": "2026-05-01",
+      "title": "Sr. Alliance Director, AI GTM"
+    },
+    {
+      "url": "https://databerlin.net/jobs/sr-big-data-engineer-at-databricks",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "databricks",
+      "company": "Databricks",
+      "date": "2026-05-03",
+      "title": "Sr. Big Data Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/sr-delivery-solutions-architect-ai-native-at-databricks",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "databricks",
+      "company": "Databricks",
+      "date": "2026-04-24",
+      "title": "Sr. Delivery Solutions Architect - AI Native"
+    },
+    {
+      "url": "https://databerlin.net/jobs/sr-manager-ai-fde-at-databricks",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "databricks",
+      "company": "Databricks",
+      "date": "2026-04-14",
+      "title": "Sr. Manager, AI FDE"
+    },
+    {
+      "url": "https://databerlin.net/jobs/sr-solutions-architect-strategic-ai-native-at-databricks",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "databricks",
+      "company": "Databricks",
+      "date": "2026-04-24",
+      "title": "Sr. Solutions Architect - Strategic AI Native"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-engineer-mfd-at-raisin",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "raisin",
+      "company": "Raisin",
+      "date": "2026-05-06",
+      "title": "AI Engineer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-management-consulting-intern-value-engineering-dach-market-at-celonis",
+      "category": "AI/ML",
+      "seniority": "Intern / Student",
+      "company_slug": "celonis",
+      "company": "Celonis",
+      "date": "2026-04-30",
+      "title": "AI &#38; Management Consulting Intern (Value Engineering - DACH Market)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/applied-ai-solution-consulting-intern-dach-market-at-celonis",
+      "category": "AI/ML",
+      "seniority": "Intern / Student",
+      "company_slug": "celonis",
+      "company": "Celonis",
+      "date": "2026-04-30",
+      "title": "Applied AI Solution Consulting Intern (DACH Market)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/field-cto-ai-enterprise-modernization-at-celonis",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "celonis",
+      "company": "Celonis",
+      "date": "2026-05-06",
+      "title": "Field CTO - AI &#38; Enterprise Modernization"
+    },
+    {
+      "url": "https://databerlin.net/jobs/manager-product-management-data-pipeline-integration-at-celonis",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "celonis",
+      "company": "Celonis",
+      "date": "2026-04-17",
+      "title": "Manager, Product Management - Data Pipeline &#38; Integration"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-consultant-data-analytics-and-supply-chain-transformation-at-celonis",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "celonis",
+      "company": "Celonis",
+      "date": "2026-04-26",
+      "title": "Senior Consultant - Data Analytics and Supply Chain Transformation"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-analyst-hr-mfd-at-redcare-pharmacy",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "Redcare-Pharmacy",
+      "company": "Redcare Pharmacy",
+      "date": "2026-05-07",
+      "title": "Data Analyst HR (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-analyst-mfd-at-redcare-pharmacy",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "Redcare-Pharmacy",
+      "company": "Redcare Pharmacy",
+      "date": "2026-05-06",
+      "title": "Data Analyst (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-scientist-mfd-at-redcare-pharmacy",
+      "category": "Data Scientist",
+      "seniority": "Mid",
+      "company_slug": "Redcare-Pharmacy",
+      "company": "Redcare Pharmacy",
+      "date": "2026-05-05",
+      "title": "Data Scientist (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineer-mfd-at-redcare-pharmacy",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "Redcare-Pharmacy",
+      "company": "Redcare Pharmacy",
+      "date": "2026-04-23",
+      "title": "Data Engineer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-analytics-architect-mfd-at-redcare-pharmacy",
+      "category": "Analytics Engineer",
+      "seniority": "Mid",
+      "company_slug": "Redcare-Pharmacy",
+      "company": "Redcare Pharmacy",
+      "date": "2026-04-23",
+      "title": "Data Analytics Architect (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/working-student-data-analytics-pricing-mfd-at-redcare-pharmacy",
+      "category": "Data Analyst",
+      "seniority": "Intern / Student",
+      "company_slug": "Redcare-Pharmacy",
+      "company": "Redcare Pharmacy",
+      "date": "2026-04-22",
+      "title": "Working Student, Data Analytics - Pricing (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-engineer-mfd-at-redcare-pharmacy",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "Redcare-Pharmacy",
+      "company": "Redcare Pharmacy",
+      "date": "2026-04-20",
+      "title": "Senior AI Engineer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/product-manager-focus-on-data-mfd-at-redcare-pharmacy",
+      "category": "Product Manager",
+      "seniority": "Mid",
+      "company_slug": "Redcare-Pharmacy",
+      "company": "Redcare Pharmacy",
+      "date": "2026-04-10",
+      "title": "Product Manager (focus on Data) (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineer-mfd-at-redcare-pharmacy",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "Redcare-Pharmacy",
+      "company": "Redcare Pharmacy",
+      "date": "2026-04-10",
+      "title": "Data Engineer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/product-director-conversational-ai-cs-pharma-advisory-mfd-at-redcare-pharmacy",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "Redcare-Pharmacy",
+      "company": "Redcare Pharmacy",
+      "date": "2026-04-08",
+      "title": "Product Director – Conversational AI CS &#38; Pharma Advisory (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/product-director-conversational-ai-cs-pharma-advisory-mfd-at-redcare-pharmacy",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "Redcare-Pharmacy",
+      "company": "Redcare Pharmacy",
+      "date": "2026-04-08",
+      "title": "Product Director – Conversational AI CS &#38; Pharma Advisory (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/product-director-conversational-ai-cs-pharma-advisory-mfd-at-redcare-pharmacy",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "Redcare-Pharmacy",
+      "company": "Redcare Pharmacy",
+      "date": "2026-04-07",
+      "title": "Product Director – Conversational AI CS &#38; Pharma Advisory (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-analyst-focus-finance-mfd-at-redcare-pharmacy",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "Redcare-Pharmacy",
+      "company": "Redcare Pharmacy",
+      "date": "2026-03-27",
+      "title": "Data Analyst (focus Finance) (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineering-manager-at-redcare-pharmacy",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "Redcare-Pharmacy",
+      "company": "Redcare Pharmacy",
+      "date": "2026-03-25",
+      "title": "Senior Data Engineering Manager"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-product-manager-consumer-discovery-agentic-at-delivery-hero",
+      "category": "Other",
+      "seniority": "Senior",
+      "company_slug": "DeliveryHero",
+      "company": "Delivery Hero",
+      "date": "2026-05-08",
+      "title": "Senior Product Manager (Consumer Discovery, Agentic)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-senior-applied-ai-engineer-people-culture-at-delivery-hero",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "DeliveryHero",
+      "company": "Delivery Hero",
+      "date": "2026-05-08",
+      "title": "Staff / Senior Applied AI Engineer - People &#38; Culture"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-machine-learning-engineer-tech-foundations-global-machine-learning-platform-at-delivery-hero",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "DeliveryHero",
+      "company": "Delivery Hero",
+      "date": "2026-05-06",
+      "title": "Senior Machine Learning Engineer - Tech Foundations - Global Machine Learning Platform"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineer-quick-commerce-at-delivery-hero",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "DeliveryHero",
+      "company": "Delivery Hero",
+      "date": "2026-05-05",
+      "title": "Data Engineer (Quick Commerce)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/principal-ml-engineer-agentic-ai-vendor-data-team-at-delivery-hero",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "DeliveryHero",
+      "company": "Delivery Hero",
+      "date": "2026-04-27",
+      "title": "Principal ML Engineer (Agentic AI)-Vendor Data Team"
+    },
+    {
+      "url": "https://databerlin.net/jobs/intern-data-labeler-arabic-speaker-global-discovery-consumer-at-delivery-hero",
+      "category": "Other",
+      "seniority": "Intern / Student",
+      "company_slug": "DeliveryHero",
+      "company": "Delivery Hero",
+      "date": "2026-04-21",
+      "title": "Intern, Data Labeler (Arabic Speaker) - (Global Discovery, Consumer)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-software-engineer-machine-learning-quick-commerce-at-delivery-hero",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "DeliveryHero",
+      "company": "Delivery Hero",
+      "date": "2026-04-17",
+      "title": "Senior Software Engineer (Machine Learning) - Quick commerce"
+    },
+    {
+      "url": "https://databerlin.net/jobs/director-bi-marketing-analytics-at-delivery-hero",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "DeliveryHero",
+      "company": "Delivery Hero",
+      "date": "2026-04-17",
+      "title": "Director, BI &#38; Marketing Analytics"
+    },
+    {
+      "url": "https://databerlin.net/jobs/legal-data-engineer-at-delivery-hero",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "DeliveryHero",
+      "company": "Delivery Hero",
+      "date": "2026-04-03",
+      "title": "(Legal) Data Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/director-data-science-deep-learning-ai-at-delivery-hero",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "DeliveryHero",
+      "company": "Delivery Hero",
+      "date": "2026-03-27",
+      "title": "Director, Data Science - Deep Learning &#38; AI"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-product-manager-core-data-tech-foundations-at-delivery-hero",
+      "category": "Product Manager",
+      "seniority": "Senior",
+      "company_slug": "DeliveryHero",
+      "company": "Delivery Hero",
+      "date": "2026-03-19",
+      "title": "Senior Product Manager - (Core Data, Tech Foundations)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-product-manager-data-brand-insights-platform-adtech-at-delivery-hero",
+      "category": "Product Manager",
+      "seniority": "Senior",
+      "company_slug": "DeliveryHero",
+      "company": "Delivery Hero",
+      "date": "2026-03-10",
+      "title": "(Senior) Product Manager - Data &#38; Brand Insights Platform - (AdTech)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/principal-data-scientist-vendor-recommendations-ai-at-delivery-hero",
+      "category": "Data Scientist",
+      "seniority": "Staff / Principal",
+      "company_slug": "DeliveryHero",
+      "company": "Delivery Hero",
+      "date": "2026-03-09",
+      "title": "Principal Data Scientist - Vendor Recommendations &#38; AI"
+    },
+    {
+      "url": "https://databerlin.net/jobs/werkstudent-ai-automatisierung-hr-mwd-at-axel-springer",
+      "category": "Other",
+      "seniority": "Intern / Student",
+      "company_slug": "AxelSpringerNewsMediaNational",
+      "company": "Axel Springer",
+      "date": "2026-04-29",
+      "title": "Werkstudent AI / Automatisierung HR (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-senior-software-engineer-machine-learning-mfd-at-axel-springer",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "AxelSpringerNewsMediaNational",
+      "company": "Axel Springer",
+      "date": "2026-04-23",
+      "title": "Staff / Senior Software Engineer - Machine Learning (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-software-engineer-data-mfd-at-axel-springer",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "AxelSpringerNewsMediaNational",
+      "company": "Axel Springer",
+      "date": "2026-04-02",
+      "title": "(Senior) Software Engineer Data (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-fpa-manager-data-platform-architecture-mwd-at-axel-springer",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "AxelSpringerNewsMediaNational",
+      "company": "Axel Springer",
+      "date": "2026-03-18",
+      "title": "(Senior) FP&#38;A Manager Data Platform &#38; Architecture (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-software-engineer-mfd-data-at-axel-springer",
+      "category": "Data Engineer",
+      "seniority": "Staff / Principal",
+      "company_slug": "AxelSpringerNewsMediaNational",
+      "company": "Axel Springer",
+      "date": "2026-01-30",
+      "title": "Staff Software Engineer (m/f/d) Data"
+    },
+    {
+      "url": "https://databerlin.net/jobs/consultant-advertising-data-mwd-at-axel-springer",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "AxelSpringerNewsMediaNational",
+      "company": "Axel Springer",
+      "date": "2026-01-21",
+      "title": "Consultant Advertising Data (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-software-engineer-mfd-data-at-axel-springer",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "AxelSpringerNewsMediaNational",
+      "company": "Axel Springer",
+      "date": "2025-11-24",
+      "title": "Senior Software Engineer (m/f/d) Data"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-engineer-at-reprisk",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "RepRiskAG",
+      "company": "RepRisk",
+      "date": "2026-04-24",
+      "title": "Senior AI Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-machine-learning-engineer-at-reprisk",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "RepRiskAG",
+      "company": "RepRisk",
+      "date": "2026-04-15",
+      "title": "Senior Machine Learning Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-at-reprisk",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "RepRiskAG",
+      "company": "RepRisk",
+      "date": "2026-03-09",
+      "title": "Senior Data Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-software-engineer-python-mfx-at-scalable-capital",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "ScalableGmbH",
+      "company": "Scalable Capital",
+      "date": "2026-05-05",
+      "title": "AI Software Engineer – Python (m/f/x)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-software-engineer-python-mfx-at-scalable-capital",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "ScalableGmbH",
+      "company": "Scalable Capital",
+      "date": "2026-05-05",
+      "title": "AI Software Engineer – Python (m/f/x)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/product-manager-ai-platform-mfx-at-scalable-capital",
+      "category": "Product Manager",
+      "seniority": "Mid",
+      "company_slug": "ScalableGmbH",
+      "company": "Scalable Capital",
+      "date": "2026-05-04",
+      "title": "Product Manager - AI Platform (m/f/x)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/product-manager-ai-platform-mfx-at-scalable-capital",
+      "category": "Product Manager",
+      "seniority": "Mid",
+      "company_slug": "ScalableGmbH",
+      "company": "Scalable Capital",
+      "date": "2026-05-04",
+      "title": "Product Manager - AI Platform (m/f/x)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-mfx-at-scalable-capital",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "ScalableGmbH",
+      "company": "Scalable Capital",
+      "date": "2026-05-04",
+      "title": "(Senior) Data Engineer (m/f/x)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-mfx-at-scalable-capital",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "ScalableGmbH",
+      "company": "Scalable Capital",
+      "date": "2026-05-04",
+      "title": "(Senior) Data Engineer (m/f/x)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/technical-team-lead-data-platform-mfx-at-scalable-capital",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "ScalableGmbH",
+      "company": "Scalable Capital",
+      "date": "2026-04-29",
+      "title": "Technical Team Lead – Data Platform (m/f/x)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/technical-team-lead-data-platform-mfx-at-scalable-capital",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "ScalableGmbH",
+      "company": "Scalable Capital",
+      "date": "2026-04-29",
+      "title": "Technical Team Lead – Data Platform (m/f/x)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-analytics-engineer-mfx-at-scalable-capital",
+      "category": "Analytics Engineer",
+      "seniority": "Senior",
+      "company_slug": "ScalableGmbH",
+      "company": "Scalable Capital",
+      "date": "2026-04-29",
+      "title": "(Senior) Analytics Engineer (m/f/x)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-analytics-engineer-mfx-at-scalable-capital",
+      "category": "Analytics Engineer",
+      "seniority": "Senior",
+      "company_slug": "ScalableGmbH",
+      "company": "Scalable Capital",
+      "date": "2026-04-29",
+      "title": "(Senior) Analytics Engineer (m/f/x)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/werkstudentin-e-commerce-creative-support-ai-fashion-all-genders-at-about-you",
+      "category": "Other",
+      "seniority": "Intern / Student",
+      "company_slug": "ABOUTYOUGmbH",
+      "company": "About You",
+      "date": "2026-05-05",
+      "title": "Werkstudent*in - E-Commerce Creative Support (AI Fashion) (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/working-student-e-commerce-creative-support-ai-fashion-all-genders-at-about-you",
+      "category": "Other",
+      "seniority": "Intern / Student",
+      "company_slug": "ABOUTYOUGmbH",
+      "company": "About You",
+      "date": "2026-05-05",
+      "title": "Working Student - E-Commerce Creative Support (AI Fashion) (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/intern-business-development-ai-all-genders-at-about-you",
+      "category": "AI/ML",
+      "seniority": "Intern / Student",
+      "company_slug": "ABOUTYOUGmbH",
+      "company": "About You",
+      "date": "2026-05-04",
+      "title": "Intern Business Development AI (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/intern-growth-new-venture-ai-products-all-genders-at-about-you",
+      "category": "AI/ML",
+      "seniority": "Intern / Student",
+      "company_slug": "ABOUTYOUGmbH",
+      "company": "About You",
+      "date": "2026-04-30",
+      "title": "Intern Growth &#38; New Venture (AI products) (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-backend-engineer-bi-app-all-genders-at-about-you",
+      "category": "Other",
+      "seniority": "Senior",
+      "company_slug": "ABOUTYOUGmbH",
+      "company": "About You",
+      "date": "2026-04-23",
+      "title": "Senior Backend Engineer - BI APP (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-backend-engineer-bi-app-all-genders-at-about-you",
+      "category": "Other",
+      "seniority": "Senior",
+      "company_slug": "ABOUTYOUGmbH",
+      "company": "About You",
+      "date": "2026-04-23",
+      "title": "Senior Backend Engineer - BI APP (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/analytics-engineer-shop-analytics-all-genders-at-about-you",
+      "category": "Analytics Engineer",
+      "seniority": "Mid",
+      "company_slug": "ABOUTYOUGmbH",
+      "company": "About You",
+      "date": "2026-04-21",
+      "title": "Analytics Engineer - Shop Analytics (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-analytics-engineer-shop-analytics-all-genders-at-about-you",
+      "category": "Analytics Engineer",
+      "seniority": "Senior",
+      "company_slug": "ABOUTYOUGmbH",
+      "company": "About You",
+      "date": "2026-04-21",
+      "title": "Senior Analytics Engineer - Shop Analytics (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/analytics-engineer-shop-analytics-all-genders-at-about-you",
+      "category": "Analytics Engineer",
+      "seniority": "Mid",
+      "company_slug": "ABOUTYOUGmbH",
+      "company": "About You",
+      "date": "2026-04-21",
+      "title": "Analytics Engineer - Shop Analytics (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-analytics-engineer-shop-analytics-all-genders-at-about-you",
+      "category": "Analytics Engineer",
+      "seniority": "Senior",
+      "company_slug": "ABOUTYOUGmbH",
+      "company": "About You",
+      "date": "2026-04-21",
+      "title": "Senior Analytics Engineer - Shop Analytics (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/werkstudentin-exclusive-cooperations-analytics-all-genders-at-about-you",
+      "category": "Data Analyst",
+      "seniority": "Intern / Student",
+      "company_slug": "ABOUTYOUGmbH",
+      "company": "About You",
+      "date": "2026-04-14",
+      "title": "Werkstudent*in Exclusive Cooperations Analytics (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-analytics-engineer-marketing-dfm-at-taxfix",
+      "category": "Analytics Engineer",
+      "seniority": "Senior",
+      "company_slug": "taxfix.com",
+      "company": "Taxfix",
+      "date": "2026-02-13",
+      "title": "(Senior) Analytics Engineer - Marketing (d/f/m)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-marketing-data-analyst-dfm-at-taxfix",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "taxfix.com",
+      "company": "Taxfix",
+      "date": "2026-05-05",
+      "title": "Senior Marketing Data Analyst (d/f/m)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/analytics-engineer-all-genders-at-justplay",
+      "category": "Analytics Engineer",
+      "seniority": "Mid",
+      "company_slug": "justplay-gmbh",
+      "company": "JustPlay",
+      "date": "2026-04-07",
+      "title": "Analytics Engineer (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/full-stack-ml-engineer-data-products-mfd-at-statista",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "statista",
+      "company": "Statista",
+      "date": "2026-04-22",
+      "title": "Full-Stack ML Engineer - Data Products (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineer-healthcare-mfd-at-statista",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "statista",
+      "company": "Statista",
+      "date": "2026-03-12",
+      "title": "Data Engineer - Healthcare (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-analytics-engineer-healthcare-mfd-at-statista",
+      "category": "Analytics Engineer",
+      "seniority": "Senior",
+      "company_slug": "statista",
+      "company": "Statista",
+      "date": "2025-11-18",
+      "title": "(Senior) Analytics Engineer - Healthcare (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/manager-data-architecture-strategy-mfd-at-statista",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "statista",
+      "company": "Statista",
+      "date": "2026-02-19",
+      "title": "Manager Data Architecture &#38; Strategy (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/engineering-manager-data-analytics-engineering-mfd-at-statista",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "statista",
+      "company": "Statista",
+      "date": "2026-04-16",
+      "title": "Engineering Manager - Data &#38; Analytics Engineering (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-science-consultant-healthcare-mfd-at-statista",
+      "category": "Data Scientist",
+      "seniority": "Mid",
+      "company_slug": "statista",
+      "company": "Statista",
+      "date": "2026-03-12",
+      "title": "Data Science Consultant - Healthcare (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineering-lead-data-ai-tools-mfd-at-statista",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "statista",
+      "company": "Statista",
+      "date": "2026-04-14",
+      "title": "Data Engineering Lead - Data &#38; AI Tools (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/team-lead-data-ai-engineering-mfd-at-statista",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "statista",
+      "company": "Statista",
+      "date": "2026-04-14",
+      "title": "Team Lead Data &#38; AI Engineering (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/lead-data-architecture-mfd-at-statista",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "statista",
+      "company": "Statista",
+      "date": "2026-02-05",
+      "title": "Lead - Data Architecture (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineer-data-publishing-mfd-at-statista",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "statista",
+      "company": "Statista",
+      "date": "2026-04-14",
+      "title": "Data Engineer - Data Publishing (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/marketing-ai-automation-manager-mfd-at-statista",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "statista",
+      "company": "Statista",
+      "date": "2026-03-10",
+      "title": "Marketing AI &#38; Automation Manager (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/head-of-data-engineering-mfd-at-statista",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "statista",
+      "company": "Statista",
+      "date": "2026-04-01",
+      "title": "Head of Data Engineering (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineer-tracking-infrastructure-mfd-at-statista",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "statista",
+      "company": "Statista",
+      "date": "2026-04-29",
+      "title": "Data Engineer - Tracking Infrastructure (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-inhouse-consultant-fmd-at-upvest",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "upvest",
+      "company": "Upvest",
+      "date": "2026-05-05",
+      "title": "AI Inhouse Consultant (f/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-analytics-partner-at-jimdo",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "jimdo.com",
+      "company": "Jimdo",
+      "date": "2026-01-21",
+      "title": "AI &#38; Analytics Partner"
+    },
+    {
+      "url": "https://databerlin.net/jobs/analytics-engineer-marketing-at-deel",
+      "category": "Analytics Engineer",
+      "seniority": "Mid",
+      "company_slug": "deel",
+      "company": "Deel",
+      "date": "2026-02-18",
+      "title": "Analytics Engineer (Marketing)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineer-at-deel",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "deel",
+      "company": "Deel",
+      "date": "2026-04-15",
+      "title": "Data Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/director-of-data-governance-at-deel",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "deel",
+      "company": "Deel",
+      "date": "2026-04-14",
+      "title": "Director of Data Governance"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-analyst-at-deel",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "deel",
+      "company": "Deel",
+      "date": "2026-05-08",
+      "title": "Data Analyst"
+    },
+    {
+      "url": "https://databerlin.net/jobs/sr-ai-engineer-remote-europe-tsvuenodejs-at-n8n",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "n8n",
+      "company": "n8n",
+      "date": "2025-12-30",
+      "title": "Sr AI Engineer | Remote - Europe | TS/Vue/NodeJS"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-llm-interaction-engineer-europe-remote-tsvuenodejs-at-n8n",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "n8n",
+      "company": "n8n",
+      "date": "2026-01-26",
+      "title": "Staff LLM Interaction Engineer (Europe remote - TS/Vue/NodeJS)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-engineering-manager-remote-europe-at-n8n",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "n8n",
+      "company": "n8n",
+      "date": "2026-04-13",
+      "title": "AI Engineering Manager | Remote | Europe"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-software-engineer-ai-infrastructure-at-kraken",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "kraken.com",
+      "company": "Kraken",
+      "date": "2026-03-19",
+      "title": "Senior Software Engineer – AI Infrastructure"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-analyst-product-at-kraken",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "kraken.com",
+      "company": "Kraken",
+      "date": "2026-04-30",
+      "title": "Data Analyst, Product"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-analyst-regulatory-analytics-and-reporting-at-kraken",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "kraken.com",
+      "company": "Kraken",
+      "date": "2026-04-13",
+      "title": "Data Analyst, Regulatory Analytics and Reporting"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-agents-solutions-architect-compliance-at-kraken",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "kraken.com",
+      "company": "Kraken",
+      "date": "2026-03-20",
+      "title": "AI Agents Solutions Architect - Compliance"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-agents-solutions-architect-hr-at-kraken",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "kraken.com",
+      "company": "Kraken",
+      "date": "2026-03-23",
+      "title": "AI Agents Solutions Architect - HR"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-agents-solutions-architect-finance-at-kraken",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "kraken.com",
+      "company": "Kraken",
+      "date": "2026-03-25",
+      "title": "AI Agents Solutions Architect - Finance"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-analyst-growth-at-kraken",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "kraken.com",
+      "company": "Kraken",
+      "date": "2026-03-30",
+      "title": "Data Analyst, Growth"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-compute-infrastructure-engineer-at-kraken",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "kraken.com",
+      "company": "Kraken",
+      "date": "2026-05-07",
+      "title": "Senior AI Compute Infrastructure Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/member-of-technical-staff-machine-learning-engineer-search-at-perplexity",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "Perplexity",
+      "company": "Perplexity",
+      "date": "2025-03-25",
+      "title": "Member of Technical Staff (Machine Learning Engineer, Search)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/member-of-technical-staff-product-data-scientist-search-quality-at-perplexity",
+      "category": "Data Scientist",
+      "seniority": "Staff / Principal",
+      "company_slug": "Perplexity",
+      "company": "Perplexity",
+      "date": "2026-04-18",
+      "title": "Member of Technical Staff (Product Data Scientist, Search Quality)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/internship-machine-learning-research-engineer-at-perplexity",
+      "category": "AI/ML",
+      "seniority": "Intern / Student",
+      "company_slug": "Perplexity",
+      "company": "Perplexity",
+      "date": "2026-01-12",
+      "title": "Internship - Machine Learning Research Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/member-of-technical-staff-data-scientist-evals-at-perplexity",
+      "category": "Data Scientist",
+      "seniority": "Staff / Principal",
+      "company_slug": "Perplexity",
+      "company": "Perplexity",
+      "date": "2026-02-13",
+      "title": "Member of Technical Staff (Data Scientist, Evals)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/member-of-technical-staff-software-engineer-data-flywheel-at-perplexity",
+      "category": "Data Engineer",
+      "seniority": "Staff / Principal",
+      "company_slug": "Perplexity",
+      "company": "Perplexity",
+      "date": "2026-04-13",
+      "title": "Member of Technical Staff (Software Engineer, Data Flywheel)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/member-of-technical-staff-machine-learning-research-engineer-at-perplexity",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "Perplexity",
+      "company": "Perplexity",
+      "date": "2026-04-03",
+      "title": "Member of Technical Staff (Machine Learning Research Engineer)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineer-at-almedia",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "almedia",
+      "company": "Almedia",
+      "date": "2026-02-16",
+      "title": "Data Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/creative-gen-ai-specialist-at-almedia",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "almedia",
+      "company": "Almedia",
+      "date": "2026-03-24",
+      "title": "Creative Gen AI Specialist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-full-stack-engineer-at-almedia",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "almedia",
+      "company": "Almedia",
+      "date": "2026-02-20",
+      "title": "AI Full Stack Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/creative-data-scientist-at-almedia",
+      "category": "Data Scientist",
+      "seniority": "Mid",
+      "company_slug": "almedia",
+      "company": "Almedia",
+      "date": "2026-02-16",
+      "title": "Creative Data Scientist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/machine-learning-engineer-at-almedia",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "almedia",
+      "company": "Almedia",
+      "date": "2025-12-09",
+      "title": "Machine Learning Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-operations-specialist-at-almedia",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "almedia",
+      "company": "Almedia",
+      "date": "2026-03-11",
+      "title": "AI Operations Specialist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-scientist-at-almedia",
+      "category": "Data Scientist",
+      "seniority": "Mid",
+      "company_slug": "almedia",
+      "company": "Almedia",
+      "date": "2026-03-18",
+      "title": "Data Scientist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/mlops-engineer-at-almedia",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "almedia",
+      "company": "Almedia",
+      "date": "2026-04-08",
+      "title": "MLOps Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/analytics-engineer-at-almedia",
+      "category": "Analytics Engineer",
+      "seniority": "Mid",
+      "company_slug": "almedia",
+      "company": "Almedia",
+      "date": "2026-03-30",
+      "title": "Analytics Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/founding-data-scientist-at-almedia",
+      "category": "Data Scientist",
+      "seniority": "Mid",
+      "company_slug": "almedia",
+      "company": "Almedia",
+      "date": "2026-04-16",
+      "title": "Founding Data Scientist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-analyst-at-almedia",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "almedia",
+      "company": "Almedia",
+      "date": "2026-04-30",
+      "title": "Data Analyst"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-analytics-engineer-finance-operations-at-pergolux",
+      "category": "Analytics Engineer",
+      "seniority": "Senior",
+      "company_slug": "pergolux",
+      "company": "PERGOLUX",
+      "date": "2026-04-02",
+      "title": "Senior Analytics Engineer - Finance &#38; Operations"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineer-at-neko-health",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "neko-health",
+      "company": "Neko Health",
+      "date": "2025-11-27",
+      "title": "Data Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineering-functional-lead-at-neko-health",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "neko-health",
+      "company": "Neko Health",
+      "date": "2026-01-27",
+      "title": "Data Engineering Functional Lead"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-analyst-at-neko-health",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "neko-health",
+      "company": "Neko Health",
+      "date": "2026-01-27",
+      "title": "Senior Data Analyst"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-ai-engineer-at-nelly-solutions",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "nelly",
+      "company": "Nelly Solutions",
+      "date": "2025-12-05",
+      "title": "Staff AI Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-product-manager-at-nelly-solutions",
+      "category": "Product Manager",
+      "seniority": "Senior",
+      "company_slug": "nelly",
+      "company": "Nelly Solutions",
+      "date": "2025-12-29",
+      "title": "Senior AI Product Manager"
+    },
+    {
+      "url": "https://databerlin.net/jobs/engineering-manager-ai-at-nelly-solutions",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "nelly",
+      "company": "Nelly Solutions",
+      "date": "2026-02-19",
+      "title": "Engineering Manager, AI"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-engineer-at-nelly-solutions",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "nelly",
+      "company": "Nelly Solutions",
+      "date": "2026-03-19",
+      "title": "Senior AI Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/machine-learning-engineer-iii-routing-cost-at-mapbox",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "mapbox",
+      "company": "Mapbox",
+      "date": "2025-12-02",
+      "title": "Machine Learning Engineer III, Routing Cost"
+    },
+    {
+      "url": "https://databerlin.net/jobs/seniorlead-software-data-engineer-roads-team-at-mapbox",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "mapbox",
+      "company": "Mapbox",
+      "date": "2026-03-21",
+      "title": "Senior/Lead Software Data Engineer (Roads Team)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/full-stack-data-platform-engineer-at-reflow",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "reflow",
+      "company": "Reflow",
+      "date": "2026-03-18",
+      "title": "Full-Stack Data Platform Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-engineer-at-reflow",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "reflow",
+      "company": "Reflow",
+      "date": "2026-01-27",
+      "title": "AI Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ml-engineer-at-reflow",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "reflow",
+      "company": "Reflow",
+      "date": "2026-01-27",
+      "title": "ML Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-scientist-at-reflow",
+      "category": "Data Scientist",
+      "seniority": "Mid",
+      "company_slug": "reflow",
+      "company": "Reflow",
+      "date": "2026-04-14",
+      "title": "Data Scientist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/team-lead-trade-analytics-market-intelligence-fmd-at-forto",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "forto",
+      "company": "Forto",
+      "date": "2026-04-24",
+      "title": "Team Lead Trade Analytics &#38; Market Intelligence (f/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-scientist-at-forto",
+      "category": "Data Scientist",
+      "seniority": "Senior",
+      "company_slug": "forto",
+      "company": "Forto",
+      "date": "2026-04-15",
+      "title": "Senior Data Scientist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-scientist-wmd-at-billie",
+      "category": "Data Scientist",
+      "seniority": "Senior",
+      "company_slug": "billie",
+      "company": "Billie",
+      "date": "2026-03-06",
+      "title": "Senior Data Scientist (w/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-scientist-wmd-at-billie",
+      "category": "Data Scientist",
+      "seniority": "Mid",
+      "company_slug": "billie",
+      "company": "Billie",
+      "date": "2026-03-24",
+      "title": "Data Scientist (w/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-scientist-wmd-at-billie",
+      "category": "Data Scientist",
+      "seniority": "Senior",
+      "company_slug": "billie",
+      "company": "Billie",
+      "date": "2026-04-15",
+      "title": "(Senior) Data Scientist (w/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/backend-engineer-ai-agentsworkflows-at-andercore",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "andercore",
+      "company": "Andercore",
+      "date": "2026-04-28",
+      "title": "Backend Engineer (AI Agents/Workflows)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/director-of-data-bi-analytics-at-andercore",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "andercore",
+      "company": "Andercore",
+      "date": "2026-04-14",
+      "title": "Director of Data (BI &#38; Analytics)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/tech-lead-llm-generative-ai-full-remote-germany-at-everai",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "everai",
+      "company": "EverAI",
+      "date": "2025-11-27",
+      "title": "Tech Lead, LLM &#38; Generative AI (Full Remote - Germany)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-vertical-mini-series-director-freelance-full-remote-germany-at-everai",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "everai",
+      "company": "EverAI",
+      "date": "2026-04-20",
+      "title": "Senior AI Vertical Mini-Series Director (Freelance - Full Remote - Germany)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/juniormid-ai-legal-specialist-full-remote-germany-at-everai",
+      "category": "Other",
+      "seniority": "Junior",
+      "company_slug": "everai",
+      "company": "EverAI",
+      "date": "2026-04-21",
+      "title": "Junior/Mid AI Legal Specialist (Full Remote - Germany)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-scientist-at-peecai",
+      "category": "Data Scientist",
+      "seniority": "Mid",
+      "company_slug": "Peec",
+      "company": "Peec.ai",
+      "date": "2025-10-09",
+      "title": "Data Scientist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/engineering-manager-data-science-at-peecai",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "Peec",
+      "company": "Peec.ai",
+      "date": "2026-01-12",
+      "title": "Engineering Manager (Data Science)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-search-manager-at-peecai",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "Peec",
+      "company": "Peec.ai",
+      "date": "2026-05-04",
+      "title": "AI Search Manager"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-fullstack-engineer-ai-native-at-hivemq",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "hivemq",
+      "company": "HiveMQ",
+      "date": "2026-04-28",
+      "title": "Senior Fullstack Engineer – AI-Native"
+    },
+    {
+      "url": "https://databerlin.net/jobs/remote-data-engineering-team-lead-mfd-at-roompricegenie",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "RoomPriceGenie",
+      "company": "RoomPriceGenie",
+      "date": "2026-03-03",
+      "title": "Remote Data Engineering Team Lead (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/remote-hands-on-data-engineering-manager-3-engineers-mfd-at-roompricegenie",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "RoomPriceGenie",
+      "company": "RoomPriceGenie",
+      "date": "2026-04-08",
+      "title": "Remote Hands-On Data Engineering Manager - 3 Engineers (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/privacy-ai-analyst-at-perk",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "Perk",
+      "company": "Perk",
+      "date": "2026-04-03",
+      "title": "Privacy &#38; AI Analyst"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineer-at-superhuman",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "Superhuman Platform Inc",
+      "company": "Superhuman",
+      "date": "2026-04-28",
+      "title": "Data Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/applied-ai-engagement-manager-at-taktile",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "taktile",
+      "company": "Taktile",
+      "date": "2026-01-30",
+      "title": "Applied AI Engagement Manager"
+    },
+    {
+      "url": "https://databerlin.net/jobs/junior-backend-engineer-data-marketplace-at-taktile",
+      "category": "Data Engineer",
+      "seniority": "Junior",
+      "company_slug": "taktile",
+      "company": "Taktile",
+      "date": "2026-05-07",
+      "title": "Junior Backend Engineer – Data Marketplace"
+    },
+    {
+      "url": "https://databerlin.net/jobs/sr-applied-ai-engineer-at-taktile",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "taktile",
+      "company": "Taktile",
+      "date": "2026-04-27",
+      "title": "Sr. Applied AI Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-search-mfx-at-cortea-ai",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "cortea",
+      "company": "Cortea AI",
+      "date": "2025-11-09",
+      "title": "Senior Data Engineer (Search) (m/f/x)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-audit-engineer-wirtschaftsprfung-mfx-at-cortea-ai",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "cortea",
+      "company": "Cortea AI",
+      "date": "2026-04-01",
+      "title": "AI Audit Engineer (Wirtschaftsprüfung) (m/f/x)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-product-manager-mfx-at-cortea-ai",
+      "category": "Product Manager",
+      "seniority": "Mid",
+      "company_slug": "cortea",
+      "company": "Cortea AI",
+      "date": "2026-05-05",
+      "title": "AI Product Manager (m/f/x)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-automation-engineer-at-cosuno",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "cosuno",
+      "company": "Cosuno",
+      "date": "2026-02-28",
+      "title": "AI Automation Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-engineer-at-cosuno",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "cosuno",
+      "company": "Cosuno",
+      "date": "2026-04-17",
+      "title": "Senior AI Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-engineer-at-light",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "light-inc",
+      "company": "Light",
+      "date": "2026-03-18",
+      "title": "AI Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-platform-engineer-at-light",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "light-inc",
+      "company": "Light",
+      "date": "2026-03-02",
+      "title": "AI Platform Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/backend-engineer-ai-agents-at-maze",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "mazehq",
+      "company": "Maze",
+      "date": "2025-04-23",
+      "title": "Backend Engineer (AI Agents)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-commercial-data-analyst-fmd-at-moss",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "moss",
+      "company": "Moss",
+      "date": "2025-11-05",
+      "title": "Senior Commercial Data Analyst (f/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-operations-specialist-at-moss",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "moss",
+      "company": "Moss",
+      "date": "2026-04-20",
+      "title": "AI Operations Specialist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-product-manager-ai-platform-mfd-at-moss",
+      "category": "Product Manager",
+      "seniority": "Senior",
+      "company_slug": "moss",
+      "company": "Moss",
+      "date": "2026-05-01",
+      "title": "Senior Product Manager - AI Platform (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/business-analytics-intern-at-trawa",
+      "category": "Data Analyst",
+      "seniority": "Intern / Student",
+      "company_slug": "trawa",
+      "company": "Trawa",
+      "date": "2026-01-13",
+      "title": "Business Analytics Intern"
+    },
+    {
+      "url": "https://databerlin.net/jobs/aiml-engineer-berlin-at-air-apps",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "airapps",
+      "company": "Air Apps",
+      "date": "2026-04-16",
+      "title": "AI/ML Engineer, Berlin"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-product-manager-berlin-at-air-apps",
+      "category": "Product Manager",
+      "seniority": "Mid",
+      "company_slug": "airapps",
+      "company": "Air Apps",
+      "date": "2026-04-16",
+      "title": "AI Product Manager, Berlin"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-analyst-at-air-apps",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "airapps",
+      "company": "Air Apps",
+      "date": "2026-04-16",
+      "title": "Data Analyst"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineer-at-air-apps",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "airapps",
+      "company": "Air Apps",
+      "date": "2026-04-16",
+      "title": "Data Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/quantitative-researcher-at-keyrock",
+      "category": "Data Scientist",
+      "seniority": "Mid",
+      "company_slug": "Keyrock",
+      "company": "Keyrock",
+      "date": "2026-01-26",
+      "title": "Quantitative Researcher"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-at-keyrock",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "Keyrock",
+      "company": "Keyrock",
+      "date": "2026-04-28",
+      "title": "Senior Data Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-mwd-at-galvani",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "galvany",
+      "company": "Galvani",
+      "date": "2026-02-25",
+      "title": "(Senior) Data Engineer (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/lead-data-platform-engineer-at-yazio",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "yazio",
+      "company": "Yazio",
+      "date": "2026-03-03",
+      "title": "Lead Data Platform Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/junior-data-analyst-web-squad-at-yazio",
+      "category": "Data Analyst",
+      "seniority": "Junior",
+      "company_slug": "yazio",
+      "company": "Yazio",
+      "date": "2026-03-13",
+      "title": "Junior Data Analyst, Web Squad"
+    },
+    {
+      "url": "https://databerlin.net/jobs/algorithm-engineer-at-gorilla",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "gorilla",
+      "company": "Gorilla",
+      "date": "2025-10-23",
+      "title": "Algorithm Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-machine-learning-engineer-for-ai-product-at-qonto",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "qonto",
+      "company": "Qonto",
+      "date": "",
+      "title": "Senior Machine Learning Engineer for AI Product"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-data-analyst-ai-tooling-at-qonto",
+      "category": "Data Analyst",
+      "seniority": "Staff / Principal",
+      "company_slug": "qonto",
+      "company": "Qonto",
+      "date": "",
+      "title": "Staff Data Analyst - AI Tooling"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-real-time-analytics-at-aircall",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "aircall",
+      "company": "Aircall",
+      "date": "",
+      "title": "Senior Data Engineer - Real time analytics"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-product-manager-b2b-saas-martech-europe-at-insider-one",
+      "category": "Product Manager",
+      "seniority": "Senior",
+      "company_slug": "insiderone",
+      "company": "Insider One",
+      "date": "",
+      "title": "Senior AI Product Manager - B2B SaaS (Martech) - Europe"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-at-trustyou",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "trustyou",
+      "company": "TrustYou",
+      "date": "",
+      "title": "Senior Data Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineering-manager-berlin-at-vestiaire-collective",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "vestiairecollective",
+      "company": "Vestiaire Collective",
+      "date": "",
+      "title": "Data Engineering Manager - Berlin"
+    },
+    {
+      "url": "https://databerlin.net/jobs/analytics-implementation-specialist-fixed-term-contract-at-lovehoney-group",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "lovehoneygroup",
+      "company": "Lovehoney Group",
+      "date": "",
+      "title": "Analytics Implementation Specialist (fixed-term contract)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/junior-ai-engineer-at-lovehoney-group",
+      "category": "AI/ML",
+      "seniority": "Junior",
+      "company_slug": "lovehoneygroup",
+      "company": "Lovehoney Group",
+      "date": "",
+      "title": "Junior AI Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-engineer-at-lovehoney-group",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "lovehoneygroup",
+      "company": "Lovehoney Group",
+      "date": "",
+      "title": "Senior AI Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-analytics-engineer-at-lovehoney-group",
+      "category": "Analytics Engineer",
+      "seniority": "Senior",
+      "company_slug": "lovehoneygroup",
+      "company": "Lovehoney Group",
+      "date": "",
+      "title": "Senior Analytics Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/working-student-legal-operations-ai-automation-at-lovehoney-group",
+      "category": "Other",
+      "seniority": "Intern / Student",
+      "company_slug": "lovehoneygroup",
+      "company": "Lovehoney Group",
+      "date": "",
+      "title": "Working Student – Legal Operations &#38; AI Automation"
+    },
+    {
+      "url": "https://databerlin.net/jobs/director-of-product-analytics-at-pipedrive",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "pipedrive",
+      "company": "Pipedrive",
+      "date": "",
+      "title": "Director of Product Analytics"
+    },
+    {
+      "url": "https://databerlin.net/jobs/principal-aiml-scientist-engineer-at-pipedrive",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "pipedrive",
+      "company": "Pipedrive",
+      "date": "",
+      "title": "Principal AI/ML Scientist &#38; Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-scientist-mfx-at-finn",
+      "category": "Data Scientist",
+      "seniority": "Mid",
+      "company_slug": "finn",
+      "company": "Finn",
+      "date": "",
+      "title": "Data Scientist (m/f/x)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-analyst-operations-mfx-at-finn",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "finn",
+      "company": "Finn",
+      "date": "",
+      "title": "Senior Data Analyst - Operations (m/f/x)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/lead-ai-engineer-fmx-agent-development-cb-data-and-ai-at-deutsche-bank",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "db",
+      "company": "Deutsche Bank",
+      "date": "2026-05-06",
+      "title": "Lead AI Engineer (f/m/x) – Agent Development – CB Data and AI"
+    },
+    {
+      "url": "https://databerlin.net/jobs/lead-data-engineer-fmx-tfl-data-at-deutsche-bank",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "db",
+      "company": "Deutsche Bank",
+      "date": "2026-05-05",
+      "title": "Lead Data Engineer (f/m/x) – TFL Data"
+    },
+    {
+      "url": "https://databerlin.net/jobs/dws-engineering-lead-data-infrastructure-mfd-at-deutsche-bank",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "db",
+      "company": "Deutsche Bank",
+      "date": "2026-04-09",
+      "title": "DWS – Engineering Lead - Data Infrastructure (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/dws-senior-security-engineer-data-platforms-mfd-at-deutsche-bank",
+      "category": "Other",
+      "seniority": "Senior",
+      "company_slug": "db",
+      "company": "Deutsche Bank",
+      "date": "2026-04-09",
+      "title": "DWS - Senior Security Engineer - Data Platforms (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/applied-scientist-all-genders-at-zalando",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "zalando",
+      "company": "Zalando",
+      "date": "2026-05-08",
+      "title": "Applied Scientist (All genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-applied-scientist-assortment-demand-forecast-all-genders-at-zalando",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "zalando",
+      "company": "Zalando",
+      "date": "2026-05-07",
+      "title": "Senior Applied Scientist - Assortment Demand Forecast (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/engineering-manager-ai-innovation-lounge-by-zalando-all-genders-at-zalando",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "zalando",
+      "company": "Zalando",
+      "date": "2026-04-28",
+      "title": "Engineering Manager - AI Innovation // Lounge by Zalando (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-applied-scientist-demand-forecasting-all-genders-at-zalando",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "zalando",
+      "company": "Zalando",
+      "date": "2026-04-27",
+      "title": "Senior Applied Scientist - Demand Forecasting (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/applied-scientist-demand-forecast-all-genders-at-zalando",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "zalando",
+      "company": "Zalando",
+      "date": "2026-04-21",
+      "title": "Applied Scientist - Demand Forecast (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/principal-applied-scientist-zms-all-genders-at-zalando",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "zalando",
+      "company": "Zalando",
+      "date": "2026-04-09",
+      "title": "Principal Applied Scientist - ZMS (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/principal-machine-learning-engineer-zms-all-genders-at-zalando",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "zalando",
+      "company": "Zalando",
+      "date": "2026-04-09",
+      "title": "Principal Machine Learning Engineer - ZMS (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/principal-applied-scientist-searchnlpir-all-genders-at-zalando",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "zalando",
+      "company": "Zalando",
+      "date": "2026-04-09",
+      "title": "Principal Applied Scientist Search/NLP/IR (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/system-engineering-manager-lead-sap-analytics-all-genders-at-zalando",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "zalando",
+      "company": "Zalando",
+      "date": "2026-04-09",
+      "title": "System Engineering Manager - Lead SAP Analytics (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/principal-software-engineer-risk-management-risk-ai-all-genders-at-zalando",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "zalando",
+      "company": "Zalando",
+      "date": "2026-04-09",
+      "title": "Principal Software Engineer - Risk Management / Risk AI (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-hpc-and-ai-networking-performance-research-and-analysis-engineer-at-nvidia",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "nvidia",
+      "company": "NVIDIA",
+      "date": "2026-05-05",
+      "title": "Senior HPC and AI Networking Performance Research and Analysis Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/principal-ai-developer-technology-engineer-at-nvidia",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "nvidia",
+      "company": "NVIDIA",
+      "date": "2026-04-09",
+      "title": "Principal AI Developer Technology Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-deep-learning-compiler-engineer-pytorch-at-nvidia",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "nvidia",
+      "company": "NVIDIA",
+      "date": "2026-04-09",
+      "title": "Senior Deep Learning Compiler Engineer - PyTorch"
+    },
+    {
+      "url": "https://databerlin.net/jobs/manager-product-analytics-at-amazon-aws",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "amazon",
+      "company": "Amazon / AWS",
+      "date": "2026-05-07",
+      "title": "Manager, Product Analytics"
+    },
+    {
+      "url": "https://databerlin.net/jobs/applied-science-manager-aws-generative-ai-innovation-center-at-amazon-aws",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "amazon",
+      "company": "Amazon / AWS",
+      "date": "2026-04-22",
+      "title": "Applied Science Manager, AWS Generative AI Innovation Center"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-business-intelligence-engineer-eu-stores-cx-analytics-automation-at-amazon-aws",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "amazon",
+      "company": "Amazon / AWS",
+      "date": "2026-04-24",
+      "title": "Senior Business Intelligence Engineer, EU Stores CX Analytics &#38; Automation"
+    },
+    {
+      "url": "https://databerlin.net/jobs/software-dev-engineer-intern-machine-learning-amazon-robotics-at-amazon-aws",
+      "category": "AI/ML",
+      "seniority": "Intern / Student",
+      "company_slug": "amazon",
+      "company": "Amazon / AWS",
+      "date": "2026-04-23",
+      "title": "Software Dev Engineer Intern Machine Learning, Amazon Robotics"
+    },
+    {
+      "url": "https://databerlin.net/jobs/2026-applied-scientist-intern-amazon-university-talent-acquisition-at-amazon-aws",
+      "category": "AI/ML",
+      "seniority": "Intern / Student",
+      "company_slug": "amazon",
+      "company": "Amazon / AWS",
+      "date": "2025-10-24",
+      "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-scientist-search-relevance-mwd-at-idealo",
+      "category": "Data Scientist",
+      "seniority": "Senior",
+      "company_slug": "idealo",
+      "company": "idealo",
+      "date": "2026-04-22",
+      "title": "(Senior) Data Scientist – Search / Relevance (m|w|d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-engineer-ai-booster-team-fmd-at-idealo",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "idealo",
+      "company": "idealo",
+      "date": "2026-04-21",
+      "title": "(Senior) AI Engineer – AI Booster Team (f|m|d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-crm-tech-mwd-at-idealo",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "idealo",
+      "company": "idealo",
+      "date": "2026-04-14",
+      "title": "(Senior) Data Engineer - CRM Tech (m|w|d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-analyst-mfd-remote-at-dransay",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "dransay",
+      "company": "DrAnsay",
+      "date": "2026-04-23",
+      "title": "Senior Data Analyst (m/f/d) – Remote"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-marketing-analytics-engineer-mfd-at-entyre-gmbh",
+      "category": "Analytics Engineer",
+      "seniority": "Senior",
+      "company_slug": "entyre",
+      "company": "Entyre GmbH",
+      "date": "2026-04-16",
+      "title": "(Senior) Marketing Analytics Engineer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineer-mid-sen-level-fully-remote-at-softgames",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "softgames",
+      "company": "Softgames",
+      "date": "2026-05-06",
+      "title": "Data Engineer (Mid-Sen Level) - Fully Remote"
+    },
+    {
+      "url": "https://databerlin.net/jobs/gtm-engineer-ai-first-mwd-at-recare-solutions",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "recaresolutions",
+      "company": "ReCare Solutions",
+      "date": "2026-04-30",
+      "title": "GTM Engineer (AI-first) (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-data-platform-engineer-mwd-at-recare-solutions",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "recaresolutions",
+      "company": "ReCare Solutions",
+      "date": "2026-05-05",
+      "title": "Senior AI Data Platform Engineer (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/head-of-data-wmd-at-recare-solutions",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "recaresolutions",
+      "company": "ReCare Solutions",
+      "date": "2026-04-24",
+      "title": "Head of Data (w/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/working-student-mwd-crm-data-at-recare-solutions",
+      "category": "Other",
+      "seniority": "Intern / Student",
+      "company_slug": "recaresolutions",
+      "company": "ReCare Solutions",
+      "date": "2026-03-27",
+      "title": "Working Student (m/w/d) CRM &#38; Data"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-ml-engineer-mwd-at-recare-solutions",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "recaresolutions",
+      "company": "ReCare Solutions",
+      "date": "2026-04-27",
+      "title": "AI / ML Engineer (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-backend-engineer-tech-lead-data-management-dfm-at-aignostics",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "aignostics",
+      "company": "Aignostics",
+      "date": "2025-09-12",
+      "title": "Senior Backend Engineer / Tech Lead (Data Management) (d/f/m)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-machine-learning-engineer-dfm-at-aignostics",
+      "category": "AI/ML",
+      "seniority": "Staff / Principal",
+      "company_slug": "aignostics",
+      "company": "Aignostics",
+      "date": "2025-09-12",
+      "title": "Staff Machine Learning Engineer (d/f/m)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-product-manager-ai-products-dfm-at-aignostics",
+      "category": "Product Manager",
+      "seniority": "Senior",
+      "company_slug": "aignostics",
+      "company": "Aignostics",
+      "date": "2026-05-06",
+      "title": "Senior Product Manager - AI Products (d/f/m)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-solutions-lead-at-tibber",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "tibber",
+      "company": "Tibber",
+      "date": "2026-04-16",
+      "title": "AI Solutions Lead"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-cs-data-analyst-at-shine",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "shine",
+      "company": "Shine",
+      "date": "2026-04-13",
+      "title": "Senior CS Data Analyst"
+    },
+    {
+      "url": "https://databerlin.net/jobs/team-lead-data-analytics-all-genders-at-heydata",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "heydata",
+      "company": "HeyData",
+      "date": "2026-03-05",
+      "title": "Team Lead Data Analytics (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-engineer-fmd-at-smartclip",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "smartclip",
+      "company": "smartclip",
+      "date": "2025-08-28",
+      "title": "AI Engineer (f/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/product-manager-fmd-ai-at-smartclip",
+      "category": "Product Manager",
+      "seniority": "Mid",
+      "company_slug": "smartclip",
+      "company": "smartclip",
+      "date": "2026-02-11",
+      "title": "Product Manager (f/m/d) - AI"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineer-fmd-tv-at-smartclip",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "smartclip",
+      "company": "smartclip",
+      "date": "2026-03-09",
+      "title": "Data Engineer (f/m/d) - TV"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-financial-analytics-engineer-mfd-at-pliant",
+      "category": "Analytics Engineer",
+      "seniority": "Senior",
+      "company_slug": "pliant",
+      "company": "Pliant",
+      "date": "",
+      "title": "Senior Data &#38; Financial Analytics Engineer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/working-student-commercial-strategy-analytics-mfd-at-pliant",
+      "category": "Data Analyst",
+      "seniority": "Intern / Student",
+      "company_slug": "pliant",
+      "company": "Pliant",
+      "date": "",
+      "title": "Working Student – Commercial Strategy / Analytics (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/infrastructure-team-lead-at-leadfeeder",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "leadfeeder",
+      "company": "Leadfeeder",
+      "date": "2026-05-05",
+      "title": "Infrastructure Team Lead"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-ai-data-platform-at-leadfeeder",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "leadfeeder",
+      "company": "Leadfeeder",
+      "date": "2026-05-06",
+      "title": "Senior Data Engineer, AI &#38; Data Platform"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-product-manager-at-leadfeeder",
+      "category": "Other",
+      "seniority": "Senior",
+      "company_slug": "leadfeeder",
+      "company": "Leadfeeder",
+      "date": "2026-05-08",
+      "title": "Senior Product Manager"
+    },
+    {
+      "url": "https://databerlin.net/jobs/principal-engineer-data-platforms-mfd-at-bit-capital",
+      "category": "Data Engineer",
+      "seniority": "Staff / Principal",
+      "company_slug": "bitcap",
+      "company": "Bit Capital",
+      "date": "2025-11-20",
+      "title": "Principal Engineer - Data &#38; Platforms (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-engineering-intern-mfd-at-bit-capital",
+      "category": "AI/ML",
+      "seniority": "Intern / Student",
+      "company_slug": "bitcap",
+      "company": "Bit Capital",
+      "date": "2026-01-20",
+      "title": "AI Engineering Intern (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-bi-developer-on-site-at-cloover",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "cloover",
+      "company": "Cloover",
+      "date": "2026-01-27",
+      "title": "Senior BI Developer (on-site)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-analyst-fmd-at-meister",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "meister",
+      "company": "Meister",
+      "date": "2026-04-16",
+      "title": "Senior Data Analyst (f/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-software-engineer-data-platform-at-personio",
+      "category": "Data Engineer",
+      "seniority": "Staff / Principal",
+      "company_slug": "personio",
+      "company": "Personio",
+      "date": "2024-11-13",
+      "title": "Staff Software Engineer, Data Platform"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-scientist-at-adsquare",
+      "category": "Data Scientist",
+      "seniority": "Senior",
+      "company_slug": "adsquare",
+      "company": "adsquare",
+      "date": "2026-03-23",
+      "title": "Senior Data Scientist"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-operations-analyst-mfd-at-adsquare",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "adsquare",
+      "company": "adsquare",
+      "date": "2026-05-01",
+      "title": "Data Operations Analyst (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-mfd-at-adsquare",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "adsquare",
+      "company": "adsquare",
+      "date": "2026-05-07",
+      "title": "(Senior) Data Engineer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/sr-data-platform-engineer-mfd-at-smartbroker",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "wallstreetonline-capital-ag",
+      "company": "Smartbroker",
+      "date": "2026-04-27",
+      "title": "(Sr.) Data Platform Engineer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-team-lead-incl-genai-mfd-at-smartbroker",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "wallstreetonline-capital-ag",
+      "company": "Smartbroker",
+      "date": "2026-04-27",
+      "title": "Data Team Lead (incl. GenAI) (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-engineer-mfd-at-smartbroker",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "wallstreetonline-capital-ag",
+      "company": "Smartbroker",
+      "date": "2026-04-14",
+      "title": "AI Engineer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-capability-and-technical-lead-fmd-at-agora",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "agora-thinktanks",
+      "company": "Agora",
+      "date": "2026-04-13",
+      "title": "AI Capability and Technical Lead (f/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/student-assistant-energy-data-engineer-fmd-at-agora",
+      "category": "Data Engineer",
+      "seniority": "Intern / Student",
+      "company_slug": "agora-thinktanks",
+      "company": "Agora",
+      "date": "2026-04-20",
+      "title": "Student Assistant: Energy Data Engineer (f/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/analytics-engineer-mfd-at-getsafe",
+      "category": "Analytics Engineer",
+      "seniority": "Mid",
+      "company_slug": "getsafe",
+      "company": "GetSafe",
+      "date": "2026-04-24",
+      "title": "Analytics Engineer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/business-ai-manager-climatetech-at-varm-gmbh",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "varm",
+      "company": "VARM GmbH",
+      "date": "2026-04-12",
+      "title": "Business AI Manager @ ClimateTech"
+    },
+    {
+      "url": "https://databerlin.net/jobs/director-of-ai-at-hypatos",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "hypatos-gmbh",
+      "company": "Hypatos",
+      "date": "2025-09-25",
+      "title": "Director of AI"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-tech-delivery-specialist-coe-at-hypatos",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "hypatos-gmbh",
+      "company": "Hypatos",
+      "date": "2026-03-19",
+      "title": "AI Tech Delivery Specialist (CoE)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-tech-delivery-specialist-coe-at-hypatos",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "hypatos-gmbh",
+      "company": "Hypatos",
+      "date": "2026-03-19",
+      "title": "AI Tech Delivery Specialist (CoE)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/working-student-enablement-data-content-in-berlin-at-hypatos",
+      "category": "Other",
+      "seniority": "Intern / Student",
+      "company_slug": "hypatos-gmbh",
+      "company": "Hypatos",
+      "date": "2026-04-13",
+      "title": "Working Student Enablement Data &#38; Content in Berlin"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-engineer-at-integral",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "integral",
+      "company": "Integral",
+      "date": "2026-02-23",
+      "title": "Senior AI Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/energy-systems-data-engineer-at-twaice",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "twaice",
+      "company": "TWAICE",
+      "date": "2026-04-24",
+      "title": "Energy Systems Data Engineer"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-consultant-engineer-all-genders-at-nfon",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "nfon",
+      "company": "NFON",
+      "date": "2026-03-24",
+      "title": "AI Consultant Engineer (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/sales-consultant-ai-all-genders-at-nfon",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "nfon",
+      "company": "NFON",
+      "date": "2026-03-19",
+      "title": "Sales Consultant AI (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-modern-data-platform-ai-all-genders-berlin-hybrid-or-remote-at-aroundhome",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "aroundhome",
+      "company": "AroundHome",
+      "date": "2026-04-10",
+      "title": "Senior Data Engineer (Modern Data Platform &#38; AI) (all genders) | Berlin, hybrid or remote"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-ai-engineer-berlin-on-site-at-mamahealth",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "mamahealth",
+      "company": "Mamahealth",
+      "date": "2026-04-08",
+      "title": "Senior AI Engineer – Berlin (On-Site)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-berlin-on-site-at-mamahealth",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "mamahealth",
+      "company": "Mamahealth",
+      "date": "2026-01-05",
+      "title": "Senior Data Engineer – Berlin (On-Site)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-analytics-engineer-mfd-at-smoobu",
+      "category": "Analytics Engineer",
+      "seniority": "Senior",
+      "company_slug": "smoobu",
+      "company": "Smoobu",
+      "date": "2026-05-05",
+      "title": "Senior Analytics Engineer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/analytics-internship-coo-office-mwd-1komma5-handwerk-berlin-at-1komma5",
+      "category": "Leadership",
+      "seniority": "Intern / Student",
+      "company_slug": "1komma5grad",
+      "company": "1KOMMA5°",
+      "date": "2026-04-07",
+      "title": "Analytics Internship COO Office (m/w/d) - 1KOMMA5° Handwerk - Berlin"
+    },
+    {
+      "url": "https://databerlin.net/jobs/werkstudentin-analytics-coo-office-mwd-1komma5-handwerk-berlin-at-1komma5",
+      "category": "Leadership",
+      "seniority": "Intern / Student",
+      "company_slug": "1komma5grad",
+      "company": "1KOMMA5°",
+      "date": "2026-04-07",
+      "title": "Werkstudent:in Analytics COO Office (m/w/d) - 1KOMMA5° Handwerk - Berlin"
+    },
+    {
+      "url": "https://databerlin.net/jobs/working-student-data-analysis-delivery-management-mfd-at-1komma5",
+      "category": "Other",
+      "seniority": "Intern / Student",
+      "company_slug": "1komma5grad",
+      "company": "1KOMMA5°",
+      "date": "2026-03-02",
+      "title": "Working Student Data Analysis &#38; Delivery Management (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-platform-engineer-agentic-systems-mfd-at-1komma5",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "1komma5grad",
+      "company": "1KOMMA5°",
+      "date": "2026-03-19",
+      "title": "(Senior) Platform Engineer - Agentic Systems (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-category-manager-mwd-leistungselektronik-heartbeat-ai-at-1komma5",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "1komma5grad",
+      "company": "1KOMMA5°",
+      "date": "2026-04-01",
+      "title": "(Senior) Category Manager (m/w/d) - Leistungselektronik &#38; Heartbeat AI"
+    },
+    {
+      "url": "https://databerlin.net/jobs/working-student-ai-product-designer-mfd-at-1komma5",
+      "category": "Other",
+      "seniority": "Intern / Student",
+      "company_slug": "1komma5grad",
+      "company": "1KOMMA5°",
+      "date": "2026-04-10",
+      "title": "Working Student - AI Product Designer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-automation-architect-mwd-at-1komma5",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "1komma5grad",
+      "company": "1KOMMA5°",
+      "date": "2026-04-23",
+      "title": "AI Automation Architect (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-data-platform-mfd-at-1komma5",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "1komma5grad",
+      "company": "1KOMMA5°",
+      "date": "2026-04-24",
+      "title": "Senior Data Engineer - Data Platform (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-analytics-engineer-growth-mfd-at-1komma5",
+      "category": "Analytics Engineer",
+      "seniority": "Senior",
+      "company_slug": "1komma5grad",
+      "company": "1KOMMA5°",
+      "date": "2026-05-06",
+      "title": "Senior Analytics Engineer - Growth (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-data-apps-lead-at-sonova",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "sonova",
+      "company": "Sonova",
+      "date": "",
+      "title": "AI Data Apps Lead"
+    },
+    {
+      "url": "https://databerlin.net/jobs/lead-hr-product-engineer-react-python-ai-driven-development-mfd-at-sonova",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "sonova",
+      "company": "Sonova",
+      "date": "",
+      "title": "Lead HR Product Engineer (React &#38; Python | AI-Driven Development) (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-deep-learning-engineer-mfd-audatic-at-sonova",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "sonova",
+      "company": "Sonova",
+      "date": "",
+      "title": "Senior Deep Learning Engineer (m/f/d) - Audatic"
+    },
+    {
+      "url": "https://databerlin.net/jobs/deep-learning-engineer-mfd-audatic-at-sonova",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "sonova",
+      "company": "Sonova",
+      "date": "",
+      "title": "Deep Learning Engineer (m/f/d) - Audatic"
+    },
+    {
+      "url": "https://databerlin.net/jobs/cloud-data-engineer-databricks-all-genders-at-adesso-se",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "adesso",
+      "company": "adesso SE",
+      "date": "",
+      "title": "Cloud Data Engineer - Databricks (all genders)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-consultant-wmd-business-data-cloud-insights-planning-fokus-at-sap",
+      "category": "Other",
+      "seniority": "Senior",
+      "company_slug": "sap",
+      "company": "SAP",
+      "date": "",
+      "title": "Senior Consultant (w/m/d) Business Data Cloud &#38; Insights - Planning Fokus"
+    },
+    {
+      "url": "https://databerlin.net/jobs/t2t3-kubernetes-devops-engineer-for-sovereign-cloud-onsite-apeirora-eu-ai-projects-mfd-at-sap",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "sap",
+      "company": "SAP",
+      "date": "",
+      "title": "T2/T3 Kubernetes/ DevOps Engineer for Sovereign Cloud Onsite / ApeiroRA / EU AI Projects (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-science-manager-fmd-abap-foundation-model-at-sap",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "sap",
+      "company": "SAP",
+      "date": "",
+      "title": "Data Science Manager (f/m/d): ABAP Foundation Model"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-developer-fmd-for-sovereign-cloud-onsite-apeirora-eu-ai-projects-at-sap",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "sap",
+      "company": "SAP",
+      "date": "",
+      "title": "(Senior) Developer (f/m/d) for Sovereign Cloud Onsite / ApeiroRA / EU AI Projects"
+    },
+    {
+      "url": "https://databerlin.net/jobs/phd-internship-fmd-ai-research-foundation-models-on-structured-data-at-sap",
+      "category": "Other",
+      "seniority": "Intern / Student",
+      "company_slug": "sap",
+      "company": "SAP",
+      "date": "",
+      "title": "PhD Internship (f/m/d) - AI Research - Foundation Models on Structured Data"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-applied-ai-and-data-scientist-fmd-sap-knowledge-graph-at-sap",
+      "category": "Data Scientist",
+      "seniority": "Senior",
+      "company_slug": "sap",
+      "company": "SAP",
+      "date": "",
+      "title": "Senior Applied AI and Data Scientist (f/m/d) - SAP Knowledge Graph"
+    },
+    {
+      "url": "https://databerlin.net/jobs/werkstudent-wmd-quality-ai-engineering-mit-entwicklungsfokus-at-sap",
+      "category": "AI/ML",
+      "seniority": "Intern / Student",
+      "company_slug": "sap",
+      "company": "SAP",
+      "date": "",
+      "title": "Werkstudent (w/m/d) - Quality &#38; AI Engineering mit Entwicklungsfokus"
+    },
+    {
+      "url": "https://databerlin.net/jobs/cto-chief-ai-officer-keynote-lead-fmd-ai-advocacy-at-sap",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "sap",
+      "company": "SAP",
+      "date": "",
+      "title": "CTO &#38; Chief AI Officer Keynote Lead (f/m/d) - AI Advocacy"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-platform-engineer-agentic-analytics-dfm-at-mobilede",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "mobilede",
+      "company": "mobile.de",
+      "date": "",
+      "title": "Senior Data Platform Engineer — Agentic Analytics (d/f/m"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-enablement-specialist-12-month-ftc-dfm-at-mobilede",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "mobilede",
+      "company": "mobile.de",
+      "date": "",
+      "title": "AI Enablement Specialist (12 month FTC) (d/f/m)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/agentic-systems-engineer-dfm-at-mobilede",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "mobilede",
+      "company": "mobile.de",
+      "date": "",
+      "title": "Agentic Systems Engineer (d/f/m)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/tech-lead-developer-experience-ai-tooling-dfm-at-mobilede",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "mobilede",
+      "company": "mobile.de",
+      "date": "",
+      "title": "Tech Lead Developer Experience &#38; AI-Tooling (d/f/m)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/team-lead-sales-data-bi-dfm-at-mobilede",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "mobilede",
+      "company": "mobile.de",
+      "date": "",
+      "title": "Team Lead Sales Data &#38; BI (d/f/m)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-scientist-campaigns-at-bolt",
+      "category": "Data Scientist",
+      "seniority": "Senior",
+      "company_slug": "bolt",
+      "company": "Bolt",
+      "date": "",
+      "title": "Senior Data Scientist, Campaigns"
+    },
+    {
+      "url": "https://databerlin.net/jobs/werkstudent-mwd-business-intelligence-home-living-e-commerce-at-check24",
+      "category": "Data Analyst",
+      "seniority": "Intern / Student",
+      "company_slug": "check24",
+      "company": "Check24",
+      "date": "",
+      "title": "Werkstudent (m/w/d) Business Intelligence – Home &#38; Living E-Commerce"
+    },
+    {
+      "url": "https://databerlin.net/jobs/co-founder-cto-mfd-at-logenta",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "logenta",
+      "company": "Logenta",
+      "date": "2025-03-23",
+      "title": "Co-Founder &#38; CTO (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-analyst-mid-or-senior-level-fmx-at-ablefy",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "ablefy",
+      "company": "Ablefy",
+      "date": "",
+      "title": "Data Analyst - mid or senior level (F/M/X)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-full-stack-engineer-ai-incubator-team-fmx-at-ablefy",
+      "category": "AI/ML",
+      "seniority": "Senior",
+      "company_slug": "ablefy",
+      "company": "Ablefy",
+      "date": "",
+      "title": "(Senior) Full Stack Engineer-AI Incubator Team (F/M/X)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/head-of-product-ai-fmx-at-ablefy",
+      "category": "Leadership",
+      "seniority": "Head / Director / VP / C-Level",
+      "company_slug": "ablefy",
+      "company": "Ablefy",
+      "date": "",
+      "title": "Head of Product - AI (F/M/X)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-engineer-llm-products-remote-at-dexter-health",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "dexter-health",
+      "company": "dexter health",
+      "date": "2026-04-26",
+      "title": "AI Engineer (LLM Products) - Remote"
+    },
+    {
+      "url": "https://databerlin.net/jobs/applied-ai-engineer-remote-at-dexter-health",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "dexter-health",
+      "company": "dexter health",
+      "date": "2026-04-26",
+      "title": "Applied AI Engineer - Remote"
+    },
+    {
+      "url": "https://databerlin.net/jobs/staff-software-engineer-tech-lead-ai-data-platform-dfm-berlin-at-monda",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "mondaai",
+      "company": "Monda",
+      "date": "2026-03-30",
+      "title": "Staff Software Engineer (Tech Lead) - AI Data Platform (d/f/m, Berlin)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/lead-ai-solution-engineer-fmd-at-workist",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "workist",
+      "company": "Workist",
+      "date": "2026-05-07",
+      "title": "Lead AI Solution Engineer (f/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineer-analytics-engineer-wmd-at-incycling",
+      "category": "Analytics Engineer",
+      "seniority": "Mid",
+      "company_slug": "incyclingai",
+      "company": "InCycling",
+      "date": "2026-04-09",
+      "title": "Data Engineer / Analytics Engineer (w/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-scientist-for-chemical-data-wmd-at-incycling",
+      "category": "Data Scientist",
+      "seniority": "Mid",
+      "company_slug": "incyclingai",
+      "company": "InCycling",
+      "date": "2026-04-23",
+      "title": "Data Scientist for Chemical Data (w/m/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/talent-pool-audio-data-engineering-machine-learning-at-ai-coustics",
+      "category": "Data Engineer",
+      "seniority": "Mid",
+      "company_slug": "ai-coustics",
+      "company": "ai-coustics",
+      "date": "2026-03-24",
+      "title": "Talent Pool: Audio Data Engineering &#38; Machine Learning"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-engineering-lead-at-riverty",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "riverty",
+      "company": "Riverty",
+      "date": "2026-05-02",
+      "title": "Data Engineering Lead"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-analyst-global-finance-technology-data-at-bmg",
+      "category": "Data Analyst",
+      "seniority": "Mid",
+      "company_slug": "bmg",
+      "company": "BMG",
+      "date": "2026-05-02",
+      "title": "Data Analyst Global Finance Technology &#38; Data"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-product-manager-analytics-at-aiven",
+      "category": "Product Manager",
+      "seniority": "Senior",
+      "company_slug": "aiven",
+      "company": "Aiven",
+      "date": "2026-03-23",
+      "title": "Senior Product Manager, Analytics"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-data-engineer-mfd-customer-identity-resolution-at-momox",
+      "category": "Data Engineer",
+      "seniority": "Senior",
+      "company_slug": "momox",
+      "company": "momox",
+      "date": "",
+      "title": "Senior Data Engineer (m/f/d) – Customer Identity Resolution"
+    },
+    {
+      "url": "https://databerlin.net/jobs/expert-fmd-industrialized-rollout-procurement-agentic-ai-solutions-at-siemens-energy",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "siemens-energy",
+      "company": "Siemens Energy",
+      "date": "2026-04-24",
+      "title": "Expert (f/m/d) – Industrialized Rollout (Procurement, Agentic AI Solutions)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/werkstudent-wmd-marketing-video-content-ai-energiesektor-at-siemens-energy",
+      "category": "Other",
+      "seniority": "Intern / Student",
+      "company_slug": "siemens-energy",
+      "company": "Siemens Energy",
+      "date": "2026-04-22",
+      "title": "Werkstudent (w/m/d) Marketing, Video-Content &#38; AI - Energiesektor"
+    },
+    {
+      "url": "https://databerlin.net/jobs/working-student-fmd-data-analytics-ai-in-procurement-at-siemens-energy",
+      "category": "Data Analyst",
+      "seniority": "Intern / Student",
+      "company_slug": "siemens-energy",
+      "company": "Siemens Energy",
+      "date": "2026-04-21",
+      "title": "Working Student (f/m/d) Data Analytics &#38; AI in Procurement"
+    },
+    {
+      "url": "https://databerlin.net/jobs/it-service-manager-mfd-corporate-master-data-sap-mdg-at-siemens-energy",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "siemens-energy",
+      "company": "Siemens Energy",
+      "date": "2026-03-13",
+      "title": "IT Service Manager (m/f/d) Corporate Master Data (SAP MDG)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-training-adoption-specialist-mfd-at-aroundtown",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "aroundtown",
+      "company": "Aroundtown",
+      "date": "2026-05-07",
+      "title": "AI Training &#38; Adoption Specialist (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-solutions-engineer-mfd-at-aroundtown",
+      "category": "AI/ML",
+      "seniority": "Mid",
+      "company_slug": "aroundtown",
+      "company": "Aroundtown",
+      "date": "2026-05-06",
+      "title": "AI Solutions Engineer (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/ai-business-analyst-mfd-at-aroundtown",
+      "category": "Other",
+      "seniority": "Mid",
+      "company_slug": "aroundtown",
+      "company": "Aroundtown",
+      "date": "2026-05-06",
+      "title": "AI Business Analyst (m/f/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/data-quality-manager-mwd-at-aroundtown",
+      "category": "Leadership",
+      "seniority": "Lead / Manager",
+      "company_slug": "aroundtown",
+      "company": "Aroundtown",
+      "date": "2026-04-02",
+      "title": "Data Quality Manager (m/w/d)"
+    },
+    {
+      "url": "https://databerlin.net/jobs/senior-power-bi-engineer-microsoft-fabric-azure-at-aroundtown",
+      "category": "Data Analyst",
+      "seniority": "Senior",
+      "company_slug": "aroundtown",
+      "company": "Aroundtown",
+      "date": "2026-03-03",
+      "title": "Senior Power BI Engineer (Microsoft Fabric &#38; Azure)"
+    }
+  ]
+}
