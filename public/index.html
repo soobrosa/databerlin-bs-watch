@@ -38,6 +38,8 @@
   .badge.duplicates { color: var(--warn); border-color: var(--warn); }
   .badge.multi { color: var(--warn); border-color: var(--warn); }
   .badge.clean { color: var(--ok); border-color: var(--ok); }
+  .badge.undated { color: var(--muted); border-color: var(--line); }
+  td.numeric .unknown { color: var(--muted); font-variant-numeric: normal; }
   details { margin-top: 6px; }
   details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
   details summary:hover { color: var(--fg); }
@@ -78,7 +80,7 @@
   </table>
 
   <footer>
-    <p>Rules: <strong>stale</strong> = posting older than 90 days; <strong>duplicates</strong> = same company posts identical title on the same date; <strong>multi-seniority</strong> = same role title cloned across &ge;2 seniority levels (a common funnel-padding tactic).</p>
+    <p>Rules: <strong>stale</strong> = posting older than 90 days; <strong>duplicates</strong> = same company posts an identical title on the same date as two separate listings; <strong>multi-seniority</strong> = same role title cloned across &ge;2 seniority levels (a common funnel-padding tactic). Listings without a posting date cannot be aged, so they are counted separately rather than flagged.</p>
     <p>Source: <a href="https://databerlin.net/jobs/">databerlin.net/jobs</a>. Raw data: <a href="jobs.json">jobs.json</a> &middot; <a href="flagged.json">flagged.json</a>.</p>
   </footer>
 </main>
@@ -86,7 +88,7 @@
 <script src="flagged.js"></script>
 <script>
 const fmtAge = d => {
-  if (d == null) return "";
+  if (d == null) return `<span class="unknown">no date</span>`;
   if (d < 30) return d + "d";
   if (d < 365) return Math.round(d / 30) + "mo";
   return (d / 365).toFixed(1) + "y";
@@ -111,6 +113,7 @@ async function load() {
     <span><strong>${DATA.total_jobs}</strong> jobs</span>
     <span><strong>${DATA.total_companies}</strong> companies</span>
     <span><strong>${DATA.flagged_companies}</strong> flagged</span>
+    <span><strong>${DATA.undated_jobs ?? 0}</strong> without a date</span>
   `;
   render();
 }
@@ -150,6 +153,8 @@ function renderRow(c) {
   if (c.duplicate_groups.length) badges.push(`<span class="badge duplicates">dupes &times; ${c.duplicate_groups.length}</span>`);
   if (c.multi_seniority_groups.length) badges.push(`<span class="badge multi">multi-seniority &times; ${c.multi_seniority_groups.length}</span>`);
   if (!badges.length) badges.push(`<span class="badge clean">clean</span>`);
+  // Undated roles cannot be aged, so they are reported rather than flagged.
+  if (c.undated) badges.push(`<span class="badge undated" title="no posting date, cannot be aged">${c.undated} undated</span>`);
 
   const details = [];
   if (c.stale_jobs.length) {
@@ -159,7 +164,10 @@ function renderRow(c) {
     details.push(`<details><summary>${c.stale_jobs.length} stale &gt;90d</summary><ul class="reasons-list">${items}</ul></details>`);
   }
   if (c.duplicate_groups.length) {
-    const items = c.duplicate_groups.map(g => `<li>${esc(g.date)} &middot; "${esc(g.title)}" &times; ${g.count}</li>`).join("");
+    const items = c.duplicate_groups.map(g => {
+      const links = (g.urls || []).map((u, i) => `<a href="${esc(u)}" target="_blank" rel="noopener">#${i + 1}</a>`).join(" ");
+      return `<li>${esc(g.date)} &middot; "${esc(g.title)}" &times; ${g.count} ${links}</li>`;
+    }).join("");
     details.push(`<details><summary>${c.duplicate_groups.length} duplicate same-day group(s)</summary><ul class="reasons-list">${items}</ul></details>`);
   }
   if (c.multi_seniority_groups.length) {
