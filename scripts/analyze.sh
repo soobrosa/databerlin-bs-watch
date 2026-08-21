@@ -15,25 +15,51 @@ jq --arg today "$TODAY" '
     else ((to_epoch($today) - to_epoch($d)) / 86400) | floor
     end;
 
-  def strip_levels:
+  # "(m/f/d)", "(w/m/d)", "m/f/x", "(all genders)" and friends are boilerplate
+  # that would otherwise keep otherwise-identical titles in separate buckets.
+  def strip_diversity:
+    gsub("\\((?:[mfwdx](?:[ /]*[mfwdx])+)\\)"; " ")
+    | gsub("\\b[mfwdx](?:/[mfwdx])+\\b"; " ")
+    | gsub("\\ball genders\\b"; " ")
+    | gsub("\\bdiverse\\b"; " ");
+
+  # Pure seniority modifiers, leftover diversity initials and stopwords. Role
+  # nouns such as manager, head or director are deliberately kept: dropping
+  # them collapses genuinely different jobs into one bucket.
+  def noise_tokens:
+    [
+      "senior", "sr", "staff", "principal", "junior", "jr", "mid", "intermediate",
+      "lead", "associate", "entry", "level", "i", "ii", "iii", "iv",
+      "m", "f", "w", "d", "x",
+      "a", "an", "and", "at", "for", "in", "of", "or", "the", "to", "with"
+    ];
+
+  # Word order varies upstream ("Senior Software Engineer (m/f/d) Data" vs
+  # "(Senior) Software Engineer Data (m/f/d)"), so compare sorted token sets.
+  def norm_title:
     ascii_downcase
+    | strip_diversity
     | gsub("[^a-z0-9 ]"; " ")
-    | gsub("\\b(senior|staff|principal|lead|junior|jr|sr|mid|intermediate|head of|head|director|vp|chief|manager|associate|i|ii|iii|iv)\\b"; "")
-    | gsub("\\s+"; " ")
-    | gsub("^\\s+|\\s+$"; "");
+    | [splits(" +")]
+    | map(select(length > 0))
+    | map(select(. as $token | noise_tokens | index($token) | not))
+    | unique
+    | join(" ");
 
   def collapse_ws:
     ascii_downcase | gsub("\\s+"; " ") | gsub("^\\s+|\\s+$"; "");
 
-  ($today) as $t
-  | .jobs
-  | map(. + { age_days: age_days(.date), norm_title: (.title | strip_levels), title_key: (.title | collapse_ws) })
-  | group_by(.company)
+  (.jobs // [])
+  | unique_by(.url)
+  | map(. + { age_days: age_days(.date), norm_title: (.title | norm_title), title_key: (.title | collapse_ws) })
+  | group_by(.company_slug)
   | map(
       . as $cjobs
       | {
           company: $cjobs[0].company,
+          company_slug: $cjobs[0].company_slug,
           total: ($cjobs | length),
+          undated: ($cjobs | map(select((.date // "") == "")) | length),
           oldest_date: ($cjobs | map(.date) | map(select(. != "")) | min),
           newest_date: ($cjobs | map(.date) | map(select(. != "")) | max),
           oldest_age_days: ($cjobs | map(.age_days) | map(select(. != null)) | max),
@@ -41,7 +67,7 @@ jq --arg today "$TODAY" '
           duplicate_groups: (
             $cjobs | group_by(.date + "::" + .title_key)
             | map(select(length > 1))
-            | map({ date: .[0].date, title: .[0].title, count: length })
+            | map({ date: .[0].date, title: .[0].title, count: length, urls: (map(.url)) })
           ),
           multi_seniority_groups: (
             $cjobs | group_by(.norm_title)
@@ -65,7 +91,8 @@ jq --arg today "$TODAY" '
   | {
       generated_at: $today,
       total_companies: length,
-      total_jobs: (map(.total) | add),
+      total_jobs: ((map(.total) | add) // 0),
+      undated_jobs: ((map(.undated) | add) // 0),
       flagged_companies: (map(select(.flagged)) | length),
       companies: .
     }

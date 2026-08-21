@@ -10,16 +10,21 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - name: Install deps
+      - name: Show tool versions
         run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq ripgrep jq
+          jq --version
+          python3 --version
 
       - name: Scrape
         run: bash scripts/scrape.sh
