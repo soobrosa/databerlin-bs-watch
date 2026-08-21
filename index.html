@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Berlin Data Jobs – BS Watch</title>
+<meta name="description" content="Daily-refreshed audit of databerlin.net job listings, flagging stale, duplicated, and multi-seniority-cloned roles.">
+<style>
+  :root {
+    --fg: #111;
+    --muted: #666;
+    --line: #ddd;
+    --warn: #b45309;
+    --bad: #b91c1c;
+    --ok: #166534;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: #fff; color: var(--fg); font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  main { max-width: 960px; margin: 0 auto; padding: 24px 16px 64px; }
+  header h1 { margin: 0 0 4px; font-size: 22px; }
+  header p { margin: 0; color: var(--muted); }
+  .meta { display: flex; gap: 16px; flex-wrap: wrap; margin: 12px 0 24px; color: var(--muted); font-size: 13px; }
+  .meta strong { color: var(--fg); }
+  .controls { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 16px; align-items: center; }
+  .controls label { font-size: 13px; color: var(--muted); display: inline-flex; gap: 6px; align-items: center; }
+  .controls input[type=search] { padding: 6px 10px; border: 1px solid var(--line); border-radius: 6px; font: inherit; min-width: 220px; }
+  .controls select { padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; font: inherit; background: #fff; }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { text-align: left; padding: 10px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); cursor: pointer; user-select: none; }
+  th.sorted::after { content: " \25BC"; font-size: 9px; }
+  th.sorted.asc::after { content: " \25B2"; }
+  tbody tr.flagged { background: #fff; }
+  td.company { font-weight: 600; }
+  td.numeric { font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; }
+  .badge { display: inline-block; padding: 1px 7px; border-radius: 999px; font-size: 11px; line-height: 1.5; margin-right: 4px; border: 1px solid; }
+  .badge.stale { color: var(--bad); border-color: var(--bad); }
+  .badge.duplicates { color: var(--warn); border-color: var(--warn); }
+  .badge.multi { color: var(--warn); border-color: var(--warn); }
+  .badge.clean { color: var(--ok); border-color: var(--ok); }
+  .badge.undated { color: var(--muted); border-color: var(--line); }
+  td.numeric .unknown { color: var(--muted); font-variant-numeric: normal; }
+  details { margin-top: 6px; }
+  details summary { cursor: pointer; color: var(--muted); font-size: 12px; }
+  details summary:hover { color: var(--fg); }
+  .reasons-list { margin: 6px 0 0; padding: 0 0 0 16px; font-size: 12px; color: var(--muted); }
+  .reasons-list li { margin: 2px 0; }
+  .reasons-list a { color: var(--fg); }
+  footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 12px; }
+  footer a { color: var(--fg); }
+  @media print { .controls { display: none; } a { color: inherit; text-decoration: none; } }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Berlin Data Jobs &mdash; BS Watch</h1>
+    <p>Audits <a href="https://databerlin.net/jobs/">databerlin.net/jobs</a> daily and flags listings that smell like ghost jobs, CV harvesting, or padded headcount theatre.</p>
+  </header>
+
+  <div class="meta" id="meta"></div>
+
+  <div class="controls">
+    <label><input type="checkbox" id="flagged-only" checked> only flagged</label>
+    <label><input type="checkbox" id="stale-only"> stale &gt;90d only</label>
+    <label>min jobs <input type="number" id="min-jobs" min="1" value="1" style="width: 60px"></label>
+    <input type="search" id="q" placeholder="search company">
+  </div>
+
+  <table id="tbl">
+    <thead>
+      <tr>
+        <th data-sort="company">Company</th>
+        <th data-sort="total" class="numeric">Jobs</th>
+        <th data-sort="oldest_age_days" class="numeric sorted">Oldest</th>
+        <th>Reasons</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <footer>
+    <p>Rules: <strong>stale</strong> = posting older than 90 days; <strong>duplicates</strong> = same company posts an identical title on the same date as two separate listings; <strong>multi-seniority</strong> = same role title cloned across &ge;2 seniority levels (a common funnel-padding tactic). Listings without a posting date cannot be aged, so they are counted separately rather than flagged.</p>
+    <p>Source: <a href="https://databerlin.net/jobs/">databerlin.net/jobs</a>. Raw data: <a href="jobs.json">jobs.json</a> &middot; <a href="flagged.json">flagged.json</a>.</p>
+  </footer>
+</main>
+
+<script src="flagged.js"></script>
+<script>
+const fmtAge = d => {
+  if (d == null) return `<span class="unknown">no date</span>`;
+  if (d < 30) return d + "d";
+  if (d < 365) return Math.round(d / 30) + "mo";
+  return (d / 365).toFixed(1) + "y";
+};
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+let DATA = window.DATA || null;
+let sortKey = "oldest_age_days";
+let sortDir = "desc";
+
+async function load() {
+  if (!DATA) {
+    try {
+      const r = await fetch("flagged.json", { cache: "no-store" });
+      DATA = await r.json();
+    } catch (e) {
+      throw new Error("flagged.js missing and flagged.json fetch failed: " + e.message);
+    }
+  }
+  document.getElementById("meta").innerHTML = `
+    <span>generated <strong>${esc(DATA.generated_at)}</strong></span>
+    <span><strong>${DATA.total_jobs}</strong> jobs</span>
+    <span><strong>${DATA.total_companies}</strong> companies</span>
+    <span><strong>${DATA.flagged_companies}</strong> flagged</span>
+    <span><strong>${DATA.undated_jobs ?? 0}</strong> without a date</span>
+  `;
+  render();
+}
+
+function render() {
+  const tbody = document.querySelector("#tbl tbody");
+  const flaggedOnly = document.getElementById("flagged-only").checked;
+  const staleOnly = document.getElementById("stale-only").checked;
+  const minJobs = parseInt(document.getElementById("min-jobs").value, 10) || 1;
+  const q = document.getElementById("q").value.trim().toLowerCase();
+
+  let rows = DATA.companies.slice();
+  if (flaggedOnly) rows = rows.filter(c => c.flagged);
+  if (staleOnly) rows = rows.filter(c => c.stale_jobs.length > 0);
+  if (minJobs > 1) rows = rows.filter(c => c.total >= minJobs);
+  if (q) rows = rows.filter(c => c.company.toLowerCase().includes(q));
+
+  rows.sort((a, b) => {
+    let va = a[sortKey], vb = b[sortKey];
+    if (sortKey === "company") { va = (va||"").toLowerCase(); vb = (vb||"").toLowerCase(); }
+    if (va === vb) return 0;
+    const cmp = va > vb ? 1 : -1;
+    return sortDir === "asc" ? cmp : -cmp;
+  });
+
+  document.querySelectorAll("th[data-sort]").forEach(th => {
+    th.classList.toggle("sorted", th.dataset.sort === sortKey);
+    th.classList.toggle("asc", sortDir === "asc" && th.dataset.sort === sortKey);
+  });
+
+  tbody.innerHTML = rows.map(c => renderRow(c)).join("") || `<tr><td colspan="4" style="padding:24px;color:#666">no companies match</td></tr>`;
+}
+
+function renderRow(c) {
+  const badges = [];
+  if (c.stale_jobs.length) badges.push(`<span class="badge stale">stale &times; ${c.stale_jobs.length}</span>`);
+  if (c.duplicate_groups.length) badges.push(`<span class="badge duplicates">dupes &times; ${c.duplicate_groups.length}</span>`);
+  if (c.multi_seniority_groups.length) badges.push(`<span class="badge multi">multi-seniority &times; ${c.multi_seniority_groups.length}</span>`);
+  if (!badges.length) badges.push(`<span class="badge clean">clean</span>`);
+  // Undated roles cannot be aged, so they are reported rather than flagged.
+  if (c.undated) badges.push(`<span class="badge undated" title="no posting date, cannot be aged">${c.undated} undated</span>`);
+
+  const details = [];
+  if (c.stale_jobs.length) {
+    const items = c.stale_jobs.slice().sort((a,b)=>b.age_days-a.age_days).map(j =>
+      `<li><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a> &middot; ${fmtAge(j.age_days)} (${esc(j.date)})</li>`
+    ).join("");
+    details.push(`<details><summary>${c.stale_jobs.length} stale &gt;90d</summary><ul class="reasons-list">${items}</ul></details>`);
+  }
+  if (c.duplicate_groups.length) {
+    const items = c.duplicate_groups.map(g => {
+      const links = (g.urls || []).map((u, i) => `<a href="${esc(u)}" target="_blank" rel="noopener">#${i + 1}</a>`).join(" ");
+      return `<li>${esc(g.date)} &middot; "${esc(g.title)}" &times; ${g.count} ${links}</li>`;
+    }).join("");
+    details.push(`<details><summary>${c.duplicate_groups.length} duplicate same-day group(s)</summary><ul class="reasons-list">${items}</ul></details>`);
+  }
+  if (c.multi_seniority_groups.length) {
+    const items = c.multi_seniority_groups.map(g => `<li>"${esc(g.sample_title)}" cloned across ${esc(g.seniorities.join(", "))}</li>`).join("");
+    details.push(`<details><summary>${c.multi_seniority_groups.length} multi-seniority clone(s)</summary><ul class="reasons-list">${items}</ul></details>`);
+  }
+
+  return `
+    <tr class="${c.flagged ? "flagged" : ""}">
+      <td class="company">${esc(c.company)}</td>
+      <td class="numeric">${c.total}</td>
+      <td class="numeric" title="${esc(c.oldest_date)}">${fmtAge(c.oldest_age_days)}</td>
+      <td>${badges.join("")}${details.join("")}</td>
+    </tr>
+  `;
+}
+
+document.querySelectorAll("th[data-sort]").forEach(th => {
+  th.addEventListener("click", () => {
+    if (sortKey === th.dataset.sort) sortDir = sortDir === "asc" ? "desc" : "asc";
+    else { sortKey = th.dataset.sort; sortDir = th.dataset.sort === "company" ? "asc" : "desc"; }
+    render();
+  });
+});
+["flagged-only","stale-only","min-jobs","q"].forEach(id => {
+  document.getElementById(id).addEventListener("input", render);
+});
+
+load().catch(e => {
+  document.getElementById("meta").textContent = "failed to load data: " + e.message;
+});
+</script>
+</body>
+</html>
