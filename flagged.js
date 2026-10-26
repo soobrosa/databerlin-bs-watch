@@ -1,9 +1,9 @@
 window.DATA = {
-  "generated_at": "2026-10-25",
-  "total_companies": 368,
-  "total_jobs": 1059,
-  "undated_jobs": 145,
-  "flagged_companies": 120,
+  "generated_at": "2026-10-26",
+  "total_companies": 369,
+  "total_jobs": 1056,
+  "undated_jobs": 144,
+  "flagged_companies": 118,
   "companies": [
     {
       "company": "Reonic",
@@ -12,7 +12,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-01-15",
       "newest_date": "2026-10-21",
-      "oldest_age_days": 283,
+      "oldest_age_days": 284,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/go-to-market-ai-data-intern-ai-x-greentech-mfd-at-reonic",
@@ -23,7 +23,7 @@ window.DATA = {
           "title": "Go-to-Market AI & Data Intern (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-04-02",
-          "age_days": 206,
+          "age_days": 207,
           "norm_title": "ai data go greentech intern market",
           "title_key": "go-to-market ai & data intern (ai x greentech) (m/f/d)"
         },
@@ -36,7 +36,7 @@ window.DATA = {
           "title": "Growth & Account Manager - DACH (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-01-15",
-          "age_days": 283,
+          "age_days": 284,
           "norm_title": "account ai dach greentech growth manager",
           "title_key": "growth & account manager - dach (ai x greentech) (m/f/d)"
         },
@@ -49,7 +49,7 @@ window.DATA = {
           "title": "Product Specialist - DACH (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-01-15",
-          "age_days": 283,
+          "age_days": 284,
           "norm_title": "ai dach greentech product specialist",
           "title_key": "product specialist - dach (ai x greentech) (m/f/d)"
         },
@@ -62,7 +62,7 @@ window.DATA = {
           "title": "Product Specialist - France (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-02-25",
-          "age_days": 242,
+          "age_days": 243,
           "norm_title": "ai france greentech product specialist",
           "title_key": "product specialist - france (ai x greentech) (m/f/d)"
         },
@@ -75,7 +75,7 @@ window.DATA = {
           "title": "Talent Acquisition Specialist - GTM Focus (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-07-24",
-          "age_days": 93,
+          "age_days": 94,
           "norm_title": "acquisition ai focus greentech gtm specialist talent",
           "title_key": "talent acquisition specialist - gtm focus (ai x greentech) (m/f/d)"
         },
@@ -88,7 +88,7 @@ window.DATA = {
           "title": "Team Lead Sales Development Representative (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-05-07",
-          "age_days": 171,
+          "age_days": 172,
           "norm_title": "ai development greentech representative sales team",
           "title_key": "team lead sales development representative (ai x greentech) (m/f/d)"
         },
@@ -101,7 +101,7 @@ window.DATA = {
           "title": "Venture Development Intern - New Products (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-06-24",
-          "age_days": 123,
+          "age_days": 124,
           "norm_title": "ai development greentech intern new products venture",
           "title_key": "venture development intern - new products (ai x greentech) (m/f/d)"
         },
@@ -114,7 +114,7 @@ window.DATA = {
           "title": "Working Student Sales Development Representative (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-06-02",
-          "age_days": 145,
+          "age_days": 146,
           "norm_title": "ai development greentech representative sales student working",
           "title_key": "working student sales development representative (ai x greentech) (m/f/d)"
         }
@@ -131,7 +131,7 @@ window.DATA = {
           "title": "Event & Community Manager (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai community event greentech manager",
           "title_key": "event & community manager (ai x greentech) (m/f/d)"
         },
@@ -144,7 +144,7 @@ window.DATA = {
           "title": "Finance Intern - (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "ai finance greentech intern",
           "title_key": "finance intern - (ai x greentech) (m/f/d)"
         },
@@ -157,7 +157,7 @@ window.DATA = {
           "title": "Go-to-Market AI & Data Intern (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-04-02",
-          "age_days": 206,
+          "age_days": 207,
           "norm_title": "ai data go greentech intern market",
           "title_key": "go-to-market ai & data intern (ai x greentech) (m/f/d)"
         },
@@ -170,7 +170,7 @@ window.DATA = {
           "title": "Growth & Account Manager - DACH (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-01-15",
-          "age_days": 283,
+          "age_days": 284,
           "norm_title": "account ai dach greentech growth manager",
           "title_key": "growth & account manager - dach (ai x greentech) (m/f/d)"
         },
@@ -183,7 +183,7 @@ window.DATA = {
           "title": "Growth Product Manager - Italy (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-08-05",
-          "age_days": 81,
+          "age_days": 82,
           "norm_title": "ai greentech growth italy manager product",
           "title_key": "growth product manager - italy (ai x greentech) (m/f/d)"
         },
@@ -196,7 +196,7 @@ window.DATA = {
           "title": "Growth Product Manager - UK (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-08-05",
-          "age_days": 81,
+          "age_days": 82,
           "norm_title": "ai greentech growth manager product uk",
           "title_key": "growth product manager - uk (ai x greentech) (m/f/d)"
         },
@@ -209,7 +209,7 @@ window.DATA = {
           "title": "GTM Intern - New Products (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-09-22",
-          "age_days": 33,
+          "age_days": 34,
           "norm_title": "ai greentech gtm intern new products",
           "title_key": "gtm intern - new products (ai x greentech) (m/f/d)"
         },
@@ -222,7 +222,7 @@ window.DATA = {
           "title": "Product Specialist - DACH (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-01-15",
-          "age_days": 283,
+          "age_days": 284,
           "norm_title": "ai dach greentech product specialist",
           "title_key": "product specialist - dach (ai x greentech) (m/f/d)"
         },
@@ -235,7 +235,7 @@ window.DATA = {
           "title": "Product Specialist - France (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-02-25",
-          "age_days": 242,
+          "age_days": 243,
           "norm_title": "ai france greentech product specialist",
           "title_key": "product specialist - france (ai x greentech) (m/f/d)"
         },
@@ -248,7 +248,7 @@ window.DATA = {
           "title": "Talent Acquisition Specialist - GTM Focus (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-07-24",
-          "age_days": 93,
+          "age_days": 94,
           "norm_title": "acquisition ai focus greentech gtm specialist talent",
           "title_key": "talent acquisition specialist - gtm focus (ai x greentech) (m/f/d)"
         },
@@ -261,7 +261,7 @@ window.DATA = {
           "title": "Team Lead Sales Development Representative (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-05-07",
-          "age_days": 171,
+          "age_days": 172,
           "norm_title": "ai development greentech representative sales team",
           "title_key": "team lead sales development representative (ai x greentech) (m/f/d)"
         },
@@ -274,7 +274,7 @@ window.DATA = {
           "title": "Venture Development Intern - New Products (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-06-24",
-          "age_days": 123,
+          "age_days": 124,
           "norm_title": "ai development greentech intern new products venture",
           "title_key": "venture development intern - new products (ai x greentech) (m/f/d)"
         },
@@ -287,7 +287,7 @@ window.DATA = {
           "title": "Working Student Sales Development Representative (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-06-02",
-          "age_days": 145,
+          "age_days": 146,
           "norm_title": "ai development greentech representative sales student working",
           "title_key": "working student sales development representative (ai x greentech) (m/f/d)"
         },
@@ -300,7 +300,7 @@ window.DATA = {
           "title": "Working Student/Intern Post-Sales Operations – Germany (AI x Greentech) (m/f/d)",
           "postings": 1,
           "date": "2026-09-24",
-          "age_days": 31,
+          "age_days": 32,
           "norm_title": "ai germany greentech intern operations post sales student working",
           "title_key": "working student/intern post-sales operations – germany (ai x greentech) (m/f/d)"
         }
@@ -317,7 +317,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-02-23",
       "newest_date": "2026-10-14",
-      "oldest_age_days": 244,
+      "oldest_age_days": 245,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/ai-benchmark-engineer-native-language-specialist-chinese-mandarin-remote-at-lilt",
@@ -328,7 +328,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - Chinese Mandarin - Remote",
           "postings": 1,
           "date": "2026-04-22",
-          "age_days": 186,
+          "age_days": 187,
           "norm_title": "ai benchmark chinese engineer language mandarin native remote specialist",
           "title_key": "ai benchmark engineer | native language specialist - chinese mandarin - remote"
         },
@@ -341,7 +341,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - German (Germany) - Remote",
           "postings": 1,
           "date": "2026-02-23",
-          "age_days": 244,
+          "age_days": 245,
           "norm_title": "ai benchmark engineer german germany language native remote specialist",
           "title_key": "ai benchmark engineer | native language specialist - german (germany) - remote"
         },
@@ -354,7 +354,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - Japanese - Remote",
           "postings": 1,
           "date": "2026-02-23",
-          "age_days": 244,
+          "age_days": 245,
           "norm_title": "ai benchmark engineer japanese language native remote specialist",
           "title_key": "ai benchmark engineer | native language specialist - japanese - remote"
         },
@@ -367,7 +367,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - Korean - Remote",
           "postings": 1,
           "date": "2026-02-23",
-          "age_days": 244,
+          "age_days": 245,
           "norm_title": "ai benchmark engineer korean language native remote specialist",
           "title_key": "ai benchmark engineer | native language specialist - korean - remote"
         },
@@ -380,7 +380,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - Spanish (Spain) - Remote",
           "postings": 1,
           "date": "2026-02-23",
-          "age_days": 244,
+          "age_days": 245,
           "norm_title": "ai benchmark engineer language native remote spain spanish specialist",
           "title_key": "ai benchmark engineer | native language specialist - spanish (spain) - remote"
         },
@@ -393,7 +393,7 @@ window.DATA = {
           "title": "Project Manager, Applied AI",
           "postings": 1,
           "date": "2026-05-23",
-          "age_days": 155,
+          "age_days": 156,
           "norm_title": "ai applied manager project",
           "title_key": "project manager, applied ai"
         }
@@ -410,7 +410,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - Chinese (Hong Kong) - Remote",
           "postings": 1,
           "date": "2026-09-24",
-          "age_days": 31,
+          "age_days": 32,
           "norm_title": "ai benchmark chinese engineer hong kong language native remote specialist",
           "title_key": "ai benchmark engineer | native language specialist - chinese (hong kong) - remote"
         },
@@ -423,7 +423,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - Chinese Mandarin - Remote",
           "postings": 1,
           "date": "2026-04-22",
-          "age_days": 186,
+          "age_days": 187,
           "norm_title": "ai benchmark chinese engineer language mandarin native remote specialist",
           "title_key": "ai benchmark engineer | native language specialist - chinese mandarin - remote"
         },
@@ -436,7 +436,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - Chinese (Taiwan) - Remote",
           "postings": 1,
           "date": "2026-09-24",
-          "age_days": 31,
+          "age_days": 32,
           "norm_title": "ai benchmark chinese engineer language native remote specialist taiwan",
           "title_key": "ai benchmark engineer | native language specialist - chinese (taiwan) - remote"
         },
@@ -449,7 +449,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - Dutch - Remote",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "ai benchmark dutch engineer language native remote specialist",
           "title_key": "ai benchmark engineer | native language specialist - dutch - remote"
         },
@@ -462,7 +462,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - French (Belgium) - Remote",
           "postings": 1,
           "date": "2026-09-08",
-          "age_days": 47,
+          "age_days": 48,
           "norm_title": "ai belgium benchmark engineer french language native remote specialist",
           "title_key": "ai benchmark engineer | native language specialist - french (belgium) - remote"
         },
@@ -475,7 +475,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - French (France) - Remote",
           "postings": 1,
           "date": "2026-09-08",
-          "age_days": 47,
+          "age_days": 48,
           "norm_title": "ai benchmark engineer france french language native remote specialist",
           "title_key": "ai benchmark engineer | native language specialist - french (france) - remote"
         },
@@ -488,7 +488,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - German (Germany) - Remote",
           "postings": 1,
           "date": "2026-02-23",
-          "age_days": 244,
+          "age_days": 245,
           "norm_title": "ai benchmark engineer german germany language native remote specialist",
           "title_key": "ai benchmark engineer | native language specialist - german (germany) - remote"
         },
@@ -501,7 +501,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - German (Switzerland) - Remote",
           "postings": 1,
           "date": "2026-09-08",
-          "age_days": 47,
+          "age_days": 48,
           "norm_title": "ai benchmark engineer german language native remote specialist switzerland",
           "title_key": "ai benchmark engineer | native language specialist - german (switzerland) - remote"
         },
@@ -514,7 +514,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - Indonesian - Remote",
           "postings": 1,
           "date": "2026-09-08",
-          "age_days": 47,
+          "age_days": 48,
           "norm_title": "ai benchmark engineer indonesian language native remote specialist",
           "title_key": "ai benchmark engineer | native language specialist - indonesian - remote"
         },
@@ -527,7 +527,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - Japanese - Remote",
           "postings": 1,
           "date": "2026-02-23",
-          "age_days": 244,
+          "age_days": 245,
           "norm_title": "ai benchmark engineer japanese language native remote specialist",
           "title_key": "ai benchmark engineer | native language specialist - japanese - remote"
         },
@@ -540,7 +540,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - Korean - Remote",
           "postings": 1,
           "date": "2026-02-23",
-          "age_days": 244,
+          "age_days": 245,
           "norm_title": "ai benchmark engineer korean language native remote specialist",
           "title_key": "ai benchmark engineer | native language specialist - korean - remote"
         },
@@ -553,7 +553,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - Portuguese (Brazil) - Remote",
           "postings": 1,
           "date": "2026-09-08",
-          "age_days": 47,
+          "age_days": 48,
           "norm_title": "ai benchmark brazil engineer language native portuguese remote specialist",
           "title_key": "ai benchmark engineer | native language specialist - portuguese (brazil) - remote"
         },
@@ -566,7 +566,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - Spanish (Argentina) - Remote",
           "postings": 1,
           "date": "2026-09-08",
-          "age_days": 47,
+          "age_days": 48,
           "norm_title": "ai argentina benchmark engineer language native remote spanish specialist",
           "title_key": "ai benchmark engineer | native language specialist - spanish (argentina) - remote"
         },
@@ -579,7 +579,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - Spanish (Mexico) - Remote",
           "postings": 1,
           "date": "2026-09-08",
-          "age_days": 47,
+          "age_days": 48,
           "norm_title": "ai benchmark engineer language mexico native remote spanish specialist",
           "title_key": "ai benchmark engineer | native language specialist - spanish (mexico) - remote"
         },
@@ -592,7 +592,7 @@ window.DATA = {
           "title": "AI Benchmark Engineer | Native Language Specialist - Spanish (Spain) - Remote",
           "postings": 1,
           "date": "2026-02-23",
-          "age_days": 244,
+          "age_days": 245,
           "norm_title": "ai benchmark engineer language native remote spain spanish specialist",
           "title_key": "ai benchmark engineer | native language specialist - spanish (spain) - remote"
         },
@@ -605,7 +605,7 @@ window.DATA = {
           "title": "Project Manager, Applied AI",
           "postings": 1,
           "date": "2026-05-23",
-          "age_days": 155,
+          "age_days": 156,
           "norm_title": "ai applied manager project",
           "title_key": "project manager, applied ai"
         }
@@ -622,7 +622,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-02-02",
       "newest_date": "2026-10-07",
-      "oldest_age_days": 265,
+      "oldest_age_days": 266,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/cloud-database-infrastructure-engineer-emea-remote-at-clickhouse",
@@ -633,7 +633,7 @@ window.DATA = {
           "title": "Cloud Database Infrastructure Engineer (EMEA Remote)",
           "postings": 1,
           "date": "2026-02-02",
-          "age_days": 265,
+          "age_days": 266,
           "norm_title": "cloud database emea engineer infrastructure remote",
           "title_key": "cloud database infrastructure engineer (emea remote)"
         },
@@ -646,7 +646,7 @@ window.DATA = {
           "title": "Senior Software Engineer (Backend) - AI/ML",
           "postings": 1,
           "date": "2026-07-13",
-          "age_days": 104,
+          "age_days": 105,
           "norm_title": "ai backend engineer ml software",
           "title_key": "senior software engineer (backend) - ai/ml"
         },
@@ -659,7 +659,7 @@ window.DATA = {
           "title": "Senior Software Engineer (Backend) - AI/ML",
           "postings": 1,
           "date": "2026-06-01",
-          "age_days": 146,
+          "age_days": 147,
           "norm_title": "ai backend engineer ml software",
           "title_key": "senior software engineer (backend) - ai/ml"
         },
@@ -672,7 +672,7 @@ window.DATA = {
           "title": "Senior Software Engineer - Integrations - AI/ML",
           "postings": 1,
           "date": "2026-07-09",
-          "age_days": 108,
+          "age_days": 109,
           "norm_title": "ai engineer integrations ml software",
           "title_key": "senior software engineer - integrations - ai/ml"
         },
@@ -685,7 +685,7 @@ window.DATA = {
           "title": "Senior Software Engineer (Typescript / FrontEnd) - AI/ML",
           "postings": 1,
           "date": "2026-05-18",
-          "age_days": 160,
+          "age_days": 161,
           "norm_title": "ai engineer frontend ml software typescript",
           "title_key": "senior software engineer (typescript / frontend) - ai/ml"
         }
@@ -702,7 +702,7 @@ window.DATA = {
           "title": "AI Product Engineer - ClickStack",
           "postings": 1,
           "date": "2026-10-05",
-          "age_days": 20,
+          "age_days": 21,
           "norm_title": "ai clickstack engineer product",
           "title_key": "ai product engineer - clickstack"
         },
@@ -715,7 +715,7 @@ window.DATA = {
           "title": "Cloud Database Infrastructure Engineer (EMEA Remote)",
           "postings": 1,
           "date": "2026-02-02",
-          "age_days": 265,
+          "age_days": 266,
           "norm_title": "cloud database emea engineer infrastructure remote",
           "title_key": "cloud database infrastructure engineer (emea remote)"
         },
@@ -728,7 +728,7 @@ window.DATA = {
           "title": "Database Research Scientist",
           "postings": 1,
           "date": "2026-10-02",
-          "age_days": 23,
+          "age_days": 24,
           "norm_title": "database research scientist",
           "title_key": "database research scientist"
         },
@@ -741,7 +741,7 @@ window.DATA = {
           "title": "Machine Learning Engineer",
           "postings": 1,
           "date": "2026-10-07",
-          "age_days": 18,
+          "age_days": 19,
           "norm_title": "engineer learning machine",
           "title_key": "machine learning engineer"
         },
@@ -754,7 +754,7 @@ window.DATA = {
           "title": "Principal Database Performance Engineer - Core Engineering (C++)",
           "postings": 1,
           "date": "2026-09-17",
-          "age_days": 38,
+          "age_days": 39,
           "norm_title": "c core database engineer engineering performance",
           "title_key": "principal database performance engineer - core engineering (c++)"
         },
@@ -767,7 +767,7 @@ window.DATA = {
           "title": "Senior Software Engineer (Backend) - AI/ML",
           "postings": 1,
           "date": "2026-07-13",
-          "age_days": 104,
+          "age_days": 105,
           "norm_title": "ai backend engineer ml software",
           "title_key": "senior software engineer (backend) - ai/ml"
         },
@@ -780,7 +780,7 @@ window.DATA = {
           "title": "Senior Software Engineer (Backend) - AI/ML",
           "postings": 1,
           "date": "2026-06-01",
-          "age_days": 146,
+          "age_days": 147,
           "norm_title": "ai backend engineer ml software",
           "title_key": "senior software engineer (backend) - ai/ml"
         },
@@ -793,7 +793,7 @@ window.DATA = {
           "title": "Senior Software Engineer - Integrations - AI/ML",
           "postings": 1,
           "date": "2026-07-09",
-          "age_days": 108,
+          "age_days": 109,
           "norm_title": "ai engineer integrations ml software",
           "title_key": "senior software engineer - integrations - ai/ml"
         },
@@ -806,7 +806,7 @@ window.DATA = {
           "title": "Senior Software Engineer (Typescript / FrontEnd) - AI/ML",
           "postings": 1,
           "date": "2026-05-18",
-          "age_days": 160,
+          "age_days": 161,
           "norm_title": "ai engineer frontend ml software typescript",
           "title_key": "senior software engineer (typescript / frontend) - ai/ml"
         }
@@ -823,7 +823,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-11-10",
       "newest_date": "2026-09-24",
-      "oldest_age_days": 349,
+      "oldest_age_days": 350,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/continuous-improvement-manager-ai-startup-at-almetra-formerly-deltia",
@@ -834,7 +834,7 @@ window.DATA = {
           "title": "Continuous Improvement Manager (AI Startup)",
           "postings": 1,
           "date": "2026-02-01",
-          "age_days": 266,
+          "age_days": 267,
           "norm_title": "ai continuous improvement manager startup",
           "title_key": "continuous improvement manager (ai startup)"
         },
@@ -847,7 +847,7 @@ window.DATA = {
           "title": "Field Installation Engineer (AI Startup)",
           "postings": 1,
           "date": "2026-01-05",
-          "age_days": 293,
+          "age_days": 294,
           "norm_title": "ai engineer field installation startup",
           "title_key": "field installation engineer (ai startup)"
         },
@@ -860,7 +860,7 @@ window.DATA = {
           "title": "Manufacturing Data Analyst",
           "postings": 1,
           "date": "2025-11-10",
-          "age_days": 349,
+          "age_days": 350,
           "norm_title": "analyst data manufacturing",
           "title_key": "manufacturing data analyst"
         },
@@ -873,7 +873,7 @@ window.DATA = {
           "title": "Manufacturing Solution Engineer (AI Startup)",
           "postings": 1,
           "date": "2025-11-26",
-          "age_days": 333,
+          "age_days": 334,
           "norm_title": "ai engineer manufacturing solution startup",
           "title_key": "manufacturing solution engineer (ai startup)"
         },
@@ -886,7 +886,7 @@ window.DATA = {
           "title": "Platform Engineer (m/f/d) (AI Startup)",
           "postings": 1,
           "date": "2026-02-24",
-          "age_days": 243,
+          "age_days": 244,
           "norm_title": "ai engineer platform startup",
           "title_key": "platform engineer (m/f/d) (ai startup)"
         }
@@ -903,7 +903,7 @@ window.DATA = {
           "title": "AI Edge Deployment Engineer",
           "postings": 1,
           "date": "2026-09-07",
-          "age_days": 48,
+          "age_days": 49,
           "norm_title": "ai deployment edge engineer",
           "title_key": "ai edge deployment engineer"
         },
@@ -916,7 +916,7 @@ window.DATA = {
           "title": "Continuous Improvement Manager (AI Startup)",
           "postings": 1,
           "date": "2026-02-01",
-          "age_days": 266,
+          "age_days": 267,
           "norm_title": "ai continuous improvement manager startup",
           "title_key": "continuous improvement manager (ai startup)"
         },
@@ -929,7 +929,7 @@ window.DATA = {
           "title": "Field Installation Engineer (AI Startup)",
           "postings": 1,
           "date": "2026-01-05",
-          "age_days": 293,
+          "age_days": 294,
           "norm_title": "ai engineer field installation startup",
           "title_key": "field installation engineer (ai startup)"
         },
@@ -942,7 +942,7 @@ window.DATA = {
           "title": "Manufacturing Data Analyst",
           "postings": 1,
           "date": "2025-11-10",
-          "age_days": 349,
+          "age_days": 350,
           "norm_title": "analyst data manufacturing",
           "title_key": "manufacturing data analyst"
         },
@@ -955,7 +955,7 @@ window.DATA = {
           "title": "Manufacturing Solution Engineer (AI Startup)",
           "postings": 1,
           "date": "2025-11-26",
-          "age_days": 333,
+          "age_days": 334,
           "norm_title": "ai engineer manufacturing solution startup",
           "title_key": "manufacturing solution engineer (ai startup)"
         },
@@ -968,7 +968,7 @@ window.DATA = {
           "title": "Platform Engineer (m/f/d) (AI Startup)",
           "postings": 1,
           "date": "2026-02-24",
-          "age_days": 243,
+          "age_days": 244,
           "norm_title": "ai engineer platform startup",
           "title_key": "platform engineer (m/f/d) (ai startup)"
         },
@@ -981,7 +981,7 @@ window.DATA = {
           "title": "Technical Customer Success Manager (AI Manufacturing Enterprise)",
           "postings": 1,
           "date": "2026-09-24",
-          "age_days": 31,
+          "age_days": 32,
           "norm_title": "ai customer enterprise manager manufacturing success technical",
           "title_key": "technical customer success manager (ai manufacturing enterprise)"
         }
@@ -998,7 +998,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-04-16",
       "newest_date": "2026-04-24",
-      "oldest_age_days": 192,
+      "oldest_age_days": 193,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/ai-product-manager-berlin-at-air-apps",
@@ -1009,7 +1009,7 @@ window.DATA = {
           "title": "AI Product Manager, Berlin",
           "postings": 1,
           "date": "2026-04-16",
-          "age_days": 192,
+          "age_days": 193,
           "norm_title": "ai berlin manager product",
           "title_key": "ai product manager, berlin"
         },
@@ -1022,7 +1022,7 @@ window.DATA = {
           "title": "AI/ML Engineer, Berlin",
           "postings": 1,
           "date": "2026-04-16",
-          "age_days": 192,
+          "age_days": 193,
           "norm_title": "ai berlin engineer ml",
           "title_key": "ai/ml engineer, berlin"
         },
@@ -1035,7 +1035,7 @@ window.DATA = {
           "title": "Data Analyst",
           "postings": 1,
           "date": "2026-04-16",
-          "age_days": 192,
+          "age_days": 193,
           "norm_title": "analyst data",
           "title_key": "data analyst"
         },
@@ -1048,7 +1048,7 @@ window.DATA = {
           "title": "Data Engineer",
           "postings": 1,
           "date": "2026-04-16",
-          "age_days": 192,
+          "age_days": 193,
           "norm_title": "data engineer",
           "title_key": "data engineer"
         },
@@ -1061,7 +1061,7 @@ window.DATA = {
           "title": "Product Growth Specialist",
           "postings": 1,
           "date": "2026-04-24",
-          "age_days": 184,
+          "age_days": 185,
           "norm_title": "growth product specialist",
           "title_key": "product growth specialist"
         }
@@ -1078,7 +1078,7 @@ window.DATA = {
           "title": "AI Product Manager, Berlin",
           "postings": 1,
           "date": "2026-04-16",
-          "age_days": 192,
+          "age_days": 193,
           "norm_title": "ai berlin manager product",
           "title_key": "ai product manager, berlin"
         },
@@ -1091,7 +1091,7 @@ window.DATA = {
           "title": "AI/ML Engineer, Berlin",
           "postings": 1,
           "date": "2026-04-16",
-          "age_days": 192,
+          "age_days": 193,
           "norm_title": "ai berlin engineer ml",
           "title_key": "ai/ml engineer, berlin"
         },
@@ -1104,7 +1104,7 @@ window.DATA = {
           "title": "Data Analyst",
           "postings": 1,
           "date": "2026-04-16",
-          "age_days": 192,
+          "age_days": 193,
           "norm_title": "analyst data",
           "title_key": "data analyst"
         },
@@ -1117,7 +1117,7 @@ window.DATA = {
           "title": "Data Engineer",
           "postings": 1,
           "date": "2026-04-16",
-          "age_days": 192,
+          "age_days": 193,
           "norm_title": "data engineer",
           "title_key": "data engineer"
         },
@@ -1130,7 +1130,7 @@ window.DATA = {
           "title": "Product Growth Specialist",
           "postings": 1,
           "date": "2026-04-24",
-          "age_days": 184,
+          "age_days": 185,
           "norm_title": "growth product specialist",
           "title_key": "product growth specialist"
         }
@@ -1147,7 +1147,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-09-26",
       "newest_date": "2026-09-29",
-      "oldest_age_days": 394,
+      "oldest_age_days": 395,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/cloud-data-architect-mwd-microsoft-fabric-databricks-at-dataciders",
@@ -1158,7 +1158,7 @@ window.DATA = {
           "title": "Cloud Data Architect (m/w/d) – Microsoft Fabric & Databricks",
           "postings": 1,
           "date": "2025-12-10",
-          "age_days": 319,
+          "age_days": 320,
           "norm_title": "architect cloud data databricks fabric microsoft",
           "title_key": "cloud data architect (m/w/d) – microsoft fabric & databricks"
         },
@@ -1171,7 +1171,7 @@ window.DATA = {
           "title": "Cloud Data Engineer (m/w/d)",
           "postings": 1,
           "date": "2026-02-19",
-          "age_days": 248,
+          "age_days": 249,
           "norm_title": "cloud data engineer",
           "title_key": "cloud data engineer (m/w/d)"
         },
@@ -1184,7 +1184,7 @@ window.DATA = {
           "title": "Data Strategy & Governance Consultant (m/w/d)",
           "postings": 1,
           "date": "2025-09-26",
-          "age_days": 394,
+          "age_days": 395,
           "norm_title": "consultant data governance strategy",
           "title_key": "data strategy & governance consultant (m/w/d)"
         },
@@ -1197,7 +1197,7 @@ window.DATA = {
           "title": "SAP Data & Analytics Consultant (m/w/d)",
           "postings": 1,
           "date": "2026-06-25",
-          "age_days": 122,
+          "age_days": 123,
           "norm_title": "analytics consultant data sap",
           "title_key": "sap data & analytics consultant (m/w/d)"
         }
@@ -1214,7 +1214,7 @@ window.DATA = {
           "title": "Cloud Data Architect (m/w/d) – Microsoft Fabric & Databricks",
           "postings": 1,
           "date": "2025-12-10",
-          "age_days": 319,
+          "age_days": 320,
           "norm_title": "architect cloud data databricks fabric microsoft",
           "title_key": "cloud data architect (m/w/d) – microsoft fabric & databricks"
         },
@@ -1227,7 +1227,7 @@ window.DATA = {
           "title": "Cloud Data Engineer (m/w/d)",
           "postings": 1,
           "date": "2026-02-19",
-          "age_days": 248,
+          "age_days": 249,
           "norm_title": "cloud data engineer",
           "title_key": "cloud data engineer (m/w/d)"
         },
@@ -1240,7 +1240,7 @@ window.DATA = {
           "title": "Consultant (m/w/d) Data Excellence",
           "postings": 1,
           "date": "2026-09-10",
-          "age_days": 45,
+          "age_days": 46,
           "norm_title": "consultant data excellence",
           "title_key": "consultant (m/w/d) data excellence"
         },
@@ -1253,7 +1253,7 @@ window.DATA = {
           "title": "Data & AI Consultant (m/w/d)",
           "postings": 1,
           "date": "2026-09-07",
-          "age_days": 48,
+          "age_days": 49,
           "norm_title": "ai consultant data",
           "title_key": "data & ai consultant (m/w/d)"
         },
@@ -1266,7 +1266,7 @@ window.DATA = {
           "title": "Data & AI Consultant (m/w/d) Data Quality",
           "postings": 1,
           "date": "2026-09-07",
-          "age_days": 48,
+          "age_days": 49,
           "norm_title": "ai consultant data quality",
           "title_key": "data & ai consultant (m/w/d) data quality"
         },
@@ -1279,7 +1279,7 @@ window.DATA = {
           "title": "Data Strategy & Governance Consultant (m/w/d)",
           "postings": 1,
           "date": "2025-09-26",
-          "age_days": 394,
+          "age_days": 395,
           "norm_title": "consultant data governance strategy",
           "title_key": "data strategy & governance consultant (m/w/d)"
         },
@@ -1292,7 +1292,7 @@ window.DATA = {
           "title": "Databricks Data Engineer (m/w/d)",
           "postings": 1,
           "date": "2026-09-29",
-          "age_days": 26,
+          "age_days": 27,
           "norm_title": "data databricks engineer",
           "title_key": "databricks data engineer (m/w/d)"
         },
@@ -1305,7 +1305,7 @@ window.DATA = {
           "title": "SAP Data & Analytics Consultant (m/w/d)",
           "postings": 1,
           "date": "2026-06-25",
-          "age_days": 122,
+          "age_days": 123,
           "norm_title": "analytics consultant data sap",
           "title_key": "sap data & analytics consultant (m/w/d)"
         },
@@ -1318,7 +1318,7 @@ window.DATA = {
           "title": "Senior Data & Analytics Consultant (m/w/d) - Microsoft Fabric",
           "postings": 1,
           "date": "2026-09-29",
-          "age_days": 26,
+          "age_days": 27,
           "norm_title": "analytics consultant data fabric microsoft",
           "title_key": "senior data & analytics consultant (m/w/d) - microsoft fabric"
         },
@@ -1331,7 +1331,7 @@ window.DATA = {
           "title": "Senior Databricks Architect (m/w/d)",
           "postings": 1,
           "date": "2026-09-29",
-          "age_days": 26,
+          "age_days": 27,
           "norm_title": "architect databricks",
           "title_key": "senior databricks architect (m/w/d)"
         },
@@ -1344,7 +1344,7 @@ window.DATA = {
           "title": "Senior Full Stack Software Developer (m/w/d) AI",
           "postings": 1,
           "date": "2026-09-22",
-          "age_days": 33,
+          "age_days": 34,
           "norm_title": "ai developer full software stack",
           "title_key": "senior full stack software developer (m/w/d) ai"
         },
@@ -1357,7 +1357,7 @@ window.DATA = {
           "title": "Senior IT Consultant (m/w/d) Projekt- & Portfoliomanagement / AI-Plattformen",
           "postings": 1,
           "date": "2026-09-22",
-          "age_days": 33,
+          "age_days": 34,
           "norm_title": "ai consultant it plattformen portfoliomanagement projekt",
           "title_key": "senior it consultant (m/w/d) projekt- & portfoliomanagement / ai-plattformen"
         },
@@ -1370,7 +1370,7 @@ window.DATA = {
           "title": "Team Lead (m/w/d) SAP BTP & AI Architecture",
           "postings": 1,
           "date": "2026-09-22",
-          "age_days": 33,
+          "age_days": 34,
           "norm_title": "ai architecture btp sap team",
           "title_key": "team lead (m/w/d) sap btp & ai architecture"
         }
@@ -1387,7 +1387,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-06-16",
       "newest_date": "2026-10-14",
-      "oldest_age_days": 131,
+      "oldest_age_days": 132,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/ai-portfolio-lead-learning-content-mwd-at-stackfuel",
@@ -1398,7 +1398,7 @@ window.DATA = {
           "title": "AI Portfolio Lead - Learning Content (m/w/d)",
           "postings": 1,
           "date": "2026-06-16",
-          "age_days": 131,
+          "age_days": 132,
           "norm_title": "ai content learning portfolio",
           "title_key": "ai portfolio lead - learning content (m/w/d)"
         },
@@ -1411,7 +1411,7 @@ window.DATA = {
           "title": "Analytics Engineer (w/m/d)",
           "postings": 1,
           "date": "2026-07-24",
-          "age_days": 93,
+          "age_days": 94,
           "norm_title": "analytics engineer",
           "title_key": "analytics engineer (w/m/d)"
         },
@@ -1424,7 +1424,7 @@ window.DATA = {
           "title": "Business IntelligenceTutor/Lehrkraft (all genders)",
           "postings": 1,
           "date": "2026-06-29",
-          "age_days": 118,
+          "age_days": 119,
           "norm_title": "business intelligencetutor lehrkraft",
           "title_key": "business intelligencetutor/lehrkraft (all genders)"
         },
@@ -1437,7 +1437,7 @@ window.DATA = {
           "title": "Data Portfolio Lead - Learning Content (m/w/d)",
           "postings": 1,
           "date": "2026-07-20",
-          "age_days": 97,
+          "age_days": 98,
           "norm_title": "content data learning portfolio",
           "title_key": "data portfolio lead - learning content (m/w/d)"
         }
@@ -1454,7 +1454,7 @@ window.DATA = {
           "title": "AI & Engineering Lehrkraft/Coach (all genders)",
           "postings": 1,
           "date": "2026-09-01",
-          "age_days": 54,
+          "age_days": 55,
           "norm_title": "ai coach engineering lehrkraft",
           "title_key": "ai & engineering lehrkraft/coach (all genders)"
         },
@@ -1467,7 +1467,7 @@ window.DATA = {
           "title": "AI Portfolio Lead - Learning Content (m/w/d)",
           "postings": 1,
           "date": "2026-06-16",
-          "age_days": 131,
+          "age_days": 132,
           "norm_title": "ai content learning portfolio",
           "title_key": "ai portfolio lead - learning content (m/w/d)"
         },
@@ -1480,7 +1480,7 @@ window.DATA = {
           "title": "Analytics Engineer (w/m/d)",
           "postings": 1,
           "date": "2026-07-24",
-          "age_days": 93,
+          "age_days": 94,
           "norm_title": "analytics engineer",
           "title_key": "analytics engineer (w/m/d)"
         },
@@ -1493,7 +1493,7 @@ window.DATA = {
           "title": "Business IntelligenceTutor/Lehrkraft (all genders)",
           "postings": 1,
           "date": "2026-06-29",
-          "age_days": 118,
+          "age_days": 119,
           "norm_title": "business intelligencetutor lehrkraft",
           "title_key": "business intelligencetutor/lehrkraft (all genders)"
         },
@@ -1506,7 +1506,7 @@ window.DATA = {
           "title": "Data Portfolio Lead - Learning Content (m/w/d)",
           "postings": 1,
           "date": "2026-07-20",
-          "age_days": 97,
+          "age_days": 98,
           "norm_title": "content data learning portfolio",
           "title_key": "data portfolio lead - learning content (m/w/d)"
         },
@@ -1519,7 +1519,7 @@ window.DATA = {
           "title": "Senior Forward Deployed Engineer - AI / Fullstack(f/m/d)",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "ai deployed engineer forward fullstack",
           "title_key": "senior forward deployed engineer - ai / fullstack(f/m/d)"
         },
@@ -1532,7 +1532,7 @@ window.DATA = {
           "title": "Senior Forward Deployed Engineer - AI / Fullstack(w/m/d)",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "ai deployed engineer forward fullstack",
           "title_key": "senior forward deployed engineer - ai / fullstack(w/m/d)"
         },
@@ -1545,7 +1545,7 @@ window.DATA = {
           "title": "Senior Fullstack AI Engineer (f/m/d)",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "ai engineer fullstack",
           "title_key": "senior fullstack ai engineer (f/m/d)"
         },
@@ -1558,7 +1558,7 @@ window.DATA = {
           "title": "Senior Fullstack AI Engineer (w/m/d)",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "ai engineer fullstack",
           "title_key": "senior fullstack ai engineer (w/m/d)"
         },
@@ -1571,7 +1571,7 @@ window.DATA = {
           "title": "Tech Lead AI DevOps / Infrastructure (f/m/d)",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "ai devops infrastructure tech",
           "title_key": "tech lead ai devops / infrastructure (f/m/d)"
         },
@@ -1584,7 +1584,7 @@ window.DATA = {
           "title": "Tech Lead AI DevOps / Infrastructure (w/m/d)",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "ai devops infrastructure tech",
           "title_key": "tech lead ai devops / infrastructure (w/m/d)"
         }
@@ -1601,7 +1601,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-09-26",
       "newest_date": "2026-08-04",
-      "oldest_age_days": 394,
+      "oldest_age_days": 395,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/full-stack-engineer-ml-platform-at-prior-labs",
@@ -1612,7 +1612,7 @@ window.DATA = {
           "title": "Full Stack Engineer, ML Platform",
           "postings": 1,
           "date": "2026-06-25",
-          "age_days": 122,
+          "age_days": 123,
           "norm_title": "engineer full ml platform stack",
           "title_key": "full stack engineer, ml platform"
         },
@@ -1625,7 +1625,7 @@ window.DATA = {
           "title": "ML Engineer, Backend",
           "postings": 1,
           "date": "2025-09-26",
-          "age_days": 394,
+          "age_days": 395,
           "norm_title": "backend engineer ml",
           "title_key": "ml engineer, backend"
         },
@@ -1638,7 +1638,7 @@ window.DATA = {
           "title": "ML Engineer, Forward Deployed",
           "postings": 1,
           "date": "2026-06-25",
-          "age_days": 122,
+          "age_days": 123,
           "norm_title": "deployed engineer forward ml",
           "title_key": "ml engineer, forward deployed"
         },
@@ -1651,7 +1651,7 @@ window.DATA = {
           "title": "Research Scientist, Foundational Data Science",
           "postings": 1,
           "date": "2026-07-02",
-          "age_days": 115,
+          "age_days": 116,
           "norm_title": "data foundational research science scientist",
           "title_key": "research scientist, foundational data science"
         }
@@ -1668,7 +1668,7 @@ window.DATA = {
           "title": "Full Stack Engineer, ML Platform",
           "postings": 1,
           "date": "2026-06-25",
-          "age_days": 122,
+          "age_days": 123,
           "norm_title": "engineer full ml platform stack",
           "title_key": "full stack engineer, ml platform"
         },
@@ -1681,7 +1681,7 @@ window.DATA = {
           "title": "ML Engineer, Backend",
           "postings": 1,
           "date": "2025-09-26",
-          "age_days": 394,
+          "age_days": 395,
           "norm_title": "backend engineer ml",
           "title_key": "ml engineer, backend"
         },
@@ -1694,7 +1694,7 @@ window.DATA = {
           "title": "ML Engineer, Forward Deployed",
           "postings": 1,
           "date": "2026-06-25",
-          "age_days": 122,
+          "age_days": 123,
           "norm_title": "deployed engineer forward ml",
           "title_key": "ml engineer, forward deployed"
         },
@@ -1707,7 +1707,7 @@ window.DATA = {
           "title": "ML Engineer, Infrastructure",
           "postings": 1,
           "date": "2026-08-04",
-          "age_days": 82,
+          "age_days": 83,
           "norm_title": "engineer infrastructure ml",
           "title_key": "ml engineer, infrastructure"
         },
@@ -1720,7 +1720,7 @@ window.DATA = {
           "title": "Research Scientist, Foundational Data Science",
           "postings": 1,
           "date": "2026-07-02",
-          "age_days": 115,
+          "age_days": 116,
           "norm_title": "data foundational research science scientist",
           "title_key": "research scientist, foundational data science"
         }
@@ -1737,7 +1737,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-12-17",
       "newest_date": "2026-10-24",
-      "oldest_age_days": 312,
+      "oldest_age_days": 313,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/database-support-engineer-amer-at-supabase",
@@ -1748,7 +1748,7 @@ window.DATA = {
           "title": "Database Support Engineer (AMER)",
           "postings": 1,
           "date": "2025-12-17",
-          "age_days": 312,
+          "age_days": 313,
           "norm_title": "amer database engineer support",
           "title_key": "database support engineer (amer)"
         },
@@ -1761,7 +1761,7 @@ window.DATA = {
           "title": "Database Support Engineer (EMEA)",
           "postings": 1,
           "date": "2025-12-17",
-          "age_days": 312,
+          "age_days": 313,
           "norm_title": "database emea engineer support",
           "title_key": "database support engineer (emea)"
         },
@@ -1774,7 +1774,7 @@ window.DATA = {
           "title": "Software Engineer - Spark",
           "postings": 1,
           "date": "2026-07-17",
-          "age_days": 100,
+          "age_days": 101,
           "norm_title": "engineer software spark",
           "title_key": "software engineer - spark"
         }
@@ -1791,7 +1791,7 @@ window.DATA = {
           "title": "AI Platform Engineer",
           "postings": 1,
           "date": "2026-07-31",
-          "age_days": 86,
+          "age_days": 87,
           "norm_title": "ai engineer platform",
           "title_key": "ai platform engineer"
         },
@@ -1804,7 +1804,7 @@ window.DATA = {
           "title": "Data API Engineer",
           "postings": 1,
           "date": "2026-10-24",
-          "age_days": 1,
+          "age_days": 2,
           "norm_title": "api data engineer",
           "title_key": "data api engineer"
         },
@@ -1817,7 +1817,7 @@ window.DATA = {
           "title": "Database Support Engineer (AMER)",
           "postings": 1,
           "date": "2025-12-17",
-          "age_days": 312,
+          "age_days": 313,
           "norm_title": "amer database engineer support",
           "title_key": "database support engineer (amer)"
         },
@@ -1830,7 +1830,7 @@ window.DATA = {
           "title": "Database Support Engineer (EMEA)",
           "postings": 1,
           "date": "2025-12-17",
-          "age_days": 312,
+          "age_days": 313,
           "norm_title": "database emea engineer support",
           "title_key": "database support engineer (emea)"
         },
@@ -1843,7 +1843,7 @@ window.DATA = {
           "title": "Engineering Manager - Spark",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "engineering manager spark",
           "title_key": "engineering manager - spark"
         },
@@ -1856,7 +1856,7 @@ window.DATA = {
           "title": "FinOps Data Engineer",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "data engineer finops",
           "title_key": "finops data engineer"
         },
@@ -1869,7 +1869,7 @@ window.DATA = {
           "title": "Head of AI Native Operations",
           "postings": 1,
           "date": "2026-10-05",
-          "age_days": 20,
+          "age_days": 21,
           "norm_title": "ai head native operations",
           "title_key": "head of ai native operations"
         },
@@ -1882,7 +1882,7 @@ window.DATA = {
           "title": "Senior Data Analyst - Marketing",
           "postings": 1,
           "date": "2026-08-04",
-          "age_days": 82,
+          "age_days": 83,
           "norm_title": "analyst data marketing",
           "title_key": "senior data analyst - marketing"
         },
@@ -1895,7 +1895,7 @@ window.DATA = {
           "title": "Software Engineer - Spark",
           "postings": 1,
           "date": "2026-07-17",
-          "age_days": 100,
+          "age_days": 101,
           "norm_title": "engineer software spark",
           "title_key": "software engineer - spark"
         }
@@ -1912,7 +1912,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-04-17",
       "newest_date": "2026-10-16",
-      "oldest_age_days": 191,
+      "oldest_age_days": 192,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/ai-automation-engineer-at-cosuno",
@@ -1923,7 +1923,7 @@ window.DATA = {
           "title": "AI Automation Engineer",
           "postings": 1,
           "date": "2026-06-16",
-          "age_days": 131,
+          "age_days": 132,
           "norm_title": "ai automation engineer",
           "title_key": "ai automation engineer"
         },
@@ -1936,7 +1936,7 @@ window.DATA = {
           "title": "Founder's Associate Internship – AI-Native",
           "postings": 1,
           "date": "2026-05-27",
-          "age_days": 151,
+          "age_days": 152,
           "norm_title": "ai founder internship native s",
           "title_key": "founder's associate internship – ai-native"
         },
@@ -1949,7 +1949,7 @@ window.DATA = {
           "title": "Principal ML Engineer",
           "postings": 1,
           "date": "2026-04-17",
-          "age_days": 191,
+          "age_days": 192,
           "norm_title": "engineer ml",
           "title_key": "principal ml engineer"
         }
@@ -1966,7 +1966,7 @@ window.DATA = {
           "title": "AI Automation Engineer",
           "postings": 1,
           "date": "2026-06-16",
-          "age_days": 131,
+          "age_days": 132,
           "norm_title": "ai automation engineer",
           "title_key": "ai automation engineer"
         },
@@ -1979,7 +1979,7 @@ window.DATA = {
           "title": "Founder's Associate Internship – AI-Native",
           "postings": 1,
           "date": "2026-05-27",
-          "age_days": 151,
+          "age_days": 152,
           "norm_title": "ai founder internship native s",
           "title_key": "founder's associate internship – ai-native"
         },
@@ -1992,7 +1992,7 @@ window.DATA = {
           "title": "GTM & Growth Engineer",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "engineer growth gtm",
           "title_key": "gtm & growth engineer"
         },
@@ -2005,22 +2005,9 @@ window.DATA = {
           "title": "Principal ML Engineer",
           "postings": 1,
           "date": "2026-04-17",
-          "age_days": 191,
+          "age_days": 192,
           "norm_title": "engineer ml",
           "title_key": "principal ml engineer"
-        },
-        {
-          "url": "https://databerlin.net/jobs/senior-ai-product-engineer-at-cosuno",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Senior",
-          "company_slug": "cosuno",
-          "company": "Cosuno",
-          "title": "Senior AI Product Engineer",
-          "postings": 1,
-          "date": "2026-09-10",
-          "age_days": 45,
-          "norm_title": "ai engineer product",
-          "title_key": "senior ai product engineer"
         },
         {
           "url": "https://databerlin.net/jobs/senior-data-analyst-at-cosuno",
@@ -2031,9 +2018,22 @@ window.DATA = {
           "title": "Senior Data Analyst",
           "postings": 1,
           "date": "2026-09-24",
-          "age_days": 31,
+          "age_days": 32,
           "norm_title": "analyst data",
           "title_key": "senior data analyst"
+        },
+        {
+          "url": "https://databerlin.net/jobs/senior-product-engineer-ai-agents-at-cosuno",
+          "category": "genAI/LLM/Agentic AI",
+          "seniority": "Senior",
+          "company_slug": "cosuno",
+          "company": "Cosuno",
+          "title": "Senior Product Engineer (AI Agents)",
+          "postings": 1,
+          "date": "2026-09-10",
+          "age_days": 46,
+          "norm_title": "agents ai engineer product",
+          "title_key": "senior product engineer (ai agents)"
         }
       ],
       "reasons": [
@@ -2048,7 +2048,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-01-25",
       "newest_date": "2026-01-28",
-      "oldest_age_days": 273,
+      "oldest_age_days": 274,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-ai-llm-engineer-agent-developer-mfd-at-blocks",
@@ -2059,7 +2059,7 @@ window.DATA = {
           "title": "Senior AI / LLM Engineer – Agent Developer (m/f/d)",
           "postings": 1,
           "date": "2026-01-28",
-          "age_days": 270,
+          "age_days": 271,
           "norm_title": "agent ai developer engineer llm",
           "title_key": "senior ai / llm engineer – agent developer (m/f/d)"
         },
@@ -2072,7 +2072,7 @@ window.DATA = {
           "title": "Senior Backend Engineer - Data Platform (m/f/d)",
           "postings": 1,
           "date": "2026-01-25",
-          "age_days": 273,
+          "age_days": 274,
           "norm_title": "backend data engineer platform",
           "title_key": "senior backend engineer - data platform (m/f/d)"
         },
@@ -2085,7 +2085,7 @@ window.DATA = {
           "title": "Senior LLM Platform / Infra Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-01-28",
-          "age_days": 270,
+          "age_days": 271,
           "norm_title": "engineer infra llm platform",
           "title_key": "senior llm platform / infra engineer (m/f/d)"
         }
@@ -2102,7 +2102,7 @@ window.DATA = {
           "title": "Senior AI / LLM Engineer – Agent Developer (m/f/d)",
           "postings": 1,
           "date": "2026-01-28",
-          "age_days": 270,
+          "age_days": 271,
           "norm_title": "agent ai developer engineer llm",
           "title_key": "senior ai / llm engineer – agent developer (m/f/d)"
         },
@@ -2115,7 +2115,7 @@ window.DATA = {
           "title": "Senior Backend Engineer - Data Platform (m/f/d)",
           "postings": 1,
           "date": "2026-01-25",
-          "age_days": 273,
+          "age_days": 274,
           "norm_title": "backend data engineer platform",
           "title_key": "senior backend engineer - data platform (m/f/d)"
         },
@@ -2128,7 +2128,7 @@ window.DATA = {
           "title": "Senior LLM Platform / Infra Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-01-28",
-          "age_days": 270,
+          "age_days": 271,
           "norm_title": "engineer infra llm platform",
           "title_key": "senior llm platform / infra engineer (m/f/d)"
         }
@@ -2145,7 +2145,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-03-26",
       "newest_date": "2026-05-27",
-      "oldest_age_days": 213,
+      "oldest_age_days": 214,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/scientific-lead-health-data-research-fmx-at-data4life",
@@ -2156,7 +2156,7 @@ window.DATA = {
           "title": "Scientific Lead - Health Data Research (f/m/x)",
           "postings": 1,
           "date": "2026-03-26",
-          "age_days": 213,
+          "age_days": 214,
           "norm_title": "data health research scientific",
           "title_key": "scientific lead - health data research (f/m/x)"
         },
@@ -2169,7 +2169,7 @@ window.DATA = {
           "title": "Senior Product Manager (f/m/x) Electronic Data Capture",
           "postings": 1,
           "date": "2026-05-18",
-          "age_days": 160,
+          "age_days": 161,
           "norm_title": "capture data electronic manager product",
           "title_key": "senior product manager (f/m/x) electronic data capture"
         },
@@ -2182,7 +2182,7 @@ window.DATA = {
           "title": "Senior Project Manager - Real-World Health Data Platforms (f/m/x)",
           "postings": 1,
           "date": "2026-05-27",
-          "age_days": 151,
+          "age_days": 152,
           "norm_title": "data health manager platforms project real world",
           "title_key": "senior project manager - real-world health data platforms (f/m/x)"
         }
@@ -2199,7 +2199,7 @@ window.DATA = {
           "title": "Scientific Lead - Health Data Research (f/m/x)",
           "postings": 1,
           "date": "2026-03-26",
-          "age_days": 213,
+          "age_days": 214,
           "norm_title": "data health research scientific",
           "title_key": "scientific lead - health data research (f/m/x)"
         },
@@ -2212,7 +2212,7 @@ window.DATA = {
           "title": "Senior Product Manager (f/m/x) Electronic Data Capture",
           "postings": 1,
           "date": "2026-05-18",
-          "age_days": 160,
+          "age_days": 161,
           "norm_title": "capture data electronic manager product",
           "title_key": "senior product manager (f/m/x) electronic data capture"
         },
@@ -2225,7 +2225,7 @@ window.DATA = {
           "title": "Senior Project Manager - Real-World Health Data Platforms (f/m/x)",
           "postings": 1,
           "date": "2026-05-27",
-          "age_days": 151,
+          "age_days": 152,
           "norm_title": "data health manager platforms project real world",
           "title_key": "senior project manager - real-world health data platforms (f/m/x)"
         }
@@ -2242,7 +2242,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-03-06",
       "newest_date": "2026-07-21",
-      "oldest_age_days": 233,
+      "oldest_age_days": 234,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/machine-learning-engineer-at-sensmore",
@@ -2253,7 +2253,7 @@ window.DATA = {
           "title": "Machine Learning Engineer",
           "postings": 1,
           "date": "2026-07-21",
-          "age_days": 96,
+          "age_days": 97,
           "norm_title": "engineer learning machine",
           "title_key": "machine learning engineer"
         },
@@ -2266,7 +2266,7 @@ window.DATA = {
           "title": "ML Ops / Data Engineer - Robotics",
           "postings": 1,
           "date": "2026-03-06",
-          "age_days": 233,
+          "age_days": 234,
           "norm_title": "data engineer ml ops robotics",
           "title_key": "ml ops / data engineer - robotics"
         },
@@ -2279,7 +2279,7 @@ window.DATA = {
           "title": "Robotics Engineer - AI",
           "postings": 1,
           "date": "2026-03-14",
-          "age_days": 225,
+          "age_days": 226,
           "norm_title": "ai engineer robotics",
           "title_key": "robotics engineer - ai"
         }
@@ -2296,7 +2296,7 @@ window.DATA = {
           "title": "Machine Learning Engineer",
           "postings": 1,
           "date": "2026-07-21",
-          "age_days": 96,
+          "age_days": 97,
           "norm_title": "engineer learning machine",
           "title_key": "machine learning engineer"
         },
@@ -2309,7 +2309,7 @@ window.DATA = {
           "title": "ML Ops / Data Engineer - Robotics",
           "postings": 1,
           "date": "2026-03-06",
-          "age_days": 233,
+          "age_days": 234,
           "norm_title": "data engineer ml ops robotics",
           "title_key": "ml ops / data engineer - robotics"
         },
@@ -2322,7 +2322,7 @@ window.DATA = {
           "title": "Robotics Engineer - AI",
           "postings": 1,
           "date": "2026-03-14",
-          "age_days": 225,
+          "age_days": 226,
           "norm_title": "ai engineer robotics",
           "title_key": "robotics engineer - ai"
         }
@@ -2339,7 +2339,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-11-17",
       "newest_date": "2026-10-01",
-      "oldest_age_days": 342,
+      "oldest_age_days": 343,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/applied-ai-architect-at-openai",
@@ -2350,7 +2350,7 @@ window.DATA = {
           "title": "Applied AI Architect",
           "postings": 1,
           "date": "2025-11-17",
-          "age_days": 342,
+          "age_days": 343,
           "norm_title": "ai applied architect",
           "title_key": "applied ai architect"
         },
@@ -2363,7 +2363,7 @@ window.DATA = {
           "title": "Partner AI Deployment Engineer - AWS",
           "postings": 1,
           "date": "2026-06-01",
-          "age_days": 146,
+          "age_days": 147,
           "norm_title": "ai aws deployment engineer partner",
           "title_key": "partner ai deployment engineer - aws"
         }
@@ -2380,7 +2380,7 @@ window.DATA = {
           "title": "AI Support Engineer - Toronto",
           "postings": 1,
           "date": "2026-08-15",
-          "age_days": 71,
+          "age_days": 72,
           "norm_title": "ai engineer support toronto",
           "title_key": "ai support engineer - toronto"
         },
@@ -2393,7 +2393,7 @@ window.DATA = {
           "title": "AI Support Engineer - Toronto (Weekend Shift)",
           "postings": 1,
           "date": "2026-09-28",
-          "age_days": 27,
+          "age_days": 28,
           "norm_title": "ai engineer shift support toronto weekend",
           "title_key": "ai support engineer - toronto (weekend shift)"
         },
@@ -2406,7 +2406,7 @@ window.DATA = {
           "title": "Applied AI Architect",
           "postings": 1,
           "date": "2025-11-17",
-          "age_days": 342,
+          "age_days": 343,
           "norm_title": "ai applied architect",
           "title_key": "applied ai architect"
         },
@@ -2419,7 +2419,7 @@ window.DATA = {
           "title": "Manager, Applied AI Architect (India)",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "ai applied architect india manager",
           "title_key": "manager, applied ai architect (india)"
         },
@@ -2432,7 +2432,7 @@ window.DATA = {
           "title": "Partner AI Deployment Engineer - AWS",
           "postings": 1,
           "date": "2026-06-01",
-          "age_days": 146,
+          "age_days": 147,
           "norm_title": "ai aws deployment engineer partner",
           "title_key": "partner ai deployment engineer - aws"
         }
@@ -2449,7 +2449,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-12-12",
       "newest_date": "2026-09-01",
-      "oldest_age_days": 317,
+      "oldest_age_days": 318,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/growth-sales-intern-fmd-meteoric-at-merantix",
@@ -2460,7 +2460,7 @@ window.DATA = {
           "title": "Growth & Sales Intern (f/m/d) (METEORIC)",
           "postings": 1,
           "date": "2026-05-28",
-          "age_days": 150,
+          "age_days": 151,
           "norm_title": "growth intern meteoric sales",
           "title_key": "growth & sales intern (f/m/d) (meteoric)"
         },
@@ -2473,7 +2473,7 @@ window.DATA = {
           "title": "Growth & Sales Intern (f/m/d) (Stealth AI Energy Venture)",
           "postings": 1,
           "date": "2025-12-12",
-          "age_days": 317,
+          "age_days": 318,
           "norm_title": "ai energy growth intern sales stealth venture",
           "title_key": "growth & sales intern (f/m/d) (stealth ai energy venture)"
         }
@@ -2490,7 +2490,7 @@ window.DATA = {
           "title": "Co-founder & CTO (Stealth AI Infrastructure for Physical Commodity Trading Venture)",
           "postings": 1,
           "date": "2026-08-20",
-          "age_days": 66,
+          "age_days": 67,
           "norm_title": "ai co commodity cto founder infrastructure physical stealth trading venture",
           "title_key": "co-founder & cto (stealth ai infrastructure for physical commodity trading venture)"
         },
@@ -2503,7 +2503,7 @@ window.DATA = {
           "title": "Growth & Sales Intern (f/m/d) (METEORIC)",
           "postings": 1,
           "date": "2026-05-28",
-          "age_days": 150,
+          "age_days": 151,
           "norm_title": "growth intern meteoric sales",
           "title_key": "growth & sales intern (f/m/d) (meteoric)"
         },
@@ -2516,7 +2516,7 @@ window.DATA = {
           "title": "Growth & Sales Intern (f/m/d) (Stealth AI Energy Venture)",
           "postings": 1,
           "date": "2025-12-12",
-          "age_days": 317,
+          "age_days": 318,
           "norm_title": "ai energy growth intern sales stealth venture",
           "title_key": "growth & sales intern (f/m/d) (stealth ai energy venture)"
         },
@@ -2529,7 +2529,7 @@ window.DATA = {
           "title": "Product Engineer (Backend/AI) @Briink",
           "postings": 1,
           "date": "2026-09-01",
-          "age_days": 54,
+          "age_days": 55,
           "norm_title": "ai backend briink engineer product",
           "title_key": "product engineer (backend/ai) @briink"
         }
@@ -2546,7 +2546,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-06-24",
       "newest_date": "2026-09-16",
-      "oldest_age_days": 123,
+      "oldest_age_days": 124,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/engineering-manager-data-science-at-peecai",
@@ -2557,7 +2557,7 @@ window.DATA = {
           "title": "Engineering Manager (Data Science)",
           "postings": 1,
           "date": "2026-06-29",
-          "age_days": 118,
+          "age_days": 119,
           "norm_title": "data engineering manager science",
           "title_key": "engineering manager (data science)"
         },
@@ -2570,7 +2570,7 @@ window.DATA = {
           "title": "Senior Data Scientist",
           "postings": 1,
           "date": "2026-06-24",
-          "age_days": 123,
+          "age_days": 124,
           "norm_title": "data scientist",
           "title_key": "senior data scientist"
         }
@@ -2587,7 +2587,7 @@ window.DATA = {
           "title": "Engineering Manager (Data Science)",
           "postings": 1,
           "date": "2026-06-29",
-          "age_days": 118,
+          "age_days": 119,
           "norm_title": "data engineering manager science",
           "title_key": "engineering manager (data science)"
         },
@@ -2600,7 +2600,7 @@ window.DATA = {
           "title": "Growth Engineer",
           "postings": 1,
           "date": "2026-09-16",
-          "age_days": 39,
+          "age_days": 40,
           "norm_title": "engineer growth",
           "title_key": "growth engineer"
         },
@@ -2613,7 +2613,7 @@ window.DATA = {
           "title": "Senior Data Scientist",
           "postings": 1,
           "date": "2026-06-24",
-          "age_days": 123,
+          "age_days": 124,
           "norm_title": "data scientist",
           "title_key": "senior data scientist"
         }
@@ -2630,7 +2630,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-04-15",
       "newest_date": "2026-09-22",
-      "oldest_age_days": 193,
+      "oldest_age_days": 194,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/ai-process-forward-deployed-engineer-at-camunda",
@@ -2641,7 +2641,7 @@ window.DATA = {
           "title": "AI Process Forward Deployed Engineer",
           "postings": 1,
           "date": "2026-05-27",
-          "age_days": 151,
+          "age_days": 152,
           "norm_title": "ai deployed engineer forward process",
           "title_key": "ai process forward deployed engineer"
         },
@@ -2654,7 +2654,7 @@ window.DATA = {
           "title": "Senior Product Manager - Distributed Agentic Platform (Remote)",
           "postings": 1,
           "date": "2026-04-15",
-          "age_days": 193,
+          "age_days": 194,
           "norm_title": "agentic distributed manager platform product remote",
           "title_key": "senior product manager - distributed agentic platform (remote)"
         }
@@ -2671,7 +2671,7 @@ window.DATA = {
           "title": "AI Process Forward Deployed Engineer",
           "postings": 1,
           "date": "2026-05-27",
-          "age_days": 151,
+          "age_days": 152,
           "norm_title": "ai deployed engineer forward process",
           "title_key": "ai process forward deployed engineer"
         },
@@ -2684,7 +2684,7 @@ window.DATA = {
           "title": "Senior GTM Systems AI and Automation Engineer",
           "postings": 1,
           "date": "2026-09-22",
-          "age_days": 33,
+          "age_days": 34,
           "norm_title": "ai automation engineer gtm systems",
           "title_key": "senior gtm systems ai and automation engineer"
         },
@@ -2697,7 +2697,7 @@ window.DATA = {
           "title": "Senior Product Manager - Distributed Agentic Platform (Remote)",
           "postings": 1,
           "date": "2026-04-15",
-          "age_days": 193,
+          "age_days": 194,
           "norm_title": "agentic distributed manager platform product remote",
           "title_key": "senior product manager - distributed agentic platform (remote)"
         }
@@ -2714,7 +2714,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-06-02",
       "newest_date": "2026-08-06",
-      "oldest_age_days": 145,
+      "oldest_age_days": 146,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-machine-learning-engineer-ml-recall-at-constructor",
@@ -2725,7 +2725,7 @@ window.DATA = {
           "title": "Senior Machine Learning Engineer: ML Recall",
           "postings": 1,
           "date": "2026-06-04",
-          "age_days": 143,
+          "age_days": 144,
           "norm_title": "engineer learning machine ml recall",
           "title_key": "senior machine learning engineer: ml recall"
         },
@@ -2738,7 +2738,7 @@ window.DATA = {
           "title": "Senior Machine Learning Engineer: Search Quality",
           "postings": 1,
           "date": "2026-06-02",
-          "age_days": 145,
+          "age_days": 146,
           "norm_title": "engineer learning machine quality search",
           "title_key": "senior machine learning engineer: search quality"
         }
@@ -2755,7 +2755,7 @@ window.DATA = {
           "title": "Senior Backend Engineer: Machine Learning Infrastructure",
           "postings": 1,
           "date": "2026-08-06",
-          "age_days": 80,
+          "age_days": 81,
           "norm_title": "backend engineer infrastructure learning machine",
           "title_key": "senior backend engineer: machine learning infrastructure"
         },
@@ -2768,7 +2768,7 @@ window.DATA = {
           "title": "Senior Machine Learning Engineer: ML Recall",
           "postings": 1,
           "date": "2026-06-04",
-          "age_days": 143,
+          "age_days": 144,
           "norm_title": "engineer learning machine ml recall",
           "title_key": "senior machine learning engineer: ml recall"
         },
@@ -2781,7 +2781,7 @@ window.DATA = {
           "title": "Senior Machine Learning Engineer: Search Quality",
           "postings": 1,
           "date": "2026-06-02",
-          "age_days": 145,
+          "age_days": 146,
           "norm_title": "engineer learning machine quality search",
           "title_key": "senior machine learning engineer: search quality"
         }
@@ -2798,7 +2798,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-12-12",
       "newest_date": "2026-08-20",
-      "oldest_age_days": 317,
+      "oldest_age_days": 318,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/growth-sales-intern-fmd-meteoric-at-merantix-capital",
@@ -2809,7 +2809,7 @@ window.DATA = {
           "title": "Growth & Sales Intern (f/m/d) (METEORIC)",
           "postings": 1,
           "date": "2026-05-28",
-          "age_days": 150,
+          "age_days": 151,
           "norm_title": "growth intern meteoric sales",
           "title_key": "growth & sales intern (f/m/d) (meteoric)"
         },
@@ -2822,7 +2822,7 @@ window.DATA = {
           "title": "Growth & Sales Intern (f/m/d) (Stealth AI Energy Venture)",
           "postings": 1,
           "date": "2025-12-12",
-          "age_days": 317,
+          "age_days": 318,
           "norm_title": "ai energy growth intern sales stealth venture",
           "title_key": "growth & sales intern (f/m/d) (stealth ai energy venture)"
         }
@@ -2839,7 +2839,7 @@ window.DATA = {
           "title": "Co-founder & CTO (Stealth AI Infrastructure for Physical Commodity Trading Venture)",
           "postings": 1,
           "date": "2026-08-20",
-          "age_days": 66,
+          "age_days": 67,
           "norm_title": "ai co commodity cto founder infrastructure physical stealth trading venture",
           "title_key": "co-founder & cto (stealth ai infrastructure for physical commodity trading venture)"
         },
@@ -2852,7 +2852,7 @@ window.DATA = {
           "title": "Growth & Sales Intern (f/m/d) (METEORIC)",
           "postings": 1,
           "date": "2026-05-28",
-          "age_days": 150,
+          "age_days": 151,
           "norm_title": "growth intern meteoric sales",
           "title_key": "growth & sales intern (f/m/d) (meteoric)"
         },
@@ -2865,7 +2865,7 @@ window.DATA = {
           "title": "Growth & Sales Intern (f/m/d) (Stealth AI Energy Venture)",
           "postings": 1,
           "date": "2025-12-12",
-          "age_days": 317,
+          "age_days": 318,
           "norm_title": "ai energy growth intern sales stealth venture",
           "title_key": "growth & sales intern (f/m/d) (stealth ai energy venture)"
         }
@@ -2882,7 +2882,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-01-28",
       "newest_date": "2026-10-15",
-      "oldest_age_days": 270,
+      "oldest_age_days": 271,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-full-stack-software-engineer-fmd-react-nodejs-typescript-ai-at-smartclip",
@@ -2893,7 +2893,7 @@ window.DATA = {
           "title": "Senior Full Stack Software Engineer (f/m/d) – React, Node.js, TypeScript + AI",
           "postings": 1,
           "date": "2026-01-28",
-          "age_days": 270,
+          "age_days": 271,
           "norm_title": "ai engineer full js node react software stack typescript",
           "title_key": "senior full stack software engineer (f/m/d) – react, node.js, typescript + ai"
         },
@@ -2906,7 +2906,7 @@ window.DATA = {
           "title": "Software Engineer (f/m/d) – Data Platforms",
           "postings": 1,
           "date": "2026-06-26",
-          "age_days": 121,
+          "age_days": 122,
           "norm_title": "data engineer platforms software",
           "title_key": "software engineer (f/m/d) – data platforms"
         }
@@ -2923,7 +2923,7 @@ window.DATA = {
           "title": "Data Scientist (w/m/d) – Applied AI",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "ai applied data scientist",
           "title_key": "data scientist (w/m/d) – applied ai"
         },
@@ -2936,7 +2936,7 @@ window.DATA = {
           "title": "Senior Full Stack Software Engineer (f/m/d) – React, Node.js, TypeScript + AI",
           "postings": 1,
           "date": "2026-01-28",
-          "age_days": 270,
+          "age_days": 271,
           "norm_title": "ai engineer full js node react software stack typescript",
           "title_key": "senior full stack software engineer (f/m/d) – react, node.js, typescript + ai"
         },
@@ -2949,7 +2949,7 @@ window.DATA = {
           "title": "Software Engineer (f/m/d) – Data Platforms",
           "postings": 1,
           "date": "2026-06-26",
-          "age_days": 121,
+          "age_days": 122,
           "norm_title": "data engineer platforms software",
           "title_key": "software engineer (f/m/d) – data platforms"
         }
@@ -2966,7 +2966,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-12-18",
       "newest_date": "2026-09-23",
-      "oldest_age_days": 311,
+      "oldest_age_days": 312,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/full-stack-ai-engineer-all-react-nodejs-at-xo-life",
@@ -2977,7 +2977,7 @@ window.DATA = {
           "title": "Full Stack AI Engineer (all) - React / NodeJS",
           "postings": 1,
           "date": "2025-12-18",
-          "age_days": 311,
+          "age_days": 312,
           "norm_title": "ai all engineer full nodejs react stack",
           "title_key": "full stack ai engineer (all) - react / nodejs"
         },
@@ -2990,7 +2990,7 @@ window.DATA = {
           "title": "Mobile/Frontend AI Software Engineer (all)",
           "postings": 1,
           "date": "2026-03-04",
-          "age_days": 235,
+          "age_days": 236,
           "norm_title": "ai all engineer frontend mobile software",
           "title_key": "mobile/frontend ai software engineer (all)"
         }
@@ -3007,7 +3007,7 @@ window.DATA = {
           "title": "Full Stack AI Engineer (all) - React / NodeJS",
           "postings": 1,
           "date": "2025-12-18",
-          "age_days": 311,
+          "age_days": 312,
           "norm_title": "ai all engineer full nodejs react stack",
           "title_key": "full stack ai engineer (all) - react / nodejs"
         },
@@ -3020,7 +3020,7 @@ window.DATA = {
           "title": "Mobile/Frontend AI Software Engineer (all)",
           "postings": 1,
           "date": "2026-03-04",
-          "age_days": 235,
+          "age_days": 236,
           "norm_title": "ai all engineer frontend mobile software",
           "title_key": "mobile/frontend ai software engineer (all)"
         },
@@ -3033,7 +3033,7 @@ window.DATA = {
           "title": "Staff AI/ML Engineer (all)",
           "postings": 1,
           "date": "2026-09-23",
-          "age_days": 32,
+          "age_days": 33,
           "norm_title": "ai all engineer ml",
           "title_key": "staff ai/ml engineer (all)"
         }
@@ -3050,7 +3050,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-05-21",
       "newest_date": "2026-05-21",
-      "oldest_age_days": 157,
+      "oldest_age_days": 158,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/ai-data-governance-specialist-fmd-at-verwaltungssprung",
@@ -3061,7 +3061,7 @@ window.DATA = {
           "title": "AI & Data Governance Specialist (f/m/d)",
           "postings": 1,
           "date": "2026-05-21",
-          "age_days": 157,
+          "age_days": 158,
           "norm_title": "ai data governance specialist",
           "title_key": "ai & data governance specialist (f/m/d)"
         },
@@ -3074,7 +3074,7 @@ window.DATA = {
           "title": "AI Test Engineer (f/md)",
           "postings": 1,
           "date": "2026-05-21",
-          "age_days": 157,
+          "age_days": 158,
           "norm_title": "ai engineer test",
           "title_key": "ai test engineer (f/md)"
         }
@@ -3091,7 +3091,7 @@ window.DATA = {
           "title": "AI & Data Governance Specialist (f/m/d)",
           "postings": 1,
           "date": "2026-05-21",
-          "age_days": 157,
+          "age_days": 158,
           "norm_title": "ai data governance specialist",
           "title_key": "ai & data governance specialist (f/m/d)"
         },
@@ -3104,7 +3104,7 @@ window.DATA = {
           "title": "AI Test Engineer (f/md)",
           "postings": 1,
           "date": "2026-05-21",
-          "age_days": 157,
+          "age_days": 158,
           "norm_title": "ai engineer test",
           "title_key": "ai test engineer (f/md)"
         }
@@ -3121,7 +3121,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-08",
       "newest_date": "2026-07-08",
-      "oldest_age_days": 109,
+      "oldest_age_days": 110,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-applied-ai-engineer-agentic-systems-mfx-at-nnamu",
@@ -3132,7 +3132,7 @@ window.DATA = {
           "title": "Senior Applied AI Engineer– Agentic Systems (m/f/x)",
           "postings": 1,
           "date": "2026-07-08",
-          "age_days": 109,
+          "age_days": 110,
           "norm_title": "agentic ai applied engineer systems",
           "title_key": "senior applied ai engineer– agentic systems (m/f/x)"
         },
@@ -3145,7 +3145,7 @@ window.DATA = {
           "title": "Senior Software Engineer – Agentic Systems (m/f/x)",
           "postings": 1,
           "date": "2026-07-08",
-          "age_days": 109,
+          "age_days": 110,
           "norm_title": "agentic engineer software systems",
           "title_key": "senior software engineer – agentic systems (m/f/x)"
         }
@@ -3162,7 +3162,7 @@ window.DATA = {
           "title": "Senior Applied AI Engineer– Agentic Systems (m/f/x)",
           "postings": 1,
           "date": "2026-07-08",
-          "age_days": 109,
+          "age_days": 110,
           "norm_title": "agentic ai applied engineer systems",
           "title_key": "senior applied ai engineer– agentic systems (m/f/x)"
         },
@@ -3175,7 +3175,7 @@ window.DATA = {
           "title": "Senior Software Engineer – Agentic Systems (m/f/x)",
           "postings": 1,
           "date": "2026-07-08",
-          "age_days": 109,
+          "age_days": 110,
           "norm_title": "agentic engineer software systems",
           "title_key": "senior software engineer – agentic systems (m/f/x)"
         }
@@ -3192,7 +3192,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-03-10",
       "newest_date": "2026-07-02",
-      "oldest_age_days": 229,
+      "oldest_age_days": 230,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/head-of-customs-zollexperte-mwd-in-b2b-saas-ai-startup-at-traide-ai",
@@ -3203,7 +3203,7 @@ window.DATA = {
           "title": "Head of Customs (Zollexperte) m/w/d in B2B SaaS AI Startup",
           "postings": 1,
           "date": "2026-03-10",
-          "age_days": 229,
+          "age_days": 230,
           "norm_title": "ai b2b customs head saas startup zollexperte",
           "title_key": "head of customs (zollexperte) m/w/d in b2b saas ai startup"
         },
@@ -3216,7 +3216,7 @@ window.DATA = {
           "title": "Senior AI Engineer (m/f/d) in B2B SaaS AI Startup",
           "postings": 1,
           "date": "2026-07-02",
-          "age_days": 115,
+          "age_days": 116,
           "norm_title": "ai b2b engineer saas startup",
           "title_key": "senior ai engineer (m/f/d) in b2b saas ai startup"
         }
@@ -3233,7 +3233,7 @@ window.DATA = {
           "title": "Head of Customs (Zollexperte) m/w/d in B2B SaaS AI Startup",
           "postings": 1,
           "date": "2026-03-10",
-          "age_days": 229,
+          "age_days": 230,
           "norm_title": "ai b2b customs head saas startup zollexperte",
           "title_key": "head of customs (zollexperte) m/w/d in b2b saas ai startup"
         },
@@ -3246,7 +3246,7 @@ window.DATA = {
           "title": "Senior AI Engineer (m/f/d) in B2B SaaS AI Startup",
           "postings": 1,
           "date": "2026-07-02",
-          "age_days": 115,
+          "age_days": 116,
           "norm_title": "ai b2b engineer saas startup",
           "title_key": "senior ai engineer (m/f/d) in b2b saas ai startup"
         }
@@ -3259,11 +3259,11 @@ window.DATA = {
     {
       "company": "Clera",
       "company_slug": "clera",
-      "total": 8,
+      "total": 9,
       "undated": 0,
       "oldest_date": "2026-05-31",
-      "newest_date": "2026-10-22",
-      "oldest_age_days": 147,
+      "newest_date": "2026-10-25",
+      "oldest_age_days": 148,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/operations-working-student-us-ai-recruiting-marketplace-at-clera",
@@ -3274,7 +3274,7 @@ window.DATA = {
           "title": "Operations Working Student (US AI Recruiting Marketplace)",
           "postings": 1,
           "date": "2026-05-31",
-          "age_days": 147,
+          "age_days": 148,
           "norm_title": "ai marketplace operations recruiting student us working",
           "title_key": "operations working student (us ai recruiting marketplace)"
         }
@@ -3302,9 +3302,35 @@ window.DATA = {
           "title": "AI Software Engineer",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "ai engineer software",
           "title_key": "ai software engineer"
+        },
+        {
+          "url": "https://databerlin.net/jobs/data-scientist-at-clera-2",
+          "category": "Data Scientist",
+          "seniority": "Mid",
+          "company_slug": "clera",
+          "company": "Clera",
+          "title": "Data Scientist",
+          "postings": 1,
+          "date": "2026-10-25",
+          "age_days": 1,
+          "norm_title": "data scientist",
+          "title_key": "data scientist"
+        },
+        {
+          "url": "https://databerlin.net/jobs/growth-consultant-at-clera",
+          "category": "Other",
+          "seniority": "Mid",
+          "company_slug": "clera",
+          "company": "Clera",
+          "title": "Growth Consultant",
+          "postings": 1,
+          "date": "2026-10-25",
+          "age_days": 1,
+          "norm_title": "consultant growth",
+          "title_key": "growth consultant"
         },
         {
           "url": "https://databerlin.net/jobs/head-of-growth-senior-growth-manager-at-clera",
@@ -3315,35 +3341,9 @@ window.DATA = {
           "title": "Head of Growth / Senior Growth Manager",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "growth head manager",
           "title_key": "head of growth / senior growth manager"
-        },
-        {
-          "url": "https://databerlin.net/jobs/lead-ai-engineer-agents-infrastructure-at-clera-1",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Lead / Manager",
-          "company_slug": "clera",
-          "company": "Clera",
-          "title": "Lead AI Engineer, Agents & Infrastructure",
-          "postings": 1,
-          "date": "2026-10-19",
-          "age_days": 6,
-          "norm_title": "agents ai engineer infrastructure",
-          "title_key": "lead ai engineer, agents & infrastructure"
-        },
-        {
-          "url": "https://databerlin.net/jobs/lead-data-platform-engineer-at-clera",
-          "category": "Data Engineer",
-          "seniority": "Lead / Manager",
-          "company_slug": "clera",
-          "company": "Clera",
-          "title": "Lead Data Platform Engineer",
-          "postings": 1,
-          "date": "2026-10-18",
-          "age_days": 7,
-          "norm_title": "data engineer platform",
-          "title_key": "lead data platform engineer"
         },
         {
           "url": "https://databerlin.net/jobs/operations-working-student-us-ai-recruiting-marketplace-at-clera",
@@ -3354,7 +3354,7 @@ window.DATA = {
           "title": "Operations Working Student (US AI Recruiting Marketplace)",
           "postings": 1,
           "date": "2026-05-31",
-          "age_days": 147,
+          "age_days": 148,
           "norm_title": "ai marketplace operations recruiting student us working",
           "title_key": "operations working student (us ai recruiting marketplace)"
         },
@@ -3367,7 +3367,7 @@ window.DATA = {
           "title": "Senior Data Engineer",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "data engineer",
           "title_key": "senior data engineer"
         },
@@ -3380,7 +3380,7 @@ window.DATA = {
           "title": "Senior Data Engineer",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "data engineer",
           "title_key": "senior data engineer"
         },
@@ -3393,9 +3393,22 @@ window.DATA = {
           "title": "Senior Data Engineer",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "data engineer",
           "title_key": "senior data engineer"
+        },
+        {
+          "url": "https://databerlin.net/jobs/software-engineer-voice-ai-backend-at-clera-1",
+          "category": "genAI/LLM/Agentic AI",
+          "seniority": "Mid",
+          "company_slug": "clera",
+          "company": "Clera",
+          "title": "Software Engineer, Voice AI / Backend",
+          "postings": 1,
+          "date": "2026-10-25",
+          "age_days": 1,
+          "norm_title": "ai backend engineer software voice",
+          "title_key": "software engineer, voice ai / backend"
         }
       ],
       "reasons": [
@@ -3411,7 +3424,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-17",
       "newest_date": "2026-10-21",
-      "oldest_age_days": 100,
+      "oldest_age_days": 101,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/ai-full-stack-engineer-at-almedia",
@@ -3422,7 +3435,7 @@ window.DATA = {
           "title": "AI Full Stack Engineer",
           "postings": 1,
           "date": "2026-07-17",
-          "age_days": 100,
+          "age_days": 101,
           "norm_title": "ai engineer full stack",
           "title_key": "ai full stack engineer"
         }
@@ -3449,7 +3462,7 @@ window.DATA = {
           "title": "AI Full Stack Engineer",
           "postings": 1,
           "date": "2026-07-17",
-          "age_days": 100,
+          "age_days": 101,
           "norm_title": "ai engineer full stack",
           "title_key": "ai full stack engineer"
         },
@@ -3462,7 +3475,7 @@ window.DATA = {
           "title": "AI Operations Specialist",
           "postings": 1,
           "date": "2026-07-30",
-          "age_days": 87,
+          "age_days": 88,
           "norm_title": "ai operations specialist",
           "title_key": "ai operations specialist"
         },
@@ -3475,7 +3488,7 @@ window.DATA = {
           "title": "Data Scientist",
           "postings": 1,
           "date": "2026-10-08",
-          "age_days": 17,
+          "age_days": 18,
           "norm_title": "data scientist",
           "title_key": "data scientist"
         },
@@ -3488,7 +3501,7 @@ window.DATA = {
           "title": "Founding Data Scientist",
           "postings": 1,
           "date": "2026-10-05",
-          "age_days": 20,
+          "age_days": 21,
           "norm_title": "data founding scientist",
           "title_key": "founding data scientist"
         },
@@ -3501,7 +3514,7 @@ window.DATA = {
           "title": "Growth Lead (Berlin)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "berlin growth",
           "title_key": "growth lead (berlin)"
         },
@@ -3514,7 +3527,7 @@ window.DATA = {
           "title": "Growth Manager (Berlin)",
           "postings": 1,
           "date": "2026-09-29",
-          "age_days": 26,
+          "age_days": 27,
           "norm_title": "berlin growth manager",
           "title_key": "growth manager (berlin)"
         },
@@ -3527,7 +3540,7 @@ window.DATA = {
           "title": "Growth Manager (Berlin) - Turkish speaking",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "berlin growth manager speaking turkish",
           "title_key": "growth manager (berlin) - turkish speaking"
         },
@@ -3540,7 +3553,7 @@ window.DATA = {
           "title": "Junior Engineer (Typescript / Python / DevOps / AI)",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "ai devops engineer python typescript",
           "title_key": "junior engineer (typescript / python / devops / ai)"
         },
@@ -3553,7 +3566,7 @@ window.DATA = {
           "title": "Junior Software Engineer - Data",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "data engineer software",
           "title_key": "junior software engineer - data"
         },
@@ -3566,7 +3579,7 @@ window.DATA = {
           "title": "Senior Growth Manager (Berlin)",
           "postings": 1,
           "date": "2026-09-29",
-          "age_days": 26,
+          "age_days": 27,
           "norm_title": "berlin growth manager",
           "title_key": "senior growth manager (berlin)"
         },
@@ -3579,7 +3592,7 @@ window.DATA = {
           "title": "Staff Data Scientist",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "data scientist",
           "title_key": "staff data scientist"
         }
@@ -3593,11 +3606,11 @@ window.DATA = {
     {
       "company": "Amazon / AWS",
       "company_slug": "amazon",
-      "total": 10,
+      "total": 11,
       "undated": 0,
       "oldest_date": "2026-07-20",
-      "newest_date": "2026-10-02",
-      "oldest_age_days": 97,
+      "newest_date": "2026-10-09",
+      "oldest_age_days": 98,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-database-engineer-amazon-redshift-at-amazon-aws",
@@ -3608,7 +3621,7 @@ window.DATA = {
           "title": "Senior Database Engineer, Amazon Redshift",
           "postings": 1,
           "date": "2026-07-20",
-          "age_days": 97,
+          "age_days": 98,
           "norm_title": "amazon database engineer redshift",
           "title_key": "senior database engineer, amazon redshift"
         }
@@ -3627,6 +3640,19 @@ window.DATA = {
       ],
       "jobs": [
         {
+          "url": "https://databerlin.net/jobs/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition-at-amazon-aws",
+          "category": "AI/ML",
+          "seniority": "Intern / Student",
+          "company_slug": "amazon",
+          "company": "Amazon / AWS",
+          "title": "2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition",
+          "postings": 1,
+          "date": "2026-10-09",
+          "age_days": 17,
+          "norm_title": "2027 acquisition amazon applied internship phd scientist talent university",
+          "title_key": "2027 applied scientist internship – phd, amazon university talent acquisition"
+        },
+        {
           "url": "https://databerlin.net/jobs/applied-scientist-amazon-robotics-at-amazon-aws",
           "category": "genAI/LLM/Agentic AI",
           "seniority": "Mid",
@@ -3635,7 +3661,7 @@ window.DATA = {
           "title": "Applied Scientist, Amazon Robotics",
           "postings": 1,
           "date": "2026-07-30",
-          "age_days": 87,
+          "age_days": 88,
           "norm_title": "amazon applied robotics scientist",
           "title_key": "applied scientist, amazon robotics"
         },
@@ -3648,7 +3674,7 @@ window.DATA = {
           "title": "Applied Scientist II, Amazon Robotics",
           "postings": 1,
           "date": "2026-08-27",
-          "age_days": 59,
+          "age_days": 60,
           "norm_title": "amazon applied robotics scientist",
           "title_key": "applied scientist ii, amazon robotics"
         },
@@ -3661,7 +3687,7 @@ window.DATA = {
           "title": "Business Intelligence Engineer Intern Germany",
           "postings": 1,
           "date": "2026-10-02",
-          "age_days": 23,
+          "age_days": 24,
           "norm_title": "business engineer germany intelligence intern",
           "title_key": "business intelligence engineer intern germany"
         },
@@ -3674,7 +3700,7 @@ window.DATA = {
           "title": "Data Scientist II, Music DISCO",
           "postings": 1,
           "date": "2026-09-01",
-          "age_days": 54,
+          "age_days": 55,
           "norm_title": "data disco music scientist",
           "title_key": "data scientist ii, music disco"
         },
@@ -3687,7 +3713,7 @@ window.DATA = {
           "title": "Data Scientist, Music DISCO",
           "postings": 1,
           "date": "2026-08-06",
-          "age_days": 80,
+          "age_days": 81,
           "norm_title": "data disco music scientist",
           "title_key": "data scientist, music disco"
         },
@@ -3700,7 +3726,7 @@ window.DATA = {
           "title": "Database Engineer, Amazon Redshift",
           "postings": 1,
           "date": "2026-08-17",
-          "age_days": 69,
+          "age_days": 70,
           "norm_title": "amazon database engineer redshift",
           "title_key": "database engineer, amazon redshift"
         },
@@ -3713,7 +3739,7 @@ window.DATA = {
           "title": "Frontier AI Technical Account Manager (Germany), Enterprise Support EMEA - Startups",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "account ai emea enterprise frontier germany manager startups support technical",
           "title_key": "frontier ai technical account manager (germany), enterprise support emea - startups"
         },
@@ -3726,7 +3752,7 @@ window.DATA = {
           "title": "Senior Database Engineer, Amazon Redshift",
           "postings": 1,
           "date": "2026-07-20",
-          "age_days": 97,
+          "age_days": 98,
           "norm_title": "amazon database engineer redshift",
           "title_key": "senior database engineer, amazon redshift"
         },
@@ -3739,7 +3765,7 @@ window.DATA = {
           "title": "Senior Database Specialist Solutions Architect, Germany, AGS Specialist Team EMEA Central",
           "postings": 1,
           "date": "2026-09-09",
-          "age_days": 46,
+          "age_days": 47,
           "norm_title": "ags architect central database emea germany solutions specialist team",
           "title_key": "senior database specialist solutions architect, germany, ags specialist team emea central"
         },
@@ -3752,7 +3778,7 @@ window.DATA = {
           "title": "Software Dev Engineer - Big Data Processing, S3 - Data and Analytics",
           "postings": 1,
           "date": "2026-09-08",
-          "age_days": 47,
+          "age_days": 48,
           "norm_title": "analytics big data dev engineer processing s3 software",
           "title_key": "software dev engineer - big data processing, s3 - data and analytics"
         }
@@ -3770,7 +3796,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-24",
       "newest_date": "2026-08-25",
-      "oldest_age_days": 93,
+      "oldest_age_days": 94,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/team-lead-fmd-data-science-at-pair-finance",
@@ -3781,7 +3807,7 @@ window.DATA = {
           "title": "Team Lead (f/m/d) Data Science",
           "postings": 1,
           "date": "2026-07-24",
-          "age_days": 93,
+          "age_days": 94,
           "norm_title": "data science team",
           "title_key": "team lead (f/m/d) data science"
         }
@@ -3808,7 +3834,7 @@ window.DATA = {
           "title": "Data Scientist (f/m/d)",
           "postings": 1,
           "date": "2026-08-14",
-          "age_days": 72,
+          "age_days": 73,
           "norm_title": "data scientist",
           "title_key": "data scientist (f/m/d)"
         },
@@ -3821,7 +3847,7 @@ window.DATA = {
           "title": "Senior Data Scientist (f/m/d)",
           "postings": 1,
           "date": "2026-08-25",
-          "age_days": 61,
+          "age_days": 62,
           "norm_title": "data scientist",
           "title_key": "senior data scientist (f/m/d)"
         },
@@ -3834,7 +3860,7 @@ window.DATA = {
           "title": "Team Lead (f/m/d) Data Science",
           "postings": 1,
           "date": "2026-07-24",
-          "age_days": 93,
+          "age_days": 94,
           "norm_title": "data science team",
           "title_key": "team lead (f/m/d) data science"
         }
@@ -3852,7 +3878,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-21",
       "newest_date": "2026-10-19",
-      "oldest_age_days": 96,
+      "oldest_age_days": 97,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/software-engineer-ai-at-kuro",
@@ -3863,7 +3889,7 @@ window.DATA = {
           "title": "Software Engineer - AI",
           "postings": 1,
           "date": "2026-07-21",
-          "age_days": 96,
+          "age_days": 97,
           "norm_title": "ai engineer software",
           "title_key": "software engineer - ai"
         }
@@ -3890,7 +3916,7 @@ window.DATA = {
           "title": "Software Engineer - AI",
           "postings": 1,
           "date": "2026-07-21",
-          "age_days": 96,
+          "age_days": 97,
           "norm_title": "ai engineer software",
           "title_key": "software engineer - ai"
         },
@@ -3903,7 +3929,7 @@ window.DATA = {
           "title": "Staff Software Engineer - AI",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "ai engineer software",
           "title_key": "staff software engineer - ai"
         }
@@ -3915,201 +3941,13 @@ window.DATA = {
       "flagged": true
     },
     {
-      "company": "1KOMMA5°",
-      "company_slug": "1komma5grad",
-      "total": 12,
-      "undated": 0,
-      "oldest_date": "2026-06-10",
-      "newest_date": "2026-10-24",
-      "oldest_age_days": 137,
-      "stale_jobs": [
-        {
-          "url": "https://databerlin.net/jobs/internship-global-product-management-hardware-ai-enablement-mwd-at-1komma5",
-          "category": "Product Manager",
-          "seniority": "Intern / Student",
-          "company_slug": "1komma5grad",
-          "company": "1KOMMA5°",
-          "title": "Internship Global Product Management Hardware & AI Enablement (m/w/d)",
-          "postings": 1,
-          "date": "2026-06-10",
-          "age_days": 137,
-          "norm_title": "ai enablement global hardware internship management product",
-          "title_key": "internship global product management hardware & ai enablement (m/w/d)"
-        }
-      ],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/content-growth-manager-youtube-mwd-at-1komma5",
-          "category": "Other",
-          "seniority": "Lead / Manager",
-          "company_slug": "1komma5grad",
-          "company": "1KOMMA5°",
-          "title": "Content Growth Manager YouTube (m/w/d)",
-          "postings": 1,
-          "date": "2026-09-24",
-          "age_days": 31,
-          "norm_title": "content growth manager youtube",
-          "title_key": "content growth manager youtube (m/w/d)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/growth-manager-revenue-operations-mwd-at-1komma5",
-          "category": "Other",
-          "seniority": "Lead / Manager",
-          "company_slug": "1komma5grad",
-          "company": "1KOMMA5°",
-          "title": "Growth Manager Revenue Operations (m/w/d)",
-          "postings": 1,
-          "date": "2026-09-28",
-          "age_days": 27,
-          "norm_title": "growth manager operations revenue",
-          "title_key": "growth manager revenue operations (m/w/d)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/internship-ai-automation-energy-mfd-at-1komma5",
-          "category": "Other",
-          "seniority": "Intern / Student",
-          "company_slug": "1komma5grad",
-          "company": "1KOMMA5°",
-          "title": "Internship AI & Automation - Energy (m/f/d)",
-          "postings": 1,
-          "date": "2026-10-20",
-          "age_days": 5,
-          "norm_title": "ai automation energy internship",
-          "title_key": "internship ai & automation - energy (m/f/d)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/internship-global-product-management-hardware-ai-enablement-mwd-at-1komma5",
-          "category": "Product Manager",
-          "seniority": "Intern / Student",
-          "company_slug": "1komma5grad",
-          "company": "1KOMMA5°",
-          "title": "Internship Global Product Management Hardware & AI Enablement (m/w/d)",
-          "postings": 1,
-          "date": "2026-06-10",
-          "age_days": 137,
-          "norm_title": "ai enablement global hardware internship management product",
-          "title_key": "internship global product management hardware & ai enablement (m/w/d)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/senior-heartbeat-ai-partnerships-manager-mfd-at-1komma5",
-          "category": "Other",
-          "seniority": "Lead / Manager",
-          "company_slug": "1komma5grad",
-          "company": "1KOMMA5°",
-          "title": "(Senior) Heartbeat AI Partnerships Manager (m/f/d)",
-          "postings": 1,
-          "date": "2026-09-21",
-          "age_days": 34,
-          "norm_title": "ai heartbeat manager partnerships",
-          "title_key": "(senior) heartbeat ai partnerships manager (m/f/d)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/senior-qa-engineer-ai-driven-testing-mfd-at-1komma5",
-          "category": "Other",
-          "seniority": "Senior",
-          "company_slug": "1komma5grad",
-          "company": "1KOMMA5°",
-          "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
-          "postings": 1,
-          "date": "2026-09-23",
-          "age_days": 32,
-          "norm_title": "ai driven engineer qa testing",
-          "title_key": "(senior) qa engineer - ai-driven testing (m/f/d)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/staff-engineer-heartbeat-ai-mfd-at-1komma5",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Staff / Principal",
-          "company_slug": "1komma5grad",
-          "company": "1KOMMA5°",
-          "title": "Staff Engineer - Heartbeat AI (m/f/d)",
-          "postings": 1,
-          "date": "2026-08-04",
-          "age_days": 82,
-          "norm_title": "ai engineer heartbeat",
-          "title_key": "staff engineer - heartbeat ai (m/f/d)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/werkstudentin-ai-automation-energy-mwd-at-1komma5",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Intern / Student",
-          "company_slug": "1komma5grad",
-          "company": "1KOMMA5°",
-          "title": "Werkstudent:in AI & Automation - Energy (m/w/d)",
-          "postings": 1,
-          "date": "2026-10-24",
-          "age_days": 1,
-          "norm_title": "ai automation energy werkstudent",
-          "title_key": "werkstudent:in ai & automation - energy (m/w/d)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/werkstudentin-data-analytics-controlling-focus-mwd-at-1komma5",
-          "category": "Data Analyst",
-          "seniority": "Intern / Student",
-          "company_slug": "1komma5grad",
-          "company": "1KOMMA5°",
-          "title": "Werkstudent:in Data Analytics (Controlling Focus) (m/w/d)",
-          "postings": 1,
-          "date": "2026-09-21",
-          "age_days": 34,
-          "norm_title": "analytics controlling data focus werkstudent",
-          "title_key": "werkstudent:in data analytics (controlling focus) (m/w/d)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/werkstudentin-growth-marketing-mwd-at-1komma5",
-          "category": "Other",
-          "seniority": "Intern / Student",
-          "company_slug": "1komma5grad",
-          "company": "1KOMMA5°",
-          "title": "Werkstudent:in Growth Marketing (m/w/d)",
-          "postings": 1,
-          "date": "2026-09-28",
-          "age_days": 27,
-          "norm_title": "growth marketing werkstudent",
-          "title_key": "werkstudent:in growth marketing (m/w/d)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/working-student-ai-product-designer-mfd-at-1komma5",
-          "category": "Other",
-          "seniority": "Intern / Student",
-          "company_slug": "1komma5grad",
-          "company": "1KOMMA5°",
-          "title": "Working Student - AI Product Designer (m/f/d)",
-          "postings": 1,
-          "date": "2026-08-21",
-          "age_days": 65,
-          "norm_title": "ai designer product student working",
-          "title_key": "working student - ai product designer (m/f/d)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/working-student-designer-design-system-heartbeat-ai-mfd-at-1komma5",
-          "category": "Other",
-          "seniority": "Intern / Student",
-          "company_slug": "1komma5grad",
-          "company": "1KOMMA5°",
-          "title": "Working Student Designer (Design System) – Heartbeat AI (m/f/d)",
-          "postings": 1,
-          "date": "2026-09-21",
-          "age_days": 34,
-          "norm_title": "ai design designer heartbeat student system working",
-          "title_key": "working student designer (design system) – heartbeat ai (m/f/d)"
-        }
-      ],
-      "reasons": [
-        "stale"
-      ],
-      "flagged": true
-    },
-    {
       "company": "Enpal",
       "company_slug": "enpal",
       "total": 8,
       "undated": 0,
       "oldest_date": "2026-06-24",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 123,
+      "oldest_age_days": 124,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/growth-intern-wmd-at-enpal",
@@ -4120,7 +3958,7 @@ window.DATA = {
           "title": "Growth Intern (w/m/d)",
           "postings": 1,
           "date": "2026-06-24",
-          "age_days": 123,
+          "age_days": 124,
           "norm_title": "growth intern",
           "title_key": "growth intern (w/m/d)"
         }
@@ -4137,7 +3975,7 @@ window.DATA = {
           "title": "Analyst / Associate Strategy & Growth (w/m/d)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "analyst growth strategy",
           "title_key": "analyst / associate strategy & growth (w/m/d)"
         },
@@ -4150,7 +3988,7 @@ window.DATA = {
           "title": "BI & Data Analytics Team Lead (f/m/x)",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "analytics bi data team",
           "title_key": "bi & data analytics team lead (f/m/x)"
         },
@@ -4163,7 +4001,7 @@ window.DATA = {
           "title": "Business Analytics Internship (f/m/x)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "analytics business internship",
           "title_key": "business analytics internship (f/m/x)"
         },
@@ -4176,7 +4014,7 @@ window.DATA = {
           "title": "Data & Analytics Manager (f/m/x)",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "analytics data manager",
           "title_key": "data & analytics manager (f/m/x)"
         },
@@ -4189,7 +4027,7 @@ window.DATA = {
           "title": "Growth Innovation Manager:in (w/m/d)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "growth innovation manager",
           "title_key": "growth innovation manager:in (w/m/d)"
         },
@@ -4202,7 +4040,7 @@ window.DATA = {
           "title": "Growth Intern (w/m/d)",
           "postings": 1,
           "date": "2026-06-24",
-          "age_days": 123,
+          "age_days": 124,
           "norm_title": "growth intern",
           "title_key": "growth intern (w/m/d)"
         },
@@ -4215,7 +4053,7 @@ window.DATA = {
           "title": "Senior Analytics Engineer (f/m/x) - Enpal Energy",
           "postings": 1,
           "date": "2026-09-14",
-          "age_days": 41,
+          "age_days": 42,
           "norm_title": "analytics energy engineer enpal",
           "title_key": "senior analytics engineer (f/m/x) - enpal energy"
         },
@@ -4228,7 +4066,7 @@ window.DATA = {
           "title": "(Senior) Growth Development Manager (w/m/d)",
           "postings": 1,
           "date": "2026-10-12",
-          "age_days": 13,
+          "age_days": 14,
           "norm_title": "development growth manager",
           "title_key": "(senior) growth development manager (w/m/d)"
         }
@@ -4245,7 +4083,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-22",
       "newest_date": "2026-10-14",
-      "oldest_age_days": 95,
+      "oldest_age_days": 96,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/data-analytics-engineer-mfd-at-statista",
@@ -4256,7 +4094,7 @@ window.DATA = {
           "title": "Data & Analytics Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-07-22",
-          "age_days": 95,
+          "age_days": 96,
           "norm_title": "analytics data engineer",
           "title_key": "data & analytics engineer (m/f/d)"
         }
@@ -4273,7 +4111,7 @@ window.DATA = {
           "title": "Analytics Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-10-08",
-          "age_days": 17,
+          "age_days": 18,
           "norm_title": "analytics engineer",
           "title_key": "analytics engineer (m/f/d)"
         },
@@ -4286,7 +4124,7 @@ window.DATA = {
           "title": "Brand Data Production Manager (m/f/d)",
           "postings": 1,
           "date": "2026-08-25",
-          "age_days": 61,
+          "age_days": 62,
           "norm_title": "brand data manager production",
           "title_key": "brand data production manager (m/f/d)"
         },
@@ -4299,7 +4137,7 @@ window.DATA = {
           "title": "Data & Analytics Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-07-22",
-          "age_days": 95,
+          "age_days": 96,
           "norm_title": "analytics data engineer",
           "title_key": "data & analytics engineer (m/f/d)"
         },
@@ -4312,7 +4150,7 @@ window.DATA = {
           "title": "Data Engineer - Data Platform & Ontology (m/f/d)",
           "postings": 1,
           "date": "2026-08-26",
-          "age_days": 60,
+          "age_days": 61,
           "norm_title": "data engineer ontology platform",
           "title_key": "data engineer - data platform & ontology (m/f/d)"
         },
@@ -4325,7 +4163,7 @@ window.DATA = {
           "title": "Data Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-08-19",
-          "age_days": 67,
+          "age_days": 68,
           "norm_title": "data engineer",
           "title_key": "data engineer (m/f/d)"
         },
@@ -4338,7 +4176,7 @@ window.DATA = {
           "title": "Engineering Manager - Data Platform (m/f/d)",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "data engineering manager platform",
           "title_key": "engineering manager - data platform (m/f/d)"
         },
@@ -4351,7 +4189,7 @@ window.DATA = {
           "title": "(Senior) Data Engineer - Tracking Infrastructure (m/f/d)",
           "postings": 1,
           "date": "2026-09-25",
-          "age_days": 30,
+          "age_days": 31,
           "norm_title": "data engineer infrastructure tracking",
           "title_key": "(senior) data engineer - tracking infrastructure (m/f/d)"
         },
@@ -4364,7 +4202,7 @@ window.DATA = {
           "title": "Senior Full-Stack Engineer - Data Intelligence Applications (m/f/d)",
           "postings": 1,
           "date": "2026-08-06",
-          "age_days": 80,
+          "age_days": 81,
           "norm_title": "applications data engineer full intelligence stack",
           "title_key": "senior full-stack engineer - data intelligence applications (m/f/d)"
         }
@@ -4381,7 +4219,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-07",
       "newest_date": "2026-10-01",
-      "oldest_age_days": 110,
+      "oldest_age_days": 111,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/forward-deployed-ml-engineer-cofolding-at-apheris",
@@ -4392,7 +4230,7 @@ window.DATA = {
           "title": "Forward-Deployed ML Engineer – Cofolding",
           "postings": 1,
           "date": "2026-07-07",
-          "age_days": 110,
+          "age_days": 111,
           "norm_title": "cofolding deployed engineer forward ml",
           "title_key": "forward-deployed ml engineer – cofolding"
         }
@@ -4409,7 +4247,7 @@ window.DATA = {
           "title": "AI Program Lead",
           "postings": 1,
           "date": "2026-09-23",
-          "age_days": 32,
+          "age_days": 33,
           "norm_title": "ai program",
           "title_key": "ai program lead"
         },
@@ -4422,7 +4260,7 @@ window.DATA = {
           "title": "Forward-Deployed ML Engineer – Cofolding",
           "postings": 1,
           "date": "2026-07-07",
-          "age_days": 110,
+          "age_days": 111,
           "norm_title": "cofolding deployed engineer forward ml",
           "title_key": "forward-deployed ml engineer – cofolding"
         },
@@ -4435,7 +4273,7 @@ window.DATA = {
           "title": "ML Engineer - Large Molecules",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "engineer large ml molecules",
           "title_key": "ml engineer - large molecules"
         },
@@ -4448,7 +4286,7 @@ window.DATA = {
           "title": "Principal ML Scientist – Predictive Toxicology",
           "postings": 1,
           "date": "2026-08-03",
-          "age_days": 83,
+          "age_days": 84,
           "norm_title": "ml predictive scientist toxicology",
           "title_key": "principal ml scientist – predictive toxicology"
         },
@@ -4461,7 +4299,7 @@ window.DATA = {
           "title": "Senior ML Engineer – ADMET & Toxicity Networks",
           "postings": 1,
           "date": "2026-09-29",
-          "age_days": 26,
+          "age_days": 27,
           "norm_title": "admet engineer ml networks toxicity",
           "title_key": "senior ml engineer – admet & toxicity networks"
         },
@@ -4474,7 +4312,7 @@ window.DATA = {
           "title": "Senior ML Research Engineer",
           "postings": 1,
           "date": "2026-08-21",
-          "age_days": 65,
+          "age_days": 66,
           "norm_title": "engineer ml research",
           "title_key": "senior ml research engineer"
         }
@@ -4491,7 +4329,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-03-25",
       "newest_date": "2026-10-06",
-      "oldest_age_days": 579,
+      "oldest_age_days": 580,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/member-of-technical-staff-machine-learning-engineer-search-at-perplexity",
@@ -4502,7 +4340,7 @@ window.DATA = {
           "title": "Member of Technical Staff (Machine Learning Engineer, Search)",
           "postings": 1,
           "date": "2025-03-25",
-          "age_days": 579,
+          "age_days": 580,
           "norm_title": "engineer learning machine member search technical",
           "title_key": "member of technical staff (machine learning engineer, search)"
         }
@@ -4519,7 +4357,7 @@ window.DATA = {
           "title": "Internship - Machine Learning Research Engineer",
           "postings": 1,
           "date": "2026-09-02",
-          "age_days": 53,
+          "age_days": 54,
           "norm_title": "engineer internship learning machine research",
           "title_key": "internship - machine learning research engineer"
         },
@@ -4532,7 +4370,7 @@ window.DATA = {
           "title": "Member of Technical Staff (AI Researcher)",
           "postings": 1,
           "date": "2026-08-25",
-          "age_days": 61,
+          "age_days": 62,
           "norm_title": "ai member researcher technical",
           "title_key": "member of technical staff (ai researcher)"
         },
@@ -4545,7 +4383,7 @@ window.DATA = {
           "title": "Member of Technical Staff (Machine Learning Engineer, Search Agent RL)",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "agent engineer learning machine member rl search technical",
           "title_key": "member of technical staff (machine learning engineer, search agent rl)"
         },
@@ -4558,7 +4396,7 @@ window.DATA = {
           "title": "Member of Technical Staff (Machine Learning Engineer, Search)",
           "postings": 1,
           "date": "2025-03-25",
-          "age_days": 579,
+          "age_days": 580,
           "norm_title": "engineer learning machine member search technical",
           "title_key": "member of technical staff (machine learning engineer, search)"
         },
@@ -4571,7 +4409,7 @@ window.DATA = {
           "title": "Member of Technical Staff (Machine Learning Research Engineer)",
           "postings": 1,
           "date": "2026-09-23",
-          "age_days": 32,
+          "age_days": 33,
           "norm_title": "engineer learning machine member research technical",
           "title_key": "member of technical staff (machine learning research engineer)"
         }
@@ -4588,7 +4426,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-08",
       "newest_date": "2026-10-06",
-      "oldest_age_days": 109,
+      "oldest_age_days": 110,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-ai-software-engineer-mwd-remote-at-cito-transport-technologies-gmbh",
@@ -4599,7 +4437,7 @@ window.DATA = {
           "title": "Senior AI & Software Engineer (m/w/d) – remote",
           "postings": 1,
           "date": "2026-07-08",
-          "age_days": 109,
+          "age_days": 110,
           "norm_title": "ai engineer remote software",
           "title_key": "senior ai & software engineer (m/w/d) – remote"
         }
@@ -4616,7 +4454,7 @@ window.DATA = {
           "title": "Senior AI & Software Engineer (m/w/d) – remote",
           "postings": 1,
           "date": "2026-07-08",
-          "age_days": 109,
+          "age_days": 110,
           "norm_title": "ai engineer remote software",
           "title_key": "senior ai & software engineer (m/w/d) – remote"
         },
@@ -4629,7 +4467,7 @@ window.DATA = {
           "title": "Senior Full Stack Developer – AI Product (m/f/d) | Remote from Croatia",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "ai croatia developer from full product remote stack",
           "title_key": "senior full stack developer – ai product (m/f/d) | remote from croatia"
         },
@@ -4642,7 +4480,7 @@ window.DATA = {
           "title": "Werkstudent B2B Sales & Business Development – AI Startup (m/w/d)",
           "postings": 1,
           "date": "2026-09-16",
-          "age_days": 39,
+          "age_days": 40,
           "norm_title": "ai b2b business development sales startup werkstudent",
           "title_key": "werkstudent b2b sales & business development – ai startup (m/w/d)"
         },
@@ -4655,7 +4493,7 @@ window.DATA = {
           "title": "Werkstudent Sales Development & Growth – AI SaaS (m/w/d)​",
           "postings": 1,
           "date": "2026-09-16",
-          "age_days": 39,
+          "age_days": 40,
           "norm_title": "ai development growth saas sales werkstudent",
           "title_key": "werkstudent sales development & growth – ai saas (m/w/d)​"
         }
@@ -4672,7 +4510,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-06-26",
       "newest_date": "2026-10-21",
-      "oldest_age_days": 121,
+      "oldest_age_days": 122,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/head-of-growth-product-at-doodle",
@@ -4683,7 +4521,7 @@ window.DATA = {
           "title": "Head of Growth Product",
           "postings": 1,
           "date": "2026-06-26",
-          "age_days": 121,
+          "age_days": 122,
           "norm_title": "growth head product",
           "title_key": "head of growth product"
         }
@@ -4700,7 +4538,7 @@ window.DATA = {
           "title": "Analytics Engineer - All Genders",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "analytics engineer",
           "title_key": "analytics engineer - all genders"
         },
@@ -4713,7 +4551,7 @@ window.DATA = {
           "title": "Data Infrastructure Engineer-Germany",
           "postings": 1,
           "date": "2026-10-09",
-          "age_days": 16,
+          "age_days": 17,
           "norm_title": "data engineer germany infrastructure",
           "title_key": "data infrastructure engineer-germany"
         },
@@ -4726,7 +4564,7 @@ window.DATA = {
           "title": "Data Infrastructure Engineer-Spain",
           "postings": 1,
           "date": "2026-09-25",
-          "age_days": 30,
+          "age_days": 31,
           "norm_title": "data engineer infrastructure spain",
           "title_key": "data infrastructure engineer-spain"
         },
@@ -4739,7 +4577,7 @@ window.DATA = {
           "title": "Head of Growth Product",
           "postings": 1,
           "date": "2026-06-26",
-          "age_days": 121,
+          "age_days": 122,
           "norm_title": "growth head product",
           "title_key": "head of growth product"
         }
@@ -4756,7 +4594,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-17",
       "newest_date": "2026-10-06",
-      "oldest_age_days": 100,
+      "oldest_age_days": 101,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-crm-automation-data-manager-all-genders-at-sunday-natural",
@@ -4767,7 +4605,7 @@ window.DATA = {
           "title": "Senior CRM Automation & Data Manager (all genders)",
           "postings": 1,
           "date": "2026-07-17",
-          "age_days": 100,
+          "age_days": 101,
           "norm_title": "automation crm data manager",
           "title_key": "senior crm automation & data manager (all genders)"
         }
@@ -4784,7 +4622,7 @@ window.DATA = {
           "title": "(Senior) AI/ML Engineer (all genders)",
           "postings": 1,
           "date": "2026-08-03",
-          "age_days": 83,
+          "age_days": 84,
           "norm_title": "ai engineer ml",
           "title_key": "(senior) ai/ml engineer (all genders)"
         },
@@ -4797,7 +4635,7 @@ window.DATA = {
           "title": "Senior CRM Automation & Data Manager (all genders)",
           "postings": 1,
           "date": "2026-07-17",
-          "age_days": 100,
+          "age_days": 101,
           "norm_title": "automation crm data manager",
           "title_key": "senior crm automation & data manager (all genders)"
         },
@@ -4810,7 +4648,7 @@ window.DATA = {
           "title": "(Senior) CRM Manager – Analytics & Automation (all genders)",
           "postings": 1,
           "date": "2026-08-06",
-          "age_days": 80,
+          "age_days": 81,
           "norm_title": "analytics automation crm manager",
           "title_key": "(senior) crm manager – analytics & automation (all genders)"
         },
@@ -4823,7 +4661,7 @@ window.DATA = {
           "title": "Working Student – Marketing & Growth Operations (all genders)",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "growth marketing operations student working",
           "title_key": "working student – marketing & growth operations (all genders)"
         }
@@ -4840,7 +4678,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-06-15",
       "newest_date": "2026-10-06",
-      "oldest_age_days": 132,
+      "oldest_age_days": 133,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-data-engineer-at-trawa",
@@ -4851,7 +4689,7 @@ window.DATA = {
           "title": "Senior Data Engineer",
           "postings": 1,
           "date": "2026-06-15",
-          "age_days": 132,
+          "age_days": 133,
           "norm_title": "data engineer",
           "title_key": "senior data engineer"
         }
@@ -4868,7 +4706,7 @@ window.DATA = {
           "title": "AI Solutions & Process Engineer",
           "postings": 1,
           "date": "2026-08-12",
-          "age_days": 74,
+          "age_days": 75,
           "norm_title": "ai engineer process solutions",
           "title_key": "ai solutions & process engineer"
         },
@@ -4881,7 +4719,7 @@ window.DATA = {
           "title": "Business Analytics Intern",
           "postings": 1,
           "date": "2026-08-07",
-          "age_days": 79,
+          "age_days": 80,
           "norm_title": "analytics business intern",
           "title_key": "business analytics intern"
         },
@@ -4894,7 +4732,7 @@ window.DATA = {
           "title": "Engineering Manager - Data Intelligence",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "data engineering intelligence manager",
           "title_key": "engineering manager - data intelligence"
         },
@@ -4907,7 +4745,7 @@ window.DATA = {
           "title": "Senior Data Engineer",
           "postings": 1,
           "date": "2026-06-15",
-          "age_days": 132,
+          "age_days": 133,
           "norm_title": "data engineer",
           "title_key": "senior data engineer"
         }
@@ -4924,7 +4762,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-23",
       "newest_date": "2026-10-21",
-      "oldest_age_days": 94,
+      "oldest_age_days": 95,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-software-engineer-go-ai-resilience-security-enhancements-contract-at-form3",
@@ -4935,7 +4773,7 @@ window.DATA = {
           "title": "Senior Software Engineer (Go) - AI Resilience & Security Enhancements (Contract)",
           "postings": 1,
           "date": "2026-07-23",
-          "age_days": 94,
+          "age_days": 95,
           "norm_title": "ai contract engineer enhancements go resilience security software",
           "title_key": "senior software engineer (go) - ai resilience & security enhancements (contract)"
         }
@@ -4952,7 +4790,7 @@ window.DATA = {
           "title": "Reporting & Data Analyst (6-Month FTC)",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "6 analyst data ftc month reporting",
           "title_key": "reporting & data analyst (6-month ftc)"
         },
@@ -4965,7 +4803,7 @@ window.DATA = {
           "title": "Senior Platform Security Engineer - AI Resilience & Security Enhancements (Contract)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai contract engineer enhancements platform resilience security",
           "title_key": "senior platform security engineer - ai resilience & security enhancements (contract)"
         },
@@ -4978,7 +4816,7 @@ window.DATA = {
           "title": "Senior Software Engineer (Go) - AI Resilience & Security Enhancements (Contract)",
           "postings": 1,
           "date": "2026-07-23",
-          "age_days": 94,
+          "age_days": 95,
           "norm_title": "ai contract engineer enhancements go resilience security software",
           "title_key": "senior software engineer (go) - ai resilience & security enhancements (contract)"
         }
@@ -4995,7 +4833,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-05-29",
       "newest_date": "2026-09-21",
-      "oldest_age_days": 149,
+      "oldest_age_days": 150,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/open-source-machine-learning-engineer-emea-remote-at-hugging-face",
@@ -5006,7 +4844,7 @@ window.DATA = {
           "title": "Open-Source Machine Learning Engineer - EMEA Remote",
           "postings": 1,
           "date": "2026-05-29",
-          "age_days": 149,
+          "age_days": 150,
           "norm_title": "emea engineer learning machine open remote source",
           "title_key": "open-source machine learning engineer - emea remote"
         }
@@ -5023,7 +4861,7 @@ window.DATA = {
           "title": "Open-Source Machine Learning Engineer - EMEA Remote",
           "postings": 1,
           "date": "2026-05-29",
-          "age_days": 149,
+          "age_days": 150,
           "norm_title": "emea engineer learning machine open remote source",
           "title_key": "open-source machine learning engineer - emea remote"
         },
@@ -5036,7 +4874,7 @@ window.DATA = {
           "title": "Senior Machine Learning Engineer, Voice Agents - EMEA Remote",
           "postings": 1,
           "date": "2026-09-02",
-          "age_days": 53,
+          "age_days": 54,
           "norm_title": "agents emea engineer learning machine remote voice",
           "title_key": "senior machine learning engineer, voice agents - emea remote"
         },
@@ -5049,7 +4887,7 @@ window.DATA = {
           "title": "Senior Open-Source Python Engineer, ML Developer Tools - EMEA Remote",
           "postings": 1,
           "date": "2026-09-21",
-          "age_days": 34,
+          "age_days": 35,
           "norm_title": "developer emea engineer ml open python remote source tools",
           "title_key": "senior open-source python engineer, ml developer tools - emea remote"
         }
@@ -5066,7 +4904,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-03-06",
       "newest_date": "2026-09-29",
-      "oldest_age_days": 233,
+      "oldest_age_days": 234,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-data-engineer-analytics-at-pennylane",
@@ -5077,7 +4915,7 @@ window.DATA = {
           "title": "Senior Data Engineer - Analytics",
           "postings": 1,
           "date": "2026-03-06",
-          "age_days": 233,
+          "age_days": 234,
           "norm_title": "analytics data engineer",
           "title_key": "senior data engineer - analytics"
         }
@@ -5094,7 +4932,7 @@ window.DATA = {
           "title": "Senior Data Analyst - Acquisition 🇫🇷",
           "postings": 1,
           "date": "2026-09-29",
-          "age_days": 26,
+          "age_days": 27,
           "norm_title": "acquisition analyst data",
           "title_key": "senior data analyst - acquisition 🇫🇷"
         },
@@ -5107,7 +4945,7 @@ window.DATA = {
           "title": "Senior Data Engineer - Analytics",
           "postings": 1,
           "date": "2026-03-06",
-          "age_days": 233,
+          "age_days": 234,
           "norm_title": "analytics data engineer",
           "title_key": "senior data engineer - analytics"
         },
@@ -5120,7 +4958,7 @@ window.DATA = {
           "title": "Senior Machine Learning Engineer - Embedded AI",
           "postings": 1,
           "date": "2026-09-09",
-          "age_days": 46,
+          "age_days": 47,
           "norm_title": "ai embedded engineer learning machine",
           "title_key": "senior machine learning engineer - embedded ai"
         }
@@ -5137,7 +4975,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-06-17",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 130,
+      "oldest_age_days": 131,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-software-engineer-backend-growth-euuk-remote-mfd-at-pliant",
@@ -5148,7 +4986,7 @@ window.DATA = {
           "title": "(Senior) Software Engineer - Backend - Growth *EU/UK remote* (m/f/d)",
           "postings": 1,
           "date": "2026-06-17",
-          "age_days": 130,
+          "age_days": 131,
           "norm_title": "backend engineer eu growth remote software uk",
           "title_key": "(senior) software engineer - backend - growth *eu/uk remote* (m/f/d)"
         }
@@ -5165,7 +5003,7 @@ window.DATA = {
           "title": "Data Protection & AI Governance Manager (m/f/d)",
           "postings": 1,
           "date": "2026-10-05",
-          "age_days": 20,
+          "age_days": 21,
           "norm_title": "ai data governance manager protection",
           "title_key": "data protection & ai governance manager (m/f/d)"
         },
@@ -5178,7 +5016,7 @@ window.DATA = {
           "title": "(Senior) Software Engineer - Backend - Growth *EU/UK remote* (m/f/d)",
           "postings": 1,
           "date": "2026-06-17",
-          "age_days": 130,
+          "age_days": 131,
           "norm_title": "backend engineer eu growth remote software uk",
           "title_key": "(senior) software engineer - backend - growth *eu/uk remote* (m/f/d)"
         },
@@ -5191,7 +5029,7 @@ window.DATA = {
           "title": "Working Student – Compliance Automation & AI (m/f/d)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai automation compliance student working",
           "title_key": "working student – compliance automation & ai (m/f/d)"
         }
@@ -5208,7 +5046,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-14",
       "newest_date": "2026-10-16",
-      "oldest_age_days": 103,
+      "oldest_age_days": 104,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-product-designer-growth-all-genders-at-shiftmove",
@@ -5219,7 +5057,7 @@ window.DATA = {
           "title": "Senior Product Designer - Growth (all genders)",
           "postings": 1,
           "date": "2026-07-14",
-          "age_days": 103,
+          "age_days": 104,
           "norm_title": "designer growth product",
           "title_key": "senior product designer - growth (all genders)"
         }
@@ -5236,7 +5074,7 @@ window.DATA = {
           "title": "Interim Senior BI Analyst (All Genders)",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "analyst bi interim",
           "title_key": "interim senior bi analyst (all genders)"
         },
@@ -5249,7 +5087,7 @@ window.DATA = {
           "title": "Senior Product Designer - Growth (all genders)",
           "postings": 1,
           "date": "2026-07-14",
-          "age_days": 103,
+          "age_days": 104,
           "norm_title": "designer growth product",
           "title_key": "senior product designer - growth (all genders)"
         },
@@ -5262,7 +5100,7 @@ window.DATA = {
           "title": "Team Lead Business Intelligence (All Genders)",
           "postings": 1,
           "date": "2026-08-28",
-          "age_days": 58,
+          "age_days": 59,
           "norm_title": "business intelligence team",
           "title_key": "team lead business intelligence (all genders)"
         }
@@ -5279,7 +5117,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-07",
       "newest_date": "2026-08-01",
-      "oldest_age_days": 110,
+      "oldest_age_days": 111,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-martech-manager-mwd-at-aroundtown",
@@ -5290,7 +5128,7 @@ window.DATA = {
           "title": "Senior MarTech Manager (m/w/d)",
           "postings": 1,
           "date": "2026-07-07",
-          "age_days": 110,
+          "age_days": 111,
           "norm_title": "manager martech",
           "title_key": "senior martech manager (m/w/d)"
         }
@@ -5307,7 +5145,7 @@ window.DATA = {
           "title": "Data Quality Manager (m/w/d)",
           "postings": 1,
           "date": "2026-08-01",
-          "age_days": 85,
+          "age_days": 86,
           "norm_title": "data manager quality",
           "title_key": "data quality manager (m/w/d)"
         },
@@ -5320,7 +5158,7 @@ window.DATA = {
           "title": "Senior MarTech Manager (m/w/d)",
           "postings": 1,
           "date": "2026-07-07",
-          "age_days": 110,
+          "age_days": 111,
           "norm_title": "manager martech",
           "title_key": "senior martech manager (m/w/d)"
         }
@@ -5337,7 +5175,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-09",
       "newest_date": "2026-10-21",
-      "oldest_age_days": 108,
+      "oldest_age_days": 109,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/ai-engineer-mfd-at-bit-capital",
@@ -5348,7 +5186,7 @@ window.DATA = {
           "title": "AI Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-07-09",
-          "age_days": 108,
+          "age_days": 109,
           "norm_title": "ai engineer",
           "title_key": "ai engineer (m/f/d)"
         }
@@ -5365,7 +5203,7 @@ window.DATA = {
           "title": "AI Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-07-09",
-          "age_days": 108,
+          "age_days": 109,
           "norm_title": "ai engineer",
           "title_key": "ai engineer (m/f/d)"
         },
@@ -5378,7 +5216,7 @@ window.DATA = {
           "title": "Engineer - Data & Platforms (m/f/d)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "data engineer platforms",
           "title_key": "engineer - data & platforms (m/f/d)"
         }
@@ -5395,7 +5233,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-10",
       "newest_date": "2026-09-10",
-      "oldest_age_days": 107,
+      "oldest_age_days": 108,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/ai-adoption-product-manager-mwd-at-candis",
@@ -5406,7 +5244,7 @@ window.DATA = {
           "title": "AI Adoption Product Manager (m/w/d)",
           "postings": 1,
           "date": "2026-07-10",
-          "age_days": 107,
+          "age_days": 108,
           "norm_title": "adoption ai manager product",
           "title_key": "ai adoption product manager (m/w/d)"
         }
@@ -5423,7 +5261,7 @@ window.DATA = {
           "title": "AI Adoption Product Manager (m/w/d)",
           "postings": 1,
           "date": "2026-07-10",
-          "age_days": 107,
+          "age_days": 108,
           "norm_title": "adoption ai manager product",
           "title_key": "ai adoption product manager (m/w/d)"
         },
@@ -5436,7 +5274,7 @@ window.DATA = {
           "title": "Customer Growth Manager (m/w/d)",
           "postings": 1,
           "date": "2026-09-10",
-          "age_days": 45,
+          "age_days": 46,
           "norm_title": "customer growth manager",
           "title_key": "customer growth manager (m/w/d)"
         }
@@ -5453,7 +5291,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-05-12",
       "newest_date": "2026-10-20",
-      "oldest_age_days": 166,
+      "oldest_age_days": 167,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/forward-deployed-engineer-agentic-platform-europe-at-cohere",
@@ -5464,7 +5302,7 @@ window.DATA = {
           "title": "Forward Deployed Engineer, Agentic Platform (Europe)",
           "postings": 1,
           "date": "2026-05-12",
-          "age_days": 166,
+          "age_days": 167,
           "norm_title": "agentic deployed engineer europe forward platform",
           "title_key": "forward deployed engineer, agentic platform (europe)"
         }
@@ -5481,7 +5319,7 @@ window.DATA = {
           "title": "Forward Deployed Engineer, Agentic Platform (Europe)",
           "postings": 1,
           "date": "2026-05-12",
-          "age_days": 166,
+          "age_days": 167,
           "norm_title": "agentic deployed engineer europe forward platform",
           "title_key": "forward deployed engineer, agentic platform (europe)"
         },
@@ -5494,7 +5332,7 @@ window.DATA = {
           "title": "Technical Program Manager, AI Delivery for Public Sector & Defense, Germany",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "ai defense delivery germany manager program public sector technical",
           "title_key": "technical program manager, ai delivery for public sector & defense, germany"
         }
@@ -5511,7 +5349,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-23",
       "newest_date": "2026-10-08",
-      "oldest_age_days": 94,
+      "oldest_age_days": 95,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/ai-product-manager-mfx-at-cortea",
@@ -5522,7 +5360,7 @@ window.DATA = {
           "title": "AI Product Manager (m/f/x)",
           "postings": 1,
           "date": "2026-07-23",
-          "age_days": 94,
+          "age_days": 95,
           "norm_title": "ai manager product",
           "title_key": "ai product manager (m/f/x)"
         }
@@ -5539,7 +5377,7 @@ window.DATA = {
           "title": "AI Product Manager (m/f/x)",
           "postings": 1,
           "date": "2026-07-23",
-          "age_days": 94,
+          "age_days": 95,
           "norm_title": "ai manager product",
           "title_key": "ai product manager (m/f/x)"
         },
@@ -5552,7 +5390,7 @@ window.DATA = {
           "title": "Senior/Staff AI Engineer, Quality & Evals (m/f/x)",
           "postings": 1,
           "date": "2026-10-08",
-          "age_days": 17,
+          "age_days": 18,
           "norm_title": "ai engineer evals quality",
           "title_key": "senior/staff ai engineer, quality & evals (m/f/x)"
         }
@@ -5569,7 +5407,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-06-24",
       "newest_date": "2026-09-24",
-      "oldest_age_days": 123,
+      "oldest_age_days": 124,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/data-analyst-user-operations-at-cursor",
@@ -5580,7 +5418,7 @@ window.DATA = {
           "title": "Data Analyst, User Operations",
           "postings": 1,
           "date": "2026-06-24",
-          "age_days": 123,
+          "age_days": 124,
           "norm_title": "analyst data operations user",
           "title_key": "data analyst, user operations"
         }
@@ -5597,7 +5435,7 @@ window.DATA = {
           "title": "AI Deployment Manager, Scale",
           "postings": 1,
           "date": "2026-09-24",
-          "age_days": 31,
+          "age_days": 32,
           "norm_title": "ai deployment manager scale",
           "title_key": "ai deployment manager, scale"
         },
@@ -5610,7 +5448,7 @@ window.DATA = {
           "title": "Data Analyst, User Operations",
           "postings": 1,
           "date": "2026-06-24",
-          "age_days": 123,
+          "age_days": 124,
           "norm_title": "analyst data operations user",
           "title_key": "data analyst, user operations"
         }
@@ -5627,7 +5465,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-04-24",
       "newest_date": "2026-08-18",
-      "oldest_age_days": 184,
+      "oldest_age_days": 185,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/data-analyst-mfd-at-eit-rawmaterials",
@@ -5638,7 +5476,7 @@ window.DATA = {
           "title": "Data Analyst (m/f/d)",
           "postings": 1,
           "date": "2026-04-24",
-          "age_days": 184,
+          "age_days": 185,
           "norm_title": "analyst data",
           "title_key": "data analyst (m/f/d)"
         }
@@ -5655,7 +5493,7 @@ window.DATA = {
           "title": "Data Analyst (m/f/d)",
           "postings": 1,
           "date": "2026-04-24",
-          "age_days": 184,
+          "age_days": 185,
           "norm_title": "analyst data",
           "title_key": "data analyst (m/f/d)"
         },
@@ -5668,7 +5506,7 @@ window.DATA = {
           "title": "Data Analyst (m/f/d) - Freelancer/B2B",
           "postings": 1,
           "date": "2026-08-18",
-          "age_days": 68,
+          "age_days": 69,
           "norm_title": "analyst b2b data freelancer",
           "title_key": "data analyst (m/f/d) - freelancer/b2b"
         }
@@ -5685,7 +5523,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-12-02",
       "newest_date": "2026-09-11",
-      "oldest_age_days": 327,
+      "oldest_age_days": 328,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/machine-learning-engineer-iii-routing-cost-at-mapbox",
@@ -5696,7 +5534,7 @@ window.DATA = {
           "title": "Machine Learning Engineer III, Routing Cost",
           "postings": 1,
           "date": "2025-12-02",
-          "age_days": 327,
+          "age_days": 328,
           "norm_title": "cost engineer learning machine routing",
           "title_key": "machine learning engineer iii, routing cost"
         }
@@ -5713,7 +5551,7 @@ window.DATA = {
           "title": "Machine Learning Engineer III, Routing Cost",
           "postings": 1,
           "date": "2025-12-02",
-          "age_days": 327,
+          "age_days": 328,
           "norm_title": "cost engineer learning machine routing",
           "title_key": "machine learning engineer iii, routing cost"
         },
@@ -5726,7 +5564,7 @@ window.DATA = {
           "title": "Senior AI Engineer, Location AI",
           "postings": 1,
           "date": "2026-09-11",
-          "age_days": 44,
+          "age_days": 45,
           "norm_title": "ai engineer location",
           "title_key": "senior ai engineer, location ai"
         }
@@ -5743,7 +5581,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-06",
       "newest_date": "2026-10-02",
-      "oldest_age_days": 111,
+      "oldest_age_days": 112,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/growth-strategy-gtm-intern-mfd-at-mercanis",
@@ -5754,7 +5592,7 @@ window.DATA = {
           "title": "Growth Strategy & GTM Intern (m/f/d)",
           "postings": 1,
           "date": "2026-07-06",
-          "age_days": 111,
+          "age_days": 112,
           "norm_title": "growth gtm intern strategy",
           "title_key": "growth strategy & gtm intern (m/f/d)"
         }
@@ -5771,7 +5609,7 @@ window.DATA = {
           "title": "Growth Strategy & GTM Intern (m/f/d)",
           "postings": 1,
           "date": "2026-07-06",
-          "age_days": 111,
+          "age_days": 112,
           "norm_title": "growth gtm intern strategy",
           "title_key": "growth strategy & gtm intern (m/f/d)"
         },
@@ -5784,7 +5622,7 @@ window.DATA = {
           "title": "Senior Agentic AI Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-10-02",
-          "age_days": 23,
+          "age_days": 24,
           "norm_title": "agentic ai engineer",
           "title_key": "senior agentic ai engineer (m/f/d)"
         }
@@ -5801,7 +5639,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-03-19",
       "newest_date": "2026-10-01",
-      "oldest_age_days": 220,
+      "oldest_age_days": 221,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-ai-engineer-at-nelly",
@@ -5812,7 +5650,7 @@ window.DATA = {
           "title": "Senior AI Engineer",
           "postings": 1,
           "date": "2026-03-19",
-          "age_days": 220,
+          "age_days": 221,
           "norm_title": "ai engineer",
           "title_key": "senior ai engineer"
         }
@@ -5829,7 +5667,7 @@ window.DATA = {
           "title": "Senior AI Engineer",
           "postings": 1,
           "date": "2026-03-19",
-          "age_days": 220,
+          "age_days": 221,
           "norm_title": "ai engineer",
           "title_key": "senior ai engineer"
         },
@@ -5842,7 +5680,7 @@ window.DATA = {
           "title": "Working Student Legal, Data Privacy",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "data legal privacy student working",
           "title_key": "working student legal, data privacy"
         }
@@ -5859,7 +5697,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-04-27",
       "newest_date": "2026-10-01",
-      "oldest_age_days": 181,
+      "oldest_age_days": 182,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/sr-applied-ai-engineer-at-taktile",
@@ -5870,7 +5708,7 @@ window.DATA = {
           "title": "Sr. Applied AI Engineer",
           "postings": 1,
           "date": "2026-04-27",
-          "age_days": 181,
+          "age_days": 182,
           "norm_title": "ai applied engineer",
           "title_key": "sr. applied ai engineer"
         }
@@ -5887,7 +5725,7 @@ window.DATA = {
           "title": "Senior AI Enablement Engineer",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "ai enablement engineer",
           "title_key": "senior ai enablement engineer"
         },
@@ -5900,7 +5738,7 @@ window.DATA = {
           "title": "Sr. Applied AI Engineer",
           "postings": 1,
           "date": "2026-04-27",
-          "age_days": 181,
+          "age_days": 182,
           "norm_title": "ai applied engineer",
           "title_key": "sr. applied ai engineer"
         }
@@ -5917,7 +5755,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-06-29",
       "newest_date": "2026-06-29",
-      "oldest_age_days": 118,
+      "oldest_age_days": 119,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/werkstudentin-growth-business-development-mwd-at-acemate",
@@ -5928,7 +5766,7 @@ window.DATA = {
           "title": "Werkstudent:in Growth & Business Development (m/w/d)",
           "postings": 1,
           "date": "2026-06-29",
-          "age_days": 118,
+          "age_days": 119,
           "norm_title": "business development growth werkstudent",
           "title_key": "werkstudent:in growth & business development (m/w/d)"
         }
@@ -5945,7 +5783,7 @@ window.DATA = {
           "title": "Werkstudent:in Growth & Business Development (m/w/d)",
           "postings": 1,
           "date": "2026-06-29",
-          "age_days": 118,
+          "age_days": 119,
           "norm_title": "business development growth werkstudent",
           "title_key": "werkstudent:in growth & business development (m/w/d)"
         }
@@ -5962,7 +5800,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-04-09",
       "newest_date": "2026-04-09",
-      "oldest_age_days": 199,
+      "oldest_age_days": 200,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-full-stack-ai-engineer-mwd-at-overfly",
@@ -5973,7 +5811,7 @@ window.DATA = {
           "title": "Senior Full Stack & AI Engineer (m/w/d)",
           "postings": 1,
           "date": "2026-04-09",
-          "age_days": 199,
+          "age_days": 200,
           "norm_title": "ai engineer full stack",
           "title_key": "senior full stack & ai engineer (m/w/d)"
         }
@@ -5990,7 +5828,7 @@ window.DATA = {
           "title": "Senior Full Stack & AI Engineer (m/w/d)",
           "postings": 1,
           "date": "2026-04-09",
-          "age_days": 199,
+          "age_days": 200,
           "norm_title": "ai engineer full stack",
           "title_key": "senior full stack & ai engineer (m/w/d)"
         }
@@ -6007,7 +5845,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-01-22",
       "newest_date": "2026-01-22",
-      "oldest_age_days": 276,
+      "oldest_age_days": 277,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-growth-manager-france-fmd-fintech-startup-at-finperks",
@@ -6018,7 +5856,7 @@ window.DATA = {
           "title": "(Senior) Growth Manager France (f/m/d) - FinTech Startup",
           "postings": 1,
           "date": "2026-01-22",
-          "age_days": 276,
+          "age_days": 277,
           "norm_title": "fintech france growth manager startup",
           "title_key": "(senior) growth manager france (f/m/d) - fintech startup"
         }
@@ -6035,7 +5873,7 @@ window.DATA = {
           "title": "(Senior) Growth Manager France (f/m/d) - FinTech Startup",
           "postings": 1,
           "date": "2026-01-22",
-          "age_days": 276,
+          "age_days": 277,
           "norm_title": "fintech france growth manager startup",
           "title_key": "(senior) growth manager france (f/m/d) - fintech startup"
         }
@@ -6052,7 +5890,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-12-18",
       "newest_date": "2025-12-18",
-      "oldest_age_days": 311,
+      "oldest_age_days": 312,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-software-engineer-backendllm-infrastructure-at-routine-labs",
@@ -6063,7 +5901,7 @@ window.DATA = {
           "title": "Senior Software Engineer (Backend/LLM Infrastructure)",
           "postings": 1,
           "date": "2025-12-18",
-          "age_days": 311,
+          "age_days": 312,
           "norm_title": "backend engineer infrastructure llm software",
           "title_key": "senior software engineer (backend/llm infrastructure)"
         }
@@ -6080,7 +5918,7 @@ window.DATA = {
           "title": "Senior Software Engineer (Backend/LLM Infrastructure)",
           "postings": 1,
           "date": "2025-12-18",
-          "age_days": 311,
+          "age_days": 312,
           "norm_title": "backend engineer infrastructure llm software",
           "title_key": "senior software engineer (backend/llm infrastructure)"
         }
@@ -6097,7 +5935,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-04-24",
       "newest_date": "2025-04-24",
-      "oldest_age_days": 549,
+      "oldest_age_days": 550,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-marketing-data-scientist-mwd-at-jomigo",
@@ -6108,7 +5946,7 @@ window.DATA = {
           "title": "Senior Marketing Data Scientist (m/w/d)",
           "postings": 1,
           "date": "2025-04-24",
-          "age_days": 549,
+          "age_days": 550,
           "norm_title": "data marketing scientist",
           "title_key": "senior marketing data scientist (m/w/d)"
         }
@@ -6125,7 +5963,7 @@ window.DATA = {
           "title": "Senior Marketing Data Scientist (m/w/d)",
           "postings": 1,
           "date": "2025-04-24",
-          "age_days": 549,
+          "age_days": 550,
           "norm_title": "data marketing scientist",
           "title_key": "senior marketing data scientist (m/w/d)"
         }
@@ -6142,7 +5980,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-05-19",
       "newest_date": "2026-05-19",
-      "oldest_age_days": 159,
+      "oldest_age_days": 160,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-data-scientist-at-abacus-medicine",
@@ -6153,7 +5991,7 @@ window.DATA = {
           "title": "(Senior) Data Scientist",
           "postings": 1,
           "date": "2026-05-19",
-          "age_days": 159,
+          "age_days": 160,
           "norm_title": "data scientist",
           "title_key": "(senior) data scientist"
         }
@@ -6170,7 +6008,7 @@ window.DATA = {
           "title": "(Senior) Data Scientist",
           "postings": 1,
           "date": "2026-05-19",
-          "age_days": 159,
+          "age_days": 160,
           "norm_title": "data scientist",
           "title_key": "(senior) data scientist"
         }
@@ -6187,7 +6025,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-06-11",
       "newest_date": "2026-06-11",
-      "oldest_age_days": 136,
+      "oldest_age_days": 137,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/ai-driven-senior-product-manager-web-mfd-at-pincamp",
@@ -6198,7 +6036,7 @@ window.DATA = {
           "title": "AI-Driven Senior Product Manager Web (m/f/d)",
           "postings": 1,
           "date": "2026-06-11",
-          "age_days": 136,
+          "age_days": 137,
           "norm_title": "ai driven manager product web",
           "title_key": "ai-driven senior product manager web (m/f/d)"
         }
@@ -6215,7 +6053,7 @@ window.DATA = {
           "title": "AI-Driven Senior Product Manager Web (m/f/d)",
           "postings": 1,
           "date": "2026-06-11",
-          "age_days": 136,
+          "age_days": 137,
           "norm_title": "ai driven manager product web",
           "title_key": "ai-driven senior product manager web (m/f/d)"
         }
@@ -6232,7 +6070,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-05-06",
       "newest_date": "2026-05-06",
-      "oldest_age_days": 172,
+      "oldest_age_days": 173,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-product-manager-clinical-ai-dfm-at-aignostics",
@@ -6243,7 +6081,7 @@ window.DATA = {
           "title": "Senior Product Manager - Clinical AI (d/f/m)",
           "postings": 1,
           "date": "2026-05-06",
-          "age_days": 172,
+          "age_days": 173,
           "norm_title": "ai clinical manager product",
           "title_key": "senior product manager - clinical ai (d/f/m)"
         }
@@ -6260,7 +6098,7 @@ window.DATA = {
           "title": "Senior Product Manager - Clinical AI (d/f/m)",
           "postings": 1,
           "date": "2026-05-06",
-          "age_days": 172,
+          "age_days": 173,
           "norm_title": "ai clinical manager product",
           "title_key": "senior product manager - clinical ai (d/f/m)"
         }
@@ -6277,7 +6115,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-05-15",
       "newest_date": "2026-05-15",
-      "oldest_age_days": 163,
+      "oldest_age_days": 164,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/product-growth-lead-referrals-viral-loops-at-aios-remote-200k-400kyr-015-050-at-aios",
@@ -6288,7 +6126,7 @@ window.DATA = {
           "title": "Product Growth Lead (Referrals & Viral Loops) at AIOS — Remote, $200k-$400k/yr + 0.15%-0.50%",
           "postings": 1,
           "date": "2026-05-15",
-          "age_days": 163,
+          "age_days": 164,
           "norm_title": "0 15 200k 400k 50 aios growth loops product referrals remote viral yr",
           "title_key": "product growth lead (referrals & viral loops) at aios — remote, $200k-$400k/yr + 0.15%-0.50%"
         }
@@ -6305,7 +6143,7 @@ window.DATA = {
           "title": "Product Growth Lead (Referrals & Viral Loops) at AIOS — Remote, $200k-$400k/yr + 0.15%-0.50%",
           "postings": 1,
           "date": "2026-05-15",
-          "age_days": 163,
+          "age_days": 164,
           "norm_title": "0 15 200k 400k 50 aios growth loops product referrals remote viral yr",
           "title_key": "product growth lead (referrals & viral loops) at aios — remote, $200k-$400k/yr + 0.15%-0.50%"
         }
@@ -6322,7 +6160,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-03-17",
       "newest_date": "2026-03-17",
-      "oldest_age_days": 222,
+      "oldest_age_days": 223,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-ai-engineer-fmd-at-alpas",
@@ -6333,7 +6171,7 @@ window.DATA = {
           "title": "Senior AI Engineer (f/m/d)",
           "postings": 1,
           "date": "2026-03-17",
-          "age_days": 222,
+          "age_days": 223,
           "norm_title": "ai engineer",
           "title_key": "senior ai engineer (f/m/d)"
         }
@@ -6350,7 +6188,7 @@ window.DATA = {
           "title": "Senior AI Engineer (f/m/d)",
           "postings": 1,
           "date": "2026-03-17",
-          "age_days": 222,
+          "age_days": 223,
           "norm_title": "ai engineer",
           "title_key": "senior ai engineer (f/m/d)"
         }
@@ -6367,7 +6205,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-03-03",
       "newest_date": "2025-03-03",
-      "oldest_age_days": 601,
+      "oldest_age_days": 602,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/spontaneous-application-data-engineer-at-amplemarket",
@@ -6378,7 +6216,7 @@ window.DATA = {
           "title": "Spontaneous Application - Data Engineer",
           "postings": 1,
           "date": "2025-03-03",
-          "age_days": 601,
+          "age_days": 602,
           "norm_title": "application data engineer spontaneous",
           "title_key": "spontaneous application - data engineer"
         }
@@ -6395,7 +6233,7 @@ window.DATA = {
           "title": "Spontaneous Application - Data Engineer",
           "postings": 1,
           "date": "2025-03-03",
-          "age_days": 601,
+          "age_days": 602,
           "norm_title": "application data engineer spontaneous",
           "title_key": "spontaneous application - data engineer"
         }
@@ -6412,7 +6250,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-05-28",
       "newest_date": "2026-05-28",
-      "oldest_age_days": 150,
+      "oldest_age_days": 151,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/e-commerce-growth-manager-mwd-beauty-skincare-remote-15-20hwoche-at-111brands",
@@ -6423,7 +6261,7 @@ window.DATA = {
           "title": "E Commerce Growth Manager (m/w/d) - Beauty & Skincare | remote 15-20h/Woche",
           "postings": 1,
           "date": "2026-05-28",
-          "age_days": 150,
+          "age_days": 151,
           "norm_title": "15 20h beauty commerce e growth manager remote skincare woche",
           "title_key": "e commerce growth manager (m/w/d) - beauty & skincare | remote 15-20h/woche"
         }
@@ -6440,7 +6278,7 @@ window.DATA = {
           "title": "E Commerce Growth Manager (m/w/d) - Beauty & Skincare | remote 15-20h/Woche",
           "postings": 1,
           "date": "2026-05-28",
-          "age_days": 150,
+          "age_days": 151,
           "norm_title": "15 20h beauty commerce e growth manager remote skincare woche",
           "title_key": "e commerce growth manager (m/w/d) - beauty & skincare | remote 15-20h/woche"
         }
@@ -6457,7 +6295,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-08-12",
       "newest_date": "2025-08-12",
-      "oldest_age_days": 439,
+      "oldest_age_days": 440,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/growth-hacker-working-student-internship-at-checkturio",
@@ -6468,7 +6306,7 @@ window.DATA = {
           "title": "Growth Hacker (Working Student / Internship)",
           "postings": 1,
           "date": "2025-08-12",
-          "age_days": 439,
+          "age_days": 440,
           "norm_title": "growth hacker internship student working",
           "title_key": "growth hacker (working student / internship)"
         }
@@ -6485,7 +6323,7 @@ window.DATA = {
           "title": "Growth Hacker (Working Student / Internship)",
           "postings": 1,
           "date": "2025-08-12",
-          "age_days": 439,
+          "age_days": 440,
           "norm_title": "growth hacker internship student working",
           "title_key": "growth hacker (working student / internship)"
         }
@@ -6502,7 +6340,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-23",
       "newest_date": "2026-07-23",
-      "oldest_age_days": 94,
+      "oldest_age_days": 95,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/staffprincipal-software-engineer-ai-security-at-cyberhaven",
@@ -6513,7 +6351,7 @@ window.DATA = {
           "title": "Staff/Principal Software Engineer (AI Security)",
           "postings": 1,
           "date": "2026-07-23",
-          "age_days": 94,
+          "age_days": 95,
           "norm_title": "ai engineer security software",
           "title_key": "staff/principal software engineer (ai security)"
         }
@@ -6530,7 +6368,7 @@ window.DATA = {
           "title": "Staff/Principal Software Engineer (AI Security)",
           "postings": 1,
           "date": "2026-07-23",
-          "age_days": 94,
+          "age_days": 95,
           "norm_title": "ai engineer security software",
           "title_key": "staff/principal software engineer (ai security)"
         }
@@ -6547,7 +6385,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-03-10",
       "newest_date": "2026-03-10",
-      "oldest_age_days": 229,
+      "oldest_age_days": 230,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/teacherlehrer-mwd-data-engineer-at-digital-career-institute",
@@ -6558,7 +6396,7 @@ window.DATA = {
           "title": "Teacher/Lehrer (m/w/d) Data Engineer",
           "postings": 1,
           "date": "2026-03-10",
-          "age_days": 229,
+          "age_days": 230,
           "norm_title": "data engineer lehrer teacher",
           "title_key": "teacher/lehrer (m/w/d) data engineer"
         }
@@ -6575,7 +6413,7 @@ window.DATA = {
           "title": "Teacher/Lehrer (m/w/d) Data Engineer",
           "postings": 1,
           "date": "2026-03-10",
-          "age_days": 229,
+          "age_days": 230,
           "norm_title": "data engineer lehrer teacher",
           "title_key": "teacher/lehrer (m/w/d) data engineer"
         }
@@ -6592,7 +6430,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-02-02",
       "newest_date": "2026-02-02",
-      "oldest_age_days": 265,
+      "oldest_age_days": 266,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/head-of-ai-research-at-dunia",
@@ -6603,7 +6441,7 @@ window.DATA = {
           "title": "Head of AI Research",
           "postings": 1,
           "date": "2026-02-02",
-          "age_days": 265,
+          "age_days": 266,
           "norm_title": "ai head research",
           "title_key": "head of ai research"
         }
@@ -6620,7 +6458,7 @@ window.DATA = {
           "title": "Head of AI Research",
           "postings": 1,
           "date": "2026-02-02",
-          "age_days": 265,
+          "age_days": 266,
           "norm_title": "ai head research",
           "title_key": "head of ai research"
         }
@@ -6637,7 +6475,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-10-22",
       "newest_date": "2025-10-22",
-      "oldest_age_days": 368,
+      "oldest_age_days": 369,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/ai-platform-engineer-euuk-based-remote-at-duvo",
@@ -6648,7 +6486,7 @@ window.DATA = {
           "title": "AI Platform Engineer (EU/UK Based - Remote)",
           "postings": 1,
           "date": "2025-10-22",
-          "age_days": 368,
+          "age_days": 369,
           "norm_title": "ai based engineer eu platform remote uk",
           "title_key": "ai platform engineer (eu/uk based - remote)"
         }
@@ -6665,7 +6503,7 @@ window.DATA = {
           "title": "AI Platform Engineer (EU/UK Based - Remote)",
           "postings": 1,
           "date": "2025-10-22",
-          "age_days": 368,
+          "age_days": 369,
           "norm_title": "ai based engineer eu platform remote uk",
           "title_key": "ai platform engineer (eu/uk based - remote)"
         }
@@ -6682,7 +6520,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-16",
       "newest_date": "2026-07-16",
-      "oldest_age_days": 101,
+      "oldest_age_days": 102,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-data-engineer-mfd-at-eberlein-kunz",
@@ -6693,7 +6531,7 @@ window.DATA = {
           "title": "Senior Data Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-07-16",
-          "age_days": 101,
+          "age_days": 102,
           "norm_title": "data engineer",
           "title_key": "senior data engineer (m/f/d)"
         }
@@ -6710,7 +6548,7 @@ window.DATA = {
           "title": "Senior Data Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-07-16",
-          "age_days": 101,
+          "age_days": 102,
           "norm_title": "data engineer",
           "title_key": "senior data engineer (m/f/d)"
         }
@@ -6727,7 +6565,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-23",
       "newest_date": "2026-07-23",
-      "oldest_age_days": 94,
+      "oldest_age_days": 95,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-software-engineer-fmdx-ai-enabled-insurance-platform-at-emil-group",
@@ -6738,7 +6576,7 @@ window.DATA = {
           "title": "(Senior) Software Engineer (f/m/d/x) AI-Enabled Insurance Platform",
           "postings": 1,
           "date": "2026-07-23",
-          "age_days": 94,
+          "age_days": 95,
           "norm_title": "ai enabled engineer insurance platform software",
           "title_key": "(senior) software engineer (f/m/d/x) ai-enabled insurance platform"
         }
@@ -6755,7 +6593,7 @@ window.DATA = {
           "title": "(Senior) Software Engineer (f/m/d/x) AI-Enabled Insurance Platform",
           "postings": 1,
           "date": "2026-07-23",
-          "age_days": 94,
+          "age_days": 95,
           "norm_title": "ai enabled engineer insurance platform software",
           "title_key": "(senior) software engineer (f/m/d/x) ai-enabled insurance platform"
         }
@@ -6772,7 +6610,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-19",
       "newest_date": "2026-07-19",
-      "oldest_age_days": 98,
+      "oldest_age_days": 99,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-data-engineer-at-glsnxt",
@@ -6783,7 +6621,7 @@ window.DATA = {
           "title": "Senior Data Engineer",
           "postings": 1,
           "date": "2026-07-19",
-          "age_days": 98,
+          "age_days": 99,
           "norm_title": "data engineer",
           "title_key": "senior data engineer"
         }
@@ -6800,54 +6638,9 @@ window.DATA = {
           "title": "Senior Data Engineer",
           "postings": 1,
           "date": "2026-07-19",
-          "age_days": 98,
+          "age_days": 99,
           "norm_title": "data engineer",
           "title_key": "senior data engineer"
-        }
-      ],
-      "reasons": [
-        "stale"
-      ],
-      "flagged": true
-    },
-    {
-      "company": "GovRadar",
-      "company_slug": "govradar",
-      "total": 1,
-      "undated": 0,
-      "oldest_date": "2026-03-31",
-      "newest_date": "2026-03-31",
-      "oldest_age_days": 208,
-      "stale_jobs": [
-        {
-          "url": "https://databerlin.net/jobs/senior-ai-engineer-wmd-at-govradar",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Senior",
-          "company_slug": "govradar",
-          "company": "GovRadar",
-          "title": "Senior AI Engineer (w/m/d)",
-          "postings": 1,
-          "date": "2026-03-31",
-          "age_days": 208,
-          "norm_title": "ai engineer",
-          "title_key": "senior ai engineer (w/m/d)"
-        }
-      ],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/senior-ai-engineer-wmd-at-govradar",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Senior",
-          "company_slug": "govradar",
-          "company": "GovRadar",
-          "title": "Senior AI Engineer (w/m/d)",
-          "postings": 1,
-          "date": "2026-03-31",
-          "age_days": 208,
-          "norm_title": "ai engineer",
-          "title_key": "senior ai engineer (w/m/d)"
         }
       ],
       "reasons": [
@@ -6862,7 +6655,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-21",
       "newest_date": "2026-07-21",
-      "oldest_age_days": 96,
+      "oldest_age_days": 97,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-ai-engineer-fmd-at-integral",
@@ -6873,7 +6666,7 @@ window.DATA = {
           "title": "Senior AI Engineer (f/m/d)",
           "postings": 1,
           "date": "2026-07-21",
-          "age_days": 96,
+          "age_days": 97,
           "norm_title": "ai engineer",
           "title_key": "senior ai engineer (f/m/d)"
         }
@@ -6890,7 +6683,7 @@ window.DATA = {
           "title": "Senior AI Engineer (f/m/d)",
           "postings": 1,
           "date": "2026-07-21",
-          "age_days": 96,
+          "age_days": 97,
           "norm_title": "ai engineer",
           "title_key": "senior ai engineer (f/m/d)"
         }
@@ -6907,7 +6700,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-04-07",
       "newest_date": "2026-04-07",
-      "oldest_age_days": 201,
+      "oldest_age_days": 202,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-lead-machine-learning-engineer-inference-germany-at-inworld-ai",
@@ -6918,7 +6711,7 @@ window.DATA = {
           "title": "Senior / Lead Machine Learning Engineer, Inference - Germany",
           "postings": 1,
           "date": "2026-04-07",
-          "age_days": 201,
+          "age_days": 202,
           "norm_title": "engineer germany inference learning machine",
           "title_key": "senior / lead machine learning engineer, inference - germany"
         }
@@ -6935,7 +6728,7 @@ window.DATA = {
           "title": "Senior / Lead Machine Learning Engineer, Inference - Germany",
           "postings": 1,
           "date": "2026-04-07",
-          "age_days": 201,
+          "age_days": 202,
           "norm_title": "engineer germany inference learning machine",
           "title_key": "senior / lead machine learning engineer, inference - germany"
         }
@@ -6952,7 +6745,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-24",
       "newest_date": "2026-07-24",
-      "oldest_age_days": 93,
+      "oldest_age_days": 94,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/data-engineer-mfd-at-jedox",
@@ -6963,7 +6756,7 @@ window.DATA = {
           "title": "Data Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-07-24",
-          "age_days": 93,
+          "age_days": 94,
           "norm_title": "data engineer",
           "title_key": "data engineer (m/f/d)"
         }
@@ -6980,7 +6773,7 @@ window.DATA = {
           "title": "Data Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-07-24",
-          "age_days": 93,
+          "age_days": 94,
           "norm_title": "data engineer",
           "title_key": "data engineer (m/f/d)"
         }
@@ -6997,7 +6790,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-02",
       "newest_date": "2026-07-02",
-      "oldest_age_days": 115,
+      "oldest_age_days": 116,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-ai-engineer-at-jimdo",
@@ -7008,7 +6801,7 @@ window.DATA = {
           "title": "Senior AI Engineer",
           "postings": 1,
           "date": "2026-07-02",
-          "age_days": 115,
+          "age_days": 116,
           "norm_title": "ai engineer",
           "title_key": "senior ai engineer"
         }
@@ -7025,7 +6818,7 @@ window.DATA = {
           "title": "Senior AI Engineer",
           "postings": 1,
           "date": "2026-07-02",
-          "age_days": 115,
+          "age_days": 116,
           "norm_title": "ai engineer",
           "title_key": "senior ai engineer"
         }
@@ -7042,7 +6835,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-04-16",
       "newest_date": "2026-04-16",
-      "oldest_age_days": 192,
+      "oldest_age_days": 193,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/ai-transformation-manager-mfd-at-langdock",
@@ -7053,7 +6846,7 @@ window.DATA = {
           "title": "AI Transformation Manager - m/f/d",
           "postings": 1,
           "date": "2026-04-16",
-          "age_days": 192,
+          "age_days": 193,
           "norm_title": "ai manager transformation",
           "title_key": "ai transformation manager - m/f/d"
         }
@@ -7070,7 +6863,7 @@ window.DATA = {
           "title": "AI Transformation Manager - m/f/d",
           "postings": 1,
           "date": "2026-04-16",
-          "age_days": 192,
+          "age_days": 193,
           "norm_title": "ai manager transformation",
           "title_key": "ai transformation manager - m/f/d"
         }
@@ -7087,7 +6880,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-01-27",
       "newest_date": "2026-01-27",
-      "oldest_age_days": 271,
+      "oldest_age_days": 272,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/analytics-engineering-advocate-europe-at-lightdash",
@@ -7098,7 +6891,7 @@ window.DATA = {
           "title": "Analytics Engineering Advocate - Europe",
           "postings": 1,
           "date": "2026-01-27",
-          "age_days": 271,
+          "age_days": 272,
           "norm_title": "advocate analytics engineering europe",
           "title_key": "analytics engineering advocate - europe"
         }
@@ -7115,7 +6908,7 @@ window.DATA = {
           "title": "Analytics Engineering Advocate - Europe",
           "postings": 1,
           "date": "2026-01-27",
-          "age_days": 271,
+          "age_days": 272,
           "norm_title": "advocate analytics engineering europe",
           "title_key": "analytics engineering advocate - europe"
         }
@@ -7132,7 +6925,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-17",
       "newest_date": "2026-07-17",
-      "oldest_age_days": 100,
+      "oldest_age_days": 101,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-ml-engineer-fmx-computer-vision-for-earth-observation-at-liveeo",
@@ -7143,7 +6936,7 @@ window.DATA = {
           "title": "Senior ML Engineer (f/m/x) - Computer Vision for Earth Observation",
           "postings": 1,
           "date": "2026-07-17",
-          "age_days": 100,
+          "age_days": 101,
           "norm_title": "computer earth engineer ml observation vision",
           "title_key": "senior ml engineer (f/m/x) - computer vision for earth observation"
         }
@@ -7160,7 +6953,7 @@ window.DATA = {
           "title": "Senior ML Engineer (f/m/x) - Computer Vision for Earth Observation",
           "postings": 1,
           "date": "2026-07-17",
-          "age_days": 100,
+          "age_days": 101,
           "norm_title": "computer earth engineer ml observation vision",
           "title_key": "senior ml engineer (f/m/x) - computer vision for earth observation"
         }
@@ -7177,7 +6970,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-03-23",
       "newest_date": "2025-03-23",
-      "oldest_age_days": 581,
+      "oldest_age_days": 582,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/co-founder-cto-mfd-at-logenta",
@@ -7188,7 +6981,7 @@ window.DATA = {
           "title": "Co-Founder & CTO (m/f/d)",
           "postings": 1,
           "date": "2025-03-23",
-          "age_days": 581,
+          "age_days": 582,
           "norm_title": "co cto founder",
           "title_key": "co-founder & cto (m/f/d)"
         }
@@ -7205,7 +6998,7 @@ window.DATA = {
           "title": "Co-Founder & CTO (m/f/d)",
           "postings": 1,
           "date": "2025-03-23",
-          "age_days": 581,
+          "age_days": 582,
           "norm_title": "co cto founder",
           "title_key": "co-founder & cto (m/f/d)"
         }
@@ -7222,7 +7015,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-01-29",
       "newest_date": "2026-01-29",
-      "oldest_age_days": 269,
+      "oldest_age_days": 270,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/community-and-creator-growth-manager-at-mirelo",
@@ -7233,7 +7026,7 @@ window.DATA = {
           "title": "Community and Creator Growth Manager",
           "postings": 1,
           "date": "2026-01-29",
-          "age_days": 269,
+          "age_days": 270,
           "norm_title": "community creator growth manager",
           "title_key": "community and creator growth manager"
         }
@@ -7250,7 +7043,7 @@ window.DATA = {
           "title": "Community and Creator Growth Manager",
           "postings": 1,
           "date": "2026-01-29",
-          "age_days": 269,
+          "age_days": 270,
           "norm_title": "community creator growth manager",
           "title_key": "community and creator growth manager"
         }
@@ -7267,7 +7060,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-06-12",
       "newest_date": "2026-06-12",
-      "oldest_age_days": 135,
+      "oldest_age_days": 136,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/data-engineer-at-nato",
@@ -7278,7 +7071,7 @@ window.DATA = {
           "title": "Data Engineer",
           "postings": 1,
           "date": "2026-06-12",
-          "age_days": 135,
+          "age_days": 136,
           "norm_title": "data engineer",
           "title_key": "data engineer"
         }
@@ -7295,7 +7088,7 @@ window.DATA = {
           "title": "Data Engineer",
           "postings": 1,
           "date": "2026-06-12",
-          "age_days": 135,
+          "age_days": 136,
           "norm_title": "data engineer",
           "title_key": "data engineer"
         }
@@ -7312,7 +7105,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-15",
       "newest_date": "2026-07-15",
-      "oldest_age_days": 102,
+      "oldest_age_days": 103,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/scientist-ii-machine-learning-engineer-llm-genai-specialist-at-owkin",
@@ -7323,7 +7116,7 @@ window.DATA = {
           "title": "Scientist II Machine Learning Engineer (LLM & GenAI Specialist)",
           "postings": 1,
           "date": "2026-07-15",
-          "age_days": 102,
+          "age_days": 103,
           "norm_title": "engineer genai learning llm machine scientist specialist",
           "title_key": "scientist ii machine learning engineer (llm & genai specialist)"
         }
@@ -7340,7 +7133,7 @@ window.DATA = {
           "title": "Scientist II Machine Learning Engineer (LLM & GenAI Specialist)",
           "postings": 1,
           "date": "2026-07-15",
-          "age_days": 102,
+          "age_days": 103,
           "norm_title": "engineer genai learning llm machine scientist specialist",
           "title_key": "scientist ii machine learning engineer (llm & genai specialist)"
         }
@@ -7357,7 +7150,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-06-30",
       "newest_date": "2026-06-30",
-      "oldest_age_days": 117,
+      "oldest_age_days": 118,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/growth-manager-edtech-french-fluent-at-paradox",
@@ -7368,7 +7161,7 @@ window.DATA = {
           "title": "🇫🇷 Growth Manager - EdTech (French fluent)",
           "postings": 1,
           "date": "2026-06-30",
-          "age_days": 117,
+          "age_days": 118,
           "norm_title": "edtech fluent french growth manager",
           "title_key": "🇫🇷 growth manager - edtech (french fluent)"
         }
@@ -7385,7 +7178,7 @@ window.DATA = {
           "title": "🇫🇷 Growth Manager - EdTech (French fluent)",
           "postings": 1,
           "date": "2026-06-30",
-          "age_days": 117,
+          "age_days": 118,
           "norm_title": "edtech fluent french growth manager",
           "title_key": "🇫🇷 growth manager - edtech (french fluent)"
         }
@@ -7402,7 +7195,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2024-11-13",
       "newest_date": "2024-11-13",
-      "oldest_age_days": 711,
+      "oldest_age_days": 712,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/staff-software-engineer-data-platform-at-personio",
@@ -7413,7 +7206,7 @@ window.DATA = {
           "title": "Staff Software Engineer, Data Platform",
           "postings": 1,
           "date": "2024-11-13",
-          "age_days": 711,
+          "age_days": 712,
           "norm_title": "data engineer platform software",
           "title_key": "staff software engineer, data platform"
         }
@@ -7430,7 +7223,7 @@ window.DATA = {
           "title": "Staff Software Engineer, Data Platform",
           "postings": 1,
           "date": "2024-11-13",
-          "age_days": 711,
+          "age_days": 712,
           "norm_title": "data engineer platform software",
           "title_key": "staff software engineer, data platform"
         }
@@ -7447,7 +7240,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-06-19",
       "newest_date": "2026-06-19",
-      "oldest_age_days": 128,
+      "oldest_age_days": 129,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/country-manager-expansion-growth-italy-mwd-at-peter-park",
@@ -7458,7 +7251,7 @@ window.DATA = {
           "title": "Country Manager Expansion & Growth – Italy (m/w/d)",
           "postings": 1,
           "date": "2026-06-19",
-          "age_days": 128,
+          "age_days": 129,
           "norm_title": "country expansion growth italy manager",
           "title_key": "country manager expansion & growth – italy (m/w/d)"
         }
@@ -7475,7 +7268,7 @@ window.DATA = {
           "title": "Country Manager Expansion & Growth – Italy (m/w/d)",
           "postings": 1,
           "date": "2026-06-19",
-          "age_days": 128,
+          "age_days": 129,
           "norm_title": "country expansion growth italy manager",
           "title_key": "country manager expansion & growth – italy (m/w/d)"
         }
@@ -7492,7 +7285,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-03-06",
       "newest_date": "2026-03-06",
-      "oldest_age_days": 233,
+      "oldest_age_days": 234,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/applied-ai-engineer-at-qontext",
@@ -7503,7 +7296,7 @@ window.DATA = {
           "title": "(Applied) AI Engineer",
           "postings": 1,
           "date": "2026-03-06",
-          "age_days": 233,
+          "age_days": 234,
           "norm_title": "ai applied engineer",
           "title_key": "(applied) ai engineer"
         }
@@ -7520,7 +7313,7 @@ window.DATA = {
           "title": "(Applied) AI Engineer",
           "postings": 1,
           "date": "2026-03-06",
-          "age_days": 233,
+          "age_days": 234,
           "norm_title": "ai applied engineer",
           "title_key": "(applied) ai engineer"
         }
@@ -7537,7 +7330,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-21",
       "newest_date": "2026-07-21",
-      "oldest_age_days": 96,
+      "oldest_age_days": 97,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-full-stack-engineer-agentic-workflows-mfd-at-robco",
@@ -7548,7 +7341,7 @@ window.DATA = {
           "title": "Senior Full Stack Engineer, Agentic Workflows (m/f/d)",
           "postings": 1,
           "date": "2026-07-21",
-          "age_days": 96,
+          "age_days": 97,
           "norm_title": "agentic engineer full stack workflows",
           "title_key": "senior full stack engineer, agentic workflows (m/f/d)"
         }
@@ -7565,7 +7358,7 @@ window.DATA = {
           "title": "Senior Full Stack Engineer, Agentic Workflows (m/f/d)",
           "postings": 1,
           "date": "2026-07-21",
-          "age_days": 96,
+          "age_days": 97,
           "norm_title": "agentic engineer full stack workflows",
           "title_key": "senior full stack engineer, agentic workflows (m/f/d)"
         }
@@ -7582,7 +7375,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-14",
       "newest_date": "2026-07-14",
-      "oldest_age_days": 103,
+      "oldest_age_days": 104,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/werkstudentin-data-analytics-mwd-20-stdwoche-at-rsg-group-gmbh",
@@ -7593,7 +7386,7 @@ window.DATA = {
           "title": "Werkstudent:in Data & Analytics (m/w/d) – 20 Std./Woche",
           "postings": 1,
           "date": "2026-07-14",
-          "age_days": 103,
+          "age_days": 104,
           "norm_title": "20 analytics data std werkstudent woche",
           "title_key": "werkstudent:in data & analytics (m/w/d) – 20 std./woche"
         }
@@ -7610,7 +7403,7 @@ window.DATA = {
           "title": "Werkstudent:in Data & Analytics (m/w/d) – 20 Std./Woche",
           "postings": 1,
           "date": "2026-07-14",
-          "age_days": 103,
+          "age_days": 104,
           "norm_title": "20 analytics data std werkstudent woche",
           "title_key": "werkstudent:in data & analytics (m/w/d) – 20 std./woche"
         }
@@ -7627,7 +7420,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-03",
       "newest_date": "2026-07-03",
-      "oldest_age_days": 114,
+      "oldest_age_days": 115,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-data-analyst-at-shine",
@@ -7638,7 +7431,7 @@ window.DATA = {
           "title": "Senior Data Analyst",
           "postings": 1,
           "date": "2026-07-03",
-          "age_days": 114,
+          "age_days": 115,
           "norm_title": "analyst data",
           "title_key": "senior data analyst"
         }
@@ -7655,7 +7448,7 @@ window.DATA = {
           "title": "Senior Data Analyst",
           "postings": 1,
           "date": "2026-07-03",
-          "age_days": 114,
+          "age_days": 115,
           "norm_title": "analyst data",
           "title_key": "senior data analyst"
         }
@@ -7672,7 +7465,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-04-07",
       "newest_date": "2026-04-07",
-      "oldest_age_days": 201,
+      "oldest_age_days": 202,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/principal-software-engineer-ai-poland-at-snowflake",
@@ -7683,7 +7476,7 @@ window.DATA = {
           "title": "Principal Software Engineer - AI Poland",
           "postings": 1,
           "date": "2026-04-07",
-          "age_days": 201,
+          "age_days": 202,
           "norm_title": "ai engineer poland software",
           "title_key": "principal software engineer - ai poland"
         }
@@ -7700,7 +7493,7 @@ window.DATA = {
           "title": "Principal Software Engineer - AI Poland",
           "postings": 1,
           "date": "2026-04-07",
-          "age_days": 201,
+          "age_days": 202,
           "norm_title": "ai engineer poland software",
           "title_key": "principal software engineer - ai poland"
         }
@@ -7717,7 +7510,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-24",
       "newest_date": "2026-07-24",
-      "oldest_age_days": 93,
+      "oldest_age_days": 94,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-data-scientist-fmx-forecasting-at-suena-energy",
@@ -7728,7 +7521,7 @@ window.DATA = {
           "title": "(Senior) Data Scientist (f/m/x) Forecasting",
           "postings": 1,
           "date": "2026-07-24",
-          "age_days": 93,
+          "age_days": 94,
           "norm_title": "data forecasting scientist",
           "title_key": "(senior) data scientist (f/m/x) forecasting"
         }
@@ -7745,7 +7538,7 @@ window.DATA = {
           "title": "(Senior) Data Scientist (f/m/x) Forecasting",
           "postings": 1,
           "date": "2026-07-24",
-          "age_days": 93,
+          "age_days": 94,
           "norm_title": "data forecasting scientist",
           "title_key": "(senior) data scientist (f/m/x) forecasting"
         }
@@ -7762,7 +7555,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2024-11-27",
       "newest_date": "2024-11-27",
-      "oldest_age_days": 697,
+      "oldest_age_days": 698,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/machine-learning-engineer-at-superai",
@@ -7773,7 +7566,7 @@ window.DATA = {
           "title": "Machine Learning Engineer",
           "postings": 1,
           "date": "2024-11-27",
-          "age_days": 697,
+          "age_days": 698,
           "norm_title": "engineer learning machine",
           "title_key": "machine learning engineer"
         }
@@ -7790,7 +7583,7 @@ window.DATA = {
           "title": "Machine Learning Engineer",
           "postings": 1,
           "date": "2024-11-27",
-          "age_days": 697,
+          "age_days": 698,
           "norm_title": "engineer learning machine",
           "title_key": "machine learning engineer"
         }
@@ -7807,7 +7600,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-05-28",
       "newest_date": "2026-05-28",
-      "oldest_age_days": 150,
+      "oldest_age_days": 151,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/engineering-voice-ai-at-telli",
@@ -7818,7 +7611,7 @@ window.DATA = {
           "title": "Engineering, Voice AI",
           "postings": 1,
           "date": "2026-05-28",
-          "age_days": 150,
+          "age_days": 151,
           "norm_title": "ai engineering voice",
           "title_key": "engineering, voice ai"
         }
@@ -7835,7 +7628,7 @@ window.DATA = {
           "title": "Engineering, Voice AI",
           "postings": 1,
           "date": "2026-05-28",
-          "age_days": 150,
+          "age_days": 151,
           "norm_title": "ai engineering voice",
           "title_key": "engineering, voice ai"
         }
@@ -7852,7 +7645,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-04-15",
       "newest_date": "2026-04-15",
-      "oldest_age_days": 193,
+      "oldest_age_days": 194,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/growth-engineer-at-cognee",
@@ -7863,7 +7656,7 @@ window.DATA = {
           "title": "Growth Engineer",
           "postings": 1,
           "date": "2026-04-15",
-          "age_days": 193,
+          "age_days": 194,
           "norm_title": "engineer growth",
           "title_key": "growth engineer"
         }
@@ -7880,7 +7673,7 @@ window.DATA = {
           "title": "Growth Engineer",
           "postings": 1,
           "date": "2026-04-15",
-          "age_days": 193,
+          "age_days": 194,
           "norm_title": "engineer growth",
           "title_key": "growth engineer"
         }
@@ -7897,7 +7690,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-05-08",
       "newest_date": "2026-05-08",
-      "oldest_age_days": 170,
+      "oldest_age_days": 171,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/ai-marketing-department-intern-at-uplane",
@@ -7908,7 +7701,7 @@ window.DATA = {
           "title": "AI Marketing Department Intern",
           "postings": 1,
           "date": "2026-05-08",
-          "age_days": 170,
+          "age_days": 171,
           "norm_title": "ai department intern marketing",
           "title_key": "ai marketing department intern"
         }
@@ -7925,7 +7718,7 @@ window.DATA = {
           "title": "AI Marketing Department Intern",
           "postings": 1,
           "date": "2026-05-08",
-          "age_days": 170,
+          "age_days": 171,
           "norm_title": "ai department intern marketing",
           "title_key": "ai marketing department intern"
         }
@@ -7942,7 +7735,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-04-23",
       "newest_date": "2026-04-23",
-      "oldest_age_days": 185,
+      "oldest_age_days": 186,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/senior-ai-product-engineer-mfd-at-voyfai",
@@ -7953,7 +7746,7 @@ window.DATA = {
           "title": "Senior AI Product Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-04-23",
-          "age_days": 185,
+          "age_days": 186,
           "norm_title": "ai engineer product",
           "title_key": "senior ai product engineer (m/f/d)"
         }
@@ -7970,7 +7763,7 @@ window.DATA = {
           "title": "Senior AI Product Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-04-23",
-          "age_days": 185,
+          "age_days": 186,
           "norm_title": "ai engineer product",
           "title_key": "senior ai product engineer (m/f/d)"
         }
@@ -7987,7 +7780,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2025-10-23",
       "newest_date": "2025-10-23",
-      "oldest_age_days": 367,
+      "oldest_age_days": 368,
       "stale_jobs": [
         {
           "url": "https://databerlin.net/jobs/martech-specialist-wmd-at-zasta",
@@ -7998,7 +7791,7 @@ window.DATA = {
           "title": "MarTech Specialist (w/m/d)",
           "postings": 1,
           "date": "2025-10-23",
-          "age_days": 367,
+          "age_days": 368,
           "norm_title": "martech specialist",
           "title_key": "martech specialist (w/m/d)"
         }
@@ -8015,7 +7808,7 @@ window.DATA = {
           "title": "MarTech Specialist (w/m/d)",
           "postings": 1,
           "date": "2025-10-23",
-          "age_days": 367,
+          "age_days": 368,
           "norm_title": "martech specialist",
           "title_key": "martech specialist (w/m/d)"
         }
@@ -8032,7 +7825,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-29",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 88,
+      "oldest_age_days": 89,
       "stale_jobs": [],
       "duplicate_groups": [
         {
@@ -8160,7 +7953,7 @@ window.DATA = {
           "title": "AI Harness Engineer (100% Remote, Worldwide)",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "100 ai engineer harness remote worldwide",
           "title_key": "ai harness engineer (100% remote, worldwide)"
         },
@@ -8173,7 +7966,7 @@ window.DATA = {
           "title": "AI Harness Engineer (100% Remote, Worldwide)",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "100 ai engineer harness remote worldwide",
           "title_key": "ai harness engineer (100% remote, worldwide)"
         },
@@ -8186,7 +7979,7 @@ window.DATA = {
           "title": "AI Inference Engineer QVAC (100% remote Worldwide)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "100 ai engineer inference qvac remote worldwide",
           "title_key": "ai inference engineer qvac (100% remote worldwide)"
         },
@@ -8199,7 +7992,7 @@ window.DATA = {
           "title": "AI Research Engineer (Agentic Post-training) - 100% Remote Worldwide",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "100 agentic ai engineer post remote research training worldwide",
           "title_key": "ai research engineer (agentic post-training) - 100% remote worldwide"
         },
@@ -8212,7 +8005,7 @@ window.DATA = {
           "title": "AI Research Engineer (Kernel & Inference Optimization) - 100% Remote Worldwide",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "100 ai engineer inference kernel optimization remote research worldwide",
           "title_key": "ai research engineer (kernel & inference optimization) - 100% remote worldwide"
         },
@@ -8225,7 +8018,7 @@ window.DATA = {
           "title": "AI Research Engineer (Model Compression & Quantization) - 100% Remote Worldwide",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "100 ai compression engineer model quantization remote research worldwide",
           "title_key": "ai research engineer (model compression & quantization) - 100% remote worldwide"
         },
@@ -8238,7 +8031,7 @@ window.DATA = {
           "title": "AI Research Engineer (Model Compression & Quantization)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai compression engineer model quantization research",
           "title_key": "ai research engineer (model compression & quantization)"
         },
@@ -8251,7 +8044,7 @@ window.DATA = {
           "title": "AI Research Engineer (Model Compression & Quantization)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai compression engineer model quantization research",
           "title_key": "ai research engineer (model compression & quantization)"
         },
@@ -8264,7 +8057,7 @@ window.DATA = {
           "title": "AI Research Engineer (Model Compression & Quantization)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai compression engineer model quantization research",
           "title_key": "ai research engineer (model compression & quantization)"
         },
@@ -8277,7 +8070,7 @@ window.DATA = {
           "title": "AI Research Engineer (Model Compression & Quantization)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai compression engineer model quantization research",
           "title_key": "ai research engineer (model compression & quantization)"
         },
@@ -8290,7 +8083,7 @@ window.DATA = {
           "title": "AI Research Engineer (Model Compression & Quantization)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai compression engineer model quantization research",
           "title_key": "ai research engineer (model compression & quantization)"
         },
@@ -8303,7 +8096,7 @@ window.DATA = {
           "title": "AI Research Engineer (Model Compression & Quantization)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai compression engineer model quantization research",
           "title_key": "ai research engineer (model compression & quantization)"
         },
@@ -8316,7 +8109,7 @@ window.DATA = {
           "title": "AI Research Engineer (Model Compression & Quantization)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai compression engineer model quantization research",
           "title_key": "ai research engineer (model compression & quantization)"
         },
@@ -8329,7 +8122,7 @@ window.DATA = {
           "title": "AI Research Engineer (Model Compression & Quantization)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai compression engineer model quantization research",
           "title_key": "ai research engineer (model compression & quantization)"
         },
@@ -8342,7 +8135,7 @@ window.DATA = {
           "title": "AI Research Engineer (Model Compression & Quantization)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai compression engineer model quantization research",
           "title_key": "ai research engineer (model compression & quantization)"
         },
@@ -8355,7 +8148,7 @@ window.DATA = {
           "title": "AI Research Engineer (Model Compression & Quantization)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai compression engineer model quantization research",
           "title_key": "ai research engineer (model compression & quantization)"
         },
@@ -8368,7 +8161,7 @@ window.DATA = {
           "title": "AI Research Engineer (Model Compression & Quantization)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai compression engineer model quantization research",
           "title_key": "ai research engineer (model compression & quantization)"
         },
@@ -8381,7 +8174,7 @@ window.DATA = {
           "title": "AI Research Engineer (Multi-Modal Reinforcement Learning) - 100% Remote Worldwide",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "100 ai engineer learning modal multi reinforcement remote research worldwide",
           "title_key": "ai research engineer (multi-modal reinforcement learning) - 100% remote worldwide"
         },
@@ -8394,7 +8187,7 @@ window.DATA = {
           "title": "AI Research Engineer (Multi-Modal & Vision) - 100% Remote Worldwide",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "100 ai engineer modal multi remote research vision worldwide",
           "title_key": "ai research engineer (multi-modal & vision) - 100% remote worldwide"
         },
@@ -8407,7 +8200,7 @@ window.DATA = {
           "title": "AI Research Engineer (Multi-Modal & Vision)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai engineer modal multi research vision",
           "title_key": "ai research engineer (multi-modal & vision)"
         },
@@ -8420,7 +8213,7 @@ window.DATA = {
           "title": "AI Research Engineer (Multi-Modal & Vision)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai engineer modal multi research vision",
           "title_key": "ai research engineer (multi-modal & vision)"
         },
@@ -8433,7 +8226,7 @@ window.DATA = {
           "title": "AI Research Engineer (Multi-Modal & Vision)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai engineer modal multi research vision",
           "title_key": "ai research engineer (multi-modal & vision)"
         },
@@ -8446,7 +8239,7 @@ window.DATA = {
           "title": "AI Research Engineer (Multi-Modal & Vision)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai engineer modal multi research vision",
           "title_key": "ai research engineer (multi-modal & vision)"
         },
@@ -8459,7 +8252,7 @@ window.DATA = {
           "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal) - 100% Remote Worldwide",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "100 ai engineer llm modal multi pre remote research training worldwide",
           "title_key": "ai research engineer (pre-training - llm & multi-modal) - 100% remote worldwide"
         },
@@ -8472,7 +8265,7 @@ window.DATA = {
           "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai engineer llm modal multi pre research training",
           "title_key": "ai research engineer (pre-training - llm & multi-modal)"
         },
@@ -8485,7 +8278,7 @@ window.DATA = {
           "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai engineer llm modal multi pre research training",
           "title_key": "ai research engineer (pre-training - llm & multi-modal)"
         },
@@ -8498,7 +8291,7 @@ window.DATA = {
           "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai engineer llm modal multi pre research training",
           "title_key": "ai research engineer (pre-training - llm & multi-modal)"
         },
@@ -8511,7 +8304,7 @@ window.DATA = {
           "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai engineer llm modal multi pre research training",
           "title_key": "ai research engineer (pre-training - llm & multi-modal)"
         },
@@ -8524,7 +8317,7 @@ window.DATA = {
           "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai engineer llm modal multi pre research training",
           "title_key": "ai research engineer (pre-training - llm & multi-modal)"
         },
@@ -8537,7 +8330,7 @@ window.DATA = {
           "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai engineer llm modal multi pre research training",
           "title_key": "ai research engineer (pre-training - llm & multi-modal)"
         },
@@ -8550,7 +8343,7 @@ window.DATA = {
           "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai engineer llm modal multi pre research training",
           "title_key": "ai research engineer (pre-training - llm & multi-modal)"
         },
@@ -8563,7 +8356,7 @@ window.DATA = {
           "title": "AI Technical Product Manager (QVAC) (100% remote)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "100 ai manager product qvac remote technical",
           "title_key": "ai technical product manager (qvac) (100% remote)"
         },
@@ -8576,7 +8369,7 @@ window.DATA = {
           "title": "AI Technical Product Manager (QVAC) (100% remote)",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "100 ai manager product qvac remote technical",
           "title_key": "ai technical product manager (qvac) (100% remote)"
         },
@@ -8589,7 +8382,7 @@ window.DATA = {
           "title": "AI Technical Product Manager (QVAC) (100% remote)",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "100 ai manager product qvac remote technical",
           "title_key": "ai technical product manager (qvac) (100% remote)"
         },
@@ -8602,7 +8395,7 @@ window.DATA = {
           "title": "AI Technical Product Manager (QVAC) (100% remote)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "100 ai manager product qvac remote technical",
           "title_key": "ai technical product manager (qvac) (100% remote)"
         },
@@ -8615,7 +8408,7 @@ window.DATA = {
           "title": "AI Technical Product Manager (QVAC) (100% remote)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "100 ai manager product qvac remote technical",
           "title_key": "ai technical product manager (qvac) (100% remote)"
         },
@@ -8628,7 +8421,7 @@ window.DATA = {
           "title": "AI Technical Product Manager (QVAC) (100% remote)",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "100 ai manager product qvac remote technical",
           "title_key": "ai technical product manager (qvac) (100% remote)"
         },
@@ -8641,7 +8434,7 @@ window.DATA = {
           "title": "AI Technical Product Manager (QVAC) (100% remote)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "100 ai manager product qvac remote technical",
           "title_key": "ai technical product manager (qvac) (100% remote)"
         },
@@ -8654,7 +8447,7 @@ window.DATA = {
           "title": "Engagement Manager, AI Implementations",
           "postings": 1,
           "date": "2026-07-31",
-          "age_days": 86,
+          "age_days": 87,
           "norm_title": "ai engagement implementations manager",
           "title_key": "engagement manager, ai implementations"
         },
@@ -8667,7 +8460,7 @@ window.DATA = {
           "title": "Engagement Manager, AI Implementations",
           "postings": 1,
           "date": "2026-07-30",
-          "age_days": 87,
+          "age_days": 88,
           "norm_title": "ai engagement implementations manager",
           "title_key": "engagement manager, ai implementations"
         },
@@ -8680,7 +8473,7 @@ window.DATA = {
           "title": "Engagement Manager, AI Implementations",
           "postings": 1,
           "date": "2026-07-31",
-          "age_days": 86,
+          "age_days": 87,
           "norm_title": "ai engagement implementations manager",
           "title_key": "engagement manager, ai implementations"
         },
@@ -8693,7 +8486,7 @@ window.DATA = {
           "title": "Engagement Manager, AI Implementations",
           "postings": 1,
           "date": "2026-08-04",
-          "age_days": 82,
+          "age_days": 83,
           "norm_title": "ai engagement implementations manager",
           "title_key": "engagement manager, ai implementations"
         },
@@ -8706,7 +8499,7 @@ window.DATA = {
           "title": "Engagement Manager, AI Implementations",
           "postings": 1,
           "date": "2026-07-29",
-          "age_days": 88,
+          "age_days": 89,
           "norm_title": "ai engagement implementations manager",
           "title_key": "engagement manager, ai implementations"
         },
@@ -8719,7 +8512,7 @@ window.DATA = {
           "title": "Engagement Manager, AI Implementations",
           "postings": 1,
           "date": "2026-08-04",
-          "age_days": 82,
+          "age_days": 83,
           "norm_title": "ai engagement implementations manager",
           "title_key": "engagement manager, ai implementations"
         },
@@ -8732,7 +8525,7 @@ window.DATA = {
           "title": "Engagement Manager, AI Implementations",
           "postings": 1,
           "date": "2026-08-04",
-          "age_days": 82,
+          "age_days": 83,
           "norm_title": "ai engagement implementations manager",
           "title_key": "engagement manager, ai implementations"
         },
@@ -8745,7 +8538,7 @@ window.DATA = {
           "title": "Engagement Manager, AI Implementations",
           "postings": 1,
           "date": "2026-08-03",
-          "age_days": 83,
+          "age_days": 84,
           "norm_title": "ai engagement implementations manager",
           "title_key": "engagement manager, ai implementations"
         },
@@ -8758,7 +8551,7 @@ window.DATA = {
           "title": "Engagement Manager, AI Implementations",
           "postings": 1,
           "date": "2026-08-02",
-          "age_days": 84,
+          "age_days": 85,
           "norm_title": "ai engagement implementations manager",
           "title_key": "engagement manager, ai implementations"
         },
@@ -8771,7 +8564,7 @@ window.DATA = {
           "title": "Engagement Manager, AI Implementations",
           "postings": 1,
           "date": "2026-08-02",
-          "age_days": 84,
+          "age_days": 85,
           "norm_title": "ai engagement implementations manager",
           "title_key": "engagement manager, ai implementations"
         },
@@ -8784,7 +8577,7 @@ window.DATA = {
           "title": "Head of AI Expansion",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "ai expansion head",
           "title_key": "head of ai expansion"
         },
@@ -8797,7 +8590,7 @@ window.DATA = {
           "title": "Head of AI Expansion",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "ai expansion head",
           "title_key": "head of ai expansion"
         },
@@ -8810,7 +8603,7 @@ window.DATA = {
           "title": "Head of AI Expansion",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "ai expansion head",
           "title_key": "head of ai expansion"
         },
@@ -8823,7 +8616,7 @@ window.DATA = {
           "title": "Head of AI Expansion",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "ai expansion head",
           "title_key": "head of ai expansion"
         },
@@ -8836,7 +8629,7 @@ window.DATA = {
           "title": "Head of AI Expansion",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "ai expansion head",
           "title_key": "head of ai expansion"
         },
@@ -8849,7 +8642,7 @@ window.DATA = {
           "title": "Head of AI Expansion",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "ai expansion head",
           "title_key": "head of ai expansion"
         },
@@ -8862,7 +8655,7 @@ window.DATA = {
           "title": "Head of Regulatory Affairs - AI and P2P (100% remote)",
           "postings": 1,
           "date": "2026-08-04",
-          "age_days": 82,
+          "age_days": 83,
           "norm_title": "100 affairs ai head p2p regulatory remote",
           "title_key": "head of regulatory affairs - ai and p2p (100% remote)"
         },
@@ -8875,7 +8668,7 @@ window.DATA = {
           "title": "Head of Regulatory Affairs - AI and P2P (100% remote)",
           "postings": 1,
           "date": "2026-08-03",
-          "age_days": 83,
+          "age_days": 84,
           "norm_title": "100 affairs ai head p2p regulatory remote",
           "title_key": "head of regulatory affairs - ai and p2p (100% remote)"
         },
@@ -8888,7 +8681,7 @@ window.DATA = {
           "title": "Research Engineer Intern (Multimodal LLM)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "engineer intern llm multimodal research",
           "title_key": "research engineer intern (multimodal llm)"
         }
@@ -8905,7 +8698,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-13",
       "newest_date": "2026-10-21",
-      "oldest_age_days": 12,
+      "oldest_age_days": 13,
       "stale_jobs": [],
       "duplicate_groups": [
         {
@@ -8939,7 +8732,7 @@ window.DATA = {
           "title": "Forward Deployed Engineer, Physical AI Infrastructure",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "ai deployed engineer forward infrastructure physical",
           "title_key": "forward deployed engineer, physical ai infrastructure"
         },
@@ -8952,7 +8745,7 @@ window.DATA = {
           "title": "Manager, ML Solutions Architecture - Token Factory",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "architecture factory manager ml solutions token",
           "title_key": "manager, ml solutions architecture - token factory"
         },
@@ -8965,7 +8758,7 @@ window.DATA = {
           "title": "Senior Applied Scientist, Efficient LLM Inference & Model Optimization",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "applied efficient inference llm model optimization scientist",
           "title_key": "senior applied scientist, efficient llm inference & model optimization"
         },
@@ -8978,7 +8771,7 @@ window.DATA = {
           "title": "Senior Applied Scientist, Efficient LLM Inference & Model Optimization",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "applied efficient inference llm model optimization scientist",
           "title_key": "senior applied scientist, efficient llm inference & model optimization"
         },
@@ -8991,7 +8784,7 @@ window.DATA = {
           "title": "Senior Customer AI Engineer - Token Factory",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "ai customer engineer factory token",
           "title_key": "senior customer ai engineer - token factory"
         },
@@ -9004,7 +8797,7 @@ window.DATA = {
           "title": "Senior Data Engineer",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "data engineer",
           "title_key": "senior data engineer"
         },
@@ -9017,7 +8810,7 @@ window.DATA = {
           "title": "Senior Machine Learning Engineer, LLM Inference Optimization",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "engineer inference learning llm machine optimization",
           "title_key": "senior machine learning engineer, llm inference optimization"
         },
@@ -9030,7 +8823,7 @@ window.DATA = {
           "title": "Senior Technical Product Manager - AI Compute Platform",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "ai compute manager platform product technical",
           "title_key": "senior technical product manager - ai compute platform"
         },
@@ -9043,7 +8836,7 @@ window.DATA = {
           "title": "Staff Machine Learning Engineer, LLM Inference Optimization",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "engineer inference learning llm machine optimization",
           "title_key": "staff machine learning engineer, llm inference optimization"
         }
@@ -9061,7 +8854,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-03",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 52,
+      "oldest_age_days": 53,
       "stale_jobs": [],
       "duplicate_groups": [
         {
@@ -9085,7 +8878,7 @@ window.DATA = {
           "title": "Medical Data Intern (x/f/m)",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "data intern medical",
           "title_key": "medical data intern (x/f/m)"
         },
@@ -9098,7 +8891,7 @@ window.DATA = {
           "title": "Principal Machine Learning Engineer - Applied AI & LLMs (x/f/m)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "ai applied engineer learning llms machine",
           "title_key": "principal machine learning engineer - applied ai & llms (x/f/m)"
         },
@@ -9111,7 +8904,7 @@ window.DATA = {
           "title": "Senior AI Engineer (x/f/m) - Phone Assistant",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai assistant engineer phone",
           "title_key": "senior ai engineer (x/f/m) - phone assistant"
         },
@@ -9124,7 +8917,7 @@ window.DATA = {
           "title": "Senior AI Implementation Engineer (x/f/m)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai engineer implementation",
           "title_key": "senior ai implementation engineer (x/f/m)"
         },
@@ -9137,7 +8930,7 @@ window.DATA = {
           "title": "Senior AI Specialist (Operations) (x/f/m)",
           "postings": 1,
           "date": "2026-09-03",
-          "age_days": 52,
+          "age_days": 53,
           "norm_title": "ai operations specialist",
           "title_key": "senior ai specialist (operations) (x/f/m)"
         },
@@ -9150,7 +8943,7 @@ window.DATA = {
           "title": "Senior AI Specialist (Operations) (x/f/m)",
           "postings": 1,
           "date": "2026-09-03",
-          "age_days": 52,
+          "age_days": 53,
           "norm_title": "ai operations specialist",
           "title_key": "senior ai specialist (operations) (x/f/m)"
         },
@@ -9163,7 +8956,7 @@ window.DATA = {
           "title": "Senior Technical Onboarding Engineer – AI Phone Assistant (x/f/m)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai assistant engineer onboarding phone technical",
           "title_key": "senior technical onboarding engineer – ai phone assistant (x/f/m)"
         }
@@ -9180,7 +8973,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-13",
       "newest_date": "2026-10-21",
-      "oldest_age_days": 12,
+      "oldest_age_days": 13,
       "stale_jobs": [],
       "duplicate_groups": [
         {
@@ -9204,7 +8997,7 @@ window.DATA = {
           "title": "Global Lead AI Professional Services & Portfolio Strategy (m/f/d/x)",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "ai global portfolio professional services strategy",
           "title_key": "global lead ai professional services & portfolio strategy (m/f/d/x)"
         },
@@ -9217,7 +9010,7 @@ window.DATA = {
           "title": "Senior Business Process Consultant - ServiceNow & Agentic AI (m/w/d/x)",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "agentic ai business consultant process servicenow",
           "title_key": "senior business process consultant - servicenow & agentic ai (m/w/d/x)"
         },
@@ -9230,7 +9023,7 @@ window.DATA = {
           "title": "Senior Business Process Consultant - ServiceNow & Agentic AI (m/w/d/x)",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "agentic ai business consultant process servicenow",
           "title_key": "senior business process consultant - servicenow & agentic ai (m/w/d/x)"
         },
@@ -9243,7 +9036,7 @@ window.DATA = {
           "title": "Senior Consultant SAP S/4HANA embedded Analytics (m/f/d/x)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "4hana analytics consultant embedded s sap",
           "title_key": "senior consultant sap s/4hana embedded analytics (m/f/d/x)"
         },
@@ -9256,7 +9049,7 @@ window.DATA = {
           "title": "Senior Technical Consultant ServiceNow & Agentic AI (m/w/d/x)",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "agentic ai consultant servicenow technical",
           "title_key": "senior technical consultant servicenow & agentic ai (m/w/d/x)"
         },
@@ -9269,7 +9062,7 @@ window.DATA = {
           "title": "Werkstudent*in Technical Customer Success - AI Products (m/w/d/x)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai customer products success technical werkstudent",
           "title_key": "werkstudent*in technical customer success - ai products (m/w/d/x)"
         }
@@ -9286,7 +9079,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-06",
       "newest_date": "2026-10-15",
-      "oldest_age_days": 19,
+      "oldest_age_days": 20,
       "stale_jobs": [],
       "duplicate_groups": [
         {
@@ -9311,7 +9104,7 @@ window.DATA = {
           "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "ai architect dnb emea emerging generative solutions",
           "title_key": "lead solutions architect - generative ai (emea emerging dnb)"
         },
@@ -9324,7 +9117,7 @@ window.DATA = {
           "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "ai architect dnb emea emerging generative solutions",
           "title_key": "lead solutions architect - generative ai (emea emerging dnb)"
         },
@@ -9337,7 +9130,7 @@ window.DATA = {
           "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "ai architect dnb emea emerging generative solutions",
           "title_key": "lead solutions architect - generative ai (emea emerging dnb)"
         },
@@ -9350,7 +9143,7 @@ window.DATA = {
           "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "architect data edw enterprise migrations solutions warehouse",
           "title_key": "senior solutions architect (edw enterprise data warehouse migrations)"
         }
@@ -9367,7 +9160,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-21",
       "newest_date": "2026-10-16",
-      "oldest_age_days": 65,
+      "oldest_age_days": 66,
       "stale_jobs": [],
       "duplicate_groups": [
         {
@@ -9391,7 +9184,7 @@ window.DATA = {
           "title": "Lead Analytics Engineer (F/M/X)",
           "postings": 1,
           "date": "2026-08-21",
-          "age_days": 65,
+          "age_days": 66,
           "norm_title": "analytics engineer",
           "title_key": "lead analytics engineer (f/m/x)"
         },
@@ -9404,7 +9197,7 @@ window.DATA = {
           "title": "Lead Analytics Engineer (F/M/X)",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "analytics engineer",
           "title_key": "lead analytics engineer (f/m/x)"
         },
@@ -9417,7 +9210,7 @@ window.DATA = {
           "title": "Lead Analytics Engineer (F/M/X)",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "analytics engineer",
           "title_key": "lead analytics engineer (f/m/x)"
         }
@@ -9434,7 +9227,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-28",
       "newest_date": "2026-09-28",
-      "oldest_age_days": 27,
+      "oldest_age_days": 28,
       "stale_jobs": [],
       "duplicate_groups": [
         {
@@ -9458,7 +9251,7 @@ window.DATA = {
           "title": "Data Analyst",
           "postings": 1,
           "date": "2026-09-28",
-          "age_days": 27,
+          "age_days": 28,
           "norm_title": "analyst data",
           "title_key": "data analyst"
         },
@@ -9471,7 +9264,7 @@ window.DATA = {
           "title": "Data Analyst",
           "postings": 1,
           "date": "2026-09-28",
-          "age_days": 27,
+          "age_days": 28,
           "norm_title": "analyst data",
           "title_key": "data analyst"
         }
@@ -9488,7 +9281,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-27",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 28,
+      "oldest_age_days": 29,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [
@@ -9575,7 +9368,7 @@ window.DATA = {
           "title": "Agentic AI Developer im Deloitte aiStudio (m/w/d)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "agentic ai aistudio deloitte developer im",
           "title_key": "agentic ai developer im deloitte aistudio (m/w/d)"
         },
@@ -9588,7 +9381,7 @@ window.DATA = {
           "title": "Consultant AI & Data Analytics / Data Science (m/w/d)",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "ai analytics consultant data science",
           "title_key": "consultant ai & data analytics / data science (m/w/d)"
         },
@@ -9601,7 +9394,7 @@ window.DATA = {
           "title": "Consultant AI & Data Strategy (m/w/d)",
           "postings": 1,
           "date": "2026-10-18",
-          "age_days": 7,
+          "age_days": 8,
           "norm_title": "ai consultant data strategy",
           "title_key": "consultant ai & data strategy (m/w/d)"
         },
@@ -9614,7 +9407,7 @@ window.DATA = {
           "title": "Consultant AI Engineering (m/w/d)",
           "postings": 1,
           "date": "2026-10-11",
-          "age_days": 14,
+          "age_days": 15,
           "norm_title": "ai consultant engineering",
           "title_key": "consultant ai engineering (m/w/d)"
         },
@@ -9627,7 +9420,7 @@ window.DATA = {
           "title": "Consultant AI & Service Transformation - ServiceNow (m/w/d)",
           "postings": 1,
           "date": "2026-10-18",
-          "age_days": 7,
+          "age_days": 8,
           "norm_title": "ai consultant service servicenow transformation",
           "title_key": "consultant ai & service transformation - servicenow (m/w/d)"
         },
@@ -9640,7 +9433,7 @@ window.DATA = {
           "title": "Consultant Business & AI Insights (m/w/d)",
           "postings": 1,
           "date": "2026-09-30",
-          "age_days": 25,
+          "age_days": 26,
           "norm_title": "ai business consultant insights",
           "title_key": "consultant business & ai insights (m/w/d)"
         },
@@ -9653,7 +9446,7 @@ window.DATA = {
           "title": "Consultant Data Engineering (m/w/d)",
           "postings": 1,
           "date": "2026-10-11",
-          "age_days": 14,
+          "age_days": 15,
           "norm_title": "consultant data engineering",
           "title_key": "consultant data engineering (m/w/d)"
         },
@@ -9666,7 +9459,7 @@ window.DATA = {
           "title": "Consultant Data Leakage Prevention Engineer (m/w/d)",
           "postings": 1,
           "date": "2026-10-18",
-          "age_days": 7,
+          "age_days": 8,
           "norm_title": "consultant data engineer leakage prevention",
           "title_key": "consultant data leakage prevention engineer (m/w/d)"
         },
@@ -9679,7 +9472,7 @@ window.DATA = {
           "title": "Consultant Data Science Credit Risk (m/w/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "consultant credit data risk science",
           "title_key": "consultant data science credit risk (m/w/d)"
         },
@@ -9692,7 +9485,7 @@ window.DATA = {
           "title": "Consultant Data Science & ML Engineering (m/w/d)",
           "postings": 1,
           "date": "2026-10-11",
-          "age_days": 14,
+          "age_days": 15,
           "norm_title": "consultant data engineering ml science",
           "title_key": "consultant data science & ml engineering (m/w/d)"
         },
@@ -9705,7 +9498,7 @@ window.DATA = {
           "title": "Consultant GenAI & Agentic AI (m/w/d)",
           "postings": 1,
           "date": "2026-10-11",
-          "age_days": 14,
+          "age_days": 15,
           "norm_title": "agentic ai consultant genai",
           "title_key": "consultant genai & agentic ai (m/w/d)"
         },
@@ -9718,7 +9511,7 @@ window.DATA = {
           "title": "Consultant Intelligent Automation - Dein Einstieg in AI & Data (m/w/d)",
           "postings": 1,
           "date": "2026-09-30",
-          "age_days": 25,
+          "age_days": 26,
           "norm_title": "ai automation consultant data dein einstieg intelligent",
           "title_key": "consultant intelligent automation - dein einstieg in ai & data (m/w/d)"
         },
@@ -9731,7 +9524,7 @@ window.DATA = {
           "title": "Consultant Regulatory Data Management (m/w/d)",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "consultant data management regulatory",
           "title_key": "consultant regulatory data management (m/w/d)"
         },
@@ -9744,7 +9537,7 @@ window.DATA = {
           "title": "Consultant Strategie- und Managementberatung Fokus Data & AI (m/w/d)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "ai consultant data fokus managementberatung strategie und",
           "title_key": "consultant strategie- und managementberatung fokus data & ai (m/w/d)"
         },
@@ -9757,7 +9550,7 @@ window.DATA = {
           "title": "Manager AI & Data Analytics / Data Science (m/w/d)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "ai analytics data manager science",
           "title_key": "manager ai & data analytics / data science (m/w/d)"
         },
@@ -9770,7 +9563,7 @@ window.DATA = {
           "title": "Manager AI & Data Engineering (m/w/d)",
           "postings": 1,
           "date": "2026-09-27",
-          "age_days": 28,
+          "age_days": 29,
           "norm_title": "ai data engineering manager",
           "title_key": "manager ai & data engineering (m/w/d)"
         },
@@ -9783,7 +9576,7 @@ window.DATA = {
           "title": "Manager Data Management Strategy (m/w/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "data management manager strategy",
           "title_key": "manager data management strategy (m/w/d)"
         },
@@ -9796,7 +9589,7 @@ window.DATA = {
           "title": "Manager Data Strategy & Governance | Insurance (m/w/d)",
           "postings": 1,
           "date": "2026-10-10",
-          "age_days": 15,
+          "age_days": 16,
           "norm_title": "data governance insurance manager strategy",
           "title_key": "manager data strategy & governance | insurance (m/w/d)"
         },
@@ -9809,7 +9602,7 @@ window.DATA = {
           "title": "Manager Intelligent Automation / AI & Data (m/w/d)",
           "postings": 1,
           "date": "2026-10-18",
-          "age_days": 7,
+          "age_days": 8,
           "norm_title": "ai automation data intelligent manager",
           "title_key": "manager intelligent automation / ai & data (m/w/d)"
         },
@@ -9822,7 +9615,7 @@ window.DATA = {
           "title": "Manager Regulatory Data Management (m/w/d)",
           "postings": 1,
           "date": "2026-10-05",
-          "age_days": 20,
+          "age_days": 21,
           "norm_title": "data management manager regulatory",
           "title_key": "manager regulatory data management (m/w/d)"
         },
@@ -9835,7 +9628,7 @@ window.DATA = {
           "title": "Praktikant AI & Data Engineering (m/w/d)",
           "postings": 1,
           "date": "2026-09-27",
-          "age_days": 28,
+          "age_days": 29,
           "norm_title": "ai data engineering praktikant",
           "title_key": "praktikant ai & data engineering (m/w/d)"
         },
@@ -9848,7 +9641,7 @@ window.DATA = {
           "title": "Praktikant AI Governance in Pharma & MedTech (m/w/d)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai governance medtech pharma praktikant",
           "title_key": "praktikant ai governance in pharma & medtech (m/w/d)"
         },
@@ -9861,7 +9654,7 @@ window.DATA = {
           "title": "Praktikant / Werkstudent Audit - Center of Competence Data Analytics (m/w/d)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "analytics audit center competence data praktikant werkstudent",
           "title_key": "praktikant / werkstudent audit - center of competence data analytics (m/w/d)"
         },
@@ -9874,7 +9667,7 @@ window.DATA = {
           "title": "Praktikant/ Werkstudent Business & AI Insights (m/w/d)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai business insights praktikant werkstudent",
           "title_key": "praktikant/ werkstudent business & ai insights (m/w/d)"
         },
@@ -9887,7 +9680,7 @@ window.DATA = {
           "title": "Praktikant / Werkstudent IT Audit & IT Assurance - Data Analytics (m/w/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "analytics assurance audit data it praktikant werkstudent",
           "title_key": "praktikant / werkstudent it audit & it assurance - data analytics (m/w/d)"
         },
@@ -9900,7 +9693,7 @@ window.DATA = {
           "title": "Senior Cloud Data Platform Engineer (m/w/d)",
           "postings": 1,
           "date": "2026-10-03",
-          "age_days": 22,
+          "age_days": 23,
           "norm_title": "cloud data engineer platform",
           "title_key": "senior cloud data platform engineer (m/w/d)"
         },
@@ -9913,7 +9706,7 @@ window.DATA = {
           "title": "Senior Cloud & Data Solution Engineer (m/w/d)",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "cloud data engineer solution",
           "title_key": "senior cloud & data solution engineer (m/w/d)"
         },
@@ -9926,7 +9719,7 @@ window.DATA = {
           "title": "Senior Consultant AI & Data Strategy (m/w/d)",
           "postings": 1,
           "date": "2026-10-18",
-          "age_days": 7,
+          "age_days": 8,
           "norm_title": "ai consultant data strategy",
           "title_key": "senior consultant ai & data strategy (m/w/d)"
         },
@@ -9939,7 +9732,7 @@ window.DATA = {
           "title": "Senior Consultant AI Engineering (m/w/d)",
           "postings": 1,
           "date": "2026-09-30",
-          "age_days": 25,
+          "age_days": 26,
           "norm_title": "ai consultant engineering",
           "title_key": "senior consultant ai engineering (m/w/d)"
         },
@@ -9952,7 +9745,7 @@ window.DATA = {
           "title": "Senior Consultant Business & AI Insights (m/w/d)",
           "postings": 1,
           "date": "2026-10-18",
-          "age_days": 7,
+          "age_days": 8,
           "norm_title": "ai business consultant insights",
           "title_key": "senior consultant business & ai insights (m/w/d)"
         },
@@ -9965,7 +9758,7 @@ window.DATA = {
           "title": "Senior Consultant Conversational AI (m/w/d)",
           "postings": 1,
           "date": "2026-10-18",
-          "age_days": 7,
+          "age_days": 8,
           "norm_title": "ai consultant conversational",
           "title_key": "senior consultant conversational ai (m/w/d)"
         },
@@ -9978,7 +9771,7 @@ window.DATA = {
           "title": "Senior Consultant Data Analytics & Business Insights (m/w/d)",
           "postings": 1,
           "date": "2026-10-10",
-          "age_days": 15,
+          "age_days": 16,
           "norm_title": "analytics business consultant data insights",
           "title_key": "senior consultant data analytics & business insights (m/w/d)"
         },
@@ -9991,7 +9784,7 @@ window.DATA = {
           "title": "Senior Consultant Data Engineering & AI - Databricks Masterclass (m/w/d)",
           "postings": 1,
           "date": "2026-10-11",
-          "age_days": 14,
+          "age_days": 15,
           "norm_title": "ai consultant data databricks engineering masterclass",
           "title_key": "senior consultant data engineering & ai - databricks masterclass (m/w/d)"
         },
@@ -10004,7 +9797,7 @@ window.DATA = {
           "title": "Senior Consultant Data Engineering / Azure / GCP (m/w/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "azure consultant data engineering gcp",
           "title_key": "senior consultant data engineering / azure / gcp (m/w/d)"
         },
@@ -10017,7 +9810,7 @@ window.DATA = {
           "title": "Senior Consultant Data Engineering (m/w/d)",
           "postings": 1,
           "date": "2026-09-30",
-          "age_days": 25,
+          "age_days": 26,
           "norm_title": "consultant data engineering",
           "title_key": "senior consultant data engineering (m/w/d)"
         },
@@ -10030,7 +9823,7 @@ window.DATA = {
           "title": "Senior Consultant Data Science & ML Engineering (m/w/d)",
           "postings": 1,
           "date": "2026-09-28",
-          "age_days": 27,
+          "age_days": 28,
           "norm_title": "consultant data engineering ml science",
           "title_key": "senior consultant data science & ml engineering (m/w/d)"
         },
@@ -10043,7 +9836,7 @@ window.DATA = {
           "title": "Senior Consultant Databricks (m/w/d)",
           "postings": 1,
           "date": "2026-10-08",
-          "age_days": 17,
+          "age_days": 18,
           "norm_title": "consultant databricks",
           "title_key": "senior consultant databricks (m/w/d)"
         },
@@ -10056,7 +9849,7 @@ window.DATA = {
           "title": "Senior Consultant Forensic eDiscovery - Digital Forensics & Analytics (m/w/d)",
           "postings": 1,
           "date": "2026-10-18",
-          "age_days": 7,
+          "age_days": 8,
           "norm_title": "analytics consultant digital ediscovery forensic forensics",
           "title_key": "senior consultant forensic ediscovery - digital forensics & analytics (m/w/d)"
         },
@@ -10069,7 +9862,7 @@ window.DATA = {
           "title": "Senior Consultant GenAI & Agentic AI | Insurance (m/w/d)",
           "postings": 1,
           "date": "2026-10-10",
-          "age_days": 15,
+          "age_days": 16,
           "norm_title": "agentic ai consultant genai insurance",
           "title_key": "senior consultant genai & agentic ai | insurance (m/w/d)"
         },
@@ -10082,7 +9875,7 @@ window.DATA = {
           "title": "Senior Consultant GenAI & Agentic AI (m/w/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "agentic ai consultant genai",
           "title_key": "senior consultant genai & agentic ai (m/w/d)"
         },
@@ -10095,7 +9888,7 @@ window.DATA = {
           "title": "Senior Consultant GenAI Shopfloor (m/w/d)",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "consultant genai shopfloor",
           "title_key": "senior consultant genai shopfloor (m/w/d)"
         },
@@ -10108,7 +9901,7 @@ window.DATA = {
           "title": "Senior Consultant - Insurance Operations - Data Management and Data Transformation (m/w/d)",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "consultant data insurance management operations transformation",
           "title_key": "senior consultant - insurance operations - data management and data transformation (m/w/d)"
         },
@@ -10121,7 +9914,7 @@ window.DATA = {
           "title": "Senior Consultant M&A Analytics - Transaction Diligence (m/w/d)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "analytics consultant diligence transaction",
           "title_key": "senior consultant m&a analytics - transaction diligence (m/w/d)"
         },
@@ -10134,7 +9927,7 @@ window.DATA = {
           "title": "Senior Consultant Regulatory Data Management (m/w/d)",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "consultant data management regulatory",
           "title_key": "senior consultant regulatory data management (m/w/d)"
         },
@@ -10147,7 +9940,7 @@ window.DATA = {
           "title": "Senior Consultant Strategie- und Managementberatung Fokus Data & AI (m/w/d)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "ai consultant data fokus managementberatung strategie und",
           "title_key": "senior consultant strategie- und managementberatung fokus data & ai (m/w/d)"
         },
@@ -10160,7 +9953,7 @@ window.DATA = {
           "title": "Senior Conversational AI & ML Solution Engineer (m/w/d)",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "ai conversational engineer ml solution",
           "title_key": "senior conversational ai & ml solution engineer (m/w/d)"
         },
@@ -10173,7 +9966,7 @@ window.DATA = {
           "title": "Senior Databricks Solution Engineer (m/w/d)",
           "postings": 1,
           "date": "2026-10-02",
-          "age_days": 23,
+          "age_days": 24,
           "norm_title": "databricks engineer solution",
           "title_key": "senior databricks solution engineer (m/w/d)"
         },
@@ -10186,7 +9979,7 @@ window.DATA = {
           "title": "(Senior) Manager Data Analytics & Business Insights (m/w/d)",
           "postings": 1,
           "date": "2026-10-18",
-          "age_days": 7,
+          "age_days": 8,
           "norm_title": "analytics business data insights manager",
           "title_key": "(senior) manager data analytics & business insights (m/w/d)"
         },
@@ -10199,7 +9992,7 @@ window.DATA = {
           "title": "(Senior) Manager Data Leakage Prevention Strategist (m/w/d)",
           "postings": 1,
           "date": "2026-10-18",
-          "age_days": 7,
+          "age_days": 8,
           "norm_title": "data leakage manager prevention strategist",
           "title_key": "(senior) manager data leakage prevention strategist (m/w/d)"
         },
@@ -10212,7 +10005,7 @@ window.DATA = {
           "title": "(Senior) Manager Finance Analytics (m/w/d)",
           "postings": 1,
           "date": "2026-09-29",
-          "age_days": 26,
+          "age_days": 27,
           "norm_title": "analytics finance manager",
           "title_key": "(senior) manager finance analytics (m/w/d)"
         },
@@ -10225,7 +10018,7 @@ window.DATA = {
           "title": "(Senior) Manager M&A Analytics / Transaction Diligence (m/w/d)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "analytics diligence manager transaction",
           "title_key": "(senior) manager m&a analytics / transaction diligence (m/w/d)"
         },
@@ -10238,7 +10031,7 @@ window.DATA = {
           "title": "Werkstudent Audit Capture & AI Solutions (m/w/d)",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "ai audit capture solutions werkstudent",
           "title_key": "werkstudent audit capture & ai solutions (m/w/d)"
         },
@@ -10251,7 +10044,7 @@ window.DATA = {
           "title": "Werkstudent Kommunikationsdesign, AI & Automation (m/w/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "ai automation kommunikationsdesign werkstudent",
           "title_key": "werkstudent kommunikationsdesign, ai & automation (m/w/d)"
         },
@@ -10264,7 +10057,7 @@ window.DATA = {
           "title": "Werkstudent / Praktikant im Bereich Governance, Compliance & Data (m/w/d)",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "bereich compliance data governance im praktikant werkstudent",
           "title_key": "werkstudent / praktikant im bereich governance, compliance & data (m/w/d)"
         }
@@ -10279,7 +10072,7 @@ window.DATA = {
       "company_slug": "wk",
       "total": 10,
       "undated": 0,
-      "oldest_date": "2026-09-25",
+      "oldest_date": "2026-09-26",
       "newest_date": "2026-10-21",
       "oldest_age_days": 30,
       "stale_jobs": [],
@@ -10313,7 +10106,7 @@ window.DATA = {
           "company": "Libra",
           "title": "AI Product Manager (Libra-Legal AI Assistant) (m/w/d)",
           "postings": 1,
-          "date": "2026-09-25",
+          "date": "2026-09-26",
           "age_days": 30,
           "norm_title": "ai assistant legal libra manager product",
           "title_key": "ai product manager (libra-legal ai assistant) (m/w/d)"
@@ -10326,7 +10119,7 @@ window.DATA = {
           "company": "Libra",
           "title": "Associate Director, Strategic Accounts & Retention | AI Workspace Libra",
           "postings": 1,
-          "date": "2026-09-25",
+          "date": "2026-09-26",
           "age_days": 30,
           "norm_title": "accounts ai director libra retention strategic workspace",
           "title_key": "associate director, strategic accounts & retention | ai workspace libra"
@@ -10340,7 +10133,7 @@ window.DATA = {
           "title": "Junior Marketing Specialist (m/w/d) (Libra - Legal AI Workspace)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai legal libra marketing specialist workspace",
           "title_key": "junior marketing specialist (m/w/d) (libra - legal ai workspace)"
         },
@@ -10353,7 +10146,7 @@ window.DATA = {
           "title": "Lead Software Engineer (Libra - Legal AI Assistant) (m/f/d)",
           "postings": 1,
           "date": "2026-10-08",
-          "age_days": 17,
+          "age_days": 18,
           "norm_title": "ai assistant engineer legal libra software",
           "title_key": "lead software engineer (libra - legal ai assistant) (m/f/d)"
         },
@@ -10365,7 +10158,7 @@ window.DATA = {
           "company": "Libra",
           "title": "Lead/Staff Full Stack Engineer, AI Platform & Agents (US/Canada Hybrid/Remote)",
           "postings": 1,
-          "date": "2026-09-25",
+          "date": "2026-09-26",
           "age_days": 30,
           "norm_title": "agents ai canada engineer full hybrid platform remote stack us",
           "title_key": "lead/staff full stack engineer, ai platform & agents (us/canada hybrid/remote)"
@@ -10379,7 +10172,7 @@ window.DATA = {
           "title": "Legal Engineer Public Administration (Libra - Legal AI Assistant) (m/w/d)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "administration ai assistant engineer legal libra public",
           "title_key": "legal engineer public administration (libra - legal ai assistant) (m/w/d)"
         },
@@ -10391,7 +10184,7 @@ window.DATA = {
           "company": "Libra",
           "title": "Principal Full Stack Engineer, AI Platform & Agents (US/Canada Hybrid/Remote)",
           "postings": 1,
-          "date": "2026-09-25",
+          "date": "2026-09-26",
           "age_days": 30,
           "norm_title": "agents ai canada engineer full hybrid platform remote stack us",
           "title_key": "principal full stack engineer, ai platform & agents (us/canada hybrid/remote)"
@@ -10405,7 +10198,7 @@ window.DATA = {
           "title": "Senior AI Engineer (Libra - Legal AI Assistant) (m/f/d)",
           "postings": 1,
           "date": "2026-10-09",
-          "age_days": 16,
+          "age_days": 17,
           "norm_title": "ai assistant engineer legal libra",
           "title_key": "senior ai engineer (libra - legal ai assistant) (m/f/d)"
         },
@@ -10418,7 +10211,7 @@ window.DATA = {
           "title": "Senior AI Evals Engineer (AI Quality & Safety) - Libra-Legal AI Assistant (m/w/d)",
           "postings": 1,
           "date": "2026-10-08",
-          "age_days": 17,
+          "age_days": 18,
           "norm_title": "ai assistant engineer evals legal libra quality safety",
           "title_key": "senior ai evals engineer (ai quality & safety) - libra-legal ai assistant (m/w/d)"
         },
@@ -10431,7 +10224,7 @@ window.DATA = {
           "title": "Senior Software Engineer (Libra - Legal AI Assistant) (m/f/d)",
           "postings": 1,
           "date": "2026-10-08",
-          "age_days": 17,
+          "age_days": 18,
           "norm_title": "ai assistant engineer legal libra software",
           "title_key": "senior software engineer (libra - legal ai assistant) (m/f/d)"
         }
@@ -10448,7 +10241,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-19",
       "newest_date": "2026-10-21",
-      "oldest_age_days": 6,
+      "oldest_age_days": 7,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [
@@ -10472,7 +10265,7 @@ window.DATA = {
           "title": "(Associate) Consultant AI Data Strategy & Foundation (m/w/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "ai consultant data foundation strategy",
           "title_key": "(associate) consultant ai data strategy & foundation (m/w/d)"
         },
@@ -10485,7 +10278,7 @@ window.DATA = {
           "title": "(Associate) Consultant Business Intelligence & Data Analytics (m/w/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "analytics business consultant data intelligence",
           "title_key": "(associate) consultant business intelligence & data analytics (m/w/d)"
         },
@@ -10498,7 +10291,7 @@ window.DATA = {
           "title": "(Associate) Consultant Cloud & AI Architecture (m/w/d)​ ​",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "ai architecture cloud consultant",
           "title_key": "(associate) consultant cloud & ai architecture (m/w/d)​ ​"
         },
@@ -10511,7 +10304,7 @@ window.DATA = {
           "title": "(Associate) Consultant Customer Data Science & AI Strategy (w/m/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "ai consultant customer data science strategy",
           "title_key": "(associate) consultant customer data science & ai strategy (w/m/d)"
         },
@@ -10524,7 +10317,7 @@ window.DATA = {
           "title": "(Associate) Consultant Data Driven Banking (m/w/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "banking consultant data driven",
           "title_key": "(associate) consultant data driven banking (m/w/d)"
         },
@@ -10537,7 +10330,7 @@ window.DATA = {
           "title": "(Associate) Consultant Data Driven Insurance (m/w/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "consultant data driven insurance",
           "title_key": "(associate) consultant data driven insurance (m/w/d)"
         },
@@ -10550,7 +10343,7 @@ window.DATA = {
           "title": "(Associate) Consultant Data & Innovation / Data Driven Government (w/m/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "consultant data driven government innovation",
           "title_key": "(associate) consultant data & innovation / data driven government (w/m/d)"
         },
@@ -10563,7 +10356,7 @@ window.DATA = {
           "title": "(Associate) Consultant Data Science & AI (m/w/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "ai consultant data science",
           "title_key": "(associate) consultant data science & ai (m/w/d)"
         },
@@ -10576,7 +10369,7 @@ window.DATA = {
           "title": "(Associate) Consultant (m/w/d) AI & Data Strategy",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "ai consultant data strategy",
           "title_key": "(associate) consultant (m/w/d) ai & data strategy"
         },
@@ -10589,7 +10382,7 @@ window.DATA = {
           "title": "Manager Data Driven Insurance (m/w/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "data driven insurance manager",
           "title_key": "manager data driven insurance (m/w/d)"
         },
@@ -10602,7 +10395,7 @@ window.DATA = {
           "title": "Praktikant*in - Data Science / Analytics / GenAI (w/m/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "analytics data genai praktikant science",
           "title_key": "praktikant*in - data science / analytics / genai (w/m/d)"
         },
@@ -10615,7 +10408,7 @@ window.DATA = {
           "title": "Senior Consultant Customer Data & Tech (w/m/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "consultant customer data tech",
           "title_key": "senior consultant customer data & tech (w/m/d)"
         },
@@ -10628,7 +10421,7 @@ window.DATA = {
           "title": "Senior Consultant Data Driven Insurance (m/w/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "consultant data driven insurance",
           "title_key": "senior consultant data driven insurance (m/w/d)"
         },
@@ -10641,7 +10434,7 @@ window.DATA = {
           "title": "Senior Consultant Data Driven Life Sciences (w/m/d)​",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "consultant data driven life sciences",
           "title_key": "senior consultant data driven life sciences (w/m/d)​"
         },
@@ -10654,7 +10447,7 @@ window.DATA = {
           "title": "Senior Consultant (Gen) AI & Data Scientist | AI Garage (w/m/d)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai consultant data garage gen scientist",
           "title_key": "senior consultant (gen) ai & data scientist | ai garage (w/m/d)"
         },
@@ -10667,7 +10460,7 @@ window.DATA = {
           "title": "Senior Consultant (Gen) AI & Data Strategy (w/m/d)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai consultant data gen strategy",
           "title_key": "senior consultant (gen) ai & data strategy (w/m/d)"
         },
@@ -10680,7 +10473,7 @@ window.DATA = {
           "title": "Senior Consultant Legal Engineer Customer Data (w/m/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "consultant customer data engineer legal",
           "title_key": "senior consultant legal engineer customer data (w/m/d)"
         },
@@ -10693,7 +10486,7 @@ window.DATA = {
           "title": "Senior Consultant / Manager Collaborative Data Ecosystems / Data Sharing (w/m/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "collaborative consultant data ecosystems manager sharing",
           "title_key": "senior consultant / manager collaborative data ecosystems / data sharing (w/m/d)"
         },
@@ -10706,7 +10499,7 @@ window.DATA = {
           "title": "Senior Consultant / Manager Data Driven Banking (w/m/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "banking consultant data driven manager",
           "title_key": "senior consultant / manager data driven banking (w/m/d)"
         },
@@ -10719,7 +10512,7 @@ window.DATA = {
           "title": "Senior Consultant / Manager Data Driven Retail (w/m/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "consultant data driven manager retail",
           "title_key": "senior consultant / manager data driven retail (w/m/d)"
         },
@@ -10732,7 +10525,7 @@ window.DATA = {
           "title": "Senior Consultant / Manager Data & Innovation I Data Driven Government (w/m/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "consultant data driven government innovation manager",
           "title_key": "senior consultant / manager data & innovation i data driven government (w/m/d)"
         },
@@ -10745,7 +10538,7 @@ window.DATA = {
           "title": "Senior Consultant / Manager Data Management Enthusiast (w/m/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "consultant data enthusiast management manager",
           "title_key": "senior consultant / manager data management enthusiast (w/m/d)"
         },
@@ -10758,7 +10551,7 @@ window.DATA = {
           "title": "Senior Consultant SAP AI & Innovation (w/m/d)​",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "ai consultant innovation sap",
           "title_key": "senior consultant sap ai & innovation (w/m/d)​"
         },
@@ -10771,7 +10564,7 @@ window.DATA = {
           "title": "Senior Consultant / (Senior) Manager Industrial AI Lab & Industry Data Strategy (w/m/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "ai consultant data industrial industry lab manager strategy",
           "title_key": "senior consultant / (senior) manager industrial ai lab & industry data strategy (w/m/d)"
         },
@@ -10784,7 +10577,7 @@ window.DATA = {
           "title": "(Senior) Director Enterprise Data & Analytics (w/m/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "analytics data director enterprise",
           "title_key": "(senior) director enterprise data & analytics (w/m/d)"
         },
@@ -10797,7 +10590,7 @@ window.DATA = {
           "title": "(Senior) Manager AI Systems & Platform Architecture/Developer (w/m/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "ai architecture developer manager platform systems",
           "title_key": "(senior) manager ai systems & platform architecture/developer (w/m/d)"
         },
@@ -10810,7 +10603,7 @@ window.DATA = {
           "title": "(Senior) Manager Customer Data & Tech (w/m/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "customer data manager tech",
           "title_key": "(senior) manager customer data & tech (w/m/d)"
         },
@@ -10823,7 +10616,7 @@ window.DATA = {
           "title": "Senior Manager Data Driven Financial Services (w/m/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "data driven financial manager services",
           "title_key": "senior manager data driven financial services (w/m/d)"
         },
@@ -10836,7 +10629,7 @@ window.DATA = {
           "title": "(Senior) Manager Data Driven Life Sciences (w/m/d)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "data driven life manager sciences",
           "title_key": "(senior) manager data driven life sciences (w/m/d)"
         },
@@ -10849,7 +10642,7 @@ window.DATA = {
           "title": "(Senior) Manager Digital Product Passports & Data Spaces (w/m/d)​",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "data digital manager passports product spaces",
           "title_key": "(senior) manager digital product passports & data spaces (w/m/d)​"
         },
@@ -10862,7 +10655,7 @@ window.DATA = {
           "title": "(Senior) Manager (Gen) AI & Data Scientist | AI Garage (w/m/d)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai data garage gen manager scientist",
           "title_key": "(senior) manager (gen) ai & data scientist | ai garage (w/m/d)"
         },
@@ -10875,7 +10668,7 @@ window.DATA = {
           "title": "(Senior) Manager (Gen) AI & Data Strategy (w/m/d)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai data gen manager strategy",
           "title_key": "(senior) manager (gen) ai & data strategy (w/m/d)"
         }
@@ -10892,7 +10685,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-07",
       "newest_date": "2026-10-02",
-      "oldest_age_days": 79,
+      "oldest_age_days": 80,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [
@@ -10916,7 +10709,7 @@ window.DATA = {
           "title": "Growth Manager (m/w/d)",
           "postings": 1,
           "date": "2026-08-07",
-          "age_days": 79,
+          "age_days": 80,
           "norm_title": "growth manager",
           "title_key": "growth manager (m/w/d)"
         },
@@ -10929,7 +10722,7 @@ window.DATA = {
           "title": "(Senior) Manager Privacy & Data Governance (m/w/d)",
           "postings": 1,
           "date": "2026-09-14",
-          "age_days": 41,
+          "age_days": 42,
           "norm_title": "data governance manager privacy",
           "title_key": "(senior) manager privacy & data governance (m/w/d)"
         },
@@ -10942,7 +10735,7 @@ window.DATA = {
           "title": "Senior Software Engineer (m/f/d) Data",
           "postings": 1,
           "date": "2026-09-25",
-          "age_days": 30,
+          "age_days": 31,
           "norm_title": "data engineer software",
           "title_key": "senior software engineer (m/f/d) data"
         },
@@ -10955,7 +10748,7 @@ window.DATA = {
           "title": "Staff Software Engineer (m/f/d) Data",
           "postings": 1,
           "date": "2026-10-02",
-          "age_days": 23,
+          "age_days": 24,
           "norm_title": "data engineer software",
           "title_key": "staff software engineer (m/f/d) data"
         }
@@ -10972,7 +10765,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-29",
       "newest_date": "2026-10-19",
-      "oldest_age_days": 26,
+      "oldest_age_days": 27,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [
@@ -10996,7 +10789,7 @@ window.DATA = {
           "title": "Director of Data Platform",
           "postings": 1,
           "date": "2026-09-29",
-          "age_days": 26,
+          "age_days": 27,
           "norm_title": "data director platform",
           "title_key": "director of data platform"
         },
@@ -11009,7 +10802,7 @@ window.DATA = {
           "title": "Senior Software Engineer - Market Data",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "data engineer market software",
           "title_key": "senior software engineer - market data"
         },
@@ -11022,7 +10815,7 @@ window.DATA = {
           "title": "Software Engineer - Market Data",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "data engineer market software",
           "title_key": "software engineer - market data"
         },
@@ -11035,7 +10828,7 @@ window.DATA = {
           "title": "Staff Analytics Engineer",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "analytics engineer",
           "title_key": "staff analytics engineer"
         }
@@ -11052,7 +10845,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-17",
       "newest_date": "2026-10-16",
-      "oldest_age_days": 69,
+      "oldest_age_days": 70,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [
@@ -11076,7 +10869,7 @@ window.DATA = {
           "title": "Principal Data Scientist (m/f/d)",
           "postings": 1,
           "date": "2026-08-17",
-          "age_days": 69,
+          "age_days": 70,
           "norm_title": "data scientist",
           "title_key": "principal data scientist (m/f/d)"
         },
@@ -11089,7 +10882,7 @@ window.DATA = {
           "title": "Senior Data Scientist (m/f/d)",
           "postings": 1,
           "date": "2026-08-17",
-          "age_days": 69,
+          "age_days": 70,
           "norm_title": "data scientist",
           "title_key": "senior data scientist (m/f/d)"
         },
@@ -11102,7 +10895,7 @@ window.DATA = {
           "title": "Senior GenAI Data Scientist (m/f/d)",
           "postings": 1,
           "date": "2026-08-17",
-          "age_days": 69,
+          "age_days": 70,
           "norm_title": "data genai scientist",
           "title_key": "senior genai data scientist (m/f/d)"
         },
@@ -11115,7 +10908,7 @@ window.DATA = {
           "title": "Senior Software Engineer / AI Enabler (m/f/d)",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "ai enabler engineer software",
           "title_key": "senior software engineer / ai enabler (m/f/d)"
         }
@@ -11199,7 +10992,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-19",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 67,
+      "oldest_age_days": 68,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [
@@ -11223,7 +11016,7 @@ window.DATA = {
           "title": "Data Scientist (m/f/d)",
           "postings": 1,
           "date": "2026-08-19",
-          "age_days": 67,
+          "age_days": 68,
           "norm_title": "data scientist",
           "title_key": "data scientist (m/f/d)"
         },
@@ -11236,7 +11029,7 @@ window.DATA = {
           "title": "Growth Analyst (m/f/d)",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "analyst growth",
           "title_key": "growth analyst (m/f/d)"
         },
@@ -11249,7 +11042,7 @@ window.DATA = {
           "title": "Senior Data Scientist (m/f/d)",
           "postings": 1,
           "date": "2026-10-05",
-          "age_days": 20,
+          "age_days": 21,
           "norm_title": "data scientist",
           "title_key": "senior data scientist (m/f/d)"
         }
@@ -11266,7 +11059,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-21",
       "newest_date": "2026-08-21",
-      "oldest_age_days": 65,
+      "oldest_age_days": 66,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [
@@ -11290,7 +11083,7 @@ window.DATA = {
           "title": "Business Automation and AI Manager (all genders)",
           "postings": 1,
           "date": "2026-08-21",
-          "age_days": 65,
+          "age_days": 66,
           "norm_title": "ai automation business manager",
           "title_key": "business automation and ai manager (all genders)"
         },
@@ -11303,7 +11096,7 @@ window.DATA = {
           "title": "Junior Business Automation and AI Manager (all genders)",
           "postings": 1,
           "date": "2026-08-21",
-          "age_days": 65,
+          "age_days": 66,
           "norm_title": "ai automation business manager",
           "title_key": "junior business automation and ai manager (all genders)"
         }
@@ -11320,7 +11113,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-02",
       "newest_date": "2026-10-20",
-      "oldest_age_days": 53,
+      "oldest_age_days": 54,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [
@@ -11344,7 +11137,7 @@ window.DATA = {
           "title": "Principal AI Engineer",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "ai engineer",
           "title_key": "principal ai engineer"
         },
@@ -11357,7 +11150,7 @@ window.DATA = {
           "title": "Senior AI Engineer",
           "postings": 1,
           "date": "2026-09-02",
-          "age_days": 53,
+          "age_days": 54,
           "norm_title": "ai engineer",
           "title_key": "senior ai engineer"
         }
@@ -11374,7 +11167,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-14",
       "newest_date": "2026-09-14",
-      "oldest_age_days": 41,
+      "oldest_age_days": 42,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [
@@ -11398,7 +11191,7 @@ window.DATA = {
           "title": "Senior Applied AI Engineer",
           "postings": 1,
           "date": "2026-09-14",
-          "age_days": 41,
+          "age_days": 42,
           "norm_title": "ai applied engineer",
           "title_key": "senior applied ai engineer"
         },
@@ -11411,7 +11204,7 @@ window.DATA = {
           "title": "Staff Applied AI Engineer",
           "postings": 1,
           "date": "2026-09-14",
-          "age_days": 41,
+          "age_days": 42,
           "norm_title": "ai applied engineer",
           "title_key": "staff applied ai engineer"
         }
@@ -11428,7 +11221,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-18",
       "newest_date": "2026-09-18",
-      "oldest_age_days": 37,
+      "oldest_age_days": 38,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [
@@ -11452,7 +11245,7 @@ window.DATA = {
           "title": "Senior Staff Software Engineer, Agentic Platform",
           "postings": 1,
           "date": "2026-09-18",
-          "age_days": 37,
+          "age_days": 38,
           "norm_title": "agentic engineer platform software",
           "title_key": "senior staff software engineer, agentic platform"
         },
@@ -11465,7 +11258,7 @@ window.DATA = {
           "title": "Staff Software Engineer, Agentic Platform",
           "postings": 1,
           "date": "2026-09-18",
-          "age_days": 37,
+          "age_days": 38,
           "norm_title": "agentic engineer platform software",
           "title_key": "staff software engineer, agentic platform"
         }
@@ -11816,7 +11609,7 @@ window.DATA = {
       "multi_seniority_groups": [],
       "jobs": [
         {
-          "url": "https://databerlin.net/jobs/bi-engineer-fr-amazon-quicksight-und-cloud-bi-at-dkb-deutsche-kreditbank-ag",
+          "url": "https://databerlin.net/jobs/bi-engineer-fr-amazon-quicksight-und-cloud-bi-at-dkb-deutsche-kreditbank-ag-1",
           "category": "Data Analyst",
           "seniority": "Mid",
           "company_slug": "dkb",
@@ -12043,9 +11836,9 @@ window.DATA = {
     {
       "company": "Zalando",
       "company_slug": "zalando",
-      "total": 17,
+      "total": 16,
       "undated": 0,
-      "oldest_date": "2026-09-25",
+      "oldest_date": "2026-09-26",
       "newest_date": "2026-10-23",
       "oldest_age_days": 30,
       "stale_jobs": [],
@@ -12061,7 +11854,7 @@ window.DATA = {
           "title": "Databricks AI/BI Engineer (all genders)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai bi databricks engineer",
           "title_key": "databricks ai/bi engineer (all genders)"
         },
@@ -12074,7 +11867,7 @@ window.DATA = {
           "title": "Head of Applied Science Growth & Lifecycle / Lounge by Zalando (all genders)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "applied by growth head lifecycle lounge science zalando",
           "title_key": "head of applied science growth & lifecycle / lounge by zalando (all genders)"
         },
@@ -12087,7 +11880,7 @@ window.DATA = {
           "title": "Mid/Senior Data Engineer - Lounge by Zalando (all genders)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "by data engineer lounge zalando",
           "title_key": "mid/senior data engineer - lounge by zalando (all genders)"
         },
@@ -12100,7 +11893,7 @@ window.DATA = {
           "title": "Principal AI Scientist (all genders)",
           "postings": 1,
           "date": "2026-10-09",
-          "age_days": 16,
+          "age_days": 17,
           "norm_title": "ai scientist",
           "title_key": "principal ai scientist (all genders)"
         },
@@ -12113,7 +11906,7 @@ window.DATA = {
           "title": "Principal Data Analyst (all genders) - Logistics Key Account Management",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "account analyst data key logistics management",
           "title_key": "principal data analyst (all genders) - logistics key account management"
         },
@@ -12126,7 +11919,7 @@ window.DATA = {
           "title": "Principal Product Manager Growth Platform - Lounge by Zalando (all genders)",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "by growth lounge manager platform product zalando",
           "title_key": "principal product manager growth platform - lounge by zalando (all genders)"
         },
@@ -12138,7 +11931,7 @@ window.DATA = {
           "company": "Zalando",
           "title": "Principal Product Manager - Lounge Data Platform (all genders)",
           "postings": 1,
-          "date": "2026-09-25",
+          "date": "2026-09-26",
           "age_days": 30,
           "norm_title": "data lounge manager platform product",
           "title_key": "principal product manager - lounge data platform (all genders)"
@@ -12151,23 +11944,10 @@ window.DATA = {
           "company": "Zalando",
           "title": "Principal Software Engineer - Risk Management / Risk AI (all genders)",
           "postings": 1,
-          "date": "2026-09-25",
+          "date": "2026-09-26",
           "age_days": 30,
           "norm_title": "ai engineer management risk software",
           "title_key": "principal software engineer - risk management / risk ai (all genders)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/senior-applied-scientist-all-genders-at-zalando",
-          "category": "AI/ML",
-          "seniority": "Senior",
-          "company_slug": "zalando",
-          "company": "Zalando",
-          "title": "Senior Applied Scientist (All genders)",
-          "postings": 1,
-          "date": "2026-09-25",
-          "age_days": 30,
-          "norm_title": "applied scientist",
-          "title_key": "senior applied scientist (all genders)"
         },
         {
           "url": "https://databerlin.net/jobs/senior-applied-scientist-demand-forecast-all-genders-at-zalando",
@@ -12177,7 +11957,7 @@ window.DATA = {
           "company": "Zalando",
           "title": "Senior Applied Scientist - Demand Forecast (all genders)",
           "postings": 1,
-          "date": "2026-09-25",
+          "date": "2026-09-26",
           "age_days": 30,
           "norm_title": "applied demand forecast scientist",
           "title_key": "senior applied scientist - demand forecast (all genders)"
@@ -12191,7 +11971,7 @@ window.DATA = {
           "title": "Senior Applied Scientist - Warehouse Fulfillment Quality Algorithms (all genders)",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "algorithms applied fulfillment quality scientist warehouse",
           "title_key": "senior applied scientist - warehouse fulfillment quality algorithms (all genders)"
         },
@@ -12204,7 +11984,7 @@ window.DATA = {
           "title": "Senior Data Engineer (all genders)",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "data engineer",
           "title_key": "senior data engineer (all genders)"
         },
@@ -12217,7 +11997,7 @@ window.DATA = {
           "title": "Senior Principal Applied Scientist - Ranking (all genders)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "applied ranking scientist",
           "title_key": "senior principal applied scientist - ranking (all genders)"
         },
@@ -12230,7 +12010,7 @@ window.DATA = {
           "title": "Senior Principal Engineer - Agentic Security (all genders)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "agentic engineer security",
           "title_key": "senior principal engineer - agentic security (all genders)"
         },
@@ -12243,7 +12023,7 @@ window.DATA = {
           "title": "Senior Software Engineer (all genders) – Analytics & Forecasting Solutions",
           "postings": 1,
           "date": "2026-10-05",
-          "age_days": 20,
+          "age_days": 21,
           "norm_title": "analytics engineer forecasting software solutions",
           "title_key": "senior software engineer (all genders) – analytics & forecasting solutions"
         },
@@ -12256,7 +12036,7 @@ window.DATA = {
           "title": "Senior Software Engineer (Data/ML) - all genders",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "data engineer ml software",
           "title_key": "senior software engineer (data/ml) - all genders"
         },
@@ -12269,7 +12049,7 @@ window.DATA = {
           "title": "Senior Software Engineer - Machine Learning (all genders)",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "engineer learning machine software",
           "title_key": "senior software engineer - machine learning (all genders)"
         }
@@ -12284,7 +12064,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-26",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 60,
+      "oldest_age_days": 61,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -12298,7 +12078,7 @@ window.DATA = {
           "title": "Director of Product, Growth",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "director growth product",
           "title_key": "director of product, growth"
         },
@@ -12311,7 +12091,7 @@ window.DATA = {
           "title": "Engineering Manager, Agentic Platform",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "agentic engineering manager platform",
           "title_key": "engineering manager, agentic platform"
         },
@@ -12324,7 +12104,7 @@ window.DATA = {
           "title": "Lead Product Manager, Paid Search Tech (Data Products)",
           "postings": 1,
           "date": "2026-10-12",
-          "age_days": 13,
+          "age_days": 14,
           "norm_title": "data manager paid product products search tech",
           "title_key": "lead product manager, paid search tech (data products)"
         },
@@ -12337,7 +12117,7 @@ window.DATA = {
           "title": "Product Analytics Manager, Travelers",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "analytics manager product travelers",
           "title_key": "product analytics manager, travelers"
         },
@@ -12350,7 +12130,7 @@ window.DATA = {
           "title": "Senior Data Analyst (Sales & RevOps)",
           "postings": 1,
           "date": "2026-09-08",
-          "age_days": 47,
+          "age_days": 48,
           "norm_title": "analyst data revops sales",
           "title_key": "senior data analyst (sales & revops)"
         },
@@ -12363,7 +12143,7 @@ window.DATA = {
           "title": "Senior Data Engineer, Growth Data Engineering",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "data engineer engineering growth",
           "title_key": "senior data engineer, growth data engineering"
         },
@@ -12376,7 +12156,7 @@ window.DATA = {
           "title": "Senior Data Science Manager, Central Data Products",
           "postings": 1,
           "date": "2026-08-26",
-          "age_days": 60,
+          "age_days": 61,
           "norm_title": "central data manager products science",
           "title_key": "senior data science manager, central data products"
         },
@@ -12389,7 +12169,7 @@ window.DATA = {
           "title": "Senior Data Scientist, Central Data Products",
           "postings": 1,
           "date": "2026-09-18",
-          "age_days": 37,
+          "age_days": 38,
           "norm_title": "central data products scientist",
           "title_key": "senior data scientist, central data products"
         },
@@ -12402,7 +12182,7 @@ window.DATA = {
           "title": "Senior Decision Scientist, Fraud",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "decision fraud scientist",
           "title_key": "senior decision scientist, fraud"
         },
@@ -12415,7 +12195,7 @@ window.DATA = {
           "title": "Senior Engineering Manager, AI Platform",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "ai engineering manager platform",
           "title_key": "senior engineering manager, ai platform"
         },
@@ -12428,7 +12208,7 @@ window.DATA = {
           "title": "Senior Software Engineer, Agentic Platform",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "agentic engineer platform software",
           "title_key": "senior software engineer, agentic platform"
         },
@@ -12441,7 +12221,7 @@ window.DATA = {
           "title": "Staff Data Scientist, Growth Data Products",
           "postings": 1,
           "date": "2026-10-05",
-          "age_days": 20,
+          "age_days": 21,
           "norm_title": "data growth products scientist",
           "title_key": "staff data scientist, growth data products"
         },
@@ -12454,7 +12234,7 @@ window.DATA = {
           "title": "Staff Decision Scientist, Paid Search",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "decision paid scientist search",
           "title_key": "staff decision scientist, paid search"
         },
@@ -12467,9 +12247,155 @@ window.DATA = {
           "title": "UX Manager, Growth",
           "postings": 1,
           "date": "2026-10-12",
-          "age_days": 13,
+          "age_days": 14,
           "norm_title": "growth manager ux",
           "title_key": "ux manager, growth"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "1KOMMA5°",
+      "company_slug": "1komma5grad",
+      "total": 10,
+      "undated": 0,
+      "oldest_date": "2026-08-04",
+      "newest_date": "2026-10-24",
+      "oldest_age_days": 83,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/content-growth-manager-youtube-mwd-at-1komma5",
+          "category": "Other",
+          "seniority": "Lead / Manager",
+          "company_slug": "1komma5grad",
+          "company": "1KOMMA5°",
+          "title": "Content Growth Manager YouTube (m/w/d)",
+          "postings": 1,
+          "date": "2026-09-24",
+          "age_days": 32,
+          "norm_title": "content growth manager youtube",
+          "title_key": "content growth manager youtube (m/w/d)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/growth-manager-revenue-operations-mwd-at-1komma5",
+          "category": "Other",
+          "seniority": "Lead / Manager",
+          "company_slug": "1komma5grad",
+          "company": "1KOMMA5°",
+          "title": "Growth Manager Revenue Operations (m/w/d)",
+          "postings": 1,
+          "date": "2026-09-28",
+          "age_days": 28,
+          "norm_title": "growth manager operations revenue",
+          "title_key": "growth manager revenue operations (m/w/d)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/internship-ai-automation-energy-mfd-at-1komma5",
+          "category": "Other",
+          "seniority": "Intern / Student",
+          "company_slug": "1komma5grad",
+          "company": "1KOMMA5°",
+          "title": "Internship AI & Automation - Energy (m/f/d)",
+          "postings": 1,
+          "date": "2026-10-20",
+          "age_days": 6,
+          "norm_title": "ai automation energy internship",
+          "title_key": "internship ai & automation - energy (m/f/d)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/senior-heartbeat-ai-partnerships-manager-mfd-at-1komma5",
+          "category": "Other",
+          "seniority": "Lead / Manager",
+          "company_slug": "1komma5grad",
+          "company": "1KOMMA5°",
+          "title": "(Senior) Heartbeat AI Partnerships Manager (m/f/d)",
+          "postings": 1,
+          "date": "2026-09-21",
+          "age_days": 35,
+          "norm_title": "ai heartbeat manager partnerships",
+          "title_key": "(senior) heartbeat ai partnerships manager (m/f/d)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/senior-qa-engineer-ai-driven-testing-mfd-at-1komma5",
+          "category": "Other",
+          "seniority": "Senior",
+          "company_slug": "1komma5grad",
+          "company": "1KOMMA5°",
+          "title": "(Senior) QA Engineer - AI-Driven Testing (m/f/d)",
+          "postings": 1,
+          "date": "2026-09-23",
+          "age_days": 33,
+          "norm_title": "ai driven engineer qa testing",
+          "title_key": "(senior) qa engineer - ai-driven testing (m/f/d)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/staff-engineer-heartbeat-ai-mfd-at-1komma5",
+          "category": "genAI/LLM/Agentic AI",
+          "seniority": "Staff / Principal",
+          "company_slug": "1komma5grad",
+          "company": "1KOMMA5°",
+          "title": "Staff Engineer - Heartbeat AI (m/f/d)",
+          "postings": 1,
+          "date": "2026-08-04",
+          "age_days": 83,
+          "norm_title": "ai engineer heartbeat",
+          "title_key": "staff engineer - heartbeat ai (m/f/d)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/werkstudentin-ai-automation-energy-mwd-at-1komma5",
+          "category": "genAI/LLM/Agentic AI",
+          "seniority": "Intern / Student",
+          "company_slug": "1komma5grad",
+          "company": "1KOMMA5°",
+          "title": "Werkstudent:in AI & Automation - Energy (m/w/d)",
+          "postings": 1,
+          "date": "2026-10-24",
+          "age_days": 2,
+          "norm_title": "ai automation energy werkstudent",
+          "title_key": "werkstudent:in ai & automation - energy (m/w/d)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/werkstudentin-data-analytics-controlling-focus-mwd-at-1komma5",
+          "category": "Data Analyst",
+          "seniority": "Intern / Student",
+          "company_slug": "1komma5grad",
+          "company": "1KOMMA5°",
+          "title": "Werkstudent:in Data Analytics (Controlling Focus) (m/w/d)",
+          "postings": 1,
+          "date": "2026-09-21",
+          "age_days": 35,
+          "norm_title": "analytics controlling data focus werkstudent",
+          "title_key": "werkstudent:in data analytics (controlling focus) (m/w/d)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/working-student-ai-product-designer-mfd-at-1komma5",
+          "category": "Other",
+          "seniority": "Intern / Student",
+          "company_slug": "1komma5grad",
+          "company": "1KOMMA5°",
+          "title": "Working Student - AI Product Designer (m/f/d)",
+          "postings": 1,
+          "date": "2026-08-21",
+          "age_days": 66,
+          "norm_title": "ai designer product student working",
+          "title_key": "working student - ai product designer (m/f/d)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/working-student-designer-design-system-heartbeat-ai-mfd-at-1komma5",
+          "category": "Other",
+          "seniority": "Intern / Student",
+          "company_slug": "1komma5grad",
+          "company": "1KOMMA5°",
+          "title": "Working Student Designer (Design System) – Heartbeat AI (m/f/d)",
+          "postings": 1,
+          "date": "2026-09-21",
+          "age_days": 35,
+          "norm_title": "ai design designer heartbeat student system working",
+          "title_key": "working student designer (design system) – heartbeat ai (m/f/d)"
         }
       ],
       "reasons": [],
@@ -12482,7 +12408,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-28",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 27,
+      "oldest_age_days": 28,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -12496,7 +12422,7 @@ window.DATA = {
           "title": "Analytics Engineer, Revenue, Purchase & Order",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "analytics engineer order purchase revenue",
           "title_key": "analytics engineer, revenue, purchase & order"
         },
@@ -12509,7 +12435,7 @@ window.DATA = {
           "title": "Decision Scientist, Payments Intelligence",
           "postings": 1,
           "date": "2026-09-28",
-          "age_days": 27,
+          "age_days": 28,
           "norm_title": "decision intelligence payments scientist",
           "title_key": "decision scientist, payments intelligence"
         },
@@ -12522,7 +12448,7 @@ window.DATA = {
           "title": "Lead Data Scientist, Revenue - Ads, Revenue",
           "postings": 1,
           "date": "2026-09-28",
-          "age_days": 27,
+          "age_days": 28,
           "norm_title": "ads data revenue scientist",
           "title_key": "lead data scientist, revenue - ads, revenue"
         },
@@ -12535,7 +12461,7 @@ window.DATA = {
           "title": "Lead Decision Scientist, Revenue - Ads, Revenue",
           "postings": 1,
           "date": "2026-09-28",
-          "age_days": 27,
+          "age_days": 28,
           "norm_title": "ads decision revenue scientist",
           "title_key": "lead decision scientist, revenue - ads, revenue"
         },
@@ -12548,7 +12474,7 @@ window.DATA = {
           "title": "Senior Data Scientist, Buyer",
           "postings": 1,
           "date": "2026-09-28",
-          "age_days": 27,
+          "age_days": 28,
           "norm_title": "buyer data scientist",
           "title_key": "senior data scientist, buyer"
         },
@@ -12561,7 +12487,7 @@ window.DATA = {
           "title": "Senior Data Scientist, Help Experience",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "data experience help scientist",
           "title_key": "senior data scientist, help experience"
         },
@@ -12574,7 +12500,7 @@ window.DATA = {
           "title": "Senior Data Scientist, Marketing DSA",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "data dsa marketing scientist",
           "title_key": "senior data scientist, marketing dsa"
         },
@@ -12587,7 +12513,7 @@ window.DATA = {
           "title": "Senior Decision Scientist, Revenue",
           "postings": 1,
           "date": "2026-09-28",
-          "age_days": 27,
+          "age_days": 28,
           "norm_title": "decision revenue scientist",
           "title_key": "senior decision scientist, revenue"
         },
@@ -12600,7 +12526,7 @@ window.DATA = {
           "title": "Senior Decision Scientist, Trust & Safety",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "decision safety scientist trust",
           "title_key": "senior decision scientist, trust & safety"
         }
@@ -12615,7 +12541,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-20",
       "newest_date": "2026-10-19",
-      "oldest_age_days": 66,
+      "oldest_age_days": 67,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -12629,7 +12555,7 @@ window.DATA = {
           "title": "AI Research Engineer - GPU Simulation",
           "postings": 1,
           "date": "2026-08-21",
-          "age_days": 65,
+          "age_days": 66,
           "norm_title": "ai engineer gpu research simulation",
           "title_key": "ai research engineer - gpu simulation"
         },
@@ -12642,7 +12568,7 @@ window.DATA = {
           "title": "AI Research Engineer - ML & Signal Processing",
           "postings": 1,
           "date": "2026-08-20",
-          "age_days": 66,
+          "age_days": 67,
           "norm_title": "ai engineer ml processing research signal",
           "title_key": "ai research engineer - ml & signal processing"
         },
@@ -12655,7 +12581,7 @@ window.DATA = {
           "title": "AI Research Engineer - Reinforcement Learning",
           "postings": 1,
           "date": "2026-08-20",
-          "age_days": 66,
+          "age_days": 67,
           "norm_title": "ai engineer learning reinforcement research",
           "title_key": "ai research engineer - reinforcement learning"
         },
@@ -12668,7 +12594,7 @@ window.DATA = {
           "title": "AI Research Intern (PhD) – 3D Computer Vision",
           "postings": 1,
           "date": "2026-08-20",
-          "age_days": 66,
+          "age_days": 67,
           "norm_title": "3d ai computer intern phd research vision",
           "title_key": "ai research intern (phd) – 3d computer vision"
         },
@@ -12681,7 +12607,7 @@ window.DATA = {
           "title": "Deployed AI Engineer",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "ai deployed engineer",
           "title_key": "deployed ai engineer"
         },
@@ -12694,7 +12620,7 @@ window.DATA = {
           "title": "Staff AI Research Engineer - 3D Computer Vision",
           "postings": 1,
           "date": "2026-10-07",
-          "age_days": 18,
+          "age_days": 19,
           "norm_title": "3d ai computer engineer research vision",
           "title_key": "staff ai research engineer - 3d computer vision"
         },
@@ -12707,7 +12633,7 @@ window.DATA = {
           "title": "Staff AI Research Engineer - Computer Vision",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "ai computer engineer research vision",
           "title_key": "staff ai research engineer - computer vision"
         },
@@ -12720,7 +12646,7 @@ window.DATA = {
           "title": "Staff AI Research Engineer - ML Engineering",
           "postings": 1,
           "date": "2026-10-07",
-          "age_days": 18,
+          "age_days": 19,
           "norm_title": "ai engineer engineering ml research",
           "title_key": "staff ai research engineer - ml engineering"
         }
@@ -12735,7 +12661,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-24",
       "newest_date": "2026-10-15",
-      "oldest_age_days": 31,
+      "oldest_age_days": 32,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -12749,7 +12675,7 @@ window.DATA = {
           "title": "Machine Learning Manager",
           "postings": 1,
           "date": "2026-09-24",
-          "age_days": 31,
+          "age_days": 32,
           "norm_title": "learning machine manager",
           "title_key": "machine learning manager"
         },
@@ -12762,7 +12688,7 @@ window.DATA = {
           "title": "Mathematical Scientist for AI Safety Research",
           "postings": 1,
           "date": "2026-09-25",
-          "age_days": 30,
+          "age_days": 31,
           "norm_title": "ai mathematical research safety scientist",
           "title_key": "mathematical scientist for ai safety research"
         },
@@ -12775,7 +12701,7 @@ window.DATA = {
           "title": "Senior Data Platform Engineer",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "data engineer platform",
           "title_key": "senior data platform engineer"
         },
@@ -12788,7 +12714,7 @@ window.DATA = {
           "title": "Senior Distributed ML Engineer",
           "postings": 1,
           "date": "2026-09-25",
-          "age_days": 30,
+          "age_days": 31,
           "norm_title": "distributed engineer ml",
           "title_key": "senior distributed ml engineer"
         },
@@ -12801,7 +12727,7 @@ window.DATA = {
           "title": "Senior ML Data Processing Developer",
           "postings": 1,
           "date": "2026-09-25",
-          "age_days": 30,
+          "age_days": 31,
           "norm_title": "data developer ml processing",
           "title_key": "senior ml data processing developer"
         },
@@ -12814,7 +12740,7 @@ window.DATA = {
           "title": "Senior ML Research Developer",
           "postings": 1,
           "date": "2026-09-25",
-          "age_days": 30,
+          "age_days": 31,
           "norm_title": "developer ml research",
           "title_key": "senior ml research developer"
         },
@@ -12827,7 +12753,7 @@ window.DATA = {
           "title": "Senior ML Research Scientist",
           "postings": 1,
           "date": "2026-09-25",
-          "age_days": 30,
+          "age_days": 31,
           "norm_title": "ml research scientist",
           "title_key": "senior ml research scientist"
         }
@@ -12935,8 +12861,8 @@ window.DATA = {
       "total": 6,
       "undated": 0,
       "oldest_date": "2026-10-15",
-      "newest_date": "2026-10-25",
-      "oldest_age_days": 10,
+      "newest_date": "2026-10-26",
+      "oldest_age_days": 11,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -12950,7 +12876,7 @@ window.DATA = {
           "title": "Creative Strategy Lead, New Social Growth Platforms (all genders)",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "creative growth new platforms social strategy",
           "title_key": "creative strategy lead, new social growth platforms (all genders)"
         },
@@ -12963,7 +12889,7 @@ window.DATA = {
           "title": "Principal Engineer, Growth Mega Alliance (all genders)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "alliance engineer growth mega",
           "title_key": "principal engineer, growth mega alliance (all genders)"
         },
@@ -12976,7 +12902,7 @@ window.DATA = {
           "title": "Senior Data Platform Engineer, Intelligent Platforms (all genders)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "data engineer intelligent platform platforms",
           "title_key": "senior data platform engineer, intelligent platforms (all genders)"
         },
@@ -12989,7 +12915,7 @@ window.DATA = {
           "title": "Senior Data Scientist, Growth (f/m/x)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "data growth scientist",
           "title_key": "senior data scientist, growth (f/m/x)"
         },
@@ -13002,7 +12928,7 @@ window.DATA = {
           "title": "Senior Director of Machine Learning Engineering",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "director engineering learning machine",
           "title_key": "senior director of machine learning engineering"
         },
@@ -13014,7 +12940,7 @@ window.DATA = {
           "company": "HelloFresh",
           "title": "Senior Marketing Data Analyst Pricing (all genders)",
           "postings": 1,
-          "date": "2026-10-25",
+          "date": "2026-10-26",
           "age_days": 0,
           "norm_title": "analyst data marketing pricing",
           "title_key": "senior marketing data analyst pricing (all genders)"
@@ -13030,7 +12956,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-04",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 51,
+      "oldest_age_days": 52,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -13044,7 +12970,7 @@ window.DATA = {
           "title": "Growth Marketing Lead",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "growth marketing",
           "title_key": "growth marketing lead"
         },
@@ -13057,7 +12983,7 @@ window.DATA = {
           "title": "Product Builder Intern - Growth",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "builder growth intern product",
           "title_key": "product builder intern - growth"
         },
@@ -13070,7 +12996,7 @@ window.DATA = {
           "title": "Senior Data Engineer (f/m/d)",
           "postings": 1,
           "date": "2026-09-04",
-          "age_days": 51,
+          "age_days": 52,
           "norm_title": "data engineer",
           "title_key": "senior data engineer (f/m/d)"
         },
@@ -13083,7 +13009,7 @@ window.DATA = {
           "title": "Senior Growth Manager (m/w/d)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "growth manager",
           "title_key": "senior growth manager (m/w/d)"
         },
@@ -13096,7 +13022,7 @@ window.DATA = {
           "title": "Senior Product Manager – Digital Clients: Growth & Expansion (m/w/d)",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "clients digital expansion growth manager product",
           "title_key": "senior product manager – digital clients: growth & expansion (m/w/d)"
         },
@@ -13109,7 +13035,7 @@ window.DATA = {
           "title": "Senior Product Manager – Private Wealth: Growth & Expansion (m/w/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "expansion growth manager private product wealth",
           "title_key": "senior product manager – private wealth: growth & expansion (m/w/d)"
         }
@@ -13124,7 +13050,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-28",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 27,
+      "oldest_age_days": 28,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -13138,7 +13064,7 @@ window.DATA = {
           "title": "Computer Vision & AI Engineer - Interceptor C‑UAS (m/f/d)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai c computer engineer interceptor uas vision",
           "title_key": "computer vision & ai engineer - interceptor c‑uas (m/f/d)"
         },
@@ -13151,7 +13077,7 @@ window.DATA = {
           "title": "Senior HR Business Partner – Growth & Transformation (m/f/d)",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "business growth hr partner transformation",
           "title_key": "senior hr business partner – growth & transformation (m/f/d)"
         },
@@ -13164,7 +13090,7 @@ window.DATA = {
           "title": "Senior Machine Learning Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-10-12",
-          "age_days": 13,
+          "age_days": 14,
           "norm_title": "engineer learning machine",
           "title_key": "senior machine learning engineer (m/f/d)"
         },
@@ -13177,7 +13103,7 @@ window.DATA = {
           "title": "(Senior) ML Platform Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-10-12",
-          "age_days": 13,
+          "age_days": 14,
           "norm_title": "engineer ml platform",
           "title_key": "(senior) ml platform engineer (m/f/d)"
         },
@@ -13190,7 +13116,7 @@ window.DATA = {
           "title": "Senior Robotics & Machine Learning Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "engineer learning machine robotics",
           "title_key": "senior robotics & machine learning engineer (m/f/d)"
         },
@@ -13203,7 +13129,7 @@ window.DATA = {
           "title": "Working Student - AI Automation, Procurement (m/f/d)",
           "postings": 1,
           "date": "2026-09-28",
-          "age_days": 27,
+          "age_days": 28,
           "norm_title": "ai automation procurement student working",
           "title_key": "working student - ai automation, procurement (m/f/d)"
         }
@@ -13212,10 +13138,726 @@ window.DATA = {
       "flagged": false
     },
     {
+      "company": "Deutsche Bank",
+      "company_slug": "db",
+      "total": 5,
+      "undated": 0,
+      "oldest_date": "2026-09-26",
+      "newest_date": "2026-10-19",
+      "oldest_age_days": 30,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/adobe-martech-transformation-manager-fmx-at-deutsche-bank",
+          "category": "Other",
+          "seniority": "Lead / Manager",
+          "company_slug": "db",
+          "company": "Deutsche Bank",
+          "title": "Adobe & MarTech Transformation Manager (f/m/x)",
+          "postings": 1,
+          "date": "2026-09-26",
+          "age_days": 30,
+          "norm_title": "adobe manager martech transformation",
+          "title_key": "adobe & martech transformation manager (f/m/x)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/dws-data-architect-mfd-at-deutsche-bank",
+          "category": "Data Engineer",
+          "seniority": "Mid",
+          "company_slug": "db",
+          "company": "Deutsche Bank",
+          "title": "DWS - Data Architect (m/f/d)",
+          "postings": 1,
+          "date": "2026-09-26",
+          "age_days": 30,
+          "norm_title": "architect data dws",
+          "title_key": "dws - data architect (m/f/d)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/dws-principal-engineer-data-platforms-mfd-at-deutsche-bank",
+          "category": "Data Engineer",
+          "seniority": "Staff / Principal",
+          "company_slug": "db",
+          "company": "Deutsche Bank",
+          "title": "DWS – Principal Engineer - Data Platforms (m/f/d)",
+          "postings": 1,
+          "date": "2026-09-26",
+          "age_days": 30,
+          "norm_title": "data dws engineer platforms",
+          "title_key": "dws – principal engineer - data platforms (m/f/d)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/dws-senior-security-engineer-data-platforms-mfd-at-deutsche-bank",
+          "category": "Other",
+          "seniority": "Senior",
+          "company_slug": "db",
+          "company": "Deutsche Bank",
+          "title": "DWS - Senior Security Engineer - Data Platforms (m/f/d)",
+          "postings": 1,
+          "date": "2026-09-26",
+          "age_days": 30,
+          "norm_title": "data dws engineer platforms security",
+          "title_key": "dws - senior security engineer - data platforms (m/f/d)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/modelling-quantitative-research-development-senior-specialist-group-strategic-analytics-fmx-frankfurtberlin-at-deutsche-bank",
+          "category": "AI/ML",
+          "seniority": "Senior",
+          "company_slug": "db",
+          "company": "Deutsche Bank",
+          "title": "Modelling Quantitative Research & Development Senior Specialist - Group Strategic Analytics (f/m/x) Frankfurt/Berlin",
+          "postings": 1,
+          "date": "2026-10-19",
+          "age_days": 7,
+          "norm_title": "analytics berlin development frankfurt group modelling quantitative research specialist strategic",
+          "title_key": "modelling quantitative research & development senior specialist - group strategic analytics (f/m/x) frankfurt/berlin"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "JetBrains",
+      "company_slug": "jetbrains",
+      "total": 5,
+      "undated": 0,
+      "oldest_date": "2026-08-20",
+      "newest_date": "2026-10-25",
+      "oldest_age_days": 67,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/founding-ml-engineer-spectrum-at-jetbrains",
+          "category": "genAI/LLM/Agentic AI",
+          "seniority": "Mid",
+          "company_slug": "jetbrains",
+          "company": "JetBrains",
+          "title": "Founding ML Engineer (Spectrum)",
+          "postings": 1,
+          "date": "2026-08-20",
+          "age_days": 67,
+          "norm_title": "engineer founding ml spectrum",
+          "title_key": "founding ml engineer (spectrum)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/growth-operations-manager-jetbrains-ai-at-jetbrains",
+          "category": "Other",
+          "seniority": "Lead / Manager",
+          "company_slug": "jetbrains",
+          "company": "JetBrains",
+          "title": "Growth Operations Manager (JetBrains AI)",
+          "postings": 1,
+          "date": "2026-10-20",
+          "age_days": 6,
+          "norm_title": "ai growth jetbrains manager operations",
+          "title_key": "growth operations manager (jetbrains ai)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/head-of-ml-at-jetbrains",
+          "category": "Leadership",
+          "seniority": "Head / Director / VP / C-Level",
+          "company_slug": "jetbrains",
+          "company": "JetBrains",
+          "title": "Head of ML",
+          "postings": 1,
+          "date": "2026-08-20",
+          "age_days": 67,
+          "norm_title": "head ml",
+          "title_key": "head of ml"
+        },
+        {
+          "url": "https://databerlin.net/jobs/senior-machine-learning-developer-junie-at-jetbrains",
+          "category": "genAI/LLM/Agentic AI",
+          "seniority": "Senior",
+          "company_slug": "jetbrains",
+          "company": "JetBrains",
+          "title": "(Senior) Machine Learning Developer (Junie)",
+          "postings": 1,
+          "date": "2026-08-31",
+          "age_days": 56,
+          "norm_title": "developer junie learning machine",
+          "title_key": "(senior) machine learning developer (junie)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/staff-forward-deployed-engineer-ai-native-software-development-at-jetbrains",
+          "category": "Other",
+          "seniority": "Staff / Principal",
+          "company_slug": "jetbrains",
+          "company": "JetBrains",
+          "title": "Staff Forward Deployed Engineer – AI-Native Software Development",
+          "postings": 1,
+          "date": "2026-10-25",
+          "age_days": 1,
+          "norm_title": "ai deployed development engineer forward native software",
+          "title_key": "staff forward deployed engineer – ai-native software development"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "Melotech",
+      "company_slug": "melotech",
+      "total": 5,
+      "undated": 0,
+      "oldest_date": "2026-09-16",
+      "newest_date": "2026-10-15",
+      "oldest_age_days": 40,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/aiml-engineer-at-melotech",
+          "category": "AI/ML",
+          "seniority": "Mid",
+          "company_slug": "melotech",
+          "company": "Melotech",
+          "title": "AI/ML Engineer",
+          "postings": 1,
+          "date": "2026-10-15",
+          "age_days": 11,
+          "norm_title": "ai engineer ml",
+          "title_key": "ai/ml engineer"
+        },
+        {
+          "url": "https://databerlin.net/jobs/data-scientist-at-melotech",
+          "category": "Data Scientist",
+          "seniority": "Mid",
+          "company_slug": "melotech",
+          "company": "Melotech",
+          "title": "Data Scientist",
+          "postings": 1,
+          "date": "2026-09-16",
+          "age_days": 40,
+          "norm_title": "data scientist",
+          "title_key": "data scientist"
+        },
+        {
+          "url": "https://databerlin.net/jobs/growth-associate-intern-at-melotech",
+          "category": "Other",
+          "seniority": "Intern / Student",
+          "company_slug": "melotech",
+          "company": "Melotech",
+          "title": "Growth Associate (Intern)",
+          "postings": 1,
+          "date": "2026-10-15",
+          "age_days": 11,
+          "norm_title": "growth intern",
+          "title_key": "growth associate (intern)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/growth-manager-at-melotech",
+          "category": "Other",
+          "seniority": "Lead / Manager",
+          "company_slug": "melotech",
+          "company": "Melotech",
+          "title": "Growth Manager",
+          "postings": 1,
+          "date": "2026-09-16",
+          "age_days": 40,
+          "norm_title": "growth manager",
+          "title_key": "growth manager"
+        },
+        {
+          "url": "https://databerlin.net/jobs/organic-growth-lead-at-melotech",
+          "category": "Other",
+          "seniority": "Lead / Manager",
+          "company_slug": "melotech",
+          "company": "Melotech",
+          "title": "Organic Growth Lead",
+          "postings": 1,
+          "date": "2026-10-15",
+          "age_days": 11,
+          "norm_title": "growth organic",
+          "title_key": "organic growth lead"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "Orcrist",
+      "company_slug": "orcristtechnologies",
+      "total": 5,
+      "undated": 0,
+      "oldest_date": "2026-09-29",
+      "newest_date": "2026-10-16",
+      "oldest_age_days": 27,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/full-stack-engineer-data-intelligence-at-orcrist",
+          "category": "Data Engineer",
+          "seniority": "Mid",
+          "company_slug": "orcristtechnologies",
+          "company": "Orcrist",
+          "title": "Full-Stack Engineer (Data & Intelligence)",
+          "postings": 1,
+          "date": "2026-10-16",
+          "age_days": 10,
+          "norm_title": "data engineer full intelligence stack",
+          "title_key": "full-stack engineer (data & intelligence)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/geospatial-data-engineer-at-orcrist",
+          "category": "Data Engineer",
+          "seniority": "Mid",
+          "company_slug": "orcristtechnologies",
+          "company": "Orcrist",
+          "title": "Geospatial Data Engineer",
+          "postings": 1,
+          "date": "2026-09-29",
+          "age_days": 27,
+          "norm_title": "data engineer geospatial",
+          "title_key": "geospatial data engineer"
+        },
+        {
+          "url": "https://databerlin.net/jobs/geospatial-data-scientist-at-orcrist",
+          "category": "AI/ML",
+          "seniority": "Mid",
+          "company_slug": "orcristtechnologies",
+          "company": "Orcrist",
+          "title": "Geospatial Data Scientist",
+          "postings": 1,
+          "date": "2026-09-29",
+          "age_days": 27,
+          "norm_title": "data geospatial scientist",
+          "title_key": "geospatial data scientist"
+        },
+        {
+          "url": "https://databerlin.net/jobs/machine-learning-engineer-computer-vision-vlm-at-orcrist",
+          "category": "AI/ML",
+          "seniority": "Mid",
+          "company_slug": "orcristtechnologies",
+          "company": "Orcrist",
+          "title": "Machine Learning Engineer (Computer Vision & VLM)",
+          "postings": 1,
+          "date": "2026-10-16",
+          "age_days": 10,
+          "norm_title": "computer engineer learning machine vision vlm",
+          "title_key": "machine learning engineer (computer vision & vlm)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/senior-machine-learning-engineer-at-orcrist",
+          "category": "genAI/LLM/Agentic AI",
+          "seniority": "Mid",
+          "company_slug": "orcristtechnologies",
+          "company": "Orcrist",
+          "title": "(Senior) Machine Learning Engineer",
+          "postings": 1,
+          "date": "2026-10-16",
+          "age_days": 10,
+          "norm_title": "engineer learning machine",
+          "title_key": "(senior) machine learning engineer"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "Sporty Group",
+      "company_slug": "sportygroup",
+      "total": 5,
+      "undated": 0,
+      "oldest_date": "2026-09-01",
+      "newest_date": "2026-10-22",
+      "oldest_age_days": 55,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/analytics-implementation-consultant-at-sporty-group",
+          "category": "Other",
+          "seniority": "Mid",
+          "company_slug": "sportygroup",
+          "company": "Sporty Group",
+          "title": "Analytics Implementation Consultant",
+          "postings": 1,
+          "date": "2026-09-22",
+          "age_days": 34,
+          "norm_title": "analytics consultant implementation",
+          "title_key": "analytics implementation consultant"
+        },
+        {
+          "url": "https://databerlin.net/jobs/data-analyst-europe-at-sporty-group",
+          "category": "Data Analyst",
+          "seniority": "Mid",
+          "company_slug": "sportygroup",
+          "company": "Sporty Group",
+          "title": "Data Analyst (Europe)",
+          "postings": 1,
+          "date": "2026-10-20",
+          "age_days": 6,
+          "norm_title": "analyst data europe",
+          "title_key": "data analyst (europe)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/data-scientist-europe-asia-at-sporty-group",
+          "category": "AI/ML",
+          "seniority": "Mid",
+          "company_slug": "sportygroup",
+          "company": "Sporty Group",
+          "title": "Data Scientist (Europe, Asia)",
+          "postings": 1,
+          "date": "2026-09-01",
+          "age_days": 55,
+          "norm_title": "asia data europe scientist",
+          "title_key": "data scientist (europe, asia)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/database-reliability-engineer-at-sporty-group",
+          "category": "Data Engineer",
+          "seniority": "Mid",
+          "company_slug": "sportygroup",
+          "company": "Sporty Group",
+          "title": "Database Reliability Engineer",
+          "postings": 1,
+          "date": "2026-10-22",
+          "age_days": 4,
+          "norm_title": "database engineer reliability",
+          "title_key": "database reliability engineer"
+        },
+        {
+          "url": "https://databerlin.net/jobs/frontend-engineering-team-lead-martech-at-sporty-group",
+          "category": "Other",
+          "seniority": "Lead / Manager",
+          "company_slug": "sportygroup",
+          "company": "Sporty Group",
+          "title": "Frontend Engineering Team Lead - MarTech",
+          "postings": 1,
+          "date": "2026-09-01",
+          "age_days": 55,
+          "norm_title": "engineering frontend martech team",
+          "title_key": "frontend engineering team lead - martech"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "The Quality Group",
+      "company_slug": "thequalitygroupgmbh1",
+      "total": 5,
+      "undated": 0,
+      "oldest_date": "2026-10-05",
+      "newest_date": "2026-10-07",
+      "oldest_age_days": 21,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/ai-platform-lead-gn-at-the-quality-group",
+          "category": "Other",
+          "seniority": "Lead / Manager",
+          "company_slug": "thequalitygroupgmbh1",
+          "company": "The Quality Group",
+          "title": "AI Platform Lead (gn)",
+          "postings": 1,
+          "date": "2026-10-07",
+          "age_days": 19,
+          "norm_title": "ai gn platform",
+          "title_key": "ai platform lead (gn)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/ai-security-engineer-gn-at-the-quality-group",
+          "category": "Other",
+          "seniority": "Mid",
+          "company_slug": "thequalitygroupgmbh1",
+          "company": "The Quality Group",
+          "title": "AI Security Engineer (gn)",
+          "postings": 1,
+          "date": "2026-10-05",
+          "age_days": 21,
+          "norm_title": "ai engineer gn security",
+          "title_key": "ai security engineer (gn)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/business-data-architect-gn-master-data-management-at-the-quality-group",
+          "category": "Other",
+          "seniority": "Mid",
+          "company_slug": "thequalitygroupgmbh1",
+          "company": "The Quality Group",
+          "title": "Business Data Architect (gn) - Master Data Management",
+          "postings": 1,
+          "date": "2026-10-05",
+          "age_days": 21,
+          "norm_title": "architect business data gn management master",
+          "title_key": "business data architect (gn) - master data management"
+        },
+        {
+          "url": "https://databerlin.net/jobs/master-data-management-lead-gn-at-the-quality-group",
+          "category": "Leadership",
+          "seniority": "Lead / Manager",
+          "company_slug": "thequalitygroupgmbh1",
+          "company": "The Quality Group",
+          "title": "Master Data Management Lead (gn)",
+          "postings": 1,
+          "date": "2026-10-05",
+          "age_days": 21,
+          "norm_title": "data gn management master",
+          "title_key": "master data management lead (gn)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/senior-data-engineer-gn-at-the-quality-group",
+          "category": "Data Engineer",
+          "seniority": "Senior",
+          "company_slug": "thequalitygroupgmbh1",
+          "company": "The Quality Group",
+          "title": "(Senior) Data Engineer (gn)",
+          "postings": 1,
+          "date": "2026-10-05",
+          "age_days": 21,
+          "norm_title": "data engineer gn",
+          "title_key": "(senior) data engineer (gn)"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "Tower",
+      "company_slug": "tower",
+      "total": 5,
+      "undated": 0,
+      "oldest_date": "2026-08-26",
+      "newest_date": "2026-08-26",
+      "oldest_age_days": 61,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/head-of-operations-at-tower",
+          "category": "Other",
+          "seniority": "Head / Director / VP / C-Level",
+          "company_slug": "tower",
+          "company": "Tower",
+          "title": "Head of Operations",
+          "postings": 1,
+          "date": "2026-08-26",
+          "age_days": 61,
+          "norm_title": "head operations",
+          "title_key": "head of operations"
+        },
+        {
+          "url": "https://databerlin.net/jobs/principal-software-engineer-at-tower",
+          "category": "Other",
+          "seniority": "Staff / Principal",
+          "company_slug": "tower",
+          "company": "Tower",
+          "title": "Principal Software Engineer",
+          "postings": 1,
+          "date": "2026-08-26",
+          "age_days": 61,
+          "norm_title": "engineer software",
+          "title_key": "principal software engineer"
+        },
+        {
+          "url": "https://databerlin.net/jobs/software-engineer-distributed-systems-at-tower",
+          "category": "Data Engineer",
+          "seniority": "Mid",
+          "company_slug": "tower",
+          "company": "Tower",
+          "title": "Software Engineer - Distributed Systems",
+          "postings": 1,
+          "date": "2026-08-26",
+          "age_days": 61,
+          "norm_title": "distributed engineer software systems",
+          "title_key": "software engineer - distributed systems"
+        },
+        {
+          "url": "https://databerlin.net/jobs/software-engineer-runtime-systems-at-tower",
+          "category": "Data Engineer",
+          "seniority": "Mid",
+          "company_slug": "tower",
+          "company": "Tower",
+          "title": "Software Engineer - Runtime Systems",
+          "postings": 1,
+          "date": "2026-08-26",
+          "age_days": 61,
+          "norm_title": "engineer runtime software systems",
+          "title_key": "software engineer - runtime systems"
+        },
+        {
+          "url": "https://databerlin.net/jobs/software-engineer-user-experience-at-tower",
+          "category": "Other",
+          "seniority": "Mid",
+          "company_slug": "tower",
+          "company": "Tower",
+          "title": "Software Engineer - User Experience",
+          "postings": 1,
+          "date": "2026-08-26",
+          "age_days": 61,
+          "norm_title": "engineer experience software user",
+          "title_key": "software engineer - user experience"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "Zendesk",
+      "company_slug": "zendesk",
+      "total": 5,
+      "undated": 0,
+      "oldest_date": "2026-09-26",
+      "newest_date": "2026-10-21",
+      "oldest_age_days": 30,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/applied-machine-learning-scientist-at-zendesk",
+          "category": "AI/ML",
+          "seniority": "Mid",
+          "company_slug": "zendesk",
+          "company": "Zendesk",
+          "title": "Applied Machine Learning Scientist",
+          "postings": 1,
+          "date": "2026-10-07",
+          "age_days": 19,
+          "norm_title": "applied learning machine scientist",
+          "title_key": "applied machine learning scientist"
+        },
+        {
+          "url": "https://databerlin.net/jobs/lead-product-strategy-operations-ai-agents-at-zendesk",
+          "category": "Other",
+          "seniority": "Lead / Manager",
+          "company_slug": "zendesk",
+          "company": "Zendesk",
+          "title": "Lead, Product Strategy & Operations – AI Agents",
+          "postings": 1,
+          "date": "2026-09-26",
+          "age_days": 30,
+          "norm_title": "agents ai operations product strategy",
+          "title_key": "lead, product strategy & operations – ai agents"
+        },
+        {
+          "url": "https://databerlin.net/jobs/machine-learning-engineer-at-zendesk",
+          "category": "AI/ML",
+          "seniority": "Mid",
+          "company_slug": "zendesk",
+          "company": "Zendesk",
+          "title": "Machine Learning Engineer",
+          "postings": 1,
+          "date": "2026-10-01",
+          "age_days": 25,
+          "norm_title": "engineer learning machine",
+          "title_key": "machine learning engineer"
+        },
+        {
+          "url": "https://databerlin.net/jobs/senior-ai-data-engineer-at-zendesk",
+          "category": "Data Engineer",
+          "seniority": "Senior",
+          "company_slug": "zendesk",
+          "company": "Zendesk",
+          "title": "Senior AI Data Engineer",
+          "postings": 1,
+          "date": "2026-10-21",
+          "age_days": 5,
+          "norm_title": "ai data engineer",
+          "title_key": "senior ai data engineer"
+        },
+        {
+          "url": "https://databerlin.net/jobs/senior-analyst-data-analytics-at-zendesk",
+          "category": "Data Analyst",
+          "seniority": "Senior",
+          "company_slug": "zendesk",
+          "company": "Zendesk",
+          "title": "Senior Analyst, Data & Analytics",
+          "postings": 1,
+          "date": "2026-10-12",
+          "age_days": 14,
+          "norm_title": "analyst analytics data",
+          "title_key": "senior analyst, data & analytics"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "1Global",
+      "company_slug": "1global",
+      "total": 4,
+      "undated": 0,
+      "oldest_date": "2026-08-27",
+      "newest_date": "2026-09-25",
+      "oldest_age_days": 60,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/business-data-analyst-b2b2c-at-1global",
+          "category": "Data Analyst",
+          "seniority": "Mid",
+          "company_slug": "1global",
+          "company": "1Global",
+          "title": "Business & Data Analyst - B2B2C",
+          "postings": 1,
+          "date": "2026-08-27",
+          "age_days": 60,
+          "norm_title": "analyst b2b2c business data",
+          "title_key": "business & data analyst - b2b2c"
+        },
+        {
+          "url": "https://databerlin.net/jobs/data-engineer-at-1global",
+          "category": "Data Engineer",
+          "seniority": "Mid",
+          "company_slug": "1global",
+          "company": "1Global",
+          "title": "Data Engineer",
+          "postings": 1,
+          "date": "2026-08-28",
+          "age_days": 59,
+          "norm_title": "data engineer",
+          "title_key": "data engineer"
+        },
+        {
+          "url": "https://databerlin.net/jobs/senior-ai-engineer-with-backend-platform-experience-at-1global",
+          "category": "genAI/LLM/Agentic AI",
+          "seniority": "Senior",
+          "company_slug": "1global",
+          "company": "1Global",
+          "title": "Senior AI Engineer (with Backend & Platform experience)",
+          "postings": 1,
+          "date": "2026-09-08",
+          "age_days": 48,
+          "norm_title": "ai backend engineer experience platform",
+          "title_key": "senior ai engineer (with backend & platform experience)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/senior-ai-product-manager-at-1global",
+          "category": "Product Manager",
+          "seniority": "Senior",
+          "company_slug": "1global",
+          "company": "1Global",
+          "title": "Senior AI Product Manager",
+          "postings": 1,
+          "date": "2026-09-25",
+          "age_days": 31,
+          "norm_title": "ai manager product",
+          "title_key": "senior ai product manager"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
       "company": "adesso SE",
       "company_slug": "adesso",
-      "total": 5,
-      "undated": 5,
+      "total": 4,
+      "undated": 4,
       "oldest_date": null,
       "newest_date": null,
       "oldest_age_days": null,
@@ -13274,803 +13916,6 @@ window.DATA = {
           "age_days": null,
           "norm_title": "architect data snowflake",
           "title_key": "snowflake data architect (all genders)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/solution-architect-customer-data-salesforce-all-genders-at-adesso-se",
-          "category": "Data Engineer",
-          "seniority": "Mid",
-          "company_slug": "adesso",
-          "company": "adesso SE",
-          "title": "Solution Architect - Customer Data Salesforce (all genders)",
-          "postings": 1,
-          "date": "",
-          "age_days": null,
-          "norm_title": "architect customer data salesforce solution",
-          "title_key": "solution architect - customer data salesforce (all genders)"
-        }
-      ],
-      "reasons": [],
-      "flagged": false
-    },
-    {
-      "company": "Deutsche Bank",
-      "company_slug": "db",
-      "total": 5,
-      "undated": 0,
-      "oldest_date": "2026-09-25",
-      "newest_date": "2026-10-19",
-      "oldest_age_days": 30,
-      "stale_jobs": [],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/adobe-martech-transformation-manager-fmx-at-deutsche-bank",
-          "category": "Other",
-          "seniority": "Lead / Manager",
-          "company_slug": "db",
-          "company": "Deutsche Bank",
-          "title": "Adobe & MarTech Transformation Manager (f/m/x)",
-          "postings": 1,
-          "date": "2026-09-25",
-          "age_days": 30,
-          "norm_title": "adobe manager martech transformation",
-          "title_key": "adobe & martech transformation manager (f/m/x)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/dws-data-architect-mfd-at-deutsche-bank",
-          "category": "Data Engineer",
-          "seniority": "Mid",
-          "company_slug": "db",
-          "company": "Deutsche Bank",
-          "title": "DWS - Data Architect (m/f/d)",
-          "postings": 1,
-          "date": "2026-09-25",
-          "age_days": 30,
-          "norm_title": "architect data dws",
-          "title_key": "dws - data architect (m/f/d)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/dws-principal-engineer-data-platforms-mfd-at-deutsche-bank",
-          "category": "Data Engineer",
-          "seniority": "Staff / Principal",
-          "company_slug": "db",
-          "company": "Deutsche Bank",
-          "title": "DWS – Principal Engineer - Data Platforms (m/f/d)",
-          "postings": 1,
-          "date": "2026-09-25",
-          "age_days": 30,
-          "norm_title": "data dws engineer platforms",
-          "title_key": "dws – principal engineer - data platforms (m/f/d)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/dws-senior-security-engineer-data-platforms-mfd-at-deutsche-bank",
-          "category": "Other",
-          "seniority": "Senior",
-          "company_slug": "db",
-          "company": "Deutsche Bank",
-          "title": "DWS - Senior Security Engineer - Data Platforms (m/f/d)",
-          "postings": 1,
-          "date": "2026-09-25",
-          "age_days": 30,
-          "norm_title": "data dws engineer platforms security",
-          "title_key": "dws - senior security engineer - data platforms (m/f/d)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/modelling-quantitative-research-development-senior-specialist-group-strategic-analytics-fmx-frankfurtberlin-at-deutsche-bank",
-          "category": "AI/ML",
-          "seniority": "Senior",
-          "company_slug": "db",
-          "company": "Deutsche Bank",
-          "title": "Modelling Quantitative Research & Development Senior Specialist - Group Strategic Analytics (f/m/x) Frankfurt/Berlin",
-          "postings": 1,
-          "date": "2026-10-19",
-          "age_days": 6,
-          "norm_title": "analytics berlin development frankfurt group modelling quantitative research specialist strategic",
-          "title_key": "modelling quantitative research & development senior specialist - group strategic analytics (f/m/x) frankfurt/berlin"
-        }
-      ],
-      "reasons": [],
-      "flagged": false
-    },
-    {
-      "company": "JetBrains",
-      "company_slug": "jetbrains",
-      "total": 5,
-      "undated": 0,
-      "oldest_date": "2026-08-20",
-      "newest_date": "2026-10-25",
-      "oldest_age_days": 66,
-      "stale_jobs": [],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/founding-ml-engineer-spectrum-at-jetbrains",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Mid",
-          "company_slug": "jetbrains",
-          "company": "JetBrains",
-          "title": "Founding ML Engineer (Spectrum)",
-          "postings": 1,
-          "date": "2026-08-20",
-          "age_days": 66,
-          "norm_title": "engineer founding ml spectrum",
-          "title_key": "founding ml engineer (spectrum)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/growth-operations-manager-jetbrains-ai-at-jetbrains",
-          "category": "Other",
-          "seniority": "Lead / Manager",
-          "company_slug": "jetbrains",
-          "company": "JetBrains",
-          "title": "Growth Operations Manager (JetBrains AI)",
-          "postings": 1,
-          "date": "2026-10-20",
-          "age_days": 5,
-          "norm_title": "ai growth jetbrains manager operations",
-          "title_key": "growth operations manager (jetbrains ai)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/head-of-ml-at-jetbrains",
-          "category": "Leadership",
-          "seniority": "Head / Director / VP / C-Level",
-          "company_slug": "jetbrains",
-          "company": "JetBrains",
-          "title": "Head of ML",
-          "postings": 1,
-          "date": "2026-08-20",
-          "age_days": 66,
-          "norm_title": "head ml",
-          "title_key": "head of ml"
-        },
-        {
-          "url": "https://databerlin.net/jobs/senior-machine-learning-developer-junie-at-jetbrains",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Senior",
-          "company_slug": "jetbrains",
-          "company": "JetBrains",
-          "title": "(Senior) Machine Learning Developer (Junie)",
-          "postings": 1,
-          "date": "2026-08-31",
-          "age_days": 55,
-          "norm_title": "developer junie learning machine",
-          "title_key": "(senior) machine learning developer (junie)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/staff-forward-deployed-engineer-ai-native-software-development-at-jetbrains",
-          "category": "Other",
-          "seniority": "Staff / Principal",
-          "company_slug": "jetbrains",
-          "company": "JetBrains",
-          "title": "Staff Forward Deployed Engineer – AI-Native Software Development",
-          "postings": 1,
-          "date": "2026-10-25",
-          "age_days": 0,
-          "norm_title": "ai deployed development engineer forward native software",
-          "title_key": "staff forward deployed engineer – ai-native software development"
-        }
-      ],
-      "reasons": [],
-      "flagged": false
-    },
-    {
-      "company": "Melotech",
-      "company_slug": "melotech",
-      "total": 5,
-      "undated": 0,
-      "oldest_date": "2026-09-16",
-      "newest_date": "2026-10-15",
-      "oldest_age_days": 39,
-      "stale_jobs": [],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/aiml-engineer-at-melotech",
-          "category": "AI/ML",
-          "seniority": "Mid",
-          "company_slug": "melotech",
-          "company": "Melotech",
-          "title": "AI/ML Engineer",
-          "postings": 1,
-          "date": "2026-10-15",
-          "age_days": 10,
-          "norm_title": "ai engineer ml",
-          "title_key": "ai/ml engineer"
-        },
-        {
-          "url": "https://databerlin.net/jobs/data-scientist-at-melotech",
-          "category": "Data Scientist",
-          "seniority": "Mid",
-          "company_slug": "melotech",
-          "company": "Melotech",
-          "title": "Data Scientist",
-          "postings": 1,
-          "date": "2026-09-16",
-          "age_days": 39,
-          "norm_title": "data scientist",
-          "title_key": "data scientist"
-        },
-        {
-          "url": "https://databerlin.net/jobs/growth-associate-intern-at-melotech",
-          "category": "Other",
-          "seniority": "Intern / Student",
-          "company_slug": "melotech",
-          "company": "Melotech",
-          "title": "Growth Associate (Intern)",
-          "postings": 1,
-          "date": "2026-10-15",
-          "age_days": 10,
-          "norm_title": "growth intern",
-          "title_key": "growth associate (intern)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/growth-manager-at-melotech",
-          "category": "Other",
-          "seniority": "Lead / Manager",
-          "company_slug": "melotech",
-          "company": "Melotech",
-          "title": "Growth Manager",
-          "postings": 1,
-          "date": "2026-09-16",
-          "age_days": 39,
-          "norm_title": "growth manager",
-          "title_key": "growth manager"
-        },
-        {
-          "url": "https://databerlin.net/jobs/organic-growth-lead-at-melotech",
-          "category": "Other",
-          "seniority": "Lead / Manager",
-          "company_slug": "melotech",
-          "company": "Melotech",
-          "title": "Organic Growth Lead",
-          "postings": 1,
-          "date": "2026-10-15",
-          "age_days": 10,
-          "norm_title": "growth organic",
-          "title_key": "organic growth lead"
-        }
-      ],
-      "reasons": [],
-      "flagged": false
-    },
-    {
-      "company": "Orcrist",
-      "company_slug": "orcristtechnologies",
-      "total": 5,
-      "undated": 0,
-      "oldest_date": "2026-09-29",
-      "newest_date": "2026-10-16",
-      "oldest_age_days": 26,
-      "stale_jobs": [],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/full-stack-engineer-data-intelligence-at-orcrist",
-          "category": "Data Engineer",
-          "seniority": "Mid",
-          "company_slug": "orcristtechnologies",
-          "company": "Orcrist",
-          "title": "Full-Stack Engineer (Data & Intelligence)",
-          "postings": 1,
-          "date": "2026-10-16",
-          "age_days": 9,
-          "norm_title": "data engineer full intelligence stack",
-          "title_key": "full-stack engineer (data & intelligence)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/geospatial-data-engineer-at-orcrist",
-          "category": "Data Engineer",
-          "seniority": "Mid",
-          "company_slug": "orcristtechnologies",
-          "company": "Orcrist",
-          "title": "Geospatial Data Engineer",
-          "postings": 1,
-          "date": "2026-09-29",
-          "age_days": 26,
-          "norm_title": "data engineer geospatial",
-          "title_key": "geospatial data engineer"
-        },
-        {
-          "url": "https://databerlin.net/jobs/geospatial-data-scientist-at-orcrist",
-          "category": "AI/ML",
-          "seniority": "Mid",
-          "company_slug": "orcristtechnologies",
-          "company": "Orcrist",
-          "title": "Geospatial Data Scientist",
-          "postings": 1,
-          "date": "2026-09-29",
-          "age_days": 26,
-          "norm_title": "data geospatial scientist",
-          "title_key": "geospatial data scientist"
-        },
-        {
-          "url": "https://databerlin.net/jobs/machine-learning-engineer-computer-vision-vlm-at-orcrist",
-          "category": "AI/ML",
-          "seniority": "Mid",
-          "company_slug": "orcristtechnologies",
-          "company": "Orcrist",
-          "title": "Machine Learning Engineer (Computer Vision & VLM)",
-          "postings": 1,
-          "date": "2026-10-16",
-          "age_days": 9,
-          "norm_title": "computer engineer learning machine vision vlm",
-          "title_key": "machine learning engineer (computer vision & vlm)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/senior-machine-learning-engineer-at-orcrist",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Mid",
-          "company_slug": "orcristtechnologies",
-          "company": "Orcrist",
-          "title": "(Senior) Machine Learning Engineer",
-          "postings": 1,
-          "date": "2026-10-16",
-          "age_days": 9,
-          "norm_title": "engineer learning machine",
-          "title_key": "(senior) machine learning engineer"
-        }
-      ],
-      "reasons": [],
-      "flagged": false
-    },
-    {
-      "company": "Sporty Group",
-      "company_slug": "sportygroup",
-      "total": 5,
-      "undated": 0,
-      "oldest_date": "2026-09-01",
-      "newest_date": "2026-10-22",
-      "oldest_age_days": 54,
-      "stale_jobs": [],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/analytics-implementation-consultant-at-sporty-group",
-          "category": "Other",
-          "seniority": "Mid",
-          "company_slug": "sportygroup",
-          "company": "Sporty Group",
-          "title": "Analytics Implementation Consultant",
-          "postings": 1,
-          "date": "2026-09-22",
-          "age_days": 33,
-          "norm_title": "analytics consultant implementation",
-          "title_key": "analytics implementation consultant"
-        },
-        {
-          "url": "https://databerlin.net/jobs/data-analyst-europe-at-sporty-group",
-          "category": "Data Analyst",
-          "seniority": "Mid",
-          "company_slug": "sportygroup",
-          "company": "Sporty Group",
-          "title": "Data Analyst (Europe)",
-          "postings": 1,
-          "date": "2026-10-20",
-          "age_days": 5,
-          "norm_title": "analyst data europe",
-          "title_key": "data analyst (europe)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/data-scientist-europe-asia-at-sporty-group",
-          "category": "AI/ML",
-          "seniority": "Mid",
-          "company_slug": "sportygroup",
-          "company": "Sporty Group",
-          "title": "Data Scientist (Europe, Asia)",
-          "postings": 1,
-          "date": "2026-09-01",
-          "age_days": 54,
-          "norm_title": "asia data europe scientist",
-          "title_key": "data scientist (europe, asia)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/database-reliability-engineer-at-sporty-group",
-          "category": "Data Engineer",
-          "seniority": "Mid",
-          "company_slug": "sportygroup",
-          "company": "Sporty Group",
-          "title": "Database Reliability Engineer",
-          "postings": 1,
-          "date": "2026-10-22",
-          "age_days": 3,
-          "norm_title": "database engineer reliability",
-          "title_key": "database reliability engineer"
-        },
-        {
-          "url": "https://databerlin.net/jobs/frontend-engineering-team-lead-martech-at-sporty-group",
-          "category": "Other",
-          "seniority": "Lead / Manager",
-          "company_slug": "sportygroup",
-          "company": "Sporty Group",
-          "title": "Frontend Engineering Team Lead - MarTech",
-          "postings": 1,
-          "date": "2026-09-01",
-          "age_days": 54,
-          "norm_title": "engineering frontend martech team",
-          "title_key": "frontend engineering team lead - martech"
-        }
-      ],
-      "reasons": [],
-      "flagged": false
-    },
-    {
-      "company": "The Quality Group",
-      "company_slug": "thequalitygroupgmbh1",
-      "total": 5,
-      "undated": 0,
-      "oldest_date": "2026-10-05",
-      "newest_date": "2026-10-07",
-      "oldest_age_days": 20,
-      "stale_jobs": [],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/ai-platform-lead-gn-at-the-quality-group",
-          "category": "Other",
-          "seniority": "Lead / Manager",
-          "company_slug": "thequalitygroupgmbh1",
-          "company": "The Quality Group",
-          "title": "AI Platform Lead (gn)",
-          "postings": 1,
-          "date": "2026-10-07",
-          "age_days": 18,
-          "norm_title": "ai gn platform",
-          "title_key": "ai platform lead (gn)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/ai-security-engineer-gn-at-the-quality-group",
-          "category": "Other",
-          "seniority": "Mid",
-          "company_slug": "thequalitygroupgmbh1",
-          "company": "The Quality Group",
-          "title": "AI Security Engineer (gn)",
-          "postings": 1,
-          "date": "2026-10-05",
-          "age_days": 20,
-          "norm_title": "ai engineer gn security",
-          "title_key": "ai security engineer (gn)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/business-data-architect-gn-master-data-management-at-the-quality-group",
-          "category": "Other",
-          "seniority": "Mid",
-          "company_slug": "thequalitygroupgmbh1",
-          "company": "The Quality Group",
-          "title": "Business Data Architect (gn) - Master Data Management",
-          "postings": 1,
-          "date": "2026-10-05",
-          "age_days": 20,
-          "norm_title": "architect business data gn management master",
-          "title_key": "business data architect (gn) - master data management"
-        },
-        {
-          "url": "https://databerlin.net/jobs/master-data-management-lead-gn-at-the-quality-group",
-          "category": "Leadership",
-          "seniority": "Lead / Manager",
-          "company_slug": "thequalitygroupgmbh1",
-          "company": "The Quality Group",
-          "title": "Master Data Management Lead (gn)",
-          "postings": 1,
-          "date": "2026-10-05",
-          "age_days": 20,
-          "norm_title": "data gn management master",
-          "title_key": "master data management lead (gn)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/senior-data-engineer-gn-at-the-quality-group",
-          "category": "Data Engineer",
-          "seniority": "Senior",
-          "company_slug": "thequalitygroupgmbh1",
-          "company": "The Quality Group",
-          "title": "(Senior) Data Engineer (gn)",
-          "postings": 1,
-          "date": "2026-10-05",
-          "age_days": 20,
-          "norm_title": "data engineer gn",
-          "title_key": "(senior) data engineer (gn)"
-        }
-      ],
-      "reasons": [],
-      "flagged": false
-    },
-    {
-      "company": "Tower",
-      "company_slug": "tower",
-      "total": 5,
-      "undated": 0,
-      "oldest_date": "2026-08-26",
-      "newest_date": "2026-08-26",
-      "oldest_age_days": 60,
-      "stale_jobs": [],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/head-of-operations-at-tower",
-          "category": "Other",
-          "seniority": "Head / Director / VP / C-Level",
-          "company_slug": "tower",
-          "company": "Tower",
-          "title": "Head of Operations",
-          "postings": 1,
-          "date": "2026-08-26",
-          "age_days": 60,
-          "norm_title": "head operations",
-          "title_key": "head of operations"
-        },
-        {
-          "url": "https://databerlin.net/jobs/principal-software-engineer-at-tower",
-          "category": "Other",
-          "seniority": "Staff / Principal",
-          "company_slug": "tower",
-          "company": "Tower",
-          "title": "Principal Software Engineer",
-          "postings": 1,
-          "date": "2026-08-26",
-          "age_days": 60,
-          "norm_title": "engineer software",
-          "title_key": "principal software engineer"
-        },
-        {
-          "url": "https://databerlin.net/jobs/software-engineer-distributed-systems-at-tower",
-          "category": "Data Engineer",
-          "seniority": "Mid",
-          "company_slug": "tower",
-          "company": "Tower",
-          "title": "Software Engineer - Distributed Systems",
-          "postings": 1,
-          "date": "2026-08-26",
-          "age_days": 60,
-          "norm_title": "distributed engineer software systems",
-          "title_key": "software engineer - distributed systems"
-        },
-        {
-          "url": "https://databerlin.net/jobs/software-engineer-runtime-systems-at-tower",
-          "category": "Data Engineer",
-          "seniority": "Mid",
-          "company_slug": "tower",
-          "company": "Tower",
-          "title": "Software Engineer - Runtime Systems",
-          "postings": 1,
-          "date": "2026-08-26",
-          "age_days": 60,
-          "norm_title": "engineer runtime software systems",
-          "title_key": "software engineer - runtime systems"
-        },
-        {
-          "url": "https://databerlin.net/jobs/software-engineer-user-experience-at-tower",
-          "category": "Other",
-          "seniority": "Mid",
-          "company_slug": "tower",
-          "company": "Tower",
-          "title": "Software Engineer - User Experience",
-          "postings": 1,
-          "date": "2026-08-26",
-          "age_days": 60,
-          "norm_title": "engineer experience software user",
-          "title_key": "software engineer - user experience"
-        }
-      ],
-      "reasons": [],
-      "flagged": false
-    },
-    {
-      "company": "Zendesk",
-      "company_slug": "zendesk",
-      "total": 5,
-      "undated": 0,
-      "oldest_date": "2026-09-25",
-      "newest_date": "2026-10-21",
-      "oldest_age_days": 30,
-      "stale_jobs": [],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/applied-machine-learning-scientist-at-zendesk",
-          "category": "AI/ML",
-          "seniority": "Mid",
-          "company_slug": "zendesk",
-          "company": "Zendesk",
-          "title": "Applied Machine Learning Scientist",
-          "postings": 1,
-          "date": "2026-10-07",
-          "age_days": 18,
-          "norm_title": "applied learning machine scientist",
-          "title_key": "applied machine learning scientist"
-        },
-        {
-          "url": "https://databerlin.net/jobs/lead-product-strategy-operations-ai-agents-at-zendesk",
-          "category": "Other",
-          "seniority": "Lead / Manager",
-          "company_slug": "zendesk",
-          "company": "Zendesk",
-          "title": "Lead, Product Strategy & Operations – AI Agents",
-          "postings": 1,
-          "date": "2026-09-25",
-          "age_days": 30,
-          "norm_title": "agents ai operations product strategy",
-          "title_key": "lead, product strategy & operations – ai agents"
-        },
-        {
-          "url": "https://databerlin.net/jobs/machine-learning-engineer-at-zendesk",
-          "category": "AI/ML",
-          "seniority": "Mid",
-          "company_slug": "zendesk",
-          "company": "Zendesk",
-          "title": "Machine Learning Engineer",
-          "postings": 1,
-          "date": "2026-10-01",
-          "age_days": 24,
-          "norm_title": "engineer learning machine",
-          "title_key": "machine learning engineer"
-        },
-        {
-          "url": "https://databerlin.net/jobs/senior-ai-data-engineer-at-zendesk",
-          "category": "Data Engineer",
-          "seniority": "Senior",
-          "company_slug": "zendesk",
-          "company": "Zendesk",
-          "title": "Senior AI Data Engineer",
-          "postings": 1,
-          "date": "2026-10-21",
-          "age_days": 4,
-          "norm_title": "ai data engineer",
-          "title_key": "senior ai data engineer"
-        },
-        {
-          "url": "https://databerlin.net/jobs/senior-analyst-data-analytics-at-zendesk",
-          "category": "Data Analyst",
-          "seniority": "Senior",
-          "company_slug": "zendesk",
-          "company": "Zendesk",
-          "title": "Senior Analyst, Data & Analytics",
-          "postings": 1,
-          "date": "2026-10-12",
-          "age_days": 13,
-          "norm_title": "analyst analytics data",
-          "title_key": "senior analyst, data & analytics"
-        }
-      ],
-      "reasons": [],
-      "flagged": false
-    },
-    {
-      "company": "1Global",
-      "company_slug": "1global",
-      "total": 4,
-      "undated": 0,
-      "oldest_date": "2026-08-27",
-      "newest_date": "2026-09-25",
-      "oldest_age_days": 59,
-      "stale_jobs": [],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/business-data-analyst-b2b2c-at-1global",
-          "category": "Data Analyst",
-          "seniority": "Mid",
-          "company_slug": "1global",
-          "company": "1Global",
-          "title": "Business & Data Analyst - B2B2C",
-          "postings": 1,
-          "date": "2026-08-27",
-          "age_days": 59,
-          "norm_title": "analyst b2b2c business data",
-          "title_key": "business & data analyst - b2b2c"
-        },
-        {
-          "url": "https://databerlin.net/jobs/data-engineer-at-1global",
-          "category": "Data Engineer",
-          "seniority": "Mid",
-          "company_slug": "1global",
-          "company": "1Global",
-          "title": "Data Engineer",
-          "postings": 1,
-          "date": "2026-08-28",
-          "age_days": 58,
-          "norm_title": "data engineer",
-          "title_key": "data engineer"
-        },
-        {
-          "url": "https://databerlin.net/jobs/senior-ai-engineer-with-backend-platform-experience-at-1global",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Senior",
-          "company_slug": "1global",
-          "company": "1Global",
-          "title": "Senior AI Engineer (with Backend & Platform experience)",
-          "postings": 1,
-          "date": "2026-09-08",
-          "age_days": 47,
-          "norm_title": "ai backend engineer experience platform",
-          "title_key": "senior ai engineer (with backend & platform experience)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/senior-ai-product-manager-at-1global",
-          "category": "Product Manager",
-          "seniority": "Senior",
-          "company_slug": "1global",
-          "company": "1Global",
-          "title": "Senior AI Product Manager",
-          "postings": 1,
-          "date": "2026-09-25",
-          "age_days": 30,
-          "norm_title": "ai manager product",
-          "title_key": "senior ai product manager"
-        }
-      ],
-      "reasons": [],
-      "flagged": false
-    },
-    {
-      "company": "Scalable Capital",
-      "company_slug": "ScalableGmbH",
-      "total": 4,
-      "undated": 0,
-      "oldest_date": "2026-07-29",
-      "newest_date": "2026-10-20",
-      "oldest_age_days": 88,
-      "stale_jobs": [],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/ai-software-engineer-python-mfx-at-scalable-capital",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Mid",
-          "company_slug": "ScalableGmbH",
-          "company": "Scalable Capital",
-          "title": "AI Software Engineer – Python (m/f/x)",
-          "postings": 1,
-          "date": "2026-07-29",
-          "age_days": 88,
-          "norm_title": "ai engineer python software",
-          "title_key": "ai software engineer – python (m/f/x)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/engineering-manager-ai-engineering-ai-platform-mfx-at-scalable-capital",
-          "category": "Leadership",
-          "seniority": "Lead / Manager",
-          "company_slug": "ScalableGmbH",
-          "company": "Scalable Capital",
-          "title": "Engineering Manager - AI Engineering & AI Platform (m/f/x)",
-          "postings": 1,
-          "date": "2026-08-14",
-          "age_days": 72,
-          "norm_title": "ai engineering manager platform",
-          "title_key": "engineering manager - ai engineering & ai platform (m/f/x)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/internship-aiml-engineering-mfx-at-scalable-capital",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Intern / Student",
-          "company_slug": "ScalableGmbH",
-          "company": "Scalable Capital",
-          "title": "Internship - AI/ML Engineering (m/f/x)",
-          "postings": 1,
-          "date": "2026-10-20",
-          "age_days": 5,
-          "norm_title": "ai engineering internship ml",
-          "title_key": "internship - ai/ml engineering (m/f/x)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/senior-data-engineer-mfx-at-scalable-capital",
-          "category": "Data Engineer",
-          "seniority": "Senior",
-          "company_slug": "ScalableGmbH",
-          "company": "Scalable Capital",
-          "title": "(Senior) Data Engineer (m/f/x)",
-          "postings": 1,
-          "date": "2026-07-29",
-          "age_days": 88,
-          "norm_title": "data engineer",
-          "title_key": "(senior) data engineer (m/f/x)"
         }
       ],
       "reasons": [],
@@ -14083,7 +13928,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-30",
       "newest_date": "2026-10-09",
-      "oldest_age_days": 25,
+      "oldest_age_days": 26,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -14097,7 +13942,7 @@ window.DATA = {
           "title": "GEO & AI Search Consultant (f/m/d) deutschsprachig",
           "postings": 1,
           "date": "2026-10-09",
-          "age_days": 16,
+          "age_days": 17,
           "norm_title": "ai consultant deutschsprachig geo search",
           "title_key": "geo & ai search consultant (f/m/d) deutschsprachig"
         },
@@ -14110,7 +13955,7 @@ window.DATA = {
           "title": "GEO & AI Search Consultant (f/m/d) German-speaking",
           "postings": 1,
           "date": "2026-10-09",
-          "age_days": 16,
+          "age_days": 17,
           "norm_title": "ai consultant geo german search speaking",
           "title_key": "geo & ai search consultant (f/m/d) german-speaking"
         },
@@ -14123,7 +13968,7 @@ window.DATA = {
           "title": "Head of Product, AI Enablement (f/m/d)",
           "postings": 1,
           "date": "2026-10-09",
-          "age_days": 16,
+          "age_days": 17,
           "norm_title": "ai enablement head product",
           "title_key": "head of product, ai enablement (f/m/d)"
         },
@@ -14136,7 +13981,7 @@ window.DATA = {
           "title": "Senior Data Scientist (f/m/d)",
           "postings": 1,
           "date": "2026-09-30",
-          "age_days": 25,
+          "age_days": 26,
           "norm_title": "data scientist",
           "title_key": "senior data scientist (f/m/d)"
         }
@@ -14151,7 +13996,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-02",
       "newest_date": "2026-10-21",
-      "oldest_age_days": 23,
+      "oldest_age_days": 24,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -14165,7 +14010,7 @@ window.DATA = {
           "title": "Engineering Manager - Data Platform (m/f/d)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "data engineering manager platform",
           "title_key": "engineering manager - data platform (m/f/d)"
         },
@@ -14178,7 +14023,7 @@ window.DATA = {
           "title": "Head of Design, AI Builder (all genders)",
           "postings": 1,
           "date": "2026-10-02",
-          "age_days": 23,
+          "age_days": 24,
           "norm_title": "ai builder design head",
           "title_key": "head of design, ai builder (all genders)"
         },
@@ -14191,7 +14036,7 @@ window.DATA = {
           "title": "Senior Principal Engineer – AI Content Systems (all genders)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai content engineer systems",
           "title_key": "senior principal engineer – ai content systems (all genders)"
         },
@@ -14204,7 +14049,7 @@ window.DATA = {
           "title": "Senior Product Manager - AI Content Creation (all genders)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai content creation manager product",
           "title_key": "senior product manager - ai content creation (all genders)"
         }
@@ -14423,7 +14268,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-28",
       "newest_date": "2026-09-17",
-      "oldest_age_days": 89,
+      "oldest_age_days": 90,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -14437,7 +14282,7 @@ window.DATA = {
           "title": "AI Engineer (Search & Matching) - fully remote within Germany (m/f/d) Remote",
           "postings": 1,
           "date": "2026-07-28",
-          "age_days": 89,
+          "age_days": 90,
           "norm_title": "ai engineer fully germany matching remote search within",
           "title_key": "ai engineer (search & matching) - fully remote within germany (m/f/d) remote"
         },
@@ -14450,7 +14295,7 @@ window.DATA = {
           "title": "Data Analyst (Payment Performance and Optimization) - fully remote within Europe (m/f/d)",
           "postings": 1,
           "date": "2026-09-17",
-          "age_days": 38,
+          "age_days": 39,
           "norm_title": "analyst data europe fully optimization payment performance remote within",
           "title_key": "data analyst (payment performance and optimization) - fully remote within europe (m/f/d)"
         },
@@ -14463,7 +14308,7 @@ window.DATA = {
           "title": "Data Engineer - fully remote within Europe (m/f/d)",
           "postings": 1,
           "date": "2026-09-10",
-          "age_days": 45,
+          "age_days": 46,
           "norm_title": "data engineer europe fully remote within",
           "title_key": "data engineer - fully remote within europe (m/f/d)"
         },
@@ -14476,7 +14321,7 @@ window.DATA = {
           "title": "Data Engineer - fully remote (working hours 5am-2pm CEST) (m/f/d)",
           "postings": 1,
           "date": "2026-08-10",
-          "age_days": 76,
+          "age_days": 77,
           "norm_title": "2pm 5am cest data engineer fully hours remote working",
           "title_key": "data engineer - fully remote (working hours 5am-2pm cest) (m/f/d)"
         }
@@ -14627,7 +14472,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-13",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 12,
+      "oldest_age_days": 13,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -14641,7 +14486,7 @@ window.DATA = {
           "title": "Data Processing Developer Technology Intern - 2027",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "2027 data developer intern processing technology",
           "title_key": "data processing developer technology intern - 2027"
         },
@@ -14654,7 +14499,7 @@ window.DATA = {
           "title": "Image and Data Processing Libraries Intern",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "data image intern libraries processing",
           "title_key": "image and data processing libraries intern"
         },
@@ -14667,7 +14512,7 @@ window.DATA = {
           "title": "Senior Deep Learning Compiler Engineer - PyTorch",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "compiler deep engineer learning pytorch",
           "title_key": "senior deep learning compiler engineer - pytorch"
         },
@@ -14680,7 +14525,7 @@ window.DATA = {
           "title": "Senior Software Engineer, Real-Time Data Platform",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "data engineer platform real software time",
           "title_key": "senior software engineer, real-time data platform"
         }
@@ -14757,68 +14602,68 @@ window.DATA = {
       "flagged": false
     },
     {
-      "company": "SAP",
-      "company_slug": "sap",
+      "company": "Salesforce",
+      "company_slug": "salesforce",
       "total": 4,
-      "undated": 4,
-      "oldest_date": null,
-      "newest_date": null,
-      "oldest_age_days": null,
+      "undated": 0,
+      "oldest_date": "2026-10-12",
+      "newest_date": "2026-10-26",
+      "oldest_age_days": 14,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
       "jobs": [
         {
-          "url": "https://databerlin.net/jobs/phd-internship-fmd-ai-research-foundation-models-on-structured-data-at-sap",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Intern / Student",
-          "company_slug": "sap",
-          "company": "SAP",
-          "title": "PhD Internship (f/m/d) - AI Research - Foundation Models on Structured Data",
+          "url": "https://databerlin.net/jobs/data-foundation-solution-engineer-at-salesforce",
+          "category": "Other",
+          "seniority": "Mid",
+          "company_slug": "salesforce",
+          "company": "Salesforce",
+          "title": "Data Foundation Solution Engineer",
           "postings": 1,
-          "date": "",
-          "age_days": null,
-          "norm_title": "ai data foundation internship models on phd research structured",
-          "title_key": "phd internship (f/m/d) - ai research - foundation models on structured data"
+          "date": "2026-10-24",
+          "age_days": 2,
+          "norm_title": "data engineer foundation solution",
+          "title_key": "data foundation solution engineer"
         },
         {
-          "url": "https://databerlin.net/jobs/senior-ai-platform-engineer-fmd-for-sci-cross-product-engineering-at-sap",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Senior",
-          "company_slug": "sap",
-          "company": "SAP",
-          "title": "Senior AI Platform Engineer (f/m/d) for SCI Cross Product Engineering",
-          "postings": 1,
-          "date": "",
-          "age_days": null,
-          "norm_title": "ai cross engineer engineering platform product sci",
-          "title_key": "senior ai platform engineer (f/m/d) for sci cross product engineering"
-        },
-        {
-          "url": "https://databerlin.net/jobs/senior-architect-wmd-business-data-cloud-insight-at-sap",
+          "url": "https://databerlin.net/jobs/senior-architect-technical-consulting-enterprise-data-ai-driven-at-salesforce",
           "category": "Other",
           "seniority": "Senior",
-          "company_slug": "sap",
-          "company": "SAP",
-          "title": "Senior Architect (w/m/d) Business Data Cloud & Insight",
+          "company_slug": "salesforce",
+          "company": "Salesforce",
+          "title": "Senior Architect Technical Consulting – Enterprise Data & AI-driven",
           "postings": 1,
-          "date": "",
-          "age_days": null,
-          "norm_title": "architect business cloud data insight",
-          "title_key": "senior architect (w/m/d) business data cloud & insight"
+          "date": "2026-10-12",
+          "age_days": 14,
+          "norm_title": "ai architect consulting data driven enterprise technical",
+          "title_key": "senior architect technical consulting – enterprise data & ai-driven"
         },
         {
-          "url": "https://databerlin.net/jobs/senior-developer-fmd-for-sovereign-cloud-onsite-apeirora-eu-ai-projects-at-sap",
+          "url": "https://databerlin.net/jobs/senior-architect-technical-consulting-enterprise-security-ai-driven-at-salesforce",
           "category": "Other",
           "seniority": "Senior",
-          "company_slug": "sap",
-          "company": "SAP",
-          "title": "(Senior) Developer (f/m/d) for Sovereign Cloud Onsite / ApeiroRA / EU AI Projects",
+          "company_slug": "salesforce",
+          "company": "Salesforce",
+          "title": "Senior Architect Technical Consulting – Enterprise Security & AI-driven",
           "postings": 1,
-          "date": "",
-          "age_days": null,
-          "norm_title": "ai apeirora cloud developer eu onsite projects sovereign",
-          "title_key": "(senior) developer (f/m/d) for sovereign cloud onsite / apeirora / eu ai projects"
+          "date": "2026-10-20",
+          "age_days": 6,
+          "norm_title": "ai architect consulting driven enterprise security technical",
+          "title_key": "senior architect technical consulting – enterprise security & ai-driven"
+        },
+        {
+          "url": "https://databerlin.net/jobs/software-engineering-pmts-ml-engineer-at-salesforce",
+          "category": "Data Engineer",
+          "seniority": "Mid",
+          "company_slug": "salesforce",
+          "company": "Salesforce",
+          "title": "Software Engineering PMTS - ML Engineer",
+          "postings": 1,
+          "date": "2026-10-26",
+          "age_days": 0,
+          "norm_title": "engineer engineering ml pmts software",
+          "title_key": "software engineering pmts - ml engineer"
         }
       ],
       "reasons": [],
@@ -14831,7 +14676,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-05",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 20,
+      "oldest_age_days": 21,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -14845,7 +14690,7 @@ window.DATA = {
           "title": "Analyst (f/m/d) Sales Intelligence & AI",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "ai analyst intelligence sales",
           "title_key": "analyst (f/m/d) sales intelligence & ai"
         },
@@ -14858,7 +14703,7 @@ window.DATA = {
           "title": "Data Domain Manager (m/w/d) Project Excellence Digitalization",
           "postings": 1,
           "date": "2026-10-05",
-          "age_days": 20,
+          "age_days": 21,
           "norm_title": "data digitalization domain excellence manager project",
           "title_key": "data domain manager (m/w/d) project excellence digitalization"
         },
@@ -14871,7 +14716,7 @@ window.DATA = {
           "title": "Project Lead (f/m/D) – SAP Master Data Governance",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "data governance master project sap",
           "title_key": "project lead (f/m/d) – sap master data governance"
         },
@@ -14884,7 +14729,7 @@ window.DATA = {
           "title": "Werkstudent (w/m/d) Data Analytics & AI im Einkauf",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "ai analytics data einkauf im werkstudent",
           "title_key": "werkstudent (w/m/d) data analytics & ai im einkauf"
         }
@@ -14967,7 +14812,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-22",
       "newest_date": "2026-10-19",
-      "oldest_age_days": 33,
+      "oldest_age_days": 34,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -14981,7 +14826,7 @@ window.DATA = {
           "title": "Data Platform Engineer (Mid-Level)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "data engineer platform",
           "title_key": "data platform engineer (mid-level)"
         },
@@ -14994,7 +14839,7 @@ window.DATA = {
           "title": "Senior Backend Engineer - MarTech",
           "postings": 1,
           "date": "2026-09-22",
-          "age_days": 33,
+          "age_days": 34,
           "norm_title": "backend engineer martech",
           "title_key": "senior backend engineer - martech"
         },
@@ -15007,7 +14852,7 @@ window.DATA = {
           "title": "Senior Data Scientist/ML Engineer - Financial Crime",
           "postings": 1,
           "date": "2026-09-22",
-          "age_days": 33,
+          "age_days": 34,
           "norm_title": "crime data engineer financial ml scientist",
           "title_key": "senior data scientist/ml engineer - financial crime"
         },
@@ -15020,7 +14865,7 @@ window.DATA = {
           "title": "Senior Machine Learning Engineer - Platform Team",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "engineer learning machine platform team",
           "title_key": "senior machine learning engineer - platform team"
         }
@@ -15035,7 +14880,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-30",
       "newest_date": "2026-10-09",
-      "oldest_age_days": 87,
+      "oldest_age_days": 88,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -15049,7 +14894,7 @@ window.DATA = {
           "title": "Data Scientist - Remote Freelance Sydney (m/f/d) - Sydney Team",
           "postings": 1,
           "date": "2026-09-11",
-          "age_days": 44,
+          "age_days": 45,
           "norm_title": "data freelance remote scientist sydney team",
           "title_key": "data scientist - remote freelance sydney (m/f/d) - sydney team"
         },
@@ -15062,7 +14907,7 @@ window.DATA = {
           "title": "Data Scientist - Remote Malaysia (m/f/d) - Sydney Team",
           "postings": 1,
           "date": "2026-07-30",
-          "age_days": 87,
+          "age_days": 88,
           "norm_title": "data malaysia remote scientist sydney team",
           "title_key": "data scientist - remote malaysia (m/f/d) - sydney team"
         },
@@ -15075,7 +14920,7 @@ window.DATA = {
           "title": "Data Scientist - Remote Mexico (m/f/d) - New York Team",
           "postings": 1,
           "date": "2026-10-09",
-          "age_days": 16,
+          "age_days": 17,
           "norm_title": "data mexico new remote scientist team york",
           "title_key": "data scientist - remote mexico (m/f/d) - new york team"
         }
@@ -15090,7 +14935,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-19",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 6,
+      "oldest_age_days": 7,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -15104,7 +14949,7 @@ window.DATA = {
           "title": "Senior Data Scientist – Fintech (Credit and Fraud)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "credit data fintech fraud scientist",
           "title_key": "senior data scientist – fintech (credit and fraud)"
         },
@@ -15117,7 +14962,7 @@ window.DATA = {
           "title": "Senior Data Scientist - (Global Search, Consumer)",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "consumer data global scientist search",
           "title_key": "senior data scientist - (global search, consumer)"
         },
@@ -15130,7 +14975,7 @@ window.DATA = {
           "title": "Staff Data Scientist, Dmarts - Quick Commerce",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "commerce data dmarts quick scientist",
           "title_key": "staff data scientist, dmarts - quick commerce"
         }
@@ -15145,7 +14990,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-08",
       "newest_date": "2026-10-08",
-      "oldest_age_days": 17,
+      "oldest_age_days": 18,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -15159,12 +15004,12 @@ window.DATA = {
           "title": "Marketing & Growth Data Analyst (w/m/d)",
           "postings": 1,
           "date": "2026-10-08",
-          "age_days": 17,
+          "age_days": 18,
           "norm_title": "analyst data growth marketing",
           "title_key": "marketing & growth data analyst (w/m/d)"
         },
         {
-          "url": "https://databerlin.net/jobs/senior-ai-software-engineer-fmd-at-finanzennet-gmbh-2",
+          "url": "https://databerlin.net/jobs/senior-ai-software-engineer-fmd-at-finanzennet-gmbh-1",
           "category": "genAI/LLM/Agentic AI",
           "seniority": "Senior",
           "company_slug": "FinanzennetGmbH",
@@ -15172,7 +15017,7 @@ window.DATA = {
           "title": "Senior AI Software Engineer (f/m/d)",
           "postings": 1,
           "date": "2026-10-08",
-          "age_days": 17,
+          "age_days": 18,
           "norm_title": "ai engineer software",
           "title_key": "senior ai software engineer (f/m/d)"
         },
@@ -15185,9 +15030,64 @@ window.DATA = {
           "title": "Senior Data Engineer (w/m/d)",
           "postings": 1,
           "date": "2026-10-08",
-          "age_days": 17,
+          "age_days": 18,
           "norm_title": "data engineer",
           "title_key": "senior data engineer (w/m/d)"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "Scalable Capital",
+      "company_slug": "ScalableGmbH",
+      "total": 3,
+      "undated": 0,
+      "oldest_date": "2026-07-29",
+      "newest_date": "2026-10-20",
+      "oldest_age_days": 89,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/engineering-manager-ai-engineering-ai-platform-mfx-at-scalable-capital",
+          "category": "Leadership",
+          "seniority": "Lead / Manager",
+          "company_slug": "ScalableGmbH",
+          "company": "Scalable Capital",
+          "title": "Engineering Manager - AI Engineering & AI Platform (m/f/x)",
+          "postings": 1,
+          "date": "2026-08-14",
+          "age_days": 73,
+          "norm_title": "ai engineering manager platform",
+          "title_key": "engineering manager - ai engineering & ai platform (m/f/x)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/internship-aiml-engineering-mfx-at-scalable-capital",
+          "category": "genAI/LLM/Agentic AI",
+          "seniority": "Intern / Student",
+          "company_slug": "ScalableGmbH",
+          "company": "Scalable Capital",
+          "title": "Internship - AI/ML Engineering (m/f/x)",
+          "postings": 1,
+          "date": "2026-10-20",
+          "age_days": 6,
+          "norm_title": "ai engineering internship ml",
+          "title_key": "internship - ai/ml engineering (m/f/x)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/senior-data-engineer-mfx-at-scalable-capital",
+          "category": "Data Engineer",
+          "seniority": "Senior",
+          "company_slug": "ScalableGmbH",
+          "company": "Scalable Capital",
+          "title": "(Senior) Data Engineer (m/f/x)",
+          "postings": 1,
+          "date": "2026-07-29",
+          "age_days": 89,
+          "norm_title": "data engineer",
+          "title_key": "(senior) data engineer (m/f/x)"
         }
       ],
       "reasons": [],
@@ -15255,7 +15155,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-19",
       "newest_date": "2026-10-20",
-      "oldest_age_days": 6,
+      "oldest_age_days": 7,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -15269,7 +15169,7 @@ window.DATA = {
           "title": "AI Engineering & Automation Specialist (On-site)",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "ai automation engineering on site specialist",
           "title_key": "ai engineering & automation specialist (on-site)"
         },
@@ -15282,7 +15182,7 @@ window.DATA = {
           "title": "Growth Intern (on-site) (German-speaking)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "german growth intern on site speaking",
           "title_key": "growth intern (on-site) (german-speaking)"
         },
@@ -15295,7 +15195,7 @@ window.DATA = {
           "title": "(Junior) Growth & Activation Manager",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "activation growth manager",
           "title_key": "(junior) growth & activation manager"
         }
@@ -15310,7 +15210,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-26",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 60,
+      "oldest_age_days": 61,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -15324,7 +15224,7 @@ window.DATA = {
           "title": "AI Coach: AI Augmented Engineering",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "ai augmented coach engineering",
           "title_key": "ai coach: ai augmented engineering"
         },
@@ -15337,7 +15237,7 @@ window.DATA = {
           "title": "Lead Instructor: AI Augmented Engineering",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "ai augmented engineering instructor",
           "title_key": "lead instructor: ai augmented engineering"
         },
@@ -15350,7 +15250,7 @@ window.DATA = {
           "title": "Lead Instructor: GenAI",
           "postings": 1,
           "date": "2026-08-26",
-          "age_days": 60,
+          "age_days": 61,
           "norm_title": "genai instructor",
           "title_key": "lead instructor: genai"
         }
@@ -15365,7 +15265,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-31",
       "newest_date": "2026-10-09",
-      "oldest_age_days": 86,
+      "oldest_age_days": 87,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -15379,7 +15279,7 @@ window.DATA = {
           "title": "Marketing & Growth Manager (m/w/d)",
           "postings": 1,
           "date": "2026-07-31",
-          "age_days": 86,
+          "age_days": 87,
           "norm_title": "growth manager marketing",
           "title_key": "marketing & growth manager (m/w/d)"
         },
@@ -15392,7 +15292,7 @@ window.DATA = {
           "title": "Praktikant AI Business Engineering (m/w/d) – Strategy & Business Development",
           "postings": 1,
           "date": "2026-10-05",
-          "age_days": 20,
+          "age_days": 21,
           "norm_title": "ai business development engineering praktikant strategy",
           "title_key": "praktikant ai business engineering (m/w/d) – strategy & business development"
         },
@@ -15405,64 +15305,9 @@ window.DATA = {
           "title": "Werkstudent AI-Automatisierung (m/w/d)",
           "postings": 1,
           "date": "2026-10-09",
-          "age_days": 16,
+          "age_days": 17,
           "norm_title": "ai automatisierung werkstudent",
           "title_key": "werkstudent ai-automatisierung (m/w/d)"
-        }
-      ],
-      "reasons": [],
-      "flagged": false
-    },
-    {
-      "company": "ElevenLabs",
-      "company_slug": "elevenlabs",
-      "total": 3,
-      "undated": 0,
-      "oldest_date": "2026-10-06",
-      "newest_date": "2026-10-22",
-      "oldest_age_days": 19,
-      "stale_jobs": [],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/analytics-engineer-at-elevenlabs",
-          "category": "Analytics Engineer",
-          "seniority": "Mid",
-          "company_slug": "elevenlabs",
-          "company": "ElevenLabs",
-          "title": "Analytics Engineer",
-          "postings": 1,
-          "date": "2026-10-06",
-          "age_days": 19,
-          "norm_title": "analytics engineer",
-          "title_key": "analytics engineer"
-        },
-        {
-          "url": "https://databerlin.net/jobs/data-scientist-product-analytics-at-elevenlabs",
-          "category": "Data Scientist",
-          "seniority": "Mid",
-          "company_slug": "elevenlabs",
-          "company": "ElevenLabs",
-          "title": "Data Scientist - Product Analytics",
-          "postings": 1,
-          "date": "2026-10-21",
-          "age_days": 4,
-          "norm_title": "analytics data product scientist",
-          "title_key": "data scientist - product analytics"
-        },
-        {
-          "url": "https://databerlin.net/jobs/engineering-internal-ai-transformation-at-elevenlabs",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Intern / Student",
-          "company_slug": "elevenlabs",
-          "company": "ElevenLabs",
-          "title": "Engineering - Internal AI Transformation",
-          "postings": 1,
-          "date": "2026-10-22",
-          "age_days": 3,
-          "norm_title": "ai engineering internal transformation",
-          "title_key": "engineering - internal ai transformation"
         }
       ],
       "reasons": [],
@@ -15475,7 +15320,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-13",
       "newest_date": "2026-10-21",
-      "oldest_age_days": 12,
+      "oldest_age_days": 13,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -15489,7 +15334,7 @@ window.DATA = {
           "title": "Data Platform Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "data engineer platform",
           "title_key": "data platform engineer (m/f/d)"
         },
@@ -15502,7 +15347,7 @@ window.DATA = {
           "title": "Senior Data Scientist (m/f/d)",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "data scientist",
           "title_key": "senior data scientist (m/f/d)"
         },
@@ -15515,7 +15360,7 @@ window.DATA = {
           "title": "(Senior) HR Tech Business Analyst — Automation & AI (m/f/d)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai analyst automation business hr tech",
           "title_key": "(senior) hr tech business analyst — automation & ai (m/f/d)"
         }
@@ -15530,7 +15375,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-15",
       "newest_date": "2026-10-15",
-      "oldest_age_days": 40,
+      "oldest_age_days": 41,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -15544,7 +15389,7 @@ window.DATA = {
           "title": "Senior Data Analyst",
           "postings": 1,
           "date": "2026-09-15",
-          "age_days": 40,
+          "age_days": 41,
           "norm_title": "analyst data",
           "title_key": "senior data analyst"
         },
@@ -15557,7 +15402,7 @@ window.DATA = {
           "title": "Staff Data Scientist",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "data scientist",
           "title_key": "staff data scientist"
         },
@@ -15570,9 +15415,64 @@ window.DATA = {
           "title": "Staff Data Scientist ( Remote in Europe)",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "data europe remote scientist",
           "title_key": "staff data scientist ( remote in europe)"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "Hostaway",
+      "company_slug": "hostaway",
+      "total": 3,
+      "undated": 0,
+      "oldest_date": "2026-09-15",
+      "newest_date": "2026-10-26",
+      "oldest_age_days": 41,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/head-of-product-analytics-100-remote-emea-at-hostaway",
+          "category": "Data Analyst",
+          "seniority": "Head / Director / VP / C-Level",
+          "company_slug": "hostaway",
+          "company": "Hostaway",
+          "title": "Head of Product Analytics - 100% Remote - EMEA",
+          "postings": 1,
+          "date": "2026-10-26",
+          "age_days": 0,
+          "norm_title": "100 analytics emea head product remote",
+          "title_key": "head of product analytics - 100% remote - emea"
+        },
+        {
+          "url": "https://databerlin.net/jobs/lead-ai-gtm-engineer-100-remote-europe-at-hostaway",
+          "category": "genAI/LLM/Agentic AI",
+          "seniority": "Lead / Manager",
+          "company_slug": "hostaway",
+          "company": "Hostaway",
+          "title": "Lead AI GTM Engineer - 100% Remote - Europe",
+          "postings": 1,
+          "date": "2026-09-15",
+          "age_days": 41,
+          "norm_title": "100 ai engineer europe gtm remote",
+          "title_key": "lead ai gtm engineer - 100% remote - europe"
+        },
+        {
+          "url": "https://databerlin.net/jobs/senior-backend-engineer-ai-platform-100-remote-emea-at-hostaway",
+          "category": "genAI/LLM/Agentic AI",
+          "seniority": "Senior",
+          "company_slug": "hostaway",
+          "company": "Hostaway",
+          "title": "Senior Backend Engineer, AI Platform - 100% Remote - EMEA",
+          "postings": 1,
+          "date": "2026-09-16",
+          "age_days": 40,
+          "norm_title": "100 ai backend emea engineer platform remote",
+          "title_key": "senior backend engineer, ai platform - 100% remote - emea"
         }
       ],
       "reasons": [],
@@ -15585,7 +15485,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-01",
       "newest_date": "2026-10-12",
-      "oldest_age_days": 24,
+      "oldest_age_days": 25,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -15599,7 +15499,7 @@ window.DATA = {
           "title": "Abschlussarbeit Applied AI - Machine Learning & AI Agents (m/w/d)",
           "postings": 1,
           "date": "2026-10-12",
-          "age_days": 13,
+          "age_days": 14,
           "norm_title": "abschlussarbeit agents ai applied learning machine",
           "title_key": "abschlussarbeit applied ai - machine learning & ai agents (m/w/d)"
         },
@@ -15612,7 +15512,7 @@ window.DATA = {
           "title": "Senior Backend Engineer (m|w|d) - Java/Kotlin, AWS, Kafka",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "aws backend engineer java kafka kotlin",
           "title_key": "senior backend engineer (m|w|d) - java/kotlin, aws, kafka"
         },
@@ -15625,7 +15525,7 @@ window.DATA = {
           "title": "Technical Product Owner - AI Platform (m|w|d)",
           "postings": 1,
           "date": "2026-10-07",
-          "age_days": 18,
+          "age_days": 19,
           "norm_title": "ai owner platform product technical",
           "title_key": "technical product owner - ai platform (m|w|d)"
         }
@@ -15640,7 +15540,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-16",
       "newest_date": "2026-10-20",
-      "oldest_age_days": 39,
+      "oldest_age_days": 40,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -15654,7 +15554,7 @@ window.DATA = {
           "title": "Engineering Manager, AI Group",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "ai engineering group manager",
           "title_key": "engineering manager, ai group"
         },
@@ -15667,7 +15567,7 @@ window.DATA = {
           "title": "Senior Machine Learning Scientist",
           "postings": 1,
           "date": "2026-09-16",
-          "age_days": 39,
+          "age_days": 40,
           "norm_title": "learning machine scientist",
           "title_key": "senior machine learning scientist"
         },
@@ -15680,7 +15580,7 @@ window.DATA = {
           "title": "Staff Product Engineer, AI",
           "postings": 1,
           "date": "2026-09-16",
-          "age_days": 39,
+          "age_days": 40,
           "norm_title": "ai engineer product",
           "title_key": "staff product engineer, ai"
         }
@@ -15744,68 +15644,13 @@ window.DATA = {
       "flagged": false
     },
     {
-      "company": "MKS Instruments",
-      "company_slug": "mksinst",
-      "total": 3,
-      "undated": 0,
-      "oldest_date": "2026-09-25",
-      "newest_date": "2026-10-23",
-      "oldest_age_days": 30,
-      "stale_jobs": [],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/marketing-automation-ai-lead-wmd-at-mks-instruments",
-          "category": "Other",
-          "seniority": "Lead / Manager",
-          "company_slug": "mksinst",
-          "company": "MKS Instruments",
-          "title": "Marketing Automation & AI Lead (w/m/d)",
-          "postings": 1,
-          "date": "2026-09-25",
-          "age_days": 30,
-          "norm_title": "ai automation marketing",
-          "title_key": "marketing automation & ai lead (w/m/d)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/senior-manager-master-data-governance-and-management-wmd-at-mks-instruments",
-          "category": "Other",
-          "seniority": "Lead / Manager",
-          "company_slug": "mksinst",
-          "company": "MKS Instruments",
-          "title": "Senior Manager, Master Data Governance and Management (w/m/d)",
-          "postings": 1,
-          "date": "2026-10-20",
-          "age_days": 5,
-          "norm_title": "data governance management manager master",
-          "title_key": "senior manager, master data governance and management (w/m/d)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/working-student-mfd-data-scientist-and-programmer-at-mks-instruments",
-          "category": "Other",
-          "seniority": "Intern / Student",
-          "company_slug": "mksinst",
-          "company": "MKS Instruments",
-          "title": "Working Student (m/f/d) Data Scientist and Programmer",
-          "postings": 1,
-          "date": "2026-10-23",
-          "age_days": 2,
-          "norm_title": "data programmer scientist student working",
-          "title_key": "working student (m/f/d) data scientist and programmer"
-        }
-      ],
-      "reasons": [],
-      "flagged": false
-    },
-    {
       "company": "Neko Health",
       "company_slug": "neko-health",
       "total": 3,
       "undated": 0,
       "oldest_date": "2026-10-02",
       "newest_date": "2026-10-09",
-      "oldest_age_days": 23,
+      "oldest_age_days": 24,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -15819,7 +15664,7 @@ window.DATA = {
           "title": "AI Acceleration Specialist",
           "postings": 1,
           "date": "2026-10-09",
-          "age_days": 16,
+          "age_days": 17,
           "norm_title": "acceleration ai specialist",
           "title_key": "ai acceleration specialist"
         },
@@ -15832,7 +15677,7 @@ window.DATA = {
           "title": "Data Science Lead (CV + ML)",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "cv data ml science",
           "title_key": "data science lead (cv + ml)"
         },
@@ -15845,7 +15690,7 @@ window.DATA = {
           "title": "ML Engineering Lead (LLM Ops)",
           "postings": 1,
           "date": "2026-10-02",
-          "age_days": 23,
+          "age_days": 24,
           "norm_title": "engineering llm ml ops",
           "title_key": "ml engineering lead (llm ops)"
         }
@@ -15860,7 +15705,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-15",
       "newest_date": "2026-10-15",
-      "oldest_age_days": 40,
+      "oldest_age_days": 41,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -15874,7 +15719,7 @@ window.DATA = {
           "title": "Senior Data Analyst",
           "postings": 1,
           "date": "2026-09-15",
-          "age_days": 40,
+          "age_days": 41,
           "norm_title": "analyst data",
           "title_key": "senior data analyst"
         },
@@ -15887,7 +15732,7 @@ window.DATA = {
           "title": "Staff Data Scientist",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "data scientist",
           "title_key": "staff data scientist"
         },
@@ -15900,7 +15745,7 @@ window.DATA = {
           "title": "Staff Data Scientist ( Remote in Europe)",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "data europe remote scientist",
           "title_key": "staff data scientist ( remote in europe)"
         }
@@ -15915,7 +15760,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-09",
       "newest_date": "2026-10-20",
-      "oldest_age_days": 16,
+      "oldest_age_days": 17,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -15929,7 +15774,7 @@ window.DATA = {
           "title": "AI Platform Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-10-09",
-          "age_days": 16,
+          "age_days": 17,
           "norm_title": "ai engineer platform",
           "title_key": "ai platform engineer (m/f/d)"
         },
@@ -15942,7 +15787,7 @@ window.DATA = {
           "title": "Engineering Lead – AI Enablement (m/f/d)",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "ai enablement engineering",
           "title_key": "engineering lead – ai enablement (m/f/d)"
         },
@@ -15955,7 +15800,7 @@ window.DATA = {
           "title": "People Analytics Manager (m/f/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "analytics manager people",
           "title_key": "people analytics manager (m/f/d)"
         }
@@ -15964,55 +15809,55 @@ window.DATA = {
       "flagged": false
     },
     {
-      "company": "Salesforce",
-      "company_slug": "salesforce",
+      "company": "SAP",
+      "company_slug": "sap",
       "total": 3,
-      "undated": 0,
-      "oldest_date": "2026-10-12",
-      "newest_date": "2026-10-24",
-      "oldest_age_days": 13,
+      "undated": 3,
+      "oldest_date": null,
+      "newest_date": null,
+      "oldest_age_days": null,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
       "jobs": [
         {
-          "url": "https://databerlin.net/jobs/data-foundation-solution-engineer-at-salesforce",
-          "category": "Other",
-          "seniority": "Mid",
-          "company_slug": "salesforce",
-          "company": "Salesforce",
-          "title": "Data Foundation Solution Engineer",
+          "url": "https://databerlin.net/jobs/phd-internship-fmd-ai-research-foundation-models-on-structured-data-at-sap",
+          "category": "genAI/LLM/Agentic AI",
+          "seniority": "Intern / Student",
+          "company_slug": "sap",
+          "company": "SAP",
+          "title": "PhD Internship (f/m/d) - AI Research - Foundation Models on Structured Data",
           "postings": 1,
-          "date": "2026-10-24",
-          "age_days": 1,
-          "norm_title": "data engineer foundation solution",
-          "title_key": "data foundation solution engineer"
+          "date": "",
+          "age_days": null,
+          "norm_title": "ai data foundation internship models on phd research structured",
+          "title_key": "phd internship (f/m/d) - ai research - foundation models on structured data"
         },
         {
-          "url": "https://databerlin.net/jobs/senior-architect-technical-consulting-enterprise-data-ai-driven-at-salesforce",
-          "category": "Other",
+          "url": "https://databerlin.net/jobs/senior-ai-platform-engineer-fmd-for-sci-cross-product-engineering-at-sap",
+          "category": "genAI/LLM/Agentic AI",
           "seniority": "Senior",
-          "company_slug": "salesforce",
-          "company": "Salesforce",
-          "title": "Senior Architect Technical Consulting – Enterprise Data & AI-driven",
+          "company_slug": "sap",
+          "company": "SAP",
+          "title": "Senior AI Platform Engineer (f/m/d) for SCI Cross Product Engineering",
           "postings": 1,
-          "date": "2026-10-12",
-          "age_days": 13,
-          "norm_title": "ai architect consulting data driven enterprise technical",
-          "title_key": "senior architect technical consulting – enterprise data & ai-driven"
+          "date": "",
+          "age_days": null,
+          "norm_title": "ai cross engineer engineering platform product sci",
+          "title_key": "senior ai platform engineer (f/m/d) for sci cross product engineering"
         },
         {
-          "url": "https://databerlin.net/jobs/senior-architect-technical-consulting-enterprise-security-ai-driven-at-salesforce",
+          "url": "https://databerlin.net/jobs/senior-developer-fmd-for-sovereign-cloud-onsite-apeirora-eu-ai-projects-at-sap",
           "category": "Other",
           "seniority": "Senior",
-          "company_slug": "salesforce",
-          "company": "Salesforce",
-          "title": "Senior Architect Technical Consulting – Enterprise Security & AI-driven",
+          "company_slug": "sap",
+          "company": "SAP",
+          "title": "(Senior) Developer (f/m/d) for Sovereign Cloud Onsite / ApeiroRA / EU AI Projects",
           "postings": 1,
-          "date": "2026-10-20",
-          "age_days": 5,
-          "norm_title": "ai architect consulting driven enterprise security technical",
-          "title_key": "senior architect technical consulting – enterprise security & ai-driven"
+          "date": "",
+          "age_days": null,
+          "norm_title": "ai apeirora cloud developer eu onsite projects sovereign",
+          "title_key": "(senior) developer (f/m/d) for sovereign cloud onsite / apeirora / eu ai projects"
         }
       ],
       "reasons": [],
@@ -16080,7 +15925,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-20",
       "newest_date": "2026-10-20",
-      "oldest_age_days": 5,
+      "oldest_age_days": 6,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -16094,7 +15939,7 @@ window.DATA = {
           "title": "Senior Data Platform Engineer",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "data engineer platform",
           "title_key": "senior data platform engineer"
         },
@@ -16107,7 +15952,7 @@ window.DATA = {
           "title": "Senior Machine Learning Engineer, AI Platform",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "ai engineer learning machine platform",
           "title_key": "senior machine learning engineer, ai platform"
         },
@@ -16120,7 +15965,7 @@ window.DATA = {
           "title": "Senior Software Engineer - AI Platform",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "ai engineer platform software",
           "title_key": "senior software engineer - ai platform"
         }
@@ -16135,7 +15980,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-07",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 18,
+      "oldest_age_days": 19,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -16149,7 +15994,7 @@ window.DATA = {
           "title": "Data Governance Manager",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "data governance manager",
           "title_key": "data governance manager"
         },
@@ -16162,7 +16007,7 @@ window.DATA = {
           "title": "Senior AI Engineer (f/m/d)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "ai engineer",
           "title_key": "senior ai engineer (f/m/d)"
         },
@@ -16175,7 +16020,7 @@ window.DATA = {
           "title": "Senior Bank Analytics Engineer",
           "postings": 1,
           "date": "2026-10-07",
-          "age_days": 18,
+          "age_days": 19,
           "norm_title": "analytics bank engineer",
           "title_key": "senior bank analytics engineer"
         }
@@ -16190,7 +16035,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-21",
       "newest_date": "2026-10-09",
-      "oldest_age_days": 65,
+      "oldest_age_days": 66,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -16204,7 +16049,7 @@ window.DATA = {
           "title": "Finance Manager - AI Native (m/f/d)",
           "postings": 1,
           "date": "2026-08-21",
-          "age_days": 65,
+          "age_days": 66,
           "norm_title": "ai finance manager native",
           "title_key": "finance manager - ai native (m/f/d)"
         },
@@ -16217,7 +16062,7 @@ window.DATA = {
           "title": "Senior ML Engineer - Speech (m/f/d)",
           "postings": 1,
           "date": "2026-10-09",
-          "age_days": 16,
+          "age_days": 17,
           "norm_title": "engineer ml speech",
           "title_key": "senior ml engineer - speech (m/f/d)"
         },
@@ -16230,7 +16075,7 @@ window.DATA = {
           "title": "Senior Product Manager - Machine Learning (m/f/d)",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "learning machine manager product",
           "title_key": "senior product manager - machine learning (m/f/d)"
         }
@@ -16245,7 +16090,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-24",
       "newest_date": "2026-09-05",
-      "oldest_age_days": 62,
+      "oldest_age_days": 63,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -16259,7 +16104,7 @@ window.DATA = {
           "title": "AI & Data Architect (m/f/d) - Tieto Tech Consulting",
           "postings": 1,
           "date": "2026-08-24",
-          "age_days": 62,
+          "age_days": 63,
           "norm_title": "ai architect consulting data tech tieto",
           "title_key": "ai & data architect (m/f/d) - tieto tech consulting"
         },
@@ -16272,7 +16117,7 @@ window.DATA = {
           "title": "Senior AI Engineer (m/f/d) - Tieto Tech Consulting",
           "postings": 1,
           "date": "2026-09-05",
-          "age_days": 50,
+          "age_days": 51,
           "norm_title": "ai consulting engineer tech tieto",
           "title_key": "senior ai engineer (m/f/d) - tieto tech consulting"
         }
@@ -16329,7 +16174,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-25",
       "newest_date": "2026-10-02",
-      "oldest_age_days": 30,
+      "oldest_age_days": 31,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -16343,7 +16188,7 @@ window.DATA = {
           "title": "Senior ML Research Scientist – AI & Generative Recommendation (f/m/d)",
           "postings": 1,
           "date": "2026-09-25",
-          "age_days": 30,
+          "age_days": 31,
           "norm_title": "ai generative ml recommendation research scientist",
           "title_key": "senior ml research scientist – ai & generative recommendation (f/m/d)"
         },
@@ -16356,7 +16201,7 @@ window.DATA = {
           "title": "Senior/Staff ML Scientist - Bidding & Optimization (f/m/d)",
           "postings": 1,
           "date": "2026-10-02",
-          "age_days": 23,
+          "age_days": 24,
           "norm_title": "bidding ml optimization scientist",
           "title_key": "senior/staff ml scientist - bidding & optimization (f/m/d)"
         }
@@ -16371,7 +16216,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-23",
       "newest_date": "2026-09-23",
-      "oldest_age_days": 32,
+      "oldest_age_days": 33,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -16385,7 +16230,7 @@ window.DATA = {
           "title": "Forward Deployed Engineer (Audio & Voice AI)",
           "postings": 1,
           "date": "2026-09-23",
-          "age_days": 32,
+          "age_days": 33,
           "norm_title": "ai audio deployed engineer forward voice",
           "title_key": "forward deployed engineer (audio & voice ai)"
         },
@@ -16398,7 +16243,7 @@ window.DATA = {
           "title": "GTM Growth Manager",
           "postings": 1,
           "date": "2026-09-23",
-          "age_days": 32,
+          "age_days": 33,
           "norm_title": "growth gtm manager",
           "title_key": "gtm growth manager"
         }
@@ -16413,7 +16258,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-09",
       "newest_date": "2026-10-14",
-      "oldest_age_days": 16,
+      "oldest_age_days": 17,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -16427,7 +16272,7 @@ window.DATA = {
           "title": "Senior AI R&D Engineer – Model Training (f/m/d)",
           "postings": 1,
           "date": "2026-10-09",
-          "age_days": 16,
+          "age_days": 17,
           "norm_title": "ai engineer model r training",
           "title_key": "senior ai r&d engineer – model training (f/m/d)"
         },
@@ -16440,7 +16285,7 @@ window.DATA = {
           "title": "Senior AI Researcher: LLM post-training for hallucination reduction (f/m/d)",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "ai hallucination llm post reduction researcher training",
           "title_key": "senior ai researcher: llm post-training for hallucination reduction (f/m/d)"
         }
@@ -16455,7 +16300,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-24",
       "newest_date": "2026-10-24",
-      "oldest_age_days": 1,
+      "oldest_age_days": 2,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -16469,7 +16314,7 @@ window.DATA = {
           "title": "SAP Business Intelligence Consultant",
           "postings": 1,
           "date": "2026-10-24",
-          "age_days": 1,
+          "age_days": 2,
           "norm_title": "business consultant intelligence sap",
           "title_key": "sap business intelligence consultant"
         },
@@ -16482,7 +16327,7 @@ window.DATA = {
           "title": "SAP Master Data Architect",
           "postings": 1,
           "date": "2026-10-24",
-          "age_days": 1,
+          "age_days": 2,
           "norm_title": "architect data master sap",
           "title_key": "sap master data architect"
         }
@@ -16539,7 +16384,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-10",
       "newest_date": "2026-09-10",
-      "oldest_age_days": 45,
+      "oldest_age_days": 46,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -16553,7 +16398,7 @@ window.DATA = {
           "title": "Working Student — Knowledge Management & AI Content Operations (Arabic)",
           "postings": 1,
           "date": "2026-09-10",
-          "age_days": 45,
+          "age_days": 46,
           "norm_title": "ai arabic content knowledge management operations student working",
           "title_key": "working student — knowledge management & ai content operations (arabic)"
         },
@@ -16566,51 +16411,9 @@ window.DATA = {
           "title": "Working Student — Knowledge Management & AI Content Operations (Nordic Languages)",
           "postings": 1,
           "date": "2026-09-10",
-          "age_days": 45,
+          "age_days": 46,
           "norm_title": "ai content knowledge languages management nordic operations student working",
           "title_key": "working student — knowledge management & ai content operations (nordic languages)"
-        }
-      ],
-      "reasons": [],
-      "flagged": false
-    },
-    {
-      "company": "autarc",
-      "company_slug": "autarcenergy",
-      "total": 2,
-      "undated": 0,
-      "oldest_date": "2026-09-01",
-      "newest_date": "2026-10-16",
-      "oldest_age_days": 54,
-      "stale_jobs": [],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/internship-go-to-market-engineering-ai-automation-all-genders-at-autarc",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Intern / Student",
-          "company_slug": "autarcenergy",
-          "company": "autarc",
-          "title": "Internship Go-To-Market Engineering, AI & Automation (all genders)",
-          "postings": 1,
-          "date": "2026-09-01",
-          "age_days": 54,
-          "norm_title": "ai automation engineering go internship market",
-          "title_key": "internship go-to-market engineering, ai & automation (all genders)"
-        },
-        {
-          "url": "https://databerlin.net/jobs/praktikum-werkstudent-mwd-im-ai-saas-vertrieb-at-autarc",
-          "category": "Other",
-          "seniority": "Intern / Student",
-          "company_slug": "autarcenergy",
-          "company": "autarc",
-          "title": "Praktikum / Werkstudent (m/w/d) im AI-SAAS Vertrieb",
-          "postings": 1,
-          "date": "2026-10-16",
-          "age_days": 9,
-          "norm_title": "ai im praktikum saas vertrieb werkstudent",
-          "title_key": "praktikum / werkstudent (m/w/d) im ai-saas vertrieb"
         }
       ],
       "reasons": [],
@@ -16623,7 +16426,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-24",
       "newest_date": "2026-10-01",
-      "oldest_age_days": 31,
+      "oldest_age_days": 32,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -16637,7 +16440,7 @@ window.DATA = {
           "title": "Principal Solution Architect - Presales Lead AI (m/w/d)",
           "postings": 1,
           "date": "2026-09-24",
-          "age_days": 31,
+          "age_days": 32,
           "norm_title": "ai architect presales solution",
           "title_key": "principal solution architect - presales lead ai (m/w/d)"
         },
@@ -16650,7 +16453,7 @@ window.DATA = {
           "title": "Senior Cloud Software Engineer AI (m/f/d)",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "ai cloud engineer software",
           "title_key": "senior cloud software engineer ai (m/f/d)"
         }
@@ -16665,7 +16468,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-16",
       "newest_date": "2026-10-09",
-      "oldest_age_days": 39,
+      "oldest_age_days": 40,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -16679,7 +16482,7 @@ window.DATA = {
           "title": "Senior Applied AI Engineer, AI Platform (f/m/d)",
           "postings": 1,
           "date": "2026-09-16",
-          "age_days": 39,
+          "age_days": 40,
           "norm_title": "ai applied engineer platform",
           "title_key": "senior applied ai engineer, ai platform (f/m/d)"
         },
@@ -16692,7 +16495,7 @@ window.DATA = {
           "title": "(Senior/Staff) Product Manager - Growth (f/m/d)",
           "postings": 1,
           "date": "2026-10-09",
-          "age_days": 16,
+          "age_days": 17,
           "norm_title": "growth manager product",
           "title_key": "(senior/staff) product manager - growth (f/m/d)"
         }
@@ -16705,7 +16508,7 @@ window.DATA = {
       "company_slug": "cerence",
       "total": 2,
       "undated": 0,
-      "oldest_date": "2026-09-25",
+      "oldest_date": "2026-09-26",
       "newest_date": "2026-10-05",
       "oldest_age_days": 30,
       "stale_jobs": [],
@@ -16721,7 +16524,7 @@ window.DATA = {
           "title": "Principal AI Researcher, LLM",
           "postings": 1,
           "date": "2026-10-05",
-          "age_days": 20,
+          "age_days": 21,
           "norm_title": "ai llm researcher",
           "title_key": "principal ai researcher, llm"
         },
@@ -16733,7 +16536,7 @@ window.DATA = {
           "company": "Cerence AI",
           "title": "Senior AI scientist",
           "postings": 1,
-          "date": "2026-09-25",
+          "date": "2026-09-26",
           "age_days": 30,
           "norm_title": "ai scientist",
           "title_key": "senior ai scientist"
@@ -16791,7 +16594,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-25",
       "newest_date": "2026-10-02",
-      "oldest_age_days": 30,
+      "oldest_age_days": 31,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -16805,7 +16608,7 @@ window.DATA = {
           "title": "(Senior) AI Solutions Engineer (m/w/d)",
           "postings": 1,
           "date": "2026-10-02",
-          "age_days": 23,
+          "age_days": 24,
           "norm_title": "ai engineer solutions",
           "title_key": "(senior) ai solutions engineer (m/w/d)"
         },
@@ -16818,7 +16621,7 @@ window.DATA = {
           "title": "Werkstudent - Data & Information Management (m/w/d)",
           "postings": 1,
           "date": "2026-09-25",
-          "age_days": 30,
+          "age_days": 31,
           "norm_title": "data information management werkstudent",
           "title_key": "werkstudent - data & information management (m/w/d)"
         }
@@ -16833,7 +16636,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-14",
       "newest_date": "2026-10-14",
-      "oldest_age_days": 11,
+      "oldest_age_days": 12,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -16847,7 +16650,7 @@ window.DATA = {
           "title": "Financial Planning Data Analyst",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "analyst data financial planning",
           "title_key": "financial planning data analyst"
         },
@@ -16860,7 +16663,7 @@ window.DATA = {
           "title": "Payload Data Processing Engineer",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "data engineer payload processing",
           "title_key": "payload data processing engineer"
         }
@@ -16875,7 +16678,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-19",
       "newest_date": "2026-10-19",
-      "oldest_age_days": 6,
+      "oldest_age_days": 7,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -16889,7 +16692,7 @@ window.DATA = {
           "title": "Senior Forward Deployed Engineer (AI Agent)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "agent ai deployed engineer forward",
           "title_key": "senior forward deployed engineer (ai agent)"
         },
@@ -16902,7 +16705,7 @@ window.DATA = {
           "title": "Senior Forward Deployed Engineer (AI Agent) - Germany",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "agent ai deployed engineer forward germany",
           "title_key": "senior forward deployed engineer (ai agent) - germany"
         }
@@ -16917,7 +16720,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-13",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 73,
+      "oldest_age_days": 74,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -16931,7 +16734,7 @@ window.DATA = {
           "title": "Applied AI/ML Engineer (Agents)",
           "postings": 1,
           "date": "2026-08-13",
-          "age_days": 73,
+          "age_days": 74,
           "norm_title": "agents ai applied engineer ml",
           "title_key": "applied ai/ml engineer (agents)"
         },
@@ -16944,9 +16747,93 @@ window.DATA = {
           "title": "Data Engineer",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "data engineer",
           "title_key": "data engineer"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "DEAG Deutsche Entertainment AG",
+      "company_slug": "deag-deutsche-entertainment-ag",
+      "total": 2,
+      "undated": 0,
+      "oldest_date": "2026-10-25",
+      "newest_date": "2026-10-25",
+      "oldest_age_days": 1,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/manager-ki-automatisierung-mwd-at-deag-deutsche-entertainment-ag",
+          "category": "Leadership",
+          "seniority": "Lead / Manager",
+          "company_slug": "deag-deutsche-entertainment-ag",
+          "company": "DEAG Deutsche Entertainment AG",
+          "title": "Manager KI & Automatisierung (m/w/d)",
+          "postings": 1,
+          "date": "2026-10-25",
+          "age_days": 1,
+          "norm_title": "automatisierung ki manager",
+          "title_key": "manager ki & automatisierung (m/w/d)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/werkstudent-ki-automatisierung-mwd-at-deag-deutsche-entertainment-ag",
+          "category": "Other",
+          "seniority": "Intern / Student",
+          "company_slug": "deag-deutsche-entertainment-ag",
+          "company": "DEAG Deutsche Entertainment AG",
+          "title": "Werkstudent KI & Automatisierung (m/w/d)",
+          "postings": 1,
+          "date": "2026-10-25",
+          "age_days": 1,
+          "norm_title": "automatisierung ki werkstudent",
+          "title_key": "werkstudent ki & automatisierung (m/w/d)"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "ElevenLabs",
+      "company_slug": "elevenlabs",
+      "total": 2,
+      "undated": 0,
+      "oldest_date": "2026-10-21",
+      "newest_date": "2026-10-22",
+      "oldest_age_days": 5,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/data-scientist-product-analytics-at-elevenlabs",
+          "category": "Data Scientist",
+          "seniority": "Mid",
+          "company_slug": "elevenlabs",
+          "company": "ElevenLabs",
+          "title": "Data Scientist - Product Analytics",
+          "postings": 1,
+          "date": "2026-10-21",
+          "age_days": 5,
+          "norm_title": "analytics data product scientist",
+          "title_key": "data scientist - product analytics"
+        },
+        {
+          "url": "https://databerlin.net/jobs/engineering-internal-ai-transformation-at-elevenlabs",
+          "category": "genAI/LLM/Agentic AI",
+          "seniority": "Intern / Student",
+          "company_slug": "elevenlabs",
+          "company": "ElevenLabs",
+          "title": "Engineering - Internal AI Transformation",
+          "postings": 1,
+          "date": "2026-10-22",
+          "age_days": 4,
+          "norm_title": "ai engineering internal transformation",
+          "title_key": "engineering - internal ai transformation"
         }
       ],
       "reasons": [],
@@ -17001,7 +16888,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-01",
       "newest_date": "2026-09-03",
-      "oldest_age_days": 54,
+      "oldest_age_days": 55,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17015,7 +16902,7 @@ window.DATA = {
           "title": "Senior Quantitative Analyst",
           "postings": 1,
           "date": "2026-09-01",
-          "age_days": 54,
+          "age_days": 55,
           "norm_title": "analyst quantitative",
           "title_key": "senior quantitative analyst"
         },
@@ -17028,7 +16915,7 @@ window.DATA = {
           "title": "Senior Quantitative Analyst",
           "postings": 1,
           "date": "2026-09-03",
-          "age_days": 52,
+          "age_days": 53,
           "norm_title": "analyst quantitative",
           "title_key": "senior quantitative analyst"
         }
@@ -17043,7 +16930,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-15",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 10,
+      "oldest_age_days": 11,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17057,7 +16944,7 @@ window.DATA = {
           "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "engineer fullstack growth js ruby vue",
           "title_key": "intermediate fullstack engineer (ruby/vue.js), growth"
         },
@@ -17070,7 +16957,7 @@ window.DATA = {
           "title": "Senior Backend Engineer, Trusted Agentic Development",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "agentic backend development engineer trusted",
           "title_key": "senior backend engineer, trusted agentic development"
         }
@@ -17127,7 +17014,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-21",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 4,
+      "oldest_age_days": 5,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17141,7 +17028,7 @@ window.DATA = {
           "title": "Commercial Segment Lead B2B SaaS – Growth / P&L (alle Identitäten)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "alle b2b commercial growth identit l p saas segment ten",
           "title_key": "commercial segment lead b2b saas – growth / p&l (alle identitäten)"
         },
@@ -17154,7 +17041,7 @@ window.DATA = {
           "title": "Senior Backend & AI Engineer (all identities)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai all backend engineer identities",
           "title_key": "senior backend & ai engineer (all identities)"
         }
@@ -17169,7 +17056,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-01",
       "newest_date": "2026-10-02",
-      "oldest_age_days": 24,
+      "oldest_age_days": 25,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17183,7 +17070,7 @@ window.DATA = {
           "title": "Platform Engineer - AI Infrastructure ( m/f/d)",
           "postings": 1,
           "date": "2026-10-02",
-          "age_days": 23,
+          "age_days": 24,
           "norm_title": "ai engineer infrastructure platform",
           "title_key": "platform engineer - ai infrastructure ( m/f/d)"
         },
@@ -17196,51 +17083,9 @@ window.DATA = {
           "title": "Process & BI Manager - Inventory Management ( w/m/d)",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "bi inventory management manager process",
           "title_key": "process & bi manager - inventory management ( w/m/d)"
-        }
-      ],
-      "reasons": [],
-      "flagged": false
-    },
-    {
-      "company": "Hostaway",
-      "company_slug": "hostaway",
-      "total": 2,
-      "undated": 0,
-      "oldest_date": "2026-09-15",
-      "newest_date": "2026-09-16",
-      "oldest_age_days": 40,
-      "stale_jobs": [],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/lead-ai-gtm-engineer-100-remote-europe-at-hostaway",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Lead / Manager",
-          "company_slug": "hostaway",
-          "company": "Hostaway",
-          "title": "Lead AI GTM Engineer - 100% Remote - Europe",
-          "postings": 1,
-          "date": "2026-09-15",
-          "age_days": 40,
-          "norm_title": "100 ai engineer europe gtm remote",
-          "title_key": "lead ai gtm engineer - 100% remote - europe"
-        },
-        {
-          "url": "https://databerlin.net/jobs/senior-backend-engineer-ai-platform-100-remote-emea-at-hostaway",
-          "category": "genAI/LLM/Agentic AI",
-          "seniority": "Senior",
-          "company_slug": "hostaway",
-          "company": "Hostaway",
-          "title": "Senior Backend Engineer, AI Platform - 100% Remote - EMEA",
-          "postings": 1,
-          "date": "2026-09-16",
-          "age_days": 39,
-          "norm_title": "100 ai backend emea engineer platform remote",
-          "title_key": "senior backend engineer, ai platform - 100% remote - emea"
         }
       ],
       "reasons": [],
@@ -17253,7 +17098,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-21",
       "newest_date": "2026-10-05",
-      "oldest_age_days": 65,
+      "oldest_age_days": 66,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17267,7 +17112,7 @@ window.DATA = {
           "title": "Forward Deployed AI Engineer, Germany",
           "postings": 1,
           "date": "2026-08-21",
-          "age_days": 65,
+          "age_days": 66,
           "norm_title": "ai deployed engineer forward germany",
           "title_key": "forward deployed ai engineer, germany"
         },
@@ -17280,7 +17125,7 @@ window.DATA = {
           "title": "Senior MLOps Engineer, ISR",
           "postings": 1,
           "date": "2026-10-05",
-          "age_days": 20,
+          "age_days": 21,
           "norm_title": "engineer isr mlops",
           "title_key": "senior mlops engineer, isr"
         }
@@ -17337,7 +17182,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-15",
       "newest_date": "2026-10-17",
-      "oldest_age_days": 10,
+      "oldest_age_days": 11,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17351,7 +17196,7 @@ window.DATA = {
           "title": "Data Science Manager",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "data manager science",
           "title_key": "data science manager"
         },
@@ -17364,7 +17209,7 @@ window.DATA = {
           "title": "Senior Machine Learning Engineer",
           "postings": 1,
           "date": "2026-10-17",
-          "age_days": 8,
+          "age_days": 9,
           "norm_title": "engineer learning machine",
           "title_key": "senior machine learning engineer"
         }
@@ -17379,7 +17224,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-31",
       "newest_date": "2026-09-29",
-      "oldest_age_days": 55,
+      "oldest_age_days": 56,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17393,7 +17238,7 @@ window.DATA = {
           "title": "(Senior) AI Product Engineer (m/w/d)",
           "postings": 1,
           "date": "2026-08-31",
-          "age_days": 55,
+          "age_days": 56,
           "norm_title": "ai engineer product",
           "title_key": "(senior) ai product engineer (m/w/d)"
         },
@@ -17406,7 +17251,7 @@ window.DATA = {
           "title": "(Senior) AI Product Engineer (m/w/d)",
           "postings": 1,
           "date": "2026-09-29",
-          "age_days": 26,
+          "age_days": 27,
           "norm_title": "ai engineer product",
           "title_key": "(senior) ai product engineer (m/w/d)"
         }
@@ -17421,7 +17266,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-30",
       "newest_date": "2026-10-16",
-      "oldest_age_days": 25,
+      "oldest_age_days": 26,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17435,7 +17280,7 @@ window.DATA = {
           "title": "Data Analyst ( M/F/D )",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "analyst data",
           "title_key": "data analyst ( m/f/d )"
         },
@@ -17448,7 +17293,7 @@ window.DATA = {
           "title": "Freelance Temporary Role Data Scientist (M/F/D)",
           "postings": 1,
           "date": "2026-09-30",
-          "age_days": 25,
+          "age_days": 26,
           "norm_title": "data freelance role scientist temporary",
           "title_key": "freelance temporary role data scientist (m/f/d)"
         }
@@ -17463,7 +17308,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-09",
       "newest_date": "2026-10-02",
-      "oldest_age_days": 46,
+      "oldest_age_days": 47,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17477,7 +17322,7 @@ window.DATA = {
           "title": "Data Analyst (m/w/d)",
           "postings": 1,
           "date": "2026-09-09",
-          "age_days": 46,
+          "age_days": 47,
           "norm_title": "analyst data",
           "title_key": "data analyst (m/w/d)"
         },
@@ -17490,9 +17335,51 @@ window.DATA = {
           "title": "Growth Marketing Lead (m/w/d)",
           "postings": 1,
           "date": "2026-10-02",
-          "age_days": 23,
+          "age_days": 24,
           "norm_title": "growth marketing",
           "title_key": "growth marketing lead (m/w/d)"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "MKS Instruments",
+      "company_slug": "mksinst",
+      "total": 2,
+      "undated": 0,
+      "oldest_date": "2026-09-26",
+      "newest_date": "2026-10-20",
+      "oldest_age_days": 30,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/marketing-automation-ai-lead-wmd-at-mks-instruments",
+          "category": "Other",
+          "seniority": "Lead / Manager",
+          "company_slug": "mksinst",
+          "company": "MKS Instruments",
+          "title": "Marketing Automation & AI Lead (w/m/d)",
+          "postings": 1,
+          "date": "2026-09-26",
+          "age_days": 30,
+          "norm_title": "ai automation marketing",
+          "title_key": "marketing automation & ai lead (w/m/d)"
+        },
+        {
+          "url": "https://databerlin.net/jobs/senior-manager-master-data-governance-and-management-wmd-at-mks-instruments",
+          "category": "Other",
+          "seniority": "Lead / Manager",
+          "company_slug": "mksinst",
+          "company": "MKS Instruments",
+          "title": "Senior Manager, Master Data Governance and Management (w/m/d)",
+          "postings": 1,
+          "date": "2026-10-20",
+          "age_days": 6,
+          "norm_title": "data governance management manager master",
+          "title_key": "senior manager, master data governance and management (w/m/d)"
         }
       ],
       "reasons": [],
@@ -17505,7 +17392,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-29",
       "newest_date": "2026-08-29",
-      "oldest_age_days": 57,
+      "oldest_age_days": 58,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17519,7 +17406,7 @@ window.DATA = {
           "title": "Quantitative Analyst - Prediction Markets",
           "postings": 1,
           "date": "2026-08-29",
-          "age_days": 57,
+          "age_days": 58,
           "norm_title": "analyst markets prediction quantitative",
           "title_key": "quantitative analyst - prediction markets"
         },
@@ -17532,7 +17419,7 @@ window.DATA = {
           "title": "Quantitative Researcher / Signal Generator - Alpha Signal Program",
           "postings": 1,
           "date": "2026-08-29",
-          "age_days": 57,
+          "age_days": 58,
           "norm_title": "alpha generator program quantitative researcher signal",
           "title_key": "quantitative researcher / signal generator - alpha signal program"
         }
@@ -17547,7 +17434,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-24",
       "newest_date": "2026-08-28",
-      "oldest_age_days": 62,
+      "oldest_age_days": 63,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17561,7 +17448,7 @@ window.DATA = {
           "title": "Data Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-08-28",
-          "age_days": 58,
+          "age_days": 59,
           "norm_title": "data engineer",
           "title_key": "data engineer (m/f/d)"
         },
@@ -17574,7 +17461,7 @@ window.DATA = {
           "title": "Lead Engineer (m/f/d) Data Infrastructure",
           "postings": 1,
           "date": "2026-08-24",
-          "age_days": 62,
+          "age_days": 63,
           "norm_title": "data engineer infrastructure",
           "title_key": "lead engineer (m/f/d) data infrastructure"
         }
@@ -17589,7 +17476,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-01",
       "newest_date": "2026-10-09",
-      "oldest_age_days": 24,
+      "oldest_age_days": 25,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17603,7 +17490,7 @@ window.DATA = {
           "title": "Information Security Controls Manager - Cloud & AI Governance",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "ai cloud controls governance information manager security",
           "title_key": "information security controls manager - cloud & ai governance"
         },
@@ -17616,7 +17503,7 @@ window.DATA = {
           "title": "Lead Technical Product Manager — Machine Learning Platform",
           "postings": 1,
           "date": "2026-10-09",
-          "age_days": 16,
+          "age_days": 17,
           "norm_title": "learning machine manager platform product technical",
           "title_key": "lead technical product manager — machine learning platform"
         }
@@ -17631,7 +17518,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-24",
       "newest_date": "2026-10-13",
-      "oldest_age_days": 31,
+      "oldest_age_days": 32,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17645,7 +17532,7 @@ window.DATA = {
           "title": "Agentic Engineering Platform Engineer",
           "postings": 1,
           "date": "2026-09-24",
-          "age_days": 31,
+          "age_days": 32,
           "norm_title": "agentic engineer engineering platform",
           "title_key": "agentic engineering platform engineer"
         },
@@ -17658,7 +17545,7 @@ window.DATA = {
           "title": "Internal AI Enablement Lead",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "ai enablement internal",
           "title_key": "internal ai enablement lead"
         }
@@ -17715,7 +17602,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-04",
       "newest_date": "2026-08-04",
-      "oldest_age_days": 82,
+      "oldest_age_days": 83,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17729,7 +17616,7 @@ window.DATA = {
           "title": "Working Student - Business Development & Growth",
           "postings": 1,
           "date": "2026-08-04",
-          "age_days": 82,
+          "age_days": 83,
           "norm_title": "business development growth student working",
           "title_key": "working student - business development & growth"
         },
@@ -17742,7 +17629,7 @@ window.DATA = {
           "title": "Working Student – Full Stack Engineer (AI)",
           "postings": 1,
           "date": "2026-08-04",
-          "age_days": 82,
+          "age_days": 83,
           "norm_title": "ai engineer full stack student working",
           "title_key": "working student – full stack engineer (ai)"
         }
@@ -17757,7 +17644,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-14",
       "newest_date": "2026-09-25",
-      "oldest_age_days": 72,
+      "oldest_age_days": 73,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17771,7 +17658,7 @@ window.DATA = {
           "title": "Senior AI Product Manager (f/m/d)",
           "postings": 1,
           "date": "2026-09-25",
-          "age_days": 30,
+          "age_days": 31,
           "norm_title": "ai manager product",
           "title_key": "senior ai product manager (f/m/d)"
         },
@@ -17784,7 +17671,7 @@ window.DATA = {
           "title": "Staff Engineer (f/m/d) AI",
           "postings": 1,
           "date": "2026-08-14",
-          "age_days": 72,
+          "age_days": 73,
           "norm_title": "ai engineer",
           "title_key": "staff engineer (f/m/d) ai"
         }
@@ -17883,7 +17770,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-13",
       "newest_date": "2026-09-30",
-      "oldest_age_days": 73,
+      "oldest_age_days": 74,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17897,7 +17784,7 @@ window.DATA = {
           "title": "Data Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-09-30",
-          "age_days": 25,
+          "age_days": 26,
           "norm_title": "data engineer",
           "title_key": "data engineer (m/f/d)"
         },
@@ -17910,7 +17797,7 @@ window.DATA = {
           "title": "Revenue Operations Engineer | AI & Automation (m/f/d)",
           "postings": 1,
           "date": "2026-08-13",
-          "age_days": 73,
+          "age_days": 74,
           "norm_title": "ai automation engineer operations revenue",
           "title_key": "revenue operations engineer | ai & automation (m/f/d)"
         }
@@ -17925,7 +17812,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-22",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 3,
+      "oldest_age_days": 4,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17939,7 +17826,7 @@ window.DATA = {
           "title": "Data Engineer - Remote in Germany",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "data engineer germany remote",
           "title_key": "data engineer - remote in germany"
         },
@@ -17952,7 +17839,7 @@ window.DATA = {
           "title": "Senior AI Engineer (f/m/d) - Remote in Germany",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ai engineer germany remote",
           "title_key": "senior ai engineer (f/m/d) - remote in germany"
         }
@@ -17967,7 +17854,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-14",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 72,
+      "oldest_age_days": 73,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -17981,7 +17868,7 @@ window.DATA = {
           "title": "Senior FP&A Analyst – Revenue Analytics & Modeling (d/f/m)",
           "postings": 1,
           "date": "2026-08-14",
-          "age_days": 72,
+          "age_days": 73,
           "norm_title": "analyst analytics fp modeling revenue",
           "title_key": "senior fp&a analyst – revenue analytics & modeling (d/f/m)"
         },
@@ -17994,7 +17881,7 @@ window.DATA = {
           "title": "Senior MarTech Product Manager (d/f/m)",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "manager martech product",
           "title_key": "senior martech product manager (d/f/m)"
         }
@@ -18009,7 +17896,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-18",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 37,
+      "oldest_age_days": 38,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18023,7 +17910,7 @@ window.DATA = {
           "title": "Data Scientist (f/m/d)",
           "postings": 1,
           "date": "2026-09-18",
-          "age_days": 37,
+          "age_days": 38,
           "norm_title": "data scientist",
           "title_key": "data scientist (f/m/d)"
         },
@@ -18036,7 +17923,7 @@ window.DATA = {
           "title": "Principal Product Manager (AI Product) (f/m/d)",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "ai manager product",
           "title_key": "principal product manager (ai product) (f/m/d)"
         }
@@ -18135,7 +18022,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-09",
       "newest_date": "2026-09-21",
-      "oldest_age_days": 46,
+      "oldest_age_days": 47,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18149,7 +18036,7 @@ window.DATA = {
           "title": "AI Product Operations Lead",
           "postings": 1,
           "date": "2026-09-09",
-          "age_days": 46,
+          "age_days": 47,
           "norm_title": "ai operations product",
           "title_key": "ai product operations lead"
         },
@@ -18162,7 +18049,7 @@ window.DATA = {
           "title": "Senior AI Engineer - EU",
           "postings": 1,
           "date": "2026-09-21",
-          "age_days": 34,
+          "age_days": 35,
           "norm_title": "ai engineer eu",
           "title_key": "senior ai engineer - eu"
         }
@@ -18177,7 +18064,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-01",
       "newest_date": "2026-10-19",
-      "oldest_age_days": 24,
+      "oldest_age_days": 25,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18191,7 +18078,7 @@ window.DATA = {
           "title": "Growth Manager (m/w/d) - Berlin",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "berlin growth manager",
           "title_key": "growth manager (m/w/d) - berlin"
         },
@@ -18204,7 +18091,7 @@ window.DATA = {
           "title": "Senior AI Product Engineer (m/f/d) - Berlin",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "ai berlin engineer product",
           "title_key": "senior ai product engineer (m/f/d) - berlin"
         }
@@ -18219,7 +18106,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-07",
       "newest_date": "2026-10-20",
-      "oldest_age_days": 18,
+      "oldest_age_days": 19,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18233,7 +18120,7 @@ window.DATA = {
           "title": "Junior Ml Engineer",
           "postings": 1,
           "date": "2026-10-07",
-          "age_days": 18,
+          "age_days": 19,
           "norm_title": "engineer ml",
           "title_key": "junior ml engineer"
         },
@@ -18246,7 +18133,7 @@ window.DATA = {
           "title": "Sap Datasphere And Analytics Planning Specialist",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "analytics datasphere planning sap specialist",
           "title_key": "sap datasphere and analytics planning specialist"
         }
@@ -18261,7 +18148,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-14",
       "newest_date": "2026-10-14",
-      "oldest_age_days": 11,
+      "oldest_age_days": 12,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18275,7 +18162,7 @@ window.DATA = {
           "title": "AI Lead Product Manager - German Speaker",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "ai german manager product speaker",
           "title_key": "ai lead product manager - german speaker"
         },
@@ -18288,7 +18175,7 @@ window.DATA = {
           "title": "AI Senior Software Engineer",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "ai engineer software",
           "title_key": "ai senior software engineer"
         }
@@ -18303,7 +18190,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-13",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 12,
+      "oldest_age_days": 13,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18317,7 +18204,7 @@ window.DATA = {
           "title": "Marketing Data Analyst (18-month contract)",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "18 analyst contract data marketing month",
           "title_key": "marketing data analyst (18-month contract)"
         },
@@ -18330,7 +18217,7 @@ window.DATA = {
           "title": "Senior Data Engineer",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "data engineer",
           "title_key": "senior data engineer"
         }
@@ -18387,7 +18274,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-06",
       "newest_date": "2026-10-20",
-      "oldest_age_days": 19,
+      "oldest_age_days": 20,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18401,7 +18288,7 @@ window.DATA = {
           "title": "Event Manager (m/f/d) | Legal AI Tech Scale-up | Hybrid",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "ai event hybrid legal manager scale tech up",
           "title_key": "event manager (m/f/d) | legal ai tech scale-up | hybrid"
         },
@@ -18414,7 +18301,7 @@ window.DATA = {
           "title": "Junior Compliance Manager (m/w/d) | Legal AI Tech Scale-up | Full Remote",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "ai compliance full legal manager remote scale tech up",
           "title_key": "junior compliance manager (m/w/d) | legal ai tech scale-up | full remote"
         }
@@ -18471,7 +18358,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-20",
       "newest_date": "2026-10-20",
-      "oldest_age_days": 5,
+      "oldest_age_days": 6,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18485,7 +18372,7 @@ window.DATA = {
           "title": "Data Engineer",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "data engineer",
           "title_key": "data engineer"
         },
@@ -18498,7 +18385,7 @@ window.DATA = {
           "title": "Senior Data Scientist — Data Cloud Acceleration",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "acceleration cloud data scientist",
           "title_key": "senior data scientist — data cloud acceleration"
         }
@@ -18513,7 +18400,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-19",
       "newest_date": "2026-08-19",
-      "oldest_age_days": 67,
+      "oldest_age_days": 68,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18527,7 +18414,7 @@ window.DATA = {
           "title": "Process Engineer (Data, Safety & Controls)",
           "postings": 1,
           "date": "2026-08-19",
-          "age_days": 67,
+          "age_days": 68,
           "norm_title": "controls data engineer process safety",
           "title_key": "process engineer (data, safety & controls)"
         }
@@ -18542,7 +18429,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-31",
       "newest_date": "2026-07-31",
-      "oldest_age_days": 86,
+      "oldest_age_days": 87,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18556,7 +18443,7 @@ window.DATA = {
           "title": "Growth Intern (f/m/d) - Mandatory 6 Months Unpaid Internship",
           "postings": 1,
           "date": "2026-07-31",
-          "age_days": 86,
+          "age_days": 87,
           "norm_title": "6 growth intern internship mandatory months unpaid",
           "title_key": "growth intern (f/m/d) - mandatory 6 months unpaid internship"
         }
@@ -18571,7 +18458,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-11",
       "newest_date": "2026-09-11",
-      "oldest_age_days": 44,
+      "oldest_age_days": 45,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18585,7 +18472,7 @@ window.DATA = {
           "title": "Founding AI Engineer @handly - 20VC backed",
           "postings": 1,
           "date": "2026-09-11",
-          "age_days": 44,
+          "age_days": 45,
           "norm_title": "20vc ai backed engineer founding handly",
           "title_key": "founding ai engineer @handly - 20vc backed"
         }
@@ -18600,7 +18487,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-03",
       "newest_date": "2026-09-03",
-      "oldest_age_days": 52,
+      "oldest_age_days": 53,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18614,7 +18501,7 @@ window.DATA = {
           "title": "AI Product Engineer (Fullstack)",
           "postings": 1,
           "date": "2026-09-03",
-          "age_days": 52,
+          "age_days": 53,
           "norm_title": "ai engineer fullstack product",
           "title_key": "ai product engineer (fullstack)"
         }
@@ -18629,7 +18516,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-09",
       "newest_date": "2026-09-09",
-      "oldest_age_days": 46,
+      "oldest_age_days": 47,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18643,7 +18530,7 @@ window.DATA = {
           "title": "Domain Data Engineer - Power Grid & System Operations (w/m/d)",
           "postings": 1,
           "date": "2026-09-09",
-          "age_days": 46,
+          "age_days": 47,
           "norm_title": "data domain engineer grid operations power system",
           "title_key": "domain data engineer - power grid & system operations (w/m/d)"
         }
@@ -18658,7 +18545,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-24",
       "newest_date": "2026-09-24",
-      "oldest_age_days": 31,
+      "oldest_age_days": 32,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18672,7 +18559,7 @@ window.DATA = {
           "title": "Growth Consultant (m/w/d)",
           "postings": 1,
           "date": "2026-09-24",
-          "age_days": 31,
+          "age_days": 32,
           "norm_title": "consultant growth",
           "title_key": "growth consultant (m/w/d)"
         }
@@ -18687,7 +18574,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-05",
       "newest_date": "2026-10-05",
-      "oldest_age_days": 20,
+      "oldest_age_days": 21,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18701,7 +18588,7 @@ window.DATA = {
           "title": "Analytics Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-10-05",
-          "age_days": 20,
+          "age_days": 21,
           "norm_title": "analytics engineer",
           "title_key": "analytics engineer (m/f/d)"
         }
@@ -18716,7 +18603,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-16",
       "newest_date": "2026-10-16",
-      "oldest_age_days": 9,
+      "oldest_age_days": 10,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18730,7 +18617,7 @@ window.DATA = {
           "title": "AI Automation Specialist - Marketing & Web (all genders)",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "ai automation marketing specialist web",
           "title_key": "ai automation specialist - marketing & web (all genders)"
         }
@@ -18745,7 +18632,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-15",
       "newest_date": "2026-10-15",
-      "oldest_age_days": 10,
+      "oldest_age_days": 11,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18759,7 +18646,7 @@ window.DATA = {
           "title": "Senior Data Engineer",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "data engineer",
           "title_key": "senior data engineer"
         }
@@ -18774,7 +18661,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-06",
       "newest_date": "2026-10-06",
-      "oldest_age_days": 19,
+      "oldest_age_days": 20,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18788,7 +18675,7 @@ window.DATA = {
           "title": "Data Product Lead",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "data product",
           "title_key": "data product lead"
         }
@@ -18803,7 +18690,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-16",
       "newest_date": "2026-09-16",
-      "oldest_age_days": 39,
+      "oldest_age_days": 40,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18817,7 +18704,7 @@ window.DATA = {
           "title": "Software Engineer - Database",
           "postings": 1,
           "date": "2026-09-16",
-          "age_days": 39,
+          "age_days": 40,
           "norm_title": "database engineer software",
           "title_key": "software engineer - database"
         }
@@ -18832,7 +18719,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-11",
       "newest_date": "2026-09-11",
-      "oldest_age_days": 44,
+      "oldest_age_days": 45,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18846,7 +18733,7 @@ window.DATA = {
           "title": "Staff ML Engineer, Product Recommendations (m/f/d)",
           "postings": 1,
           "date": "2026-09-11",
-          "age_days": 44,
+          "age_days": 45,
           "norm_title": "engineer ml product recommendations",
           "title_key": "staff ml engineer, product recommendations (m/f/d)"
         }
@@ -18861,7 +18748,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-19",
       "newest_date": "2026-10-19",
-      "oldest_age_days": 6,
+      "oldest_age_days": 7,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18875,7 +18762,7 @@ window.DATA = {
           "title": "Data Scientist – Machine Learning (m/w/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "data learning machine scientist",
           "title_key": "data scientist – machine learning (m/w/d)"
         }
@@ -18890,7 +18777,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-29",
       "newest_date": "2026-09-29",
-      "oldest_age_days": 26,
+      "oldest_age_days": 27,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18904,7 +18791,7 @@ window.DATA = {
           "title": "Senior Staff Data Scientist, Guest & Host Marketplace AI",
           "postings": 1,
           "date": "2026-09-29",
-          "age_days": 26,
+          "age_days": 27,
           "norm_title": "ai data guest host marketplace scientist",
           "title_key": "senior staff data scientist, guest & host marketplace ai"
         }
@@ -18948,7 +18835,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-22",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 3,
+      "oldest_age_days": 4,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18962,7 +18849,7 @@ window.DATA = {
           "title": "Senior Data Engineer (Freelance - all genders)",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "data engineer freelance",
           "title_key": "senior data engineer (freelance - all genders)"
         }
@@ -18977,7 +18864,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-25",
       "newest_date": "2026-09-25",
-      "oldest_age_days": 30,
+      "oldest_age_days": 31,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -18991,7 +18878,7 @@ window.DATA = {
           "title": "Data Engineer (m/w/d)",
           "postings": 1,
           "date": "2026-09-25",
-          "age_days": 30,
+          "age_days": 31,
           "norm_title": "data engineer",
           "title_key": "data engineer (m/w/d)"
         }
@@ -19035,7 +18922,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-28",
       "newest_date": "2026-09-28",
-      "oldest_age_days": 27,
+      "oldest_age_days": 28,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19049,7 +18936,7 @@ window.DATA = {
           "title": "Senior Data Platform Engineer",
           "postings": 1,
           "date": "2026-09-28",
-          "age_days": 27,
+          "age_days": 28,
           "norm_title": "data engineer platform",
           "title_key": "senior data platform engineer"
         }
@@ -19064,7 +18951,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-18",
       "newest_date": "2026-09-18",
-      "oldest_age_days": 37,
+      "oldest_age_days": 38,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19078,7 +18965,7 @@ window.DATA = {
           "title": "Staff Software Engineer, GTM AI Engineering",
           "postings": 1,
           "date": "2026-09-18",
-          "age_days": 37,
+          "age_days": 38,
           "norm_title": "ai engineer engineering gtm software",
           "title_key": "staff software engineer, gtm ai engineering"
         }
@@ -19093,7 +18980,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-22",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 3,
+      "oldest_age_days": 4,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19107,9 +18994,38 @@ window.DATA = {
           "title": "Senior Data Analyst",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "analyst data",
           "title_key": "senior data analyst"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "autarc",
+      "company_slug": "autarcenergy",
+      "total": 1,
+      "undated": 0,
+      "oldest_date": "2026-10-16",
+      "newest_date": "2026-10-16",
+      "oldest_age_days": 10,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/praktikum-werkstudent-mwd-im-ai-saas-vertrieb-at-autarc",
+          "category": "Other",
+          "seniority": "Intern / Student",
+          "company_slug": "autarcenergy",
+          "company": "autarc",
+          "title": "Praktikum / Werkstudent (m/w/d) im AI-SAAS Vertrieb",
+          "postings": 1,
+          "date": "2026-10-16",
+          "age_days": 10,
+          "norm_title": "ai im praktikum saas vertrieb werkstudent",
+          "title_key": "praktikum / werkstudent (m/w/d) im ai-saas vertrieb"
         }
       ],
       "reasons": [],
@@ -19122,7 +19038,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-15",
       "newest_date": "2026-10-15",
-      "oldest_age_days": 10,
+      "oldest_age_days": 11,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19136,7 +19052,7 @@ window.DATA = {
           "title": "Data Engineer (alle Geschlechter)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "alle data engineer geschlechter",
           "title_key": "data engineer (alle geschlechter)"
         }
@@ -19151,7 +19067,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-10",
       "newest_date": "2026-08-10",
-      "oldest_age_days": 76,
+      "oldest_age_days": 77,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19165,7 +19081,7 @@ window.DATA = {
           "title": "AI Developer (m/w/d)",
           "postings": 1,
           "date": "2026-08-10",
-          "age_days": 76,
+          "age_days": 77,
           "norm_title": "ai developer",
           "title_key": "ai developer (m/w/d)"
         }
@@ -19180,7 +19096,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-22",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 3,
+      "oldest_age_days": 4,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19194,7 +19110,7 @@ window.DATA = {
           "title": "Senior Manager, Business Analytics & Insights",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "analytics business insights manager",
           "title_key": "senior manager, business analytics & insights"
         }
@@ -19209,7 +19125,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-14",
       "newest_date": "2026-10-14",
-      "oldest_age_days": 11,
+      "oldest_age_days": 12,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19223,7 +19139,7 @@ window.DATA = {
           "title": "Growth Manager (m/w/d) Bling Schule",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "bling growth manager schule",
           "title_key": "growth manager (m/w/d) bling schule"
         }
@@ -19238,7 +19154,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-21",
       "newest_date": "2026-10-21",
-      "oldest_age_days": 4,
+      "oldest_age_days": 5,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19252,7 +19168,7 @@ window.DATA = {
           "title": "Solution Partner - Data-Driven Commercial Enablement (m/w/d)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "commercial data driven enablement partner solution",
           "title_key": "solution partner - data-driven commercial enablement (m/w/d)"
         }
@@ -19267,7 +19183,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-01",
       "newest_date": "2026-09-01",
-      "oldest_age_days": 54,
+      "oldest_age_days": 55,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19281,7 +19197,7 @@ window.DATA = {
           "title": "Product Engineer (Backend/AI) @Briink",
           "postings": 1,
           "date": "2026-09-01",
-          "age_days": 54,
+          "age_days": 55,
           "norm_title": "ai backend briink engineer product",
           "title_key": "product engineer (backend/ai) @briink"
         }
@@ -19296,7 +19212,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-23",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 2,
+      "oldest_age_days": 3,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19310,7 +19226,7 @@ window.DATA = {
           "title": "IT & AI Adoption Specialist (m/w/d)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "adoption ai it specialist",
           "title_key": "it & ai adoption specialist (m/w/d)"
         }
@@ -19354,7 +19270,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-22",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 3,
+      "oldest_age_days": 4,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19368,7 +19284,7 @@ window.DATA = {
           "title": "Senior BI Manager (m/f/x)",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "bi manager",
           "title_key": "senior bi manager (m/f/x)"
         }
@@ -19383,7 +19299,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-15",
       "newest_date": "2026-10-15",
-      "oldest_age_days": 10,
+      "oldest_age_days": 11,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19397,7 +19313,7 @@ window.DATA = {
           "title": "Machine Learning Engineer (m/f/x)",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "engineer learning machine",
           "title_key": "machine learning engineer (m/f/x)"
         }
@@ -19412,7 +19328,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-16",
       "newest_date": "2026-10-16",
-      "oldest_age_days": 9,
+      "oldest_age_days": 10,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19426,7 +19342,7 @@ window.DATA = {
           "title": "Senior Data Engineer (m/w/d)",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "data engineer",
           "title_key": "senior data engineer (m/w/d)"
         }
@@ -19441,7 +19357,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-16",
       "newest_date": "2026-10-16",
-      "oldest_age_days": 9,
+      "oldest_age_days": 10,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19455,7 +19371,7 @@ window.DATA = {
           "title": "Staff Engineer Data & Intelligence (all genders)",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "data engineer intelligence",
           "title_key": "staff engineer data & intelligence (all genders)"
         }
@@ -19470,7 +19386,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-10",
       "newest_date": "2026-09-10",
-      "oldest_age_days": 45,
+      "oldest_age_days": 46,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19484,7 +19400,7 @@ window.DATA = {
           "title": "Senior Product Engineer (DevTools & AI reliability, remote)",
           "postings": 1,
           "date": "2026-09-10",
-          "age_days": 45,
+          "age_days": 46,
           "norm_title": "ai devtools engineer product reliability remote",
           "title_key": "senior product engineer (devtools & ai reliability, remote)"
         }
@@ -19499,7 +19415,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-01",
       "newest_date": "2026-09-01",
-      "oldest_age_days": 54,
+      "oldest_age_days": 55,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19513,7 +19429,7 @@ window.DATA = {
           "title": "Senior Data Platform Engineer",
           "postings": 1,
           "date": "2026-09-01",
-          "age_days": 54,
+          "age_days": 55,
           "norm_title": "data engineer platform",
           "title_key": "senior data platform engineer"
         }
@@ -19528,7 +19444,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-12",
       "newest_date": "2026-10-12",
-      "oldest_age_days": 13,
+      "oldest_age_days": 14,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19542,9 +19458,38 @@ window.DATA = {
           "title": "Paid Growth Manager - Creative Performance Strategist",
           "postings": 1,
           "date": "2026-10-12",
-          "age_days": 13,
+          "age_days": 14,
           "norm_title": "creative growth manager paid performance strategist",
           "title_key": "paid growth manager - creative performance strategist"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "CoinsPaid",
+      "company_slug": "coinspaid",
+      "total": 1,
+      "undated": 1,
+      "oldest_date": null,
+      "newest_date": null,
+      "oldest_age_days": null,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/data-and-reporting-analyst-at-coinspaid",
+          "category": "Data Analyst",
+          "seniority": "Mid",
+          "company_slug": "coinspaid",
+          "company": "CoinsPaid",
+          "title": "Data and Reporting Analyst",
+          "postings": 1,
+          "date": "",
+          "age_days": null,
+          "norm_title": "analyst data reporting",
+          "title_key": "data and reporting analyst"
         }
       ],
       "reasons": [],
@@ -19557,7 +19502,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-23",
       "newest_date": "2026-09-23",
-      "oldest_age_days": 32,
+      "oldest_age_days": 33,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19571,7 +19516,7 @@ window.DATA = {
           "title": "Senior AI Search engineer(m/f/x)",
           "postings": 1,
           "date": "2026-09-23",
-          "age_days": 32,
+          "age_days": 33,
           "norm_title": "ai engineer search",
           "title_key": "senior ai search engineer(m/f/x)"
         }
@@ -19586,7 +19531,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-18",
       "newest_date": "2026-09-18",
-      "oldest_age_days": 37,
+      "oldest_age_days": 38,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19600,7 +19545,7 @@ window.DATA = {
           "title": "Customer Growth Manager (m/f/d)",
           "postings": 1,
           "date": "2026-09-18",
-          "age_days": 37,
+          "age_days": 38,
           "norm_title": "customer growth manager",
           "title_key": "customer growth manager (m/f/d)"
         }
@@ -19615,7 +19560,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-31",
       "newest_date": "2026-07-31",
-      "oldest_age_days": 86,
+      "oldest_age_days": 87,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19629,7 +19574,7 @@ window.DATA = {
           "title": "Growth Marketing Lead",
           "postings": 1,
           "date": "2026-07-31",
-          "age_days": 86,
+          "age_days": 87,
           "norm_title": "growth marketing",
           "title_key": "growth marketing lead"
         }
@@ -19673,7 +19618,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-12",
       "newest_date": "2026-10-12",
-      "oldest_age_days": 13,
+      "oldest_age_days": 14,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19687,7 +19632,7 @@ window.DATA = {
           "title": "Lead Data Scientist",
           "postings": 1,
           "date": "2026-10-12",
-          "age_days": 13,
+          "age_days": 14,
           "norm_title": "data scientist",
           "title_key": "lead data scientist"
         }
@@ -19760,7 +19705,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-28",
       "newest_date": "2026-09-28",
-      "oldest_age_days": 27,
+      "oldest_age_days": 28,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19774,7 +19719,7 @@ window.DATA = {
           "title": "Junior (w/m/d) AI Engineering & Prozessautomatisierung",
           "postings": 1,
           "date": "2026-09-28",
-          "age_days": 27,
+          "age_days": 28,
           "norm_title": "ai engineering prozessautomatisierung",
           "title_key": "junior (w/m/d) ai engineering & prozessautomatisierung"
         }
@@ -19818,7 +19763,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-01",
       "newest_date": "2026-10-01",
-      "oldest_age_days": 24,
+      "oldest_age_days": 25,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19832,7 +19777,7 @@ window.DATA = {
           "title": "Machine Learning Engineer (Governance ML Platform)",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "engineer governance learning machine ml platform",
           "title_key": "machine learning engineer (governance ml platform)"
         }
@@ -19847,7 +19792,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-19",
       "newest_date": "2026-10-19",
-      "oldest_age_days": 6,
+      "oldest_age_days": 7,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19861,7 +19806,7 @@ window.DATA = {
           "title": "Head of AI Products (m/f/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "ai head products",
           "title_key": "head of ai products (m/f/d)"
         }
@@ -19876,7 +19821,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-23",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 2,
+      "oldest_age_days": 3,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19890,7 +19835,7 @@ window.DATA = {
           "title": "Data Engineer - Fintech - remote (w/m/d)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "data engineer fintech remote",
           "title_key": "data engineer - fintech - remote (w/m/d)"
         }
@@ -19905,7 +19850,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-25",
       "newest_date": "2026-09-25",
-      "oldest_age_days": 30,
+      "oldest_age_days": 31,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19919,7 +19864,7 @@ window.DATA = {
           "title": "Senior Infrastructure Engineer – AI Platform (f/m/x)",
           "postings": 1,
           "date": "2026-09-25",
-          "age_days": 30,
+          "age_days": 31,
           "norm_title": "ai engineer infrastructure platform",
           "title_key": "senior infrastructure engineer – ai platform (f/m/x)"
         }
@@ -19963,7 +19908,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-02",
       "newest_date": "2026-10-02",
-      "oldest_age_days": 23,
+      "oldest_age_days": 24,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -19977,7 +19922,7 @@ window.DATA = {
           "title": "Principal Software Engineer - Data Lakes",
           "postings": 1,
           "date": "2026-10-02",
-          "age_days": 23,
+          "age_days": 24,
           "norm_title": "data engineer lakes software",
           "title_key": "principal software engineer - data lakes"
         }
@@ -19992,7 +19937,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-21",
       "newest_date": "2026-10-21",
-      "oldest_age_days": 4,
+      "oldest_age_days": 5,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20006,7 +19951,7 @@ window.DATA = {
           "title": "Data Scientist (all genders)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "data scientist",
           "title_key": "data scientist (all genders)"
         }
@@ -20021,7 +19966,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-04",
       "newest_date": "2026-08-04",
-      "oldest_age_days": 82,
+      "oldest_age_days": 83,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20035,7 +19980,7 @@ window.DATA = {
           "title": "Founder's Associate Intern - Growth, Sales & AI",
           "postings": 1,
           "date": "2026-08-04",
-          "age_days": 82,
+          "age_days": 83,
           "norm_title": "ai founder growth intern s sales",
           "title_key": "founder's associate intern - growth, sales & ai"
         }
@@ -20050,7 +19995,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-01",
       "newest_date": "2026-09-01",
-      "oldest_age_days": 54,
+      "oldest_age_days": 55,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20064,7 +20009,7 @@ window.DATA = {
           "title": "Founding Lead Engineer — AI & Workflow Automation",
           "postings": 1,
           "date": "2026-09-01",
-          "age_days": 54,
+          "age_days": 55,
           "norm_title": "ai automation engineer founding workflow",
           "title_key": "founding lead engineer — ai & workflow automation"
         }
@@ -20079,7 +20024,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-27",
       "newest_date": "2026-08-27",
-      "oldest_age_days": 59,
+      "oldest_age_days": 60,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20093,7 +20038,7 @@ window.DATA = {
           "title": "Head of Data & Analytics (all genders)",
           "postings": 1,
           "date": "2026-08-27",
-          "age_days": 59,
+          "age_days": 60,
           "norm_title": "analytics data head",
           "title_key": "head of data & analytics (all genders)"
         }
@@ -20108,7 +20053,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-20",
       "newest_date": "2026-10-20",
-      "oldest_age_days": 5,
+      "oldest_age_days": 6,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20122,38 +20067,9 @@ window.DATA = {
           "title": "Senior Product Manager, Wealth & AI (f/m/d)",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "ai manager product wealth",
           "title_key": "senior product manager, wealth & ai (f/m/d)"
-        }
-      ],
-      "reasons": [],
-      "flagged": false
-    },
-    {
-      "company": "GRID Esports",
-      "company_slug": "grid",
-      "total": 1,
-      "undated": 0,
-      "oldest_date": "2026-10-09",
-      "newest_date": "2026-10-09",
-      "oldest_age_days": 16,
-      "stale_jobs": [],
-      "duplicate_groups": [],
-      "multi_seniority_groups": [],
-      "jobs": [
-        {
-          "url": "https://databerlin.net/jobs/bi-analyst-trading-operations-esports-mfx-at-grid-esports",
-          "category": "Data Analyst",
-          "seniority": "Mid",
-          "company_slug": "grid",
-          "company": "GRID Esports",
-          "title": "BI Analyst – Trading Operations (Esports) (m/f/x)",
-          "postings": 1,
-          "date": "2026-10-09",
-          "age_days": 16,
-          "norm_title": "analyst bi esports operations trading",
-          "title_key": "bi analyst – trading operations (esports) (m/f/x)"
         }
       ],
       "reasons": [],
@@ -20166,7 +20082,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-11",
       "newest_date": "2026-09-11",
-      "oldest_age_days": 44,
+      "oldest_age_days": 45,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20180,7 +20096,7 @@ window.DATA = {
           "title": "Building Data Specialist / Technical Draftsperson (all genders)",
           "postings": 1,
           "date": "2026-09-11",
-          "age_days": 44,
+          "age_days": 45,
           "norm_title": "building data draftsperson specialist technical",
           "title_key": "building data specialist / technical draftsperson (all genders)"
         }
@@ -20195,7 +20111,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-23",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 2,
+      "oldest_age_days": 3,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20209,7 +20125,7 @@ window.DATA = {
           "title": "Sr. Data Engineer (m/w/x)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "data engineer",
           "title_key": "sr. data engineer (m/w/x)"
         }
@@ -20224,7 +20140,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-14",
       "newest_date": "2026-10-14",
-      "oldest_age_days": 11,
+      "oldest_age_days": 12,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20238,7 +20154,7 @@ window.DATA = {
           "title": "Frontend Engineer - Agentic AI",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "agentic ai engineer frontend",
           "title_key": "frontend engineer - agentic ai"
         }
@@ -20253,7 +20169,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-23",
       "newest_date": "2026-09-23",
-      "oldest_age_days": 32,
+      "oldest_age_days": 33,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20267,7 +20183,7 @@ window.DATA = {
           "title": "Power Platform & Database Manager (m/f/d)",
           "postings": 1,
           "date": "2026-09-23",
-          "age_days": 32,
+          "age_days": 33,
           "norm_title": "database manager platform power",
           "title_key": "power platform & database manager (m/f/d)"
         }
@@ -20282,7 +20198,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-21",
       "newest_date": "2026-09-21",
-      "oldest_age_days": 34,
+      "oldest_age_days": 35,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20296,7 +20212,7 @@ window.DATA = {
           "title": "Secure data infrastructure for AI",
           "postings": 1,
           "date": "2026-09-21",
-          "age_days": 34,
+          "age_days": 35,
           "norm_title": "ai data infrastructure secure",
           "title_key": "secure data infrastructure for ai"
         }
@@ -20311,7 +20227,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-20",
       "newest_date": "2026-10-20",
-      "oldest_age_days": 5,
+      "oldest_age_days": 6,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20325,7 +20241,7 @@ window.DATA = {
           "title": "Process Automation Lead / AI Automation Manager (m/w/d)",
           "postings": 1,
           "date": "2026-10-20",
-          "age_days": 5,
+          "age_days": 6,
           "norm_title": "ai automation manager process",
           "title_key": "process automation lead / ai automation manager (m/w/d)"
         }
@@ -20369,7 +20285,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-28",
       "newest_date": "2026-08-28",
-      "oldest_age_days": 58,
+      "oldest_age_days": 59,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20383,7 +20299,7 @@ window.DATA = {
           "title": "Senior AI Agent Engineer (m/w/d)",
           "postings": 1,
           "date": "2026-08-28",
-          "age_days": 58,
+          "age_days": 59,
           "norm_title": "agent ai engineer",
           "title_key": "senior ai agent engineer (m/w/d)"
         }
@@ -20398,7 +20314,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-09",
       "newest_date": "2026-10-09",
-      "oldest_age_days": 16,
+      "oldest_age_days": 17,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20412,7 +20328,7 @@ window.DATA = {
           "title": "Senior AI Engineer (f/m/d)",
           "postings": 1,
           "date": "2026-10-09",
-          "age_days": 16,
+          "age_days": 17,
           "norm_title": "ai engineer",
           "title_key": "senior ai engineer (f/m/d)"
         }
@@ -20427,7 +20343,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-08",
       "newest_date": "2026-10-08",
-      "oldest_age_days": 17,
+      "oldest_age_days": 18,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20441,7 +20357,7 @@ window.DATA = {
           "title": "Senior Data Engineer (Full-time)",
           "postings": 1,
           "date": "2026-10-08",
-          "age_days": 17,
+          "age_days": 18,
           "norm_title": "data engineer full time",
           "title_key": "senior data engineer (full-time)"
         }
@@ -20543,7 +20459,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-06",
       "newest_date": "2026-10-06",
-      "oldest_age_days": 19,
+      "oldest_age_days": 20,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20557,7 +20473,7 @@ window.DATA = {
           "title": "Senior Data Engineer, Platform Data",
           "postings": 1,
           "date": "2026-10-06",
-          "age_days": 19,
+          "age_days": 20,
           "norm_title": "data engineer platform",
           "title_key": "senior data engineer, platform data"
         }
@@ -20630,7 +20546,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-18",
       "newest_date": "2026-08-18",
-      "oldest_age_days": 68,
+      "oldest_age_days": 69,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20644,7 +20560,7 @@ window.DATA = {
           "title": "Business Development Manager — Franchise Growth (m/w/d)",
           "postings": 1,
           "date": "2026-08-18",
-          "age_days": 68,
+          "age_days": 69,
           "norm_title": "business development franchise growth manager",
           "title_key": "business development manager — franchise growth (m/w/d)"
         }
@@ -20659,7 +20575,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-18",
       "newest_date": "2026-09-18",
-      "oldest_age_days": 37,
+      "oldest_age_days": 38,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20673,9 +20589,38 @@ window.DATA = {
           "title": "AI Transformation Manager (f/m/d)",
           "postings": 1,
           "date": "2026-09-18",
-          "age_days": 37,
+          "age_days": 38,
           "norm_title": "ai manager transformation",
           "title_key": "ai transformation manager (f/m/d)"
+        }
+      ],
+      "reasons": [],
+      "flagged": false
+    },
+    {
+      "company": "Mercedes-Benz AG",
+      "company_slug": "mercedes-benz",
+      "total": 1,
+      "undated": 0,
+      "oldest_date": "2026-10-14",
+      "newest_date": "2026-10-14",
+      "oldest_age_days": 12,
+      "stale_jobs": [],
+      "duplicate_groups": [],
+      "multi_seniority_groups": [],
+      "jobs": [
+        {
+          "url": "https://databerlin.net/jobs/werkstudentin-it-softwareentwicklung-cloud-ai-at-mercedes-benz-ag",
+          "category": "Other",
+          "seniority": "Intern / Student",
+          "company_slug": "mercedes-benz",
+          "company": "Mercedes-Benz AG",
+          "title": "Werkstudent*in IT – Softwareentwicklung, Cloud & AI",
+          "postings": 1,
+          "date": "2026-10-14",
+          "age_days": 12,
+          "norm_title": "ai cloud it softwareentwicklung werkstudent",
+          "title_key": "werkstudent*in it – softwareentwicklung, cloud & ai"
         }
       ],
       "reasons": [],
@@ -20688,7 +20633,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-28",
       "newest_date": "2026-07-28",
-      "oldest_age_days": 89,
+      "oldest_age_days": 90,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20702,7 +20647,7 @@ window.DATA = {
           "title": "Partner Growth Manager Stuttgart oder Remote (m/w/d)",
           "postings": 1,
           "date": "2026-07-28",
-          "age_days": 89,
+          "age_days": 90,
           "norm_title": "growth manager oder partner remote stuttgart",
           "title_key": "partner growth manager stuttgart oder remote (m/w/d)"
         }
@@ -20717,7 +20662,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-22",
       "newest_date": "2026-09-22",
-      "oldest_age_days": 33,
+      "oldest_age_days": 34,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20731,7 +20676,7 @@ window.DATA = {
           "title": "Postdoctoral Researcher, Experimental Data Generation & CRO Strategy",
           "postings": 1,
           "date": "2026-09-22",
-          "age_days": 33,
+          "age_days": 34,
           "norm_title": "cro data experimental generation postdoctoral researcher strategy",
           "title_key": "postdoctoral researcher, experimental data generation & cro strategy"
         }
@@ -20804,7 +20749,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-01",
       "newest_date": "2026-09-01",
-      "oldest_age_days": 54,
+      "oldest_age_days": 55,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20818,7 +20763,7 @@ window.DATA = {
           "title": "Applied AI Engineer",
           "postings": 1,
           "date": "2026-09-01",
-          "age_days": 54,
+          "age_days": 55,
           "norm_title": "ai applied engineer",
           "title_key": "applied ai engineer"
         }
@@ -20833,7 +20778,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-16",
       "newest_date": "2026-10-16",
-      "oldest_age_days": 9,
+      "oldest_age_days": 10,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20847,7 +20792,7 @@ window.DATA = {
           "title": "AI - Workshop Lead",
           "postings": 1,
           "date": "2026-10-16",
-          "age_days": 9,
+          "age_days": 10,
           "norm_title": "ai workshop",
           "title_key": "ai - workshop lead"
         }
@@ -20862,7 +20807,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-09",
       "newest_date": "2026-09-09",
-      "oldest_age_days": 46,
+      "oldest_age_days": 47,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20876,7 +20821,7 @@ window.DATA = {
           "title": "Freelance - Senior Data Solution Engineer",
           "postings": 1,
           "date": "2026-09-09",
-          "age_days": 46,
+          "age_days": 47,
           "norm_title": "data engineer freelance solution",
           "title_key": "freelance - senior data solution engineer"
         }
@@ -20891,7 +20836,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-13",
       "newest_date": "2026-08-13",
-      "oldest_age_days": 73,
+      "oldest_age_days": 74,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20905,7 +20850,7 @@ window.DATA = {
           "title": "Senior Data Engineer",
           "postings": 1,
           "date": "2026-08-13",
-          "age_days": 73,
+          "age_days": 74,
           "norm_title": "data engineer",
           "title_key": "senior data engineer"
         }
@@ -20920,7 +20865,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-11",
       "newest_date": "2026-08-11",
-      "oldest_age_days": 75,
+      "oldest_age_days": 76,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20934,7 +20879,7 @@ window.DATA = {
           "title": "Head of AI Engineering (f/m/x)",
           "postings": 1,
           "date": "2026-08-11",
-          "age_days": 75,
+          "age_days": 76,
           "norm_title": "ai engineering head",
           "title_key": "head of ai engineering (f/m/x)"
         }
@@ -20978,7 +20923,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-23",
       "newest_date": "2026-09-23",
-      "oldest_age_days": 32,
+      "oldest_age_days": 33,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -20992,7 +20937,7 @@ window.DATA = {
           "title": "Freelancer Instructors for Data Engineering (m/w/d)",
           "postings": 1,
           "date": "2026-09-23",
-          "age_days": 32,
+          "age_days": 33,
           "norm_title": "data engineering freelancer instructors",
           "title_key": "freelancer instructors for data engineering (m/w/d)"
         }
@@ -21007,7 +20952,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-17",
       "newest_date": "2026-08-17",
-      "oldest_age_days": 69,
+      "oldest_age_days": 70,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21021,7 +20966,7 @@ window.DATA = {
           "title": "Data Scientist / Data Engineer",
           "postings": 1,
           "date": "2026-08-17",
-          "age_days": 69,
+          "age_days": 70,
           "norm_title": "data engineer scientist",
           "title_key": "data scientist / data engineer"
         }
@@ -21036,7 +20981,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-19",
       "newest_date": "2026-10-19",
-      "oldest_age_days": 6,
+      "oldest_age_days": 7,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21050,7 +20995,7 @@ window.DATA = {
           "title": "Senior Product Manager – Guest Communications & AI (m/f/d)",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "ai communications guest manager product",
           "title_key": "senior product manager – guest communications & ai (m/f/d)"
         }
@@ -21094,7 +21039,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-29",
       "newest_date": "2026-09-29",
-      "oldest_age_days": 26,
+      "oldest_age_days": 27,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21108,7 +21053,7 @@ window.DATA = {
           "title": "Senior Analytics Engineer - Marketing & Growth",
           "postings": 1,
           "date": "2026-09-29",
-          "age_days": 26,
+          "age_days": 27,
           "norm_title": "analytics engineer growth marketing",
           "title_key": "senior analytics engineer - marketing & growth"
         }
@@ -21152,7 +21097,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-21",
       "newest_date": "2026-10-21",
-      "oldest_age_days": 4,
+      "oldest_age_days": 5,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21166,7 +21111,7 @@ window.DATA = {
           "title": "Senior Data Engineer",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "data engineer",
           "title_key": "senior data engineer"
         }
@@ -21181,7 +21126,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-17",
       "newest_date": "2026-09-17",
-      "oldest_age_days": 38,
+      "oldest_age_days": 39,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21195,7 +21140,7 @@ window.DATA = {
           "title": "Data & AI Engineer (all genders)",
           "postings": 1,
           "date": "2026-09-17",
-          "age_days": 38,
+          "age_days": 39,
           "norm_title": "ai data engineer",
           "title_key": "data & ai engineer (all genders)"
         }
@@ -21239,7 +21184,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-24",
       "newest_date": "2026-09-24",
-      "oldest_age_days": 31,
+      "oldest_age_days": 32,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21253,7 +21198,7 @@ window.DATA = {
           "title": "Satellite Data Processing Engineer",
           "postings": 1,
           "date": "2026-09-24",
-          "age_days": 31,
+          "age_days": 32,
           "norm_title": "data engineer processing satellite",
           "title_key": "satellite data processing engineer"
         }
@@ -21268,7 +21213,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-01",
       "newest_date": "2026-10-01",
-      "oldest_age_days": 24,
+      "oldest_age_days": 25,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21282,7 +21227,7 @@ window.DATA = {
           "title": "Senior Product Manager - Hardware & Edge AI (d/f/m)",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "ai edge hardware manager product",
           "title_key": "senior product manager - hardware & edge ai (d/f/m)"
         }
@@ -21297,7 +21242,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-23",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 2,
+      "oldest_age_days": 3,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21311,7 +21256,7 @@ window.DATA = {
           "title": "Senior Data Engineer (remote)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "data engineer remote",
           "title_key": "senior data engineer (remote)"
         }
@@ -21326,7 +21271,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-23",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 2,
+      "oldest_age_days": 3,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21340,7 +21285,7 @@ window.DATA = {
           "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "ads engineer foundational learning machine representations",
           "title_key": "staff machine learning engineer, ads foundational representations"
         }
@@ -21355,7 +21300,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-29",
       "newest_date": "2026-09-29",
-      "oldest_age_days": 26,
+      "oldest_age_days": 27,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21369,7 +21314,7 @@ window.DATA = {
           "title": "Hardware Development Engineer - Data Handling System (all genders)",
           "postings": 1,
           "date": "2026-09-29",
-          "age_days": 26,
+          "age_days": 27,
           "norm_title": "data development engineer handling hardware system",
           "title_key": "hardware development engineer - data handling system (all genders)"
         }
@@ -21384,7 +21329,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-07",
       "newest_date": "2026-10-07",
-      "oldest_age_days": 18,
+      "oldest_age_days": 19,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21398,7 +21343,7 @@ window.DATA = {
           "title": "Senior AI Engineer (f/m/x)",
           "postings": 1,
           "date": "2026-10-07",
-          "age_days": 18,
+          "age_days": 19,
           "norm_title": "ai engineer",
           "title_key": "senior ai engineer (f/m/x)"
         }
@@ -21413,7 +21358,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-17",
       "newest_date": "2026-08-17",
-      "oldest_age_days": 69,
+      "oldest_age_days": 70,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21427,7 +21372,7 @@ window.DATA = {
           "title": "Senior AI Engineer",
           "postings": 1,
           "date": "2026-08-17",
-          "age_days": 69,
+          "age_days": 70,
           "norm_title": "ai engineer",
           "title_key": "senior ai engineer"
         }
@@ -21442,7 +21387,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-15",
       "newest_date": "2026-10-15",
-      "oldest_age_days": 10,
+      "oldest_age_days": 11,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21456,7 +21401,7 @@ window.DATA = {
           "title": "Risk Analytics Lead",
           "postings": 1,
           "date": "2026-10-15",
-          "age_days": 10,
+          "age_days": 11,
           "norm_title": "analytics risk",
           "title_key": "risk analytics lead"
         }
@@ -21471,7 +21416,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-14",
       "newest_date": "2026-10-14",
-      "oldest_age_days": 11,
+      "oldest_age_days": 12,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21485,7 +21430,7 @@ window.DATA = {
           "title": "Director of Growth SMB & PLG (m/f/d)",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "director growth plg smb",
           "title_key": "director of growth smb & plg (m/f/d)"
         }
@@ -21500,7 +21445,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-03",
       "newest_date": "2026-09-03",
-      "oldest_age_days": 52,
+      "oldest_age_days": 53,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21514,7 +21459,7 @@ window.DATA = {
           "title": "Data Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-09-03",
-          "age_days": 52,
+          "age_days": 53,
           "norm_title": "data engineer",
           "title_key": "data engineer (m/f/d)"
         }
@@ -21529,7 +21474,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-22",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 3,
+      "oldest_age_days": 4,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21543,7 +21488,7 @@ window.DATA = {
           "title": "AI Automation Engineer (d/m/f)",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "ai automation engineer",
           "title_key": "ai automation engineer (d/m/f)"
         }
@@ -21558,7 +21503,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-21",
       "newest_date": "2026-10-21",
-      "oldest_age_days": 4,
+      "oldest_age_days": 5,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21572,7 +21517,7 @@ window.DATA = {
           "title": "GTM Engineer - AI Automation (m/w/d)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai automation engineer gtm",
           "title_key": "gtm engineer - ai automation (m/w/d)"
         }
@@ -21587,7 +21532,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-01",
       "newest_date": "2026-10-01",
-      "oldest_age_days": 24,
+      "oldest_age_days": 25,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21601,7 +21546,7 @@ window.DATA = {
           "title": "(Sr.) Data Engineer (m/f/d)",
           "postings": 1,
           "date": "2026-10-01",
-          "age_days": 24,
+          "age_days": 25,
           "norm_title": "data engineer",
           "title_key": "(sr.) data engineer (m/f/d)"
         }
@@ -21616,7 +21561,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-22",
       "newest_date": "2026-09-22",
-      "oldest_age_days": 33,
+      "oldest_age_days": 34,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21630,7 +21575,7 @@ window.DATA = {
           "title": "Senior Machine Learning Engineer - Recommendations (Experience)",
           "postings": 1,
           "date": "2026-09-22",
-          "age_days": 33,
+          "age_days": 34,
           "norm_title": "engineer experience learning machine recommendations",
           "title_key": "senior machine learning engineer - recommendations (experience)"
         }
@@ -21645,7 +21590,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-05",
       "newest_date": "2026-10-05",
-      "oldest_age_days": 20,
+      "oldest_age_days": 21,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21659,7 +21604,7 @@ window.DATA = {
           "title": "ML & Agentic Systems Engineer [IC4]",
           "postings": 1,
           "date": "2026-10-05",
-          "age_days": 20,
+          "age_days": 21,
           "norm_title": "agentic engineer ic4 ml systems",
           "title_key": "ml & agentic systems engineer [ic4]"
         }
@@ -21674,7 +21619,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-21",
       "newest_date": "2026-10-21",
-      "oldest_age_days": 4,
+      "oldest_age_days": 5,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21688,7 +21633,7 @@ window.DATA = {
           "title": "Founding Sales Manager (m/w/d) B2B Growth",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "b2b founding growth manager sales",
           "title_key": "founding sales manager (m/w/d) b2b growth"
         }
@@ -21703,7 +21648,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-13",
       "newest_date": "2026-10-13",
-      "oldest_age_days": 12,
+      "oldest_age_days": 13,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21717,7 +21662,7 @@ window.DATA = {
           "title": "Senior Database Reliability Engineer I - Germany/Austria/UK",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "austria database engineer germany reliability uk",
           "title_key": "senior database reliability engineer i - germany/austria/uk"
         }
@@ -21732,7 +21677,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-22",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 3,
+      "oldest_age_days": 4,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21746,7 +21691,7 @@ window.DATA = {
           "title": "Head of Data Intelligence & AI (m/w/d)",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "ai data head intelligence",
           "title_key": "head of data intelligence & ai (m/w/d)"
         }
@@ -21761,7 +21706,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-23",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 2,
+      "oldest_age_days": 3,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21775,7 +21720,7 @@ window.DATA = {
           "title": "Specialist Data Operations (m/w/d)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "data operations specialist",
           "title_key": "specialist data operations (m/w/d)"
         }
@@ -21790,7 +21735,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-22",
       "newest_date": "2026-10-22",
-      "oldest_age_days": 3,
+      "oldest_age_days": 4,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21804,7 +21749,7 @@ window.DATA = {
           "title": "Specialist Solutions Architect, Data",
           "postings": 1,
           "date": "2026-10-22",
-          "age_days": 3,
+          "age_days": 4,
           "norm_title": "architect data solutions specialist",
           "title_key": "specialist solutions architect, data"
         }
@@ -21819,7 +21764,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-17",
       "newest_date": "2026-08-17",
-      "oldest_age_days": 69,
+      "oldest_age_days": 70,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21833,7 +21778,7 @@ window.DATA = {
           "title": "(Junior) Machine Learning Engineer (all genders)",
           "postings": 1,
           "date": "2026-08-17",
-          "age_days": 69,
+          "age_days": 70,
           "norm_title": "engineer learning machine",
           "title_key": "(junior) machine learning engineer (all genders)"
         }
@@ -21846,8 +21791,8 @@ window.DATA = {
       "company_slug": "thales",
       "total": 1,
       "undated": 0,
-      "oldest_date": "2026-09-25",
-      "newest_date": "2026-09-25",
+      "oldest_date": "2026-09-26",
+      "newest_date": "2026-09-26",
       "oldest_age_days": 30,
       "stale_jobs": [],
       "duplicate_groups": [],
@@ -21861,7 +21806,7 @@ window.DATA = {
           "company": "Thales",
           "title": "Werkstudent (m/w/d) Business Analytics",
           "postings": 1,
-          "date": "2026-09-25",
+          "date": "2026-09-26",
           "age_days": 30,
           "norm_title": "analytics business werkstudent",
           "title_key": "werkstudent (m/w/d) business analytics"
@@ -21877,7 +21822,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-22",
       "newest_date": "2026-09-22",
-      "oldest_age_days": 33,
+      "oldest_age_days": 34,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21891,7 +21836,7 @@ window.DATA = {
           "title": "Senior Analytics Engineer",
           "postings": 1,
           "date": "2026-09-22",
-          "age_days": 33,
+          "age_days": 34,
           "norm_title": "analytics engineer",
           "title_key": "senior analytics engineer"
         }
@@ -21906,7 +21851,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-23",
       "newest_date": "2026-10-23",
-      "oldest_age_days": 2,
+      "oldest_age_days": 3,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21920,7 +21865,7 @@ window.DATA = {
           "title": "Analytics Engineer - Full Remote (F/H)",
           "postings": 1,
           "date": "2026-10-23",
-          "age_days": 2,
+          "age_days": 3,
           "norm_title": "analytics engineer full h remote",
           "title_key": "analytics engineer - full remote (f/h)"
         }
@@ -21964,7 +21909,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-21",
       "newest_date": "2026-10-21",
-      "oldest_age_days": 4,
+      "oldest_age_days": 5,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -21978,7 +21923,7 @@ window.DATA = {
           "title": "Senior SEO & AI Search Specialist (m/w/x)",
           "postings": 1,
           "date": "2026-10-21",
-          "age_days": 4,
+          "age_days": 5,
           "norm_title": "ai search seo specialist",
           "title_key": "senior seo & ai search specialist (m/w/x)"
         }
@@ -21993,7 +21938,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-19",
       "newest_date": "2026-10-19",
-      "oldest_age_days": 6,
+      "oldest_age_days": 7,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -22007,7 +21952,7 @@ window.DATA = {
           "title": "AI Transformation Architect EMEA",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "ai architect emea transformation",
           "title_key": "ai transformation architect emea"
         }
@@ -22022,7 +21967,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-11",
       "newest_date": "2026-09-11",
-      "oldest_age_days": 44,
+      "oldest_age_days": 45,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -22036,7 +21981,7 @@ window.DATA = {
           "title": "(Senior) Automation & AI Solutions Engineer (all genders) - Beats & Bytes - Universal Music Entertainment GmbH",
           "postings": 1,
           "date": "2026-09-11",
-          "age_days": 44,
+          "age_days": 45,
           "norm_title": "ai automation beats bytes engineer entertainment gmbh music solutions universal",
           "title_key": "(senior) automation & ai solutions engineer (all genders) - beats & bytes - universal music entertainment gmbh"
         }
@@ -22080,7 +22025,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-05",
       "newest_date": "2026-08-05",
-      "oldest_age_days": 81,
+      "oldest_age_days": 82,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -22094,7 +22039,7 @@ window.DATA = {
           "title": "Director B2B2C Growth Partnerships (all genders)",
           "postings": 1,
           "date": "2026-08-05",
-          "age_days": 81,
+          "age_days": 82,
           "norm_title": "b2b2c director growth partnerships",
           "title_key": "director b2b2c growth partnerships (all genders)"
         }
@@ -22109,7 +22054,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-13",
       "newest_date": "2026-10-13",
-      "oldest_age_days": 12,
+      "oldest_age_days": 13,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -22123,7 +22068,7 @@ window.DATA = {
           "title": "Martech Lead (AI Builder)",
           "postings": 1,
           "date": "2026-10-13",
-          "age_days": 12,
+          "age_days": 13,
           "norm_title": "ai builder martech",
           "title_key": "martech lead (ai builder)"
         }
@@ -22138,7 +22083,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-07-30",
       "newest_date": "2026-07-30",
-      "oldest_age_days": 87,
+      "oldest_age_days": 88,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -22152,7 +22097,7 @@ window.DATA = {
           "title": "Sachkostencontroller*in / Data-Analytics Manager*in",
           "postings": 1,
           "date": "2026-07-30",
-          "age_days": 87,
+          "age_days": 88,
           "norm_title": "analytics data manager sachkostencontroller",
           "title_key": "sachkostencontroller*in / data-analytics manager*in"
         }
@@ -22167,7 +22112,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-08-17",
       "newest_date": "2026-08-17",
-      "oldest_age_days": 69,
+      "oldest_age_days": 70,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -22181,7 +22126,7 @@ window.DATA = {
           "title": "Growth Community Lead",
           "postings": 1,
           "date": "2026-08-17",
-          "age_days": 69,
+          "age_days": 70,
           "norm_title": "community growth",
           "title_key": "growth community lead"
         }
@@ -22196,7 +22141,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-02",
       "newest_date": "2026-10-02",
-      "oldest_age_days": 23,
+      "oldest_age_days": 24,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -22210,7 +22155,7 @@ window.DATA = {
           "title": "Senior Data Scientist, Safety & Security",
           "postings": 1,
           "date": "2026-10-02",
-          "age_days": 23,
+          "age_days": 24,
           "norm_title": "data safety scientist security",
           "title_key": "senior data scientist, safety & security"
         }
@@ -22225,7 +22170,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-12",
       "newest_date": "2026-10-12",
-      "oldest_age_days": 13,
+      "oldest_age_days": 14,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -22239,7 +22184,7 @@ window.DATA = {
           "title": "Manager - Tax Data Analytics Engineer",
           "postings": 1,
           "date": "2026-10-12",
-          "age_days": 13,
+          "age_days": 14,
           "norm_title": "analytics data engineer manager tax",
           "title_key": "manager - tax data analytics engineer"
         }
@@ -22254,7 +22199,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-19",
       "newest_date": "2026-10-19",
-      "oldest_age_days": 6,
+      "oldest_age_days": 7,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -22268,7 +22213,7 @@ window.DATA = {
           "title": "Engineering Manager - Data processing Engines",
           "postings": 1,
           "date": "2026-10-19",
-          "age_days": 6,
+          "age_days": 7,
           "norm_title": "data engineering engines manager processing",
           "title_key": "engineering manager - data processing engines"
         }
@@ -22283,7 +22228,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-17",
       "newest_date": "2026-10-17",
-      "oldest_age_days": 8,
+      "oldest_age_days": 9,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -22297,7 +22242,7 @@ window.DATA = {
           "title": "Senior QA Automation Engineer (AI-Focused)",
           "postings": 1,
           "date": "2026-10-17",
-          "age_days": 8,
+          "age_days": 9,
           "norm_title": "ai automation engineer focused qa",
           "title_key": "senior qa automation engineer (ai-focused)"
         }
@@ -22341,7 +22286,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-02",
       "newest_date": "2026-10-02",
-      "oldest_age_days": 23,
+      "oldest_age_days": 24,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -22355,7 +22300,7 @@ window.DATA = {
           "title": "Senior AI Engineer, Agents and Platform (f/m/d)",
           "postings": 1,
           "date": "2026-10-02",
-          "age_days": 23,
+          "age_days": 24,
           "norm_title": "agents ai engineer platform",
           "title_key": "senior ai engineer, agents and platform (f/m/d)"
         }
@@ -22370,7 +22315,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-24",
       "newest_date": "2026-09-24",
-      "oldest_age_days": 31,
+      "oldest_age_days": 32,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -22384,7 +22329,7 @@ window.DATA = {
           "title": "Product Analytics Team Lead",
           "postings": 1,
           "date": "2026-09-24",
-          "age_days": 31,
+          "age_days": 32,
           "norm_title": "analytics product team",
           "title_key": "product analytics team lead"
         }
@@ -22399,7 +22344,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-09-24",
       "newest_date": "2026-09-24",
-      "oldest_age_days": 31,
+      "oldest_age_days": 32,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -22413,7 +22358,7 @@ window.DATA = {
           "title": "Werkstudent*in Data Analytics (m/w/d)",
           "postings": 1,
           "date": "2026-09-24",
-          "age_days": 31,
+          "age_days": 32,
           "norm_title": "analytics data werkstudent",
           "title_key": "werkstudent*in data analytics (m/w/d)"
         }
@@ -22428,7 +22373,7 @@ window.DATA = {
       "undated": 0,
       "oldest_date": "2026-10-14",
       "newest_date": "2026-10-14",
-      "oldest_age_days": 11,
+      "oldest_age_days": 12,
       "stale_jobs": [],
       "duplicate_groups": [],
       "multi_seniority_groups": [],
@@ -22442,7 +22387,7 @@ window.DATA = {
           "title": "Founding Growth Lead",
           "postings": 1,
           "date": "2026-10-14",
-          "age_days": 11,
+          "age_days": 12,
           "norm_title": "founding growth",
           "title_key": "founding growth lead"
         }
